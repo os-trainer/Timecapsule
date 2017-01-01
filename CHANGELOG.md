@@ -33,3 +33,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update package version in manifest file
 - Add colorized terminal output formatter
 - Improve package scripts for building and testing
+- Remove dead code branches and redundant checks
