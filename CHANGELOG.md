@@ -28,3 +28,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial release of Git history generation tool.
 - Basic date generation and commit creation utilities.
+- Add initial sample configuration file
