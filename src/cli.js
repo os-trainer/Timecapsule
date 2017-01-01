@@ -12,7 +12,7 @@ const timecapsule = require("./index");
 
     Options
       --commitsPerDay, -c   Customize the number of commits per day (default: "0,4").
-      --frequency, -f       Chance (0-100%) of generating commits for a day (default: 80).
+      --frequency, -f       Chance (0-100%) of generating commits for a day (default: 70).
       --startDate, -s       Start date in yyyy/MM/dd or yyyy-MM-dd format.
       --endDate, -e         End date in yyyy/MM/dd or yyyy-MM-dd format.
       --distribution, -d    Activity distribution pattern:
@@ -62,7 +62,7 @@ const timecapsule = require("./index");
         frequency: {
           type: "number",
           shortFlag: "f",
-          default: 80
+          default: 70
         },
         distribution: {
           type: "string",

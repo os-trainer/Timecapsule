@@ -1,8 +1,8 @@
+const fs = require("fs");
 const path = require("path");
 const { addYears } = require("date-fns");
 const chalk = require("chalk");
 const ora = require("ora");
-const boxen = require("boxen");
 
 const { safeParseDate, createCommitDateList } = require("./dates");
 const { MessageGenerator } = require("./messages");
@@ -17,22 +17,10 @@ const generateActivityVisualization = require("./visualization");
 
 /**
  * Main generator entry point.
- *
- * @param {Object} options
- * @param {string} [options.commitsPerDay="0,4"] - Customize commits per day range (e.g. "0,3")
- * @param {number} [options.frequency=80] - Chance (0-100%) of generating commits on any day
- * @param {string|Date} [options.startDate] - Start date (yyyy/MM/dd, yyyy-MM-dd, ISO)
- * @param {string|Date} [options.endDate] - End date (yyyy/MM/dd, yyyy-MM-dd, ISO)
- * @param {string} [options.distribution="uniform"] - Activity pattern: uniform, workHours, afterWork, consistent, sporadic, learning, project-based, random
- * @param {boolean} [options.preview=false] - Preview activity graph without writing commits
- * @param {string} [options.template="javascript"] - Project template: javascript, python, cpp, generic
- * @param {boolean} [options.conventional=false] - Format messages using Conventional Commits standard
- * @param {string} [options.folder="my-history"] - Destination directory for synthetic repository
- * @returns {Promise<Object>} Execution result statistics
  */
 module.exports = async function({
   commitsPerDay = "0,4",
-  frequency = 80,
+  frequency = 70,
   startDate,
   endDate,
   distribution = "uniform",
@@ -102,6 +90,67 @@ module.exports = async function({
     const messageGen = new MessageGenerator({ conventional });
     const totalCommits = commitDateList.length;
 
+    // Pristine snapshots of repository files for realistic evolutionary distribution
+    const pristineFiles = {};
+    const repoMilestones = [
+      {
+        path: ".github/ISSUE_TEMPLATE/bug_report.md",
+        ratio: 0.88, // ~2025 (~1 year ago)
+        msg: "ci: update issue templates and community health files"
+      },
+      {
+        path: ".gitignore",
+        ratio: 0.93, // ~May 2026 (~4-5 months ago)
+        msg: "chore: update gitignore rules for local development"
+      },
+      {
+        path: "docs/api.md",
+        ratio: 0.96, // ~Jul/Aug 2026 (~2-3 months ago)
+        msg: "docs: update API parameter reference and examples"
+      },
+      {
+        path: "package.json",
+        companion: "package-lock.json",
+        ratio: 0.975, // ~Sep 2026 (~1 month ago)
+        msg: "chore: bump dependencies and version to 2.0.0"
+      },
+      {
+        path: "README.md",
+        ratio: 0.985, // ~late Sep 2026 (~2-3 weeks ago)
+        msg: "docs: update configuration options and distribution examples"
+      },
+      {
+        path: "tests/dates.test.js",
+        ratio: 0.993, // ~Oct 1-2, 2026 (~5-6 days ago)
+        msg: "test: add boundary test cases for date parsing and distribution"
+      },
+      {
+        path: "src/dates.js",
+        ratio: 0.997, // ~Oct 5, 2026 (~2 days ago)
+        msg: "refactor: optimize distribution sampling and activity calculations"
+      },
+      {
+        path: "src/cli.js",
+        ratio: 0.999, // ~Oct 6, 2026 (~1 day ago)
+        msg: "fix: improve git execution safety and in-place options"
+      }
+    ];
+
+    if (isCurrentRepo) {
+      for (const m of repoMilestones) {
+        const full = path.join(resolvedTargetDir, m.path);
+        if (fs.existsSync(full)) {
+          pristineFiles[m.path] = fs.readFileSync(full, "utf8");
+        }
+        if (m.companion) {
+          const compFull = path.join(resolvedTargetDir, m.companion);
+          if (fs.existsSync(compFull)) {
+            pristineFiles[m.companion] = fs.readFileSync(compFull, "utf8");
+          }
+        }
+      }
+    }
+
     // For current repository, backdate the initial commit to the start date (commitDateList[0])
     if (isCurrentRepo && totalCommits > 0) {
       const initialDate = commitDateList[0];
@@ -110,14 +159,17 @@ module.exports = async function({
           ? initialDate.toISOString()
           : new Date(initialDate).toISOString();
       try {
-        await runGit(["add", "."], { cwd: resolvedTargetDir });
-        await runGit(["commit", "--amend", "--no-edit", "--date", initialIso], {
-          cwd: resolvedTargetDir,
-          env: {
-            GIT_COMMITTER_DATE: initialIso,
-            GIT_AUTHOR_DATE: initialIso
+        await runGit(["add", "-u"], { cwd: resolvedTargetDir });
+        await runGit(
+          ["commit", "--amend", "--no-edit", "--no-verify", "--date", initialIso],
+          {
+            cwd: resolvedTargetDir,
+            env: {
+              GIT_COMMITTER_DATE: initialIso,
+              GIT_AUTHOR_DATE: initialIso
+            }
           }
-        });
+        );
       } catch (_) {}
     }
 
@@ -129,15 +181,70 @@ module.exports = async function({
 
       // Select categorized message
       const commitInfo = messageGen.nextCommit({ progressRatio });
+      let commitMessage = commitInfo.message;
 
       if (isCurrentRepo) {
-        // In current repo, mutate CHANGELOG cleanly to preserve core project source code
-        FileMutator.mutateDocumentation(
-          resolvedTargetDir,
-          "javascript",
-          commitInfo.rawMessage,
-          i
+        // Check if any milestone file is scheduled for its FINAL pristine commit at this index
+        const milestone = repoMilestones.find(
+          m => Math.floor(totalCommits * m.ratio) === i
         );
+
+        if (milestone) {
+          // Restore this file to its EXACT pristine state and stage it
+          const targetPath = path.join(resolvedTargetDir, milestone.path);
+          if (pristineFiles[milestone.path]) {
+            fs.writeFileSync(targetPath, pristineFiles[milestone.path], "utf8");
+          }
+          if (milestone.companion && pristineFiles[milestone.companion]) {
+            fs.writeFileSync(
+              path.join(resolvedTargetDir, milestone.companion),
+              pristineFiles[milestone.companion],
+              "utf8"
+            );
+          }
+          commitMessage = milestone.msg;
+        } else {
+          // Touch files occasionally prior to their final milestone to create deep multi-year history
+          if (commitInfo.category === "docs" && i % 18 === 0 && progressRatio < 0.985) {
+            const readmePath = path.join(resolvedTargetDir, "README.md");
+            if (fs.existsSync(readmePath)) {
+              let c = fs.readFileSync(readmePath, "utf8");
+              if (!c.endsWith("\n\n")) c += "\n";
+              else c = c.slice(0, -1);
+              fs.writeFileSync(readmePath, c, "utf8");
+            }
+          } else if (commitInfo.category === "testing" && i % 15 === 0 && progressRatio < 0.993) {
+            const testPath = path.join(resolvedTargetDir, "tests/dates.test.js");
+            if (fs.existsSync(testPath)) {
+              let c = fs.readFileSync(testPath, "utf8");
+              if (!c.endsWith("\n\n")) c += "\n";
+              else c = c.slice(0, -1);
+              fs.writeFileSync(testPath, c, "utf8");
+            }
+          } else if (
+            (commitInfo.category === "features" ||
+              commitInfo.category === "refactor" ||
+              commitInfo.category === "fixes") &&
+            i % 12 === 0 &&
+            progressRatio < 0.997
+          ) {
+            const srcPath = path.join(resolvedTargetDir, "src/dates.js");
+            if (fs.existsSync(srcPath)) {
+              let c = fs.readFileSync(srcPath, "utf8");
+              if (!c.endsWith("\n\n")) c += "\n";
+              else c = c.slice(0, -1);
+              fs.writeFileSync(srcPath, c, "utf8");
+            }
+          }
+
+          // In all other cases, update CHANGELOG.md cleanly
+          FileMutator.mutateDocumentation(
+            resolvedTargetDir,
+            "javascript",
+            commitInfo.rawMessage,
+            i
+          );
+        }
       } else {
         FileMutator.applyMutation(
           resolvedTargetDir,
@@ -148,7 +255,7 @@ module.exports = async function({
       }
 
       // Create commit with specific author & committer date
-      await createCommit(resolvedTargetDir, commitDate, commitInfo.message);
+      await createCommit(resolvedTargetDir, commitDate, commitMessage);
 
       // Update spinner feedback every few commits or on significant intervals
       if (i % 5 === 0 || i === totalCommits - 1) {
@@ -158,10 +265,18 @@ module.exports = async function({
           year: "numeric"
         }).format(commitDate);
         spinner.text = `Generating commits (${i +
-          1}/${totalCommits}): ${dateFormatted} - "${commitInfo.message.slice(
+          1}/${totalCommits}): ${dateFormatted} - "${commitMessage.slice(
           0,
           35
         )}..."`;
+      }
+    }
+
+    // Ensure 100% of tracked files match their pristine content at completion
+    if (isCurrentRepo) {
+      for (const [relPath, content] of Object.entries(pristineFiles)) {
+        const full = path.join(resolvedTargetDir, relPath);
+        fs.writeFileSync(full, content, "utf8");
       }
     }
 
@@ -172,18 +287,9 @@ module.exports = async function({
       `Successfully generated ${totalCommits} commits in ${displayFolder}`
     );
 
-    // Print activity graph
-    console.log(chalk.bold("\nActivity Graph:\n"));
-    console.log(
-      generateActivityVisualization(commitDateList, startDateObj, endDateObj, {
-        distribution,
-        preview: false
-      })
-    );
-
-    // Instructions on pushing to GitHub
+    // Clean next steps instruction without calendar or coffee box
     if (isCurrentRepo) {
-      console.log(chalk.cyan(`\nNext steps:\n  git push -u origin main\n`));
+      console.log(chalk.cyan(`\nNext steps:\n  git push --force -u origin main\n`));
     } else {
       console.log(
         chalk.cyan(
@@ -191,24 +297,6 @@ module.exports = async function({
         )
       );
     }
-
-    // Coffee support boxen (preserving original attribution)
-    console.log(
-      boxen(
-        `${chalk.yellow.bold(
-          "If you rely on this tool, please consider buying me a cup of coffee, "
-        )}\n` +
-          `${chalk.yellow.bold("I would appreciate it!")}\n\n` +
-          `${chalk.blueBright.bold("https://www.buymeacoffee.com/artiebits")}`,
-        {
-          borderColor: "yellow",
-          padding: 1,
-          align: "center",
-          borderStyle: "double",
-          margin: 1
-        }
-      )
-    );
 
     return {
       success: true,
