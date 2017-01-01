@@ -30,3 +30,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Basic date generation and commit creation utilities.
 - Add initial sample configuration file
 - Add detailed architecture overview and component diagram
+- Update package version in manifest file
