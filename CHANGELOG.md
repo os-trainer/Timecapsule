@@ -6852,3 +6852,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add baseline error handling scaffolding
 - Add validation rules for date range boundaries
 - Configure automated pre-commit code verification
+- Clarify frequency parameter behavior and percentage rules
