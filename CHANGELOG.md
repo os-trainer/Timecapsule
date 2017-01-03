@@ -36,3 +36,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Remove dead code branches and redundant checks
 - Add quick reference cheat sheet for CLI commands
 - Fix unhandled promise rejection in async error handler
+- Add safe deep clone utility function
