@@ -40,3 +40,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize exception messages across validation logic
 - Establish baseline directory hierarchy and exports
 - Document configuration options and default parameters
+- Simplify error throwing and propagation mechanisms
