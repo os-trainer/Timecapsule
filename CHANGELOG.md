@@ -41,3 +41,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Establish baseline directory hierarchy and exports
 - Document configuration options and default parameters
 - Simplify error throwing and propagation mechanisms
+- Add assertions to catch illegal state during execution
