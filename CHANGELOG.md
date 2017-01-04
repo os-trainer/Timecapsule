@@ -38,3 +38,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unhandled promise rejection in async error handler
 - Add safe deep clone utility function
 - Standardize exception messages across validation logic
+- Establish baseline directory hierarchy and exports
