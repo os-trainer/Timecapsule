@@ -6858,3 +6858,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add boilerplate code for primary module
 - Cover malformed command line options in test suite
 - Refactor validation pipelines to support chaining
+- Implement command line flag alias mapping
