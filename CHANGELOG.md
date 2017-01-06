@@ -6862,3 +6862,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure all async rejections provide meaningful Error instances
 - Configure initial build and runtime settings
 - Fix memory leak caused by unreleased cache handles
+- Update package repository URLs and issue tracker links
