@@ -44,3 +44,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add assertions to catch illegal state during execution
 - Add schema validation for configuration objects
 - Document logging levels and diagnostic flags
+- Add test cases for boolean flag normalization
