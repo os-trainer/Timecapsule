@@ -45,3 +45,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add schema validation for configuration objects
 - Document logging levels and diagnostic flags
 - Add test cases for boolean flag normalization
+- Add custom formatting options for summary tables
