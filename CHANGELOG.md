@@ -6864,3 +6864,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak caused by unreleased cache handles
 - Update package repository URLs and issue tracker links
 - Add lightweight event emitter implementation
+- Handle unexpected zero-length arrays in reducer logic
