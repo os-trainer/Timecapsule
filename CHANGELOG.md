@@ -6869,3 +6869,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement flexible filter predicate builder
 - Improve separation of concerns between CLI and core engine
 - Improve markdown formatting and typographic consistency in README
+- Add multi-step workflow runner utility
