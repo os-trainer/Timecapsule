@@ -49,3 +49,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify platform-specific path handling in test suite
 - Document template options for supported project layouts
 - Implement command line flag alias mapping
+- Eliminate code duplication in internal helper branches
