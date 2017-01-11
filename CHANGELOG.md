@@ -51,3 +51,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement command line flag alias mapping
 - Eliminate code duplication in internal helper branches
 - Fix duplicate item registration in event subscriber list
+- Verify cache invalidation logic under test conditions
