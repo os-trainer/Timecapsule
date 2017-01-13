@@ -57,3 +57,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix circular reference error in object serialization
 - Ensure consistent parameter ordering in helper signatures
 - Add safe string truncation helper
+- Implement dry-run execution preview mode
