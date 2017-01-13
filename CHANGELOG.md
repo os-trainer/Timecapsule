@@ -55,3 +55,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic application bootstrap logic
 - Fix formatting anomaly in terminal progress display
 - Fix circular reference error in object serialization
+- Ensure consistent parameter ordering in helper signatures
