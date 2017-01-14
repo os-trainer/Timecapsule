@@ -6879,3 +6879,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure automated dependency review settings
 - Add acknowledgments and open-source project credits
 - Refactor array processing routines to use functional methods
+- Fix edge case in input handling for empty strings
