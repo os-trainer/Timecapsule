@@ -65,3 +65,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement configuration file loader with fallback defaults
 - Reorganize internal test helpers and fixtures
 - Implement query filter helpers for collection items
+- Add badges for license, build status, and version
