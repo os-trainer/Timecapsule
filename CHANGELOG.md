@@ -66,3 +66,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reorganize internal test helpers and fixtures
 - Implement query filter helpers for collection items
 - Add badges for license, build status, and version
+- Add clean script to purge build artifacts and temp files
