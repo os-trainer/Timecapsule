@@ -71,3 +71,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement batch processing utility for array inputs
 - Add defensive fallbacks for unexpected null values
 - Implement date formatting and parsing helpers
+- Add assertions for default configuration fallbacks
