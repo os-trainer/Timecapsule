@@ -77,3 +77,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for terminal colorization toggles
 - Add reusable string formatting utility functions
 - Reduce duplicated logic across helper utilities
+- Test custom date formatting tokens and output strings
