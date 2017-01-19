@@ -76,3 +76,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Introduce mock harness for file system operations
 - Add unit tests for terminal colorization toggles
 - Add reusable string formatting utility functions
+- Reduce duplicated logic across helper utilities
