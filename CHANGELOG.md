@@ -6894,3 +6894,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add npm script for running unit test suite
 - Fix improper resource cleanup on exit
 - Remove obsolete polyfills and legacy compatibility shims
+- Add regression test for boundary date calculations
