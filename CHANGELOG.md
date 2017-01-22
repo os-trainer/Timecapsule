@@ -78,3 +78,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add reusable string formatting utility functions
 - Reduce duplicated logic across helper utilities
 - Test custom date formatting tokens and output strings
+- Clarify frequency parameter behavior and percentage rules
