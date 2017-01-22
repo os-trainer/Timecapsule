@@ -6892,3 +6892,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty environment variables without error
 - Add contribution guidelines and development workflow steps
 - Add npm script for running unit test suite
+- Fix improper resource cleanup on exit
