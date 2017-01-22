@@ -6891,3 +6891,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decompose monolithic workflow function into focused steps
 - Handle empty environment variables without error
 - Add contribution guidelines and development workflow steps
+- Add npm script for running unit test suite
