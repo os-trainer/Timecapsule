@@ -84,3 +84,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify retry logic behavior under simulated failures
 - Refactor argument parsing to standardize option names
 - Implement defensive parameter sanitization
+- Fix incorrect boolean flag evaluation
