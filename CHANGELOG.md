@@ -86,3 +86,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement defensive parameter sanitization
 - Fix incorrect boolean flag evaluation
 - Add parameterized tests for date parsing variations
+- Add input validation for user-supplied options
