@@ -6905,3 +6905,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decouple output formatting from core computation logic
 - Correct timestamp calculation for timezone offsets
 - Implement defensive parameter sanitization
+- Refactor utility functions into dedicated modules
