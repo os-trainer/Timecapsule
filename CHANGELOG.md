@@ -6907,3 +6907,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement defensive parameter sanitization
 - Refactor utility functions into dedicated modules
 - Clean up dead code and obsolete helper methods
+- Add custom error classes for domain-specific failures
