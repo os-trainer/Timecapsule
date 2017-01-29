@@ -88,3 +88,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add parameterized tests for date parsing variations
 - Add input validation for user-supplied options
 - Document date format requirements and accepted tokens
+- Fix incorrect status code returned on input error
