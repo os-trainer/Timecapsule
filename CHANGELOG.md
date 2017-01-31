@@ -6911,3 +6911,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate string manipulation utilities
 - Add test suite for distribution weight calculations
 - Document custom commit message filtering and options
+- Correct negative duration calculations across days
