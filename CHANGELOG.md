@@ -6909,3 +6909,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up dead code and obsolete helper methods
 - Add custom error classes for domain-specific failures
 - Consolidate string manipulation utilities
+- Add test suite for distribution weight calculations
