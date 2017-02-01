@@ -91,3 +91,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect status code returned on input error
 - Add regression test for boundary date calculations
 - Extract common constants into centralized configuration
+- Update README with example workflow scenarios
