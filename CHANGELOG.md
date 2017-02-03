@@ -6914,3 +6914,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct negative duration calculations across days
 - Restructure project exports to avoid circular dependencies
 - Fix unhandled promise rejection in async error handler
+- Add examples comparing standard and conventional commits
