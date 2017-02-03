@@ -95,3 +95,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve clarity of variable scopes and closures
 - Streamline event dispatching mechanism
 - Fix off-by-one error in collection index calculations
+- Add tests for custom output destination formatting
