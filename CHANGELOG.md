@@ -98,3 +98,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add tests for custom output destination formatting
 - Remove dead code branches and redundant checks
 - Adjust timeout thresholds for integration test suite
+- Handle malformed JSON configuration without crashing
