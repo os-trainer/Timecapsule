@@ -6916,3 +6916,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unhandled promise rejection in async error handler
 - Add examples comparing standard and conventional commits
 - Streamline event dispatching mechanism
+- Handle unexpected zero-length arrays in reducer logic
