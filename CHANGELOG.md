@@ -6918,3 +6918,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline event dispatching mechanism
 - Handle unexpected zero-length arrays in reducer logic
 - Verify graceful handling of malformed input data
+- Verify proper error types are thrown on invalid arguments
