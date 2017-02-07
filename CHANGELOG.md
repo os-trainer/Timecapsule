@@ -105,3 +105,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document logging levels and diagnostic flags
 - Add regression tests for previous edge-case bugs
 - Extract reusable helper functions from main workflow
+- Implement numeric range clamping helper
