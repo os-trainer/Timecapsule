@@ -6920,3 +6920,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify graceful handling of malformed input data
 - Verify proper error types are thrown on invalid arguments
 - Handle undefined configuration sections safely
+- Add boilerplate code for primary module
