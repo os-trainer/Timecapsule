@@ -109,3 +109,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor state management into centralized store
 - Implement configuration merging priority logic
 - Correct output formatting when statistics are zero
+- Add test cases for boolean flag normalization
