@@ -113,3 +113,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data processing and normalization pipeline
 - Correct negative duration calculations across days
 - Refactor promise handling to use modern async/await patterns
+- Add unit tests for collection filter predicates
