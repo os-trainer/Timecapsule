@@ -6924,3 +6924,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline option parsing and default resolution
 - Standardize date string formatting across all output
 - Add initial contributor guidelines template
+- Consolidate duplicate string sanitization routines
