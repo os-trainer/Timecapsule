@@ -116,3 +116,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for collection filter predicates
 - Add examples of integrating tool into automated scripts
 - Handle missing configuration gracefully with defaults
+- Implement dry-run execution preview mode
