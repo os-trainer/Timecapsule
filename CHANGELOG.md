@@ -124,3 +124,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modernize internal loop constructs and data structures
 - Add schema validation for configuration objects
 - Clarify installation instructions and system prerequisites
+- Refactor caching mechanism for cleaner abstraction
