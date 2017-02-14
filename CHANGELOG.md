@@ -6930,3 +6930,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor caching mechanism for cleaner abstraction
 - Add boundary condition tests for numeric ranges
 - Correct output formatting when statistics are zero
+- Add array sorting and filtering helper functions
