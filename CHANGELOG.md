@@ -6929,3 +6929,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data processing and normalization pipeline
 - Refactor caching mechanism for cleaner abstraction
 - Add boundary condition tests for numeric ranges
+- Correct output formatting when statistics are zero
