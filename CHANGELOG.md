@@ -6932,3 +6932,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct output formatting when statistics are zero
 - Add array sorting and filtering helper functions
 - Improve code maintainability index across core files
+- Configure environment file loading conventions
