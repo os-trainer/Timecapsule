@@ -127,3 +127,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor caching mechanism for cleaner abstraction
 - Standardize indentation and line wrapping across files
 - Add FAQ section covering common configuration questions
+
+## [1.1.0]
+### Changed
+- Add lightweight event emitter implementation
