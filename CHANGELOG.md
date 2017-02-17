@@ -136,3 +136,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modularize schema definitions and validation rules
 - Fix incorrect default parameter assignment
 - Add usage examples for common command-line options
+- Configure environment file loading conventions
