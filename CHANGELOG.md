@@ -137,3 +137,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect default parameter assignment
 - Add usage examples for common command-line options
 - Configure environment file loading conventions
+- Handle null and undefined options defensively
