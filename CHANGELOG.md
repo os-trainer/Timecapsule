@@ -141,3 +141,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Set up default project structure and entry points
 - Add assertions for default configuration fallbacks
 - Add custom formatting options for summary tables
+- Refactor configuration fallback resolution
