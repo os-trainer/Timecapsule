@@ -146,3 +146,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct boundary check in range validation utility
 - Reorganize internal test helpers and fixtures
 - Fix potential race condition during file initialization
+- Implement batch processing utility for array inputs
