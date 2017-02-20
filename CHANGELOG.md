@@ -145,3 +145,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up temporary files and ensure deterministic cleanup
 - Correct boundary check in range validation utility
 - Reorganize internal test helpers and fixtures
+- Fix potential race condition during file initialization
