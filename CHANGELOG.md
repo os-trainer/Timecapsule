@@ -150,3 +150,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify graceful handling of malformed input data
 - Correct regex pattern matching for date validation
 - Clean up dead code and obsolete helper methods
+- Test custom date formatting tokens and output strings
