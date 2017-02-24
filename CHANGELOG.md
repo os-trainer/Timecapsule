@@ -153,3 +153,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test custom date formatting tokens and output strings
 - Add clear synthetic demonstration disclaimer in documentation
 - Add structured logging helper with log levels
+- Fix intermittent failure in date boundary comparison
