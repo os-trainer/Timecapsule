@@ -158,3 +158,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage across utility modules
 - Ensure consistent error status codes across exit paths
 - Verify platform-specific path handling in test suite
+- Fix inaccurate execution duration calculation
