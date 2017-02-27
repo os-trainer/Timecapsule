@@ -6947,3 +6947,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add validation rules for date range boundaries
 - Implement command dispatcher with routing logic
 - Add JSDoc type annotations for internal functions
+- Fix memory leak in recurring event listeners
