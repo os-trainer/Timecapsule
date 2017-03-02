@@ -167,3 +167,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract configuration validation into standalone validator
 - Handle empty input collections without throwing exceptions
 - Add step-by-step tutorial for sample project generation
+- Fix improper resource cleanup on exit
