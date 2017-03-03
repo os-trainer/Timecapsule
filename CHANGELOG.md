@@ -169,3 +169,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add step-by-step tutorial for sample project generation
 - Fix improper resource cleanup on exit
 - Implement file reading helper with encoding support
+- Verify retry logic behavior under simulated failures
