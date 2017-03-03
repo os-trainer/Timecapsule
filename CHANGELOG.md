@@ -6960,3 +6960,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test command line help output and option documentation
 - Add task definitions for local development tooling
 - Reorganize internal test helpers and fixtures
+- Configure engine version compatibility constraints
