@@ -6961,3 +6961,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add task definitions for local development tooling
 - Reorganize internal test helpers and fixtures
 - Configure engine version compatibility constraints
+- Implement rate limiting throttle for helper actions
