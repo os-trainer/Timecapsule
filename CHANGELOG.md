@@ -6968,3 +6968,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct path delimiter handling across operating systems
 - Add system status inspection helper
 - Simplify error throwing and propagation mechanisms
+- Correct timestamp calculation for timezone offsets
