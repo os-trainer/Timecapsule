@@ -6969,3 +6969,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add system status inspection helper
 - Simplify error throwing and propagation mechanisms
 - Correct timestamp calculation for timezone offsets
+- Implement stream-based chunk processor
