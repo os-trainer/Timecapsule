@@ -170,3 +170,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix improper resource cleanup on exit
 - Implement file reading helper with encoding support
 - Verify retry logic behavior under simulated failures
+- Extract terminal output logic into presentation layer
