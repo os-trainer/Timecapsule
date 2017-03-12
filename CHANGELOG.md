@@ -185,3 +185,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement safe JSON parsing with fallback values
 - Implement configuration file loader with fallback defaults
 - Configure distribution bundle output settings
+- Add FAQ section covering common configuration questions
