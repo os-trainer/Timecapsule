@@ -186,3 +186,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement configuration file loader with fallback defaults
 - Configure distribution bundle output settings
 - Add FAQ section covering common configuration questions
+- Add unit tests for string formatting and truncation helpers
