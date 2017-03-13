@@ -189,3 +189,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for string formatting and truncation helpers
 - Correct output formatting when statistics are zero
 - Add support for verbose diagnostic output
+- Refactor caching mechanism for cleaner abstraction
