@@ -6982,3 +6982,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add colorized terminal output formatter
 - Extract progress tracking into dedicated emitter
 - Update project metadata and repository description
+- Fix missing return statement in error branch
