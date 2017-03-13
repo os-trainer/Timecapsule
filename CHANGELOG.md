@@ -6984,3 +6984,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update project metadata and repository description
 - Fix missing return statement in error branch
 - Implement deep object merging utility
+- Add input validation for user-supplied options
