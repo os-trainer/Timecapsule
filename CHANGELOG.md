@@ -192,3 +192,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor caching mechanism for cleaner abstraction
 - Update license field and attribution in package manifest
 - Fix circular reference error in object serialization
+- Add unit tests for progress reporter events
