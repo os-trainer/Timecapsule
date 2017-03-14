@@ -196,3 +196,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add key-value store wrapper for memory cache
 - Adjust linting and formatting configuration rules
 - Test invalid input handling and expected exceptions
+- Verify idempotency of cleanup routines in test suite
