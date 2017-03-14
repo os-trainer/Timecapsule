@@ -6990,3 +6990,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify frequency parameter behavior and percentage rules
 - Add integration test verifying end-to-end workflow execution
 - Add custom error classes for domain-specific failures
+- Handle process interruption cleanly during generation
