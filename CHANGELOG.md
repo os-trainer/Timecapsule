@@ -6987,3 +6987,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input validation for user-supplied options
 - Extract reusable helper functions from main workflow
 - Implement flexible filter predicate builder
+- Clarify frequency parameter behavior and percentage rules
