@@ -193,3 +193,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update license field and attribution in package manifest
 - Fix circular reference error in object serialization
 - Add unit tests for progress reporter events
+- Add key-value store wrapper for memory cache
