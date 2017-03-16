@@ -6999,3 +6999,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decouple output formatting from core computation logic
 - Add URL query string builder and parser
 - Handle malformed JSON configuration without crashing
+- Fix improper resource cleanup on exit
