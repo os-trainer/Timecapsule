@@ -6997,3 +6997,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for terminal colorization toggles
 - Add descriptive error context when file reading fails
 - Decouple output formatting from core computation logic
+- Add URL query string builder and parser
