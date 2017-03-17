@@ -198,3 +198,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test invalid input handling and expected exceptions
 - Verify idempotency of cleanup routines in test suite
 - Improve documentation for programmatic JavaScript API
+- Implement query filter helpers for collection items
