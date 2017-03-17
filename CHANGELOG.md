@@ -200,3 +200,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve documentation for programmatic JavaScript API
 - Implement query filter helpers for collection items
 - Add unit tests for rate limiting and throttling helpers
+- Refactor state management into centralized store
