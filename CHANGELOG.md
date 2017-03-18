@@ -203,3 +203,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor state management into centralized store
 - Add troubleshooting notes for frequent setup issues
 - Consolidate error definitions and status messages
+- Fix unexpected empty input parsing in command line options
