@@ -204,3 +204,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add troubleshooting notes for frequent setup issues
 - Consolidate error definitions and status messages
 - Fix unexpected empty input parsing in command line options
+- Add regression tests for previous edge-case bugs
