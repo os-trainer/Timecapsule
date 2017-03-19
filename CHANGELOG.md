@@ -209,3 +209,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration file for continuous integration
 - Fix incorrect boolean flag evaluation
 - Add detailed architecture overview and component diagram
+- Add array sorting and filtering helper functions
