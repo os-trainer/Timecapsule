@@ -7002,3 +7002,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix improper resource cleanup on exit
 - Simplify collection mapping and transformation pipelines
 - Add key-value store wrapper for memory cache
+- Fix type coercion error during numeric comparisons
