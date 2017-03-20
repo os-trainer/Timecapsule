@@ -210,3 +210,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect boolean flag evaluation
 - Add detailed architecture overview and component diagram
 - Add array sorting and filtering helper functions
+- Fix validation logic for boundary date ranges
