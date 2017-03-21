@@ -214,3 +214,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify error throwing and propagation mechanisms
 - Add comprehensive tests for configuration loader
 - Add examples of integrating tool into automated scripts
+- Cover deep object merge edge cases in unit tests
