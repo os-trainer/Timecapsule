@@ -216,3 +216,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add examples of integrating tool into automated scripts
 - Cover deep object merge edge cases in unit tests
 - Fix incorrect default parameter assignment
+- Add input validation for user-supplied options
