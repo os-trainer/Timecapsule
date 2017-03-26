@@ -7018,3 +7018,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement template interpolation utility
 - Refactor argument parsing to standardize option names
 - Implement batch processing utility for array inputs
+- Correct boundary check in range validation utility
