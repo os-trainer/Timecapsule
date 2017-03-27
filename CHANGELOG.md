@@ -221,3 +221,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for collection filter predicates
 - Add support for JSON and plain text output formats
 - Handle timeout gracefully during external operations
+- Correct path delimiter handling across operating systems
