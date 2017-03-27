@@ -218,3 +218,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect default parameter assignment
 - Add input validation for user-supplied options
 - Correct regex pattern matching for date validation
+- Add unit tests for collection filter predicates
