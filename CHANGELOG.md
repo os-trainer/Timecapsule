@@ -227,3 +227,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add acknowledgments and open-source project credits
 - Consolidate duplicate string sanitization routines
 - Add integration test verifying end-to-end workflow execution
+- Fix infinite loop risk in collection traversal logic
