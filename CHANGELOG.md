@@ -225,3 +225,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement stream-based chunk processor
 - Replace magic numbers with named configuration constants
 - Add acknowledgments and open-source project credits
+- Consolidate duplicate string sanitization routines
