@@ -229,3 +229,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add integration test verifying end-to-end workflow execution
 - Fix infinite loop risk in collection traversal logic
 - Modularize command-line argument processing logic
+- Add regression test for boundary date calculations
