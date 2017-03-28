@@ -7027,3 +7027,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement configuration file loader with fallback defaults
 - Reorganize internal test helpers and fixtures
 - Add support for custom output destination paths
+- Consolidate duplicate string sanitization routines
