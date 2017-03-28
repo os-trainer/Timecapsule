@@ -7026,3 +7026,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration file for continuous integration
 - Implement configuration file loader with fallback defaults
 - Reorganize internal test helpers and fixtures
+- Add support for custom output destination paths
