@@ -7028,3 +7028,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reorganize internal test helpers and fixtures
 - Add support for custom output destination paths
 - Consolidate duplicate string sanitization routines
+- Test timezone offset handling with varying dates
