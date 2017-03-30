@@ -230,3 +230,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix infinite loop risk in collection traversal logic
 - Modularize command-line argument processing logic
 - Add regression test for boundary date calculations
+
+## [1.2.0]
+### Changed
+- Add safe deep clone utility function
