@@ -7033,3 +7033,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify installation instructions and system prerequisites
 - Handle empty input collections without throwing exceptions
 - Verify platform-specific path handling in test suite
+- Add support for JSON and plain text output formats
