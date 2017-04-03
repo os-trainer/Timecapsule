@@ -237,3 +237,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update changelog with recent feature additions and fixes
 - Fix string encoding issue when processing special characters
 - Configure semantic versioning and release scripts
+- Implement command dispatcher with routing logic
