@@ -7036,3 +7036,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for JSON and plain text output formats
 - Fix edge case in input handling for empty strings
 - Simplify control flow and reduce nested conditionals
+- Add assertions for default configuration fallbacks
