@@ -7038,3 +7038,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify control flow and reduce nested conditionals
 - Add assertions for default configuration fallbacks
 - Configure distribution bundle output settings
+- Test command line help output and option documentation
