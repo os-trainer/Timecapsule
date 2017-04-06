@@ -7044,3 +7044,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up project structure and remove redundant exports
 - Update changelog with recent feature additions and fixes
 - Test invalid input handling and expected exceptions
+- Refactor promise handling to use modern async/await patterns
