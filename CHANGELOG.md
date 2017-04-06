@@ -7042,3 +7042,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement numeric range clamping helper
 - Implement defensive parameter sanitization
 - Clean up project structure and remove redundant exports
+- Update changelog with recent feature additions and fixes
