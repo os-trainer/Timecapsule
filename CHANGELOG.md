@@ -7043,3 +7043,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement defensive parameter sanitization
 - Clean up project structure and remove redundant exports
 - Update changelog with recent feature additions and fixes
+- Test invalid input handling and expected exceptions
