@@ -7045,3 +7045,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update changelog with recent feature additions and fixes
 - Test invalid input handling and expected exceptions
 - Refactor promise handling to use modern async/await patterns
+- Fix infinite loop risk in collection traversal logic
