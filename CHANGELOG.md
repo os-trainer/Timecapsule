@@ -7046,3 +7046,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test invalid input handling and expected exceptions
 - Refactor promise handling to use modern async/await patterns
 - Fix infinite loop risk in collection traversal logic
+- Add test suite for distribution weight calculations
