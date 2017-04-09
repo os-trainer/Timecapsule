@@ -243,3 +243,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix missing return statement in error branch
 - Add step-by-step tutorial for sample project generation
 - Test command line help output and option documentation
+- Fix argument parsing when flag value contains spaces
