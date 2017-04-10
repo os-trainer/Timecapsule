@@ -7052,3 +7052,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify conditional branching in distribution calculator
 - Improve naming consistency across internal interfaces
 - Add test harness for simulated time progression
+- Document distribution patterns and statistical behavior
