@@ -7057,3 +7057,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor configuration fallback resolution
 - Add unit tests for collection filter predicates
 - Add environment variable override support
+- Fix memory leak caused by unreleased cache handles
