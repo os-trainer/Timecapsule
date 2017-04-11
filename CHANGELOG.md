@@ -245,3 +245,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test command line help output and option documentation
 - Fix argument parsing when flag value contains spaces
 - Configure automated pre-commit code verification
+- Reduce duplicated logic across helper utilities
