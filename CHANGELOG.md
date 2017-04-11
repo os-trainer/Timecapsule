@@ -7054,3 +7054,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test harness for simulated time progression
 - Document distribution patterns and statistical behavior
 - Correct error handling when input file is absent
+- Refactor configuration fallback resolution
