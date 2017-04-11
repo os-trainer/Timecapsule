@@ -247,3 +247,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure automated pre-commit code verification
 - Reduce duplicated logic across helper utilities
 - Document date format requirements and accepted tokens
+- Refactor utility functions into dedicated modules
