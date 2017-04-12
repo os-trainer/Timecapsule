@@ -248,3 +248,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reduce duplicated logic across helper utilities
 - Document date format requirements and accepted tokens
 - Refactor utility functions into dedicated modules
+- Remove unused code and obsolete internal variables
