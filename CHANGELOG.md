@@ -249,3 +249,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document date format requirements and accepted tokens
 - Refactor utility functions into dedicated modules
 - Remove unused code and obsolete internal variables
+- Fix memory leak caused by unreleased cache handles
