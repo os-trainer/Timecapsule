@@ -7064,3 +7064,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify graceful handling of malformed input data
 - Implement query filter helpers for collection items
 - Extract configuration validation into standalone validator
+- Cover deep object merge edge cases in unit tests
