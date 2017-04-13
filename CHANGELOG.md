@@ -7063,3 +7063,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up temporary files and ensure deterministic cleanup
 - Verify graceful handling of malformed input data
 - Implement query filter helpers for collection items
+- Extract configuration validation into standalone validator
