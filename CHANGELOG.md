@@ -7062,3 +7062,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update lockfile with verified dependency tree
 - Clean up temporary files and ensure deterministic cleanup
 - Verify graceful handling of malformed input data
+- Implement query filter helpers for collection items
