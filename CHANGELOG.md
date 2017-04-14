@@ -254,3 +254,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve function organization and module cohesion
 - Correct negative duration calculations across days
 - Add elapsed execution time measurement helper
+- Extract file system operations into isolated adapter
