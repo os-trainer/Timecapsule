@@ -258,3 +258,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add clear synthetic demonstration disclaimer in documentation
 - Cover malformed command line options in test suite
 - Add URL query string builder and parser
+- Fix inaccurate execution duration calculation
