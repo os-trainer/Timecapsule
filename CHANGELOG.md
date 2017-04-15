@@ -257,3 +257,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract file system operations into isolated adapter
 - Add clear synthetic demonstration disclaimer in documentation
 - Cover malformed command line options in test suite
+- Add URL query string builder and parser
