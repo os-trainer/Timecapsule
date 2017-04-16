@@ -262,3 +262,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data caching layer with key invalidation
 - Add parameterized tests for date parsing variations
 - Simplify conditional branching in distribution calculator
+- Cover dry-run execution mode with assertion checks
