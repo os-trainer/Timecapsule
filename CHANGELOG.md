@@ -266,3 +266,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add usage notes for multi-year historical generation
 - Fix validation logic for boundary date ranges
 - Correct fallback order for configuration properties
+- Clarify difference between distribution algorithms
