@@ -264,3 +264,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify conditional branching in distribution calculator
 - Cover dry-run execution mode with assertion checks
 - Add usage notes for multi-year historical generation
+- Fix validation logic for boundary date ranges
