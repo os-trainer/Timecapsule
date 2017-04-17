@@ -7069,3 +7069,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix intermittent failure in date boundary comparison
 - Streamline parameter passing across internal layers
 - Add custom formatting options for summary tables
+- Add regression tests for previous edge-case bugs
