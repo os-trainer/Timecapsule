@@ -268,3 +268,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct fallback order for configuration properties
 - Clarify difference between distribution algorithms
 - Consolidate string manipulation utilities
+- Implement customizable output formatting options
