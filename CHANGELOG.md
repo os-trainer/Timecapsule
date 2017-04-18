@@ -7074,3 +7074,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement object transformation and mapping utilities
 - Extract common constants into centralized configuration
 - Add parameterized tests for date parsing variations
+- Fix incorrect status code returned on input error
