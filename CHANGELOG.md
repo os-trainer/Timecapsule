@@ -276,3 +276,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover deep object merge edge cases in unit tests
 - Handle timeout gracefully during external operations
 - Refactor date calculation routines for better readability
+- Fix inconsistent return type on validation failure
