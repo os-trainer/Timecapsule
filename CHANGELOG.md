@@ -280,3 +280,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adjust linting and formatting configuration rules
 - Document template options for supported project layouts
 - Correct error handling when input file is absent
+- Implement stream-based chunk processor
