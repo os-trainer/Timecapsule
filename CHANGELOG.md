@@ -277,3 +277,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle timeout gracefully during external operations
 - Refactor date calculation routines for better readability
 - Fix inconsistent return type on validation failure
+- Adjust linting and formatting configuration rules
