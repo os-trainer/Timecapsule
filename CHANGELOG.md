@@ -273,3 +273,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document test execution commands and coverage reports
 - Modularize schema definitions and validation rules
 - Handle null and undefined options defensively
+- Cover deep object merge edge cases in unit tests
