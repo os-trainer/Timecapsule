@@ -7084,3 +7084,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Tune compiler and transpiler configuration options
 - Add verification tests for safe JSON parsing utilities
 - Implement dry-run execution preview mode
+- Add npm script for running unit test suite
