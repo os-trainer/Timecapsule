@@ -7090,3 +7090,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement rate limiting throttle for helper actions
 - Reduce duplicated logic across helper utilities
 - Fix argument parsing when flag value contains spaces
+- Handle timeout gracefully during external operations
