@@ -7092,3 +7092,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix argument parsing when flag value contains spaces
 - Handle timeout gracefully during external operations
 - Add configuration for source map generation
+- Fix unexpected empty input parsing in command line options
