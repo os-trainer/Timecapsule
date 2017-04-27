@@ -291,3 +291,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix potential race condition during file initialization
 - Add comments explaining subtle edge cases in date math
 - Fix formatting anomaly in terminal progress display
+- Implement flexible filter predicate builder
