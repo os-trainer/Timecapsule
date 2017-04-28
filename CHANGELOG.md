@@ -7095,3 +7095,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unexpected empty input parsing in command line options
 - Add support for JSON and plain text output formats
 - Handle empty environment variables without error
+- Extract progress tracking into dedicated emitter
