@@ -294,3 +294,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement flexible filter predicate builder
 - Implement rate limiting throttle for helper actions
 - Correct timestamp calculation for timezone offsets
+- Add tests for custom output destination formatting
