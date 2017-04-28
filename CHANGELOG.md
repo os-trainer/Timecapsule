@@ -293,3 +293,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix formatting anomaly in terminal progress display
 - Implement flexible filter predicate builder
 - Implement rate limiting throttle for helper actions
+- Correct timestamp calculation for timezone offsets
