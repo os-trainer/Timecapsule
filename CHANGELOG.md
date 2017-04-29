@@ -297,3 +297,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add tests for custom output destination formatting
 - Add performance assertions for large collection processing
 - Create directory structure for utility modules
+- Add environment variable override support
