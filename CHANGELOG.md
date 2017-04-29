@@ -301,3 +301,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle file permission errors with actionable messages
 - Verify graceful handling of malformed input data
 - Cover edge cases in date range calculation logic
+- Fix incorrect status code returned on input error
