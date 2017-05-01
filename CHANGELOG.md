@@ -7101,3 +7101,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify error throwing and propagation mechanisms
 - Handle partial input objects during configuration merge
 - Set up command-line entry point script
+- Add unit tests for rate limiting and throttling helpers
