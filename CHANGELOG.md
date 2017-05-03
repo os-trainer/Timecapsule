@@ -7105,3 +7105,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix off-by-one error in collection index calculations
 - Add configuration for code coverage reporting
 - Add unit tests for string formatting and truncation helpers
+- Add elapsed execution time measurement helper
