@@ -307,3 +307,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for JSON and plain text output formats
 - Eliminate code duplication in internal helper branches
 - Configure code formatting rules and baseline
+- Implement deep object merging utility
