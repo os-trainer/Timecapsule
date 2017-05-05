@@ -308,3 +308,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Eliminate code duplication in internal helper branches
 - Configure code formatting rules and baseline
 - Implement deep object merging utility
+- Add command-line argument parser for configuration flags
