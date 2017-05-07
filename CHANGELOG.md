@@ -7114,3 +7114,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify installation instructions and system prerequisites
 - Improve test coverage for error recovery branches
 - Standardize date string formatting across all output
+- Fix unhandled promise rejection in async error handler
