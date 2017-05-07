@@ -7116,3 +7116,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize date string formatting across all output
 - Fix unhandled promise rejection in async error handler
 - Add URL query string builder and parser
+- Add usage notes for multi-year historical generation
