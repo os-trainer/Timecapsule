@@ -311,3 +311,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add command-line argument parser for configuration flags
 - Configure distribution bundle output settings
 - Add comprehensive tests for configuration loader
+- Restructure project exports to avoid circular dependencies
