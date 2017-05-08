@@ -312,3 +312,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure distribution bundle output settings
 - Add comprehensive tests for configuration loader
 - Restructure project exports to avoid circular dependencies
+- Add array sorting and filtering helper functions
