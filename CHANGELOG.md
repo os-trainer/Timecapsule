@@ -314,3 +314,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Restructure project exports to avoid circular dependencies
 - Add array sorting and filtering helper functions
 - Create initial source directory and placeholder modules
+- Add unit tests for input validation helper functions
