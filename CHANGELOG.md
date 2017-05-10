@@ -323,3 +323,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct path delimiter handling across operating systems
 - Update license field and attribution in package manifest
 - Handle missing configuration gracefully with defaults
+- Update changelog with recent feature additions and fixes
