@@ -321,3 +321,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement helper utilities for parameter parsing
 - Improve modularity of utility function parameter signatures
 - Correct path delimiter handling across operating systems
+- Update license field and attribution in package manifest
