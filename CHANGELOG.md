@@ -325,3 +325,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle missing configuration gracefully with defaults
 - Update changelog with recent feature additions and fixes
 - Introduce mock harness for file system operations
+- Implement file reading helper with encoding support
