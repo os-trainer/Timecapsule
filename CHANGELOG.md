@@ -328,3 +328,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement file reading helper with encoding support
 - Fix unexpected empty input parsing in command line options
 - Handle unexpected zero-length arrays in reducer logic
+- Add unit tests for string formatting and truncation helpers
