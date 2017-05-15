@@ -331,3 +331,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for string formatting and truncation helpers
 - Add security considerations and safe execution notes
 - Refactor promise handling to use modern async/await patterns
+- Implement numeric range clamping helper
