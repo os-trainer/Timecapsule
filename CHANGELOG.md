@@ -333,3 +333,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor promise handling to use modern async/await patterns
 - Implement numeric range clamping helper
 - Improve naming consistency across internal interfaces
+
+## [1.3.0]
+### Changed
+- Add boundary condition tests for numeric ranges
