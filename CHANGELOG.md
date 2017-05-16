@@ -7125,3 +7125,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add boundary condition tests for numeric ranges
 - Improve README with comprehensive getting-started guide
 - Improve input handling and defensive type assertions
+- Handle file permission errors with actionable messages
