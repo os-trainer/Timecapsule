@@ -338,3 +338,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Add boundary condition tests for numeric ranges
 - Simplify collection mapping and transformation pipelines
+- Implement progress reporter for long-running workflows
