@@ -7134,3 +7134,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct fallback order for configuration properties
 - Document template options for supported project layouts
 - Add assertions to catch illegal state during execution
+- Clarify difference between distribution algorithms
