@@ -341,3 +341,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement progress reporter for long-running workflows
 - Add support for custom output destination paths
 - Rename internal variables and parameters for clarity
+- Fix improper resource cleanup on exit
