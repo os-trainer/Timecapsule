@@ -343,3 +343,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Rename internal variables and parameters for clarity
 - Fix improper resource cleanup on exit
 - Add structured logging helper with log levels
+- Handle malformed JSON configuration without crashing
