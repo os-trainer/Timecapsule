@@ -342,3 +342,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for custom output destination paths
 - Rename internal variables and parameters for clarity
 - Fix improper resource cleanup on exit
+- Add structured logging helper with log levels
