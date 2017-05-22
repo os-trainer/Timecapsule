@@ -347,3 +347,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure environment file loading conventions
 - Add validation rules for date range boundaries
 - Add test suite for distribution weight calculations
+- Resolve incorrect return value for edge-case queries
