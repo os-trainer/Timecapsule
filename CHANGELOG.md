@@ -352,3 +352,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Replace magic numbers with named configuration constants
 - Correct boundary check in range validation utility
 - Add elapsed execution time measurement helper
+- Fix memory leak in recurring event listeners
