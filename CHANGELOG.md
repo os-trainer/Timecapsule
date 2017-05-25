@@ -7143,3 +7143,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document configuration options and default parameters
 - Fix incorrect boolean flag evaluation
 - Fix argument parsing when flag value contains spaces
+- Simplify complex arithmetic expressions in date logic
