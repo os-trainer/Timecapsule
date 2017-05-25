@@ -7140,3 +7140,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize indentation and line wrapping across files
 - Correct path delimiter handling across operating systems
 - Add unit tests for terminal colorization toggles
+- Document configuration options and default parameters
