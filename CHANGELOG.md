@@ -7142,3 +7142,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for terminal colorization toggles
 - Document configuration options and default parameters
 - Fix incorrect boolean flag evaluation
+- Fix argument parsing when flag value contains spaces
