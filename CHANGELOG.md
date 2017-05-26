@@ -357,3 +357,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add system status inspection helper
 - Simplify complex arithmetic expressions in date logic
 - Correct string trimming logic for multi-line inputs
+- Extract terminal output logic into presentation layer
