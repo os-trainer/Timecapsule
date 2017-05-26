@@ -7147,3 +7147,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adjust linting and formatting configuration rules
 - Verify platform-specific path handling in test suite
 - Extract date formatting templates into reusable helpers
+- Add FAQ section covering common configuration questions
