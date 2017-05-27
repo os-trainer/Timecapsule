@@ -359,3 +359,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct string trimming logic for multi-line inputs
 - Extract terminal output logic into presentation layer
 - Add assertions to catch illegal state during execution
+- Improve documentation for custom output templates
