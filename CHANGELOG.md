@@ -362,3 +362,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve documentation for custom output templates
 - Implement date formatting and parsing helpers
 - Fix intermittent failure in date boundary comparison
+- Verify proper error types are thrown on invalid arguments
