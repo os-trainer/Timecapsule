@@ -360,3 +360,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract terminal output logic into presentation layer
 - Add assertions to catch illegal state during execution
 - Improve documentation for custom output templates
+- Implement date formatting and parsing helpers
