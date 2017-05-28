@@ -7150,3 +7150,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add FAQ section covering common configuration questions
 - Verify proper error types are thrown on invalid arguments
 - Adjust prettier configuration for consistent indentation
+- Fix missing return statement in error branch
