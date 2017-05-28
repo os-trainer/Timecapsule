@@ -7148,3 +7148,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify platform-specific path handling in test suite
 - Extract date formatting templates into reusable helpers
 - Add FAQ section covering common configuration questions
+- Verify proper error types are thrown on invalid arguments
