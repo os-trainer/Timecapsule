@@ -7152,3 +7152,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adjust prettier configuration for consistent indentation
 - Fix missing return statement in error branch
 - Cover dry-run execution mode with assertion checks
+- Add environment variable override support
