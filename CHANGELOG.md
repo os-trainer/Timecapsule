@@ -7154,3 +7154,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover dry-run execution mode with assertion checks
 - Add environment variable override support
 - Restructure project exports to avoid circular dependencies
+- Update development dependencies for test framework
