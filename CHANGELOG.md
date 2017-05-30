@@ -371,3 +371,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve package scripts for building and testing
 - Handle partial input objects during configuration merge
 - Clarify frequency parameter behavior and percentage rules
+- Update development configuration and editor settings
