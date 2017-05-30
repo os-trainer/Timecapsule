@@ -366,3 +366,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update package repository URLs and issue tracker links
 - Fix missing return statement in error branch
 - Add unit tests for terminal colorization toggles
+- Test command line help output and option documentation
