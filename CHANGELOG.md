@@ -7160,3 +7160,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input sanitization for file paths
 - Refactor caching mechanism for cleaner abstraction
 - Update project metadata and repository description
+- Document logging levels and diagnostic flags
