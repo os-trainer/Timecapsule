@@ -7158,3 +7158,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct string trimming logic for multi-line inputs
 - Configure semantic versioning and release scripts
 - Add input sanitization for file paths
+- Refactor caching mechanism for cleaner abstraction
