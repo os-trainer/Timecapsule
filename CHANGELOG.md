@@ -372,3 +372,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle partial input objects during configuration merge
 - Clarify frequency parameter behavior and percentage rules
 - Update development configuration and editor settings
+- Add key-value store wrapper for memory cache
