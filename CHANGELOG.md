@@ -376,3 +376,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Enhance descriptive quality of debug logging statements
 - Implement event listener registry for status events
 - Verify error messages for missing required options
+- Handle file permission errors with actionable messages
