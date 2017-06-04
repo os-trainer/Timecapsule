@@ -7170,3 +7170,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration file for static code analysis
 - Extract configuration validation into standalone validator
 - Fix string encoding issue when processing special characters
+- Rename internal variables and parameters for clarity
