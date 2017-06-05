@@ -379,3 +379,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle file permission errors with actionable messages
 - Decouple output formatting from core computation logic
 - Correctly escape special characters in terminal output
+- Add basic data caching layer with key invalidation
