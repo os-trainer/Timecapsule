@@ -7174,3 +7174,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement file reading helper with encoding support
 - Fix validation logic for boundary date ranges
 - Improve consistency of option validation error messages
+- Add regression test for boundary date calculations
