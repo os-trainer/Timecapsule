@@ -7177,3 +7177,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression test for boundary date calculations
 - Correct regex pattern matching for date validation
 - Modernize internal loop constructs and data structures
+- Fix inconsistent return type on validation failure
