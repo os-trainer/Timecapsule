@@ -7179,3 +7179,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modernize internal loop constructs and data structures
 - Fix inconsistent return type on validation failure
 - Add custom formatting options for summary tables
+- Simplify conditional branching in distribution calculator
