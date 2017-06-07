@@ -7181,3 +7181,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add custom formatting options for summary tables
 - Simplify conditional branching in distribution calculator
 - Add parameter type checks to public library methods
+- Implement pagination helper for collection data
