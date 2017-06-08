@@ -380,3 +380,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decouple output formatting from core computation logic
 - Correctly escape special characters in terminal output
 - Add basic data caching layer with key invalidation
+- Document distribution patterns and statistical behavior
