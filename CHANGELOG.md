@@ -7183,3 +7183,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add parameter type checks to public library methods
 - Implement pagination helper for collection data
 - Improve test coverage for error recovery branches
+- Add usage examples for common command-line options
