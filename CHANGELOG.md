@@ -7185,3 +7185,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage for error recovery branches
 - Add usage examples for common command-line options
 - Ensure all async rejections provide meaningful Error instances
+- Verify retry logic behavior under simulated failures
