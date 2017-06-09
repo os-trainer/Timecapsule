@@ -7188,3 +7188,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify retry logic behavior under simulated failures
 - Add support for verbose diagnostic output
 - Simplify collection mapping and transformation pipelines
+- Add contribution guidelines and development workflow steps
