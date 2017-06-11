@@ -7192,3 +7192,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test empty collection handling across utility functions
 - Clean up temporary files and ensure deterministic cleanup
 - Cover malformed command line options in test suite
+- Resolve incorrect return value for edge-case queries
