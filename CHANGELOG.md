@@ -394,3 +394,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Remove unused code and obsolete internal variables
 - Implement file reading helper with encoding support
 - Fix string encoding issue when processing special characters
+- Cover edge cases in date range calculation logic
