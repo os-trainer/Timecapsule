@@ -7198,3 +7198,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add array sorting and filtering helper functions
 - Refactor configuration fallback resolution
 - Fix infinite loop risk in collection traversal logic
+- Add unit tests for progress reporter events
