@@ -7195,3 +7195,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Resolve incorrect return value for edge-case queries
 - Add configuration file for continuous integration
 - Handle null and undefined options defensively
+- Add array sorting and filtering helper functions
