@@ -7197,3 +7197,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle null and undefined options defensively
 - Add array sorting and filtering helper functions
 - Refactor configuration fallback resolution
+- Fix infinite loop risk in collection traversal logic
