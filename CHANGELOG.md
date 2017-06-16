@@ -409,3 +409,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage for error recovery branches
 - Add code comments explaining complex date mathematics
 - Implement deep object merging utility
+- Add test suite for distribution weight calculations
