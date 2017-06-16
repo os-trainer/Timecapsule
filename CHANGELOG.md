@@ -405,3 +405,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate error definitions and status messages
 - Extract file system operations into isolated adapter
 - Add input validation for user-supplied options
+- Fix infinite loop risk in collection traversal logic
