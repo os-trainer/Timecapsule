@@ -406,3 +406,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract file system operations into isolated adapter
 - Add input validation for user-supplied options
 - Fix infinite loop risk in collection traversal logic
+- Improve test coverage for error recovery branches
