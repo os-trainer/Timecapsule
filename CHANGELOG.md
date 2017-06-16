@@ -407,3 +407,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input validation for user-supplied options
 - Fix infinite loop risk in collection traversal logic
 - Improve test coverage for error recovery branches
+- Add code comments explaining complex date mathematics
