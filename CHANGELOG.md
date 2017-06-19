@@ -7202,3 +7202,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement helper utilities for parameter parsing
 - Handle process interruption cleanly during generation
 - Add snapshot tests for terminal output formatters
+- Add command-line argument parser for configuration flags
