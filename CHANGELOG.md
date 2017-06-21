@@ -416,3 +416,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add performance recommendations for large-scale runs
 - Add verification tests for safe JSON parsing utilities
 - Implement helper utilities for parameter parsing
+- Refactor validation pipelines to support chaining
