@@ -7205,3 +7205,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add command-line argument parser for configuration flags
 - Improve consistency of return structures across helpers
 - Refactor argument parsing to standardize option names
+- Correct error handling when input file is absent
