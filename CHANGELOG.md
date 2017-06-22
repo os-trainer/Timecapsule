@@ -419,3 +419,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor validation pipelines to support chaining
 - Document custom commit message filtering and options
 - Implement query filter helpers for collection items
+- Verify proper error types are thrown on invalid arguments
