@@ -420,3 +420,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document custom commit message filtering and options
 - Implement query filter helpers for collection items
 - Verify proper error types are thrown on invalid arguments
+- Fix argument parsing when flag value contains spaces
