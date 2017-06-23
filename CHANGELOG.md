@@ -7211,3 +7211,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for collection filter predicates
 - Adjust test runner timeout and concurrency settings
 - Add safe deep clone utility function
+- Update project dependencies to latest secure versions
