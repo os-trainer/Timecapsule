@@ -7219,3 +7219,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate string manipulation utilities
 - Implement command line flag alias mapping
 - Improve inline code documentation and parameter descriptions
+- Correctly escape special characters in terminal output
