@@ -7225,3 +7225,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix duplicate item registration in event subscriber list
 - Reduce duplicated logic across helper utilities
 - Test custom date formatting tokens and output strings
+- Fix validation logic for boundary date ranges
