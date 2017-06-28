@@ -428,3 +428,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle partial input objects during configuration merge
 - Add lightweight event emitter implementation
 - Correct timestamp calculation for timezone offsets
+- Add elapsed execution time measurement helper
