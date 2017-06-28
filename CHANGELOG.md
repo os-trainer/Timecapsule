@@ -429,3 +429,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add lightweight event emitter implementation
 - Correct timestamp calculation for timezone offsets
 - Add elapsed execution time measurement helper
+- Improve documentation for programmatic JavaScript API
