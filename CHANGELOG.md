@@ -432,3 +432,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve documentation for programmatic JavaScript API
 - Modularize command-line argument processing logic
 - Test empty collection handling across utility functions
+- Add input sanitization for file paths
