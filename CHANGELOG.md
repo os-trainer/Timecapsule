@@ -436,3 +436,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty environment variables without error
 - Update test runner configuration for isolated execution
 - Cover complex configuration inheritance in tests
+
+## [1.4.0]
+### Changed
+- Resolve incorrect return value for edge-case queries
