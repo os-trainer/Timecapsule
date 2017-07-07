@@ -442,3 +442,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Resolve incorrect return value for edge-case queries
 - Clarify difference between distribution algorithms
 - Improve test coverage across utility modules
+- Tune lint-staged configuration for staged files
