@@ -7236,3 +7236,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure distribution bundle output settings
 - Handle timeout gracefully during external operations
 - Verify cache invalidation logic under test conditions
+- Add clean script to purge build artifacts and temp files
