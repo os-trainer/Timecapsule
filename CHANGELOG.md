@@ -446,3 +446,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve markdown formatting and typographic consistency in README
 - Verify error messages for missing required options
 - Add test harness for simulated time progression
+- Handle unexpected zero-length arrays in reducer logic
