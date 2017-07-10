@@ -443,3 +443,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify difference between distribution algorithms
 - Improve test coverage across utility modules
 - Tune lint-staged configuration for staged files
+- Improve markdown formatting and typographic consistency in README
