@@ -7242,3 +7242,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for input validation helper functions
 - Add colorized terminal output formatter
 - Extract terminal output logic into presentation layer
+- Correct string trimming logic for multi-line inputs
