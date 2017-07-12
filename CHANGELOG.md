@@ -7245,3 +7245,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct string trimming logic for multi-line inputs
 - Simplify complex function implementations for maintainability
 - Add support for custom output destination paths
+- Add safe string truncation helper
