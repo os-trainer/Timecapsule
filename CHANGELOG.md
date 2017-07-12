@@ -453,3 +453,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor date calculation routines for better readability
 - Improve inline code documentation and parameter descriptions
 - Add key-value store wrapper for memory cache
+- Fix type coercion error during numeric comparisons
