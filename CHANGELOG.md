@@ -456,3 +456,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix type coercion error during numeric comparisons
 - Implement numeric range clamping helper
 - Add initial build output ignore patterns
+- Refactor utility functions into dedicated modules
