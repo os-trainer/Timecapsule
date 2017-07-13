@@ -7248,3 +7248,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add safe string truncation helper
 - Improve code formatting and consistent whitespace
 - Implement batch processing utility for array inputs
+- Handle partial input objects during configuration merge
