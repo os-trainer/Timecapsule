@@ -465,3 +465,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression test for boundary date calculations
 - Clarify installation instructions and system prerequisites
 - Restructure project exports to avoid circular dependencies
+- Refactor array processing routines to use functional methods
