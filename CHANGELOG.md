@@ -463,3 +463,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract reusable helper functions from main workflow
 - Correct error handling when input file is absent
 - Add regression test for boundary date calculations
+- Clarify installation instructions and system prerequisites
