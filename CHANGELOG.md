@@ -470,3 +470,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for JSON and plain text output formats
 - Standardize indentation and line wrapping across files
 - Add support for custom output destination paths
+- Remove obsolete polyfills and legacy compatibility shims
