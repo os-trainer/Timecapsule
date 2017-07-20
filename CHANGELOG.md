@@ -7261,3 +7261,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve error messages with actionable resolution hints
 - Handle null and undefined options defensively
 - Add support for verbose diagnostic output
+- Update npm packaging whitelist in files array
