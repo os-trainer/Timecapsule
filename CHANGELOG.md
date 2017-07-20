@@ -7264,3 +7264,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update npm packaging whitelist in files array
 - Fix unexpected empty input parsing in command line options
 - Modularize schema definitions and validation rules
+- Set up command-line entry point script
