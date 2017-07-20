@@ -7260,3 +7260,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve function organization and module cohesion
 - Improve error messages with actionable resolution hints
 - Handle null and undefined options defensively
+- Add support for verbose diagnostic output
