@@ -472,3 +472,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for custom output destination paths
 - Remove obsolete polyfills and legacy compatibility shims
 - Handle process interruption cleanly during generation
+- Add troubleshooting notes for frequent setup issues
