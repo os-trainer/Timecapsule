@@ -473,3 +473,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Remove obsolete polyfills and legacy compatibility shims
 - Handle process interruption cleanly during generation
 - Add troubleshooting notes for frequent setup issues
+- Simplify control flow and reduce nested conditionals
