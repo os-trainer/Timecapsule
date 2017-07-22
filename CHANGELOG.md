@@ -7268,3 +7268,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct fallback order for configuration properties
 - Implement event listener registry for status events
 - Add performance recommendations for large-scale runs
+- Ensure consistent error status codes across exit paths
