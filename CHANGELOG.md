@@ -7271,3 +7271,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure consistent error status codes across exit paths
 - Streamline parameter passing across internal layers
 - Update changelog with recent feature additions and fixes
+- Cover complex configuration inheritance in tests
