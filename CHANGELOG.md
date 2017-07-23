@@ -7275,3 +7275,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correctly escape special characters in terminal output
 - Refactor configuration fallback resolution
 - Improve test coverage across utility modules
+- Document error handling strategies and exit codes
