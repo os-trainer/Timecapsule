@@ -474,3 +474,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle process interruption cleanly during generation
 - Add troubleshooting notes for frequent setup issues
 - Simplify control flow and reduce nested conditionals
+- Add tests for custom output destination formatting
