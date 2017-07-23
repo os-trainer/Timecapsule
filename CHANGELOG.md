@@ -7273,3 +7273,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update changelog with recent feature additions and fixes
 - Cover complex configuration inheritance in tests
 - Correctly escape special characters in terminal output
+- Refactor configuration fallback resolution
