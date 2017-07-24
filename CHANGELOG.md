@@ -7279,3 +7279,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update project dependencies to latest secure versions
 - Fix duplicate item registration in event subscriber list
 - Fix circular reference error in object serialization
+- Extract date formatting templates into reusable helpers
