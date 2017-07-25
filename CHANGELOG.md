@@ -481,3 +481,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve separation of concerns between CLI and core engine
 - Implement summary statistics calculation helper
 - Add code comments explaining complex date mathematics
+- Add custom error classes for domain-specific failures
