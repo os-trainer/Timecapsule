@@ -7286,3 +7286,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement file reading helper with encoding support
 - Improve code maintainability index across core files
 - Add reusable string formatting utility functions
+- Add test cases for boolean flag normalization
