@@ -485,3 +485,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add verification tests for safe JSON parsing utilities
 - Streamline option parsing and default resolution
 - Implement configuration file loader with fallback defaults
+- Cover edge cases in date range calculation logic
