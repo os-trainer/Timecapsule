@@ -7292,3 +7292,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add assertions for default configuration fallbacks
 - Update repository keywords and discovery tags
 - Fix inaccurate execution duration calculation
+- Document date format requirements and accepted tokens
