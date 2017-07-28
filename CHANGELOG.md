@@ -7294,3 +7294,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inaccurate execution duration calculation
 - Document date format requirements and accepted tokens
 - Update test runner configuration for isolated execution
+- Implement configuration merging priority logic
