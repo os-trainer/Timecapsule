@@ -486,3 +486,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline option parsing and default resolution
 - Implement configuration file loader with fallback defaults
 - Cover edge cases in date range calculation logic
+- Add custom formatting options for summary tables
