@@ -488,3 +488,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover edge cases in date range calculation logic
 - Add custom formatting options for summary tables
 - Document preview mode and dry-run visualization
+- Fix missing return statement in error branch
