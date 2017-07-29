@@ -7297,3 +7297,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement configuration merging priority logic
 - Fix incorrect default parameter assignment
 - Add test harness for simulated time progression
+- Add safe string truncation helper
