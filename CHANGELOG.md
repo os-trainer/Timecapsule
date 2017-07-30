@@ -7300,3 +7300,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add safe string truncation helper
 - Correct path delimiter handling across operating systems
 - Configure automated dependency review settings
+- Extract reusable helper functions from main workflow
