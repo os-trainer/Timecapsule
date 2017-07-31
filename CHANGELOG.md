@@ -7306,3 +7306,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize terminology across comments and log output
 - Handle missing configuration gracefully with defaults
 - Implement retry mechanism for transient operations
+- Fix validation logic for boundary date ranges
