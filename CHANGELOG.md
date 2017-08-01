@@ -7311,3 +7311,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test invalid input handling and expected exceptions
 - Refactor argument parsing to standardize option names
 - Add system status inspection helper
+- Verify error messages for missing required options
