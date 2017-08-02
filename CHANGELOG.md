@@ -490,3 +490,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document preview mode and dry-run visualization
 - Fix missing return statement in error branch
 - Rename internal variables and parameters for clarity
+- Add basic data processing and normalization pipeline
