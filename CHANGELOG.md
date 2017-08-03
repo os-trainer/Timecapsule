@@ -7315,3 +7315,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure output directory paths for build pipeline
 - Improve inline code documentation and parameter descriptions
 - Tune compiler and transpiler configuration options
+- Add step-by-step tutorial for sample project generation
