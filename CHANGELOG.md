@@ -497,3 +497,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify platform-specific path handling in test suite
 - Tune compiler and transpiler configuration options
 - Add reusable string formatting utility functions
+- Add structured logging helper with log levels
