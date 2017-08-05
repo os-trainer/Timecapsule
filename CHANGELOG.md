@@ -498,3 +498,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Tune compiler and transpiler configuration options
 - Add reusable string formatting utility functions
 - Add structured logging helper with log levels
+- Document environment variable configuration overrides
