@@ -7317,3 +7317,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Tune compiler and transpiler configuration options
 - Add step-by-step tutorial for sample project generation
 - Fix unhandled promise rejection in async error handler
+- Decouple output formatting from core computation logic
