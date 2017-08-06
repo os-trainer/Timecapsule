@@ -504,3 +504,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve markdown formatting and typographic consistency in README
 - Add unit tests for terminal colorization toggles
 - Handle empty environment variables without error
+- Standardize terminology across comments and log output
