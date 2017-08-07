@@ -506,3 +506,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty environment variables without error
 - Standardize terminology across comments and log output
 - Extract progress tracking into dedicated emitter
+- Fix incorrect status code returned on input error
