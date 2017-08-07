@@ -7322,3 +7322,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify complex arithmetic expressions in date logic
 - Add examples comparing standard and conventional commits
 - Remove obsolete polyfills and legacy compatibility shims
+- Update npm packaging whitelist in files array
