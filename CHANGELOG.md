@@ -507,3 +507,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize terminology across comments and log output
 - Extract progress tracking into dedicated emitter
 - Fix incorrect status code returned on input error
+- Implement stream-based chunk processor
