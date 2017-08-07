@@ -7323,3 +7323,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add examples comparing standard and conventional commits
 - Remove obsolete polyfills and legacy compatibility shims
 - Update npm packaging whitelist in files array
+- Add acknowledgments and open-source project credits
