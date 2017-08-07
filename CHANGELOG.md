@@ -7325,3 +7325,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update npm packaging whitelist in files array
 - Add acknowledgments and open-source project credits
 - Extract progress tracking into dedicated emitter
+- Add badges for license, build status, and version
