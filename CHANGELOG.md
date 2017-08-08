@@ -508,3 +508,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract progress tracking into dedicated emitter
 - Fix incorrect status code returned on input error
 - Implement stream-based chunk processor
+- Improve README with comprehensive getting-started guide
