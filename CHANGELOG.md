@@ -7326,3 +7326,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add acknowledgments and open-source project credits
 - Extract progress tracking into dedicated emitter
 - Add badges for license, build status, and version
+- Verify cache invalidation logic under test conditions
