@@ -7330,3 +7330,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update license field and attribution in package manifest
 - Add regression test for boundary date calculations
 - Simplify control flow and reduce nested conditionals
+- Add basic data caching layer with key invalidation
