@@ -511,3 +511,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve README with comprehensive getting-started guide
 - Fix circular reference error in object serialization
 - Add unit tests for rate limiting and throttling helpers
+- Update project metadata and repository description
