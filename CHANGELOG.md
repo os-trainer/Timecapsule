@@ -514,3 +514,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update project metadata and repository description
 - Modernize internal loop constructs and data structures
 - Add JSDoc type annotations for internal functions
+- Add table of contents to main project documentation
