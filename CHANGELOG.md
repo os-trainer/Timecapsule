@@ -516,3 +516,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add JSDoc type annotations for internal functions
 - Add table of contents to main project documentation
 - Add validation rules for date range boundaries
+- Add unit tests for collection filter predicates
