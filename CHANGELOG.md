@@ -7340,3 +7340,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Resolve incorrect return value for edge-case queries
 - Improve test coverage across utility modules
 - Add support for JSON and plain text output formats
+- Streamline parameter passing across internal layers
