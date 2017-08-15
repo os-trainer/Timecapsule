@@ -529,3 +529,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify cache invalidation logic under test conditions
 - Decompose monolithic workflow function into focused steps
 - Handle empty input collections without throwing exceptions
+- Add performance recommendations for large-scale runs
