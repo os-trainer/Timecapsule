@@ -7349,3 +7349,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update API reference documentation for core exports
 - Extract common constants into centralized configuration
 - Implement file reading helper with encoding support
+- Fix inconsistent return type on validation failure
