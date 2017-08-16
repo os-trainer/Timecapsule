@@ -7350,3 +7350,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract common constants into centralized configuration
 - Implement file reading helper with encoding support
 - Fix inconsistent return type on validation failure
+- Document supported platforms and shell environments
