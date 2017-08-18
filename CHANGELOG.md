@@ -7358,3 +7358,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add command-line argument parser for configuration flags
 - Improve input handling and defensive type assertions
 - Verify platform-specific path handling in test suite
+- Improve separation of concerns between CLI and core engine
