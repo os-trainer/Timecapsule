@@ -7361,3 +7361,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve separation of concerns between CLI and core engine
 - Ensure consistent error status codes across exit paths
 - Fix formatting anomaly in terminal progress display
+- Implement progress reporter for long-running workflows
