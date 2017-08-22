@@ -534,3 +534,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test empty collection handling across utility functions
 - Configure output directory paths for build pipeline
 - Add examples comparing standard and conventional commits
+- Correct output formatting when statistics are zero
