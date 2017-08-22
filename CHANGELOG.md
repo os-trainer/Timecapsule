@@ -7367,3 +7367,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure output directory paths for build pipeline
 - Add colorized terminal output formatter
 - Extract file system operations into isolated adapter
+- Fix argument parsing when flag value contains spaces
