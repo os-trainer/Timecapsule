@@ -7372,3 +7372,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix intermittent failure in date boundary comparison
 - Modularize schema definitions and validation rules
 - Fix incorrect status code returned on input error
+- Add validation rules for date range boundaries
