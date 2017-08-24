@@ -7379,3 +7379,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add verification tests for safe JSON parsing utilities
 - Extract configuration validation into standalone validator
 - Add table of contents to main project documentation
+- Improve package scripts for building and testing
