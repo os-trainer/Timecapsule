@@ -537,3 +537,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct output formatting when statistics are zero
 - Add command-line argument parser for configuration flags
 - Improve separation of concerns between CLI and core engine
+- Add unit tests for string formatting and truncation helpers
