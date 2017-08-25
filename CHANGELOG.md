@@ -536,3 +536,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add examples comparing standard and conventional commits
 - Correct output formatting when statistics are zero
 - Add command-line argument parser for configuration flags
+- Improve separation of concerns between CLI and core engine
