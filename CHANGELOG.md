@@ -7385,3 +7385,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover complex configuration inheritance in tests
 - Consolidate error definitions and status messages
 - Add schema validation for configuration objects
+- Fix string encoding issue when processing special characters
