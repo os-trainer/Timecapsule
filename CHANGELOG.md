@@ -7391,3 +7391,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix circular reference error in object serialization
 - Add structured logging helper with log levels
 - Add badges for license, build status, and version
+- Fix infinite loop risk in collection traversal logic
