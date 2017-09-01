@@ -544,3 +544,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Refactor argument parsing to standardize option names
 - Implement command line flag alias mapping
+- Add test suite for distribution weight calculations
