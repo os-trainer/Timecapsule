@@ -546,3 +546,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement command line flag alias mapping
 - Add test suite for distribution weight calculations
 - Handle malformed JSON configuration without crashing
+- Add assertions for default configuration fallbacks
