@@ -7393,3 +7393,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add badges for license, build status, and version
 - Fix infinite loop risk in collection traversal logic
 - Reorganize internal test helpers and fixtures
+- Add assertions to catch illegal state during execution
