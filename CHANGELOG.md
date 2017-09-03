@@ -7394,3 +7394,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix infinite loop risk in collection traversal logic
 - Reorganize internal test helpers and fixtures
 - Add assertions to catch illegal state during execution
+- Fix memory leak in recurring event listeners
