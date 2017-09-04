@@ -7396,3 +7396,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add assertions to catch illegal state during execution
 - Fix memory leak in recurring event listeners
 - Consolidate string manipulation utilities
+- Add unit tests for progress reporter events
