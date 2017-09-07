@@ -7402,3 +7402,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add parameterized tests for date parsing variations
 - Correct boundary check in range validation utility
 - Rename internal variables and parameters for clarity
+- Streamline option parsing and default resolution
