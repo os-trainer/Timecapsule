@@ -558,3 +558,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement template interpolation utility
 - Add usage examples for common command-line options
 - Fix argument parsing when flag value contains spaces
+- Cover malformed command line options in test suite
