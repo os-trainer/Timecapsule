@@ -564,3 +564,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adjust test runner timeout and concurrency settings
 - Add test cases for boolean flag normalization
 - Clean up temporary files and ensure deterministic cleanup
+- Add custom error classes for domain-specific failures
