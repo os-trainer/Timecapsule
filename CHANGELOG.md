@@ -563,3 +563,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add multi-step workflow runner utility
 - Adjust test runner timeout and concurrency settings
 - Add test cases for boolean flag normalization
+- Clean up temporary files and ensure deterministic cleanup
