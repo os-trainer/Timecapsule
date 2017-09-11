@@ -7410,3 +7410,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix edge case in input handling for empty strings
 - Add lightweight event emitter implementation
 - Document template options for supported project layouts
+- Correct error handling when input file is absent
