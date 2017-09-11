@@ -567,3 +567,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add custom error classes for domain-specific failures
 - Fix infinite loop risk in collection traversal logic
 - Streamline option parsing and default resolution
+- Verify retry logic behavior under simulated failures
