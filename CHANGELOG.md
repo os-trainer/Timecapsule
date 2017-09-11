@@ -565,3 +565,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test cases for boolean flag normalization
 - Clean up temporary files and ensure deterministic cleanup
 - Add custom error classes for domain-specific failures
+- Fix infinite loop risk in collection traversal logic
