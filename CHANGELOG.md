@@ -7412,3 +7412,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document template options for supported project layouts
 - Correct error handling when input file is absent
 - Cover dry-run execution mode with assertion checks
+- Implement numeric range clamping helper
