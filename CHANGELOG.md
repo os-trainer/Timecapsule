@@ -7415,3 +7415,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement numeric range clamping helper
 - Update test runner configuration for isolated execution
 - Fix unexpected empty input parsing in command line options
+- Refactor promise handling to use modern async/await patterns
