@@ -573,3 +573,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve code formatting and consistent whitespace
 - Configure engine version compatibility constraints
 - Add acknowledgments and open-source project credits
+- Test timezone offset handling with varying dates
