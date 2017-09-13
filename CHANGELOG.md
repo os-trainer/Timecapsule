@@ -7422,3 +7422,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract terminal output logic into presentation layer
 - Add integration test verifying end-to-end workflow execution
 - Correct negative duration calculations across days
+- Add detailed architecture overview and component diagram
