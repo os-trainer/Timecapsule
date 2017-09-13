@@ -572,3 +572,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix string encoding issue when processing special characters
 - Improve code formatting and consistent whitespace
 - Configure engine version compatibility constraints
+- Add acknowledgments and open-source project credits
