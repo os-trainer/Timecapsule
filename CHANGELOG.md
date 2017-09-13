@@ -570,3 +570,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify retry logic behavior under simulated failures
 - Add instructions for running tests and linter locally
 - Fix string encoding issue when processing special characters
+- Improve code formatting and consistent whitespace
