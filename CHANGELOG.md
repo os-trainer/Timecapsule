@@ -7423,3 +7423,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add integration test verifying end-to-end workflow execution
 - Correct negative duration calculations across days
 - Add detailed architecture overview and component diagram
+- Verify proper error types are thrown on invalid arguments
