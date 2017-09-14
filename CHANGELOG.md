@@ -577,3 +577,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure all async rejections provide meaningful Error instances
 - Fix edge case in input handling for empty strings
 - Decouple output formatting from core computation logic
+- Update package repository URLs and issue tracker links
