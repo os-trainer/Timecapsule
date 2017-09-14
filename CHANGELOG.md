@@ -574,3 +574,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure engine version compatibility constraints
 - Add acknowledgments and open-source project credits
 - Test timezone offset handling with varying dates
+- Ensure all async rejections provide meaningful Error instances
