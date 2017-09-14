@@ -578,3 +578,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix edge case in input handling for empty strings
 - Decouple output formatting from core computation logic
 - Update package repository URLs and issue tracker links
+- Add strict boundary checks to numeric operations
