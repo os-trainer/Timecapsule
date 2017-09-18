@@ -7430,3 +7430,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data processing and normalization pipeline
 - Refactor date calculation routines for better readability
 - Introduce mock harness for file system operations
+- Update API reference documentation for core exports
