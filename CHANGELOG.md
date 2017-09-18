@@ -590,3 +590,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update npm packaging whitelist in files array
 - Add safe deep clone utility function
 - Add verification tests for safe JSON parsing utilities
+- Ensure consistent parameter ordering in helper signatures
