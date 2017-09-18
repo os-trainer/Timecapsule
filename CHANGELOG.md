@@ -586,3 +586,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve README with comprehensive getting-started guide
 - Test command line help output and option documentation
 - Fix formatting anomaly in terminal progress display
+- Improve inline code documentation and parameter descriptions
