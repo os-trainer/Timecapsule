@@ -7438,3 +7438,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct fallback order for configuration properties
 - Clean up project structure and remove redundant exports
 - Implement customizable output formatting options
+- Correct timestamp calculation for timezone offsets
