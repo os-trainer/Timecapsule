@@ -7436,3 +7436,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify conditional branching in distribution calculator
 - Improve consistency of return structures across helpers
 - Correct fallback order for configuration properties
+- Clean up project structure and remove redundant exports
