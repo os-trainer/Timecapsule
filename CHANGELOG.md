@@ -7439,3 +7439,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up project structure and remove redundant exports
 - Implement customizable output formatting options
 - Correct timestamp calculation for timezone offsets
+- Cover deep object merge edge cases in unit tests
