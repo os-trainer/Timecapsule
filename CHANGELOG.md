@@ -597,3 +597,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add URL query string builder and parser
 - Resolve incorrect return value for edge-case queries
 - Fix improper resource cleanup on exit
+- Implement batch processing utility for array inputs
