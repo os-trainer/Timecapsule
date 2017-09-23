@@ -600,3 +600,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement batch processing utility for array inputs
 - Add JSDoc type annotations for internal functions
 - Add basic data caching layer with key invalidation
+- Fix unexpected empty input parsing in command line options
