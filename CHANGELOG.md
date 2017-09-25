@@ -7444,3 +7444,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add safe string truncation helper
 - Eliminate code duplication in internal helper branches
 - Verify graceful handling of malformed input data
+- Improve separation of concerns between CLI and core engine
