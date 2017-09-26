@@ -7450,3 +7450,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize indentation and line wrapping across files
 - Implement defensive parameter sanitization
 - Fix incorrect boolean flag evaluation
+- Add step-by-step tutorial for sample project generation
