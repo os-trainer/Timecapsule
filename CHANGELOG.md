@@ -7452,3 +7452,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect boolean flag evaluation
 - Add step-by-step tutorial for sample project generation
 - Implement dry-run execution preview mode
+- Document date format requirements and accepted tokens
