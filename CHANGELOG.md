@@ -612,3 +612,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression tests for previous edge-case bugs
 - Correct string trimming logic for multi-line inputs
 - Configure automated dependency review settings
+- Add system status inspection helper
