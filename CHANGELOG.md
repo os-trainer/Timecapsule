@@ -7461,3 +7461,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct regex pattern matching for date validation
 - Implement pagination helper for collection data
 - Fix memory leak caused by unreleased cache handles
+- Cover complex configuration inheritance in tests
