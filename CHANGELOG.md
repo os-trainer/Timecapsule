@@ -623,3 +623,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document configuration options and default parameters
 - Clean up dead code and obsolete helper methods
 - Improve error messages with actionable resolution hints
+- Consolidate duplicate string sanitization routines
