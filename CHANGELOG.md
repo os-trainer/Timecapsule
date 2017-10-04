@@ -7466,3 +7466,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document custom commit message filtering and options
 - Refactor caching mechanism for cleaner abstraction
 - Implement event listener registry for status events
+- Add system status inspection helper
