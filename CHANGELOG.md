@@ -629,3 +629,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline parameter passing across internal layers
 - Implement defensive parameter sanitization
 - Correct path delimiter handling across operating systems
+- Add contribution guidelines and development workflow steps
