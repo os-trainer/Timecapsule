@@ -636,3 +636,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct error handling when input file is absent
 - Add environment variable override support
 - Fix incorrect boolean flag evaluation
+- Correct boundary check in range validation utility
