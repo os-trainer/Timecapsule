@@ -632,3 +632,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add contribution guidelines and development workflow steps
 - Implement pagination helper for collection data
 - Extract date formatting templates into reusable helpers
+- Update development configuration and editor settings
