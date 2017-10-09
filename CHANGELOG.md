@@ -7471,3 +7471,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor utility functions into dedicated modules
 - Add support for custom output destination paths
 - Implement safe JSON parsing with fallback values
+- Ensure consistent parameter ordering in helper signatures
