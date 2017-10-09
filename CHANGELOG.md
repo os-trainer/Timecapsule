@@ -640,3 +640,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for verbose diagnostic output
 - Verify proper error types are thrown on invalid arguments
 - Simplify complex arithmetic expressions in date logic
+- Add badges for license, build status, and version
