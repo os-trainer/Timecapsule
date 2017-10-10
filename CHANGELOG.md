@@ -7474,3 +7474,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure consistent parameter ordering in helper signatures
 - Add unit tests for input validation helper functions
 - Streamline option parsing and default resolution
+- Fix inaccurate execution duration calculation
