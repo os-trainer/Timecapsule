@@ -7495,3 +7495,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document supported platforms and shell environments
 - Extract file system operations into isolated adapter
 - Fix string encoding issue when processing special characters
+- Tune lint-staged configuration for staged files
