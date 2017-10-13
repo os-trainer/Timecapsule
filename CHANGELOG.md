@@ -653,3 +653,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add usage notes for multi-year historical generation
 - Adjust test runner timeout and concurrency settings
 - Add npm script for running unit test suite
+- Refactor array processing routines to use functional methods
