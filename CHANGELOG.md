@@ -7493,3 +7493,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test suite for distribution weight calculations
 - Implement query filter helpers for collection items
 - Document supported platforms and shell environments
+- Extract file system operations into isolated adapter
