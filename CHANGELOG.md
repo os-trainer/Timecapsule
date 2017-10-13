@@ -7491,3 +7491,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify collection mapping and transformation pipelines
 - Handle unexpected zero-length arrays in reducer logic
 - Add test suite for distribution weight calculations
+- Implement query filter helpers for collection items
