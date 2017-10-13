@@ -650,3 +650,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve function organization and module cohesion
 - Implement rate limiting throttle for helper actions
 - Handle file permission errors with actionable messages
+- Add usage notes for multi-year historical generation
