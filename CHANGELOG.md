@@ -7488,3 +7488,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add security considerations and safe execution notes
 - Add input validation for user-supplied options
 - Document distribution patterns and statistical behavior
+- Simplify collection mapping and transformation pipelines
