@@ -655,3 +655,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add npm script for running unit test suite
 - Refactor array processing routines to use functional methods
 - Add colorized terminal output formatter
+- Fix inconsistent return type on validation failure
