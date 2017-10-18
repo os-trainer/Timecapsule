@@ -7498,3 +7498,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Tune lint-staged configuration for staged files
 - Consolidate duplicate string sanitization routines
 - Cover edge cases in date range calculation logic
+- Test timezone offset handling with varying dates
