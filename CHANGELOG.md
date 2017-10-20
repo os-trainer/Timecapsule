@@ -659,3 +659,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add integration test verifying end-to-end workflow execution
 - Add safe string truncation helper
 - Correctly escape special characters in terminal output
+- Improve naming consistency across internal interfaces
