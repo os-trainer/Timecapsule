@@ -660,3 +660,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add safe string truncation helper
 - Correctly escape special characters in terminal output
 - Improve naming consistency across internal interfaces
+- Rename internal variables and parameters for clarity
