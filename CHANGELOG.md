@@ -663,3 +663,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Rename internal variables and parameters for clarity
 - Add schema validation for configuration objects
 - Fix unhandled promise rejection in async error handler
+- Standardize terminology across comments and log output
