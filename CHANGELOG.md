@@ -7508,3 +7508,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up dead code and obsolete helper methods
 - Add reusable string formatting utility functions
 - Add regression tests for previous edge-case bugs
+- Fix improper resource cleanup on exit
