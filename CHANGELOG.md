@@ -666,3 +666,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize terminology across comments and log output
 - Add basic data processing and normalization pipeline
 - Cover complex configuration inheritance in tests
+- Ensure consistent error status codes across exit paths
