@@ -668,3 +668,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover complex configuration inheritance in tests
 - Ensure consistent error status codes across exit paths
 - Extract reusable helper functions from main workflow
+- Test invalid input handling and expected exceptions
