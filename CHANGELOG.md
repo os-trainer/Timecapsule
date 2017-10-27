@@ -673,3 +673,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement safe JSON parsing with fallback values
 - Refactor argument parsing to standardize option names
 - Add parameter type checks to public library methods
+- Streamline option parsing and default resolution
