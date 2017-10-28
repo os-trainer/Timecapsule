@@ -674,3 +674,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor argument parsing to standardize option names
 - Add parameter type checks to public library methods
 - Streamline option parsing and default resolution
+- Introduce mock harness for file system operations
