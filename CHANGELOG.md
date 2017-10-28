@@ -675,3 +675,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add parameter type checks to public library methods
 - Streamline option parsing and default resolution
 - Introduce mock harness for file system operations
+- Add security considerations and safe execution notes
