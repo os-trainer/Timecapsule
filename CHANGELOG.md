@@ -7524,3 +7524,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract date formatting templates into reusable helpers
 - Update package version in manifest file
 - Add quick reference cheat sheet for CLI commands
+- Implement summary statistics calculation helper
