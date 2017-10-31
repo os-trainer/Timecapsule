@@ -7526,3 +7526,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add quick reference cheat sheet for CLI commands
 - Implement summary statistics calculation helper
 - Add safe deep clone utility function
+- Correct boundary check in range validation utility
