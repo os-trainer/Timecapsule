@@ -686,3 +686,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document distribution patterns and statistical behavior
 - Implement configuration merging priority logic
 - Update API reference documentation for core exports
+- Handle null and undefined options defensively
