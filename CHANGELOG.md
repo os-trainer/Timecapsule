@@ -688,3 +688,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update API reference documentation for core exports
 - Handle null and undefined options defensively
 - Add unit tests for terminal colorization toggles
+- Update development dependencies for test framework
