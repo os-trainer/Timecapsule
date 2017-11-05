@@ -7531,3 +7531,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor argument parsing to standardize option names
 - Fix incorrect status code returned on input error
 - Cover complex configuration inheritance in tests
+- Add instructions for running tests and linter locally
