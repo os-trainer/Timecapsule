@@ -7534,3 +7534,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions for running tests and linter locally
 - Add elapsed execution time measurement helper
 - Simplify conditional branching in distribution calculator
+- Fix incorrect boolean flag evaluation
