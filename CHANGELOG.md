@@ -693,3 +693,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct timestamp calculation for timezone offsets
 - Refactor date calculation routines for better readability
 - Update changelog with recent feature additions and fixes
+- Handle unexpected zero-length arrays in reducer logic
