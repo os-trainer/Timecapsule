@@ -696,3 +696,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle unexpected zero-length arrays in reducer logic
 - Improve modularity of utility function parameter signatures
 - Add unit tests for rate limiting and throttling helpers
+- Add contribution guidelines and development workflow steps
