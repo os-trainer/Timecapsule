@@ -699,3 +699,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add contribution guidelines and development workflow steps
 - Correct fallback order for configuration properties
 - Add system status inspection helper
+- Add test harness for simulated time progression
