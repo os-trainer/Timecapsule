@@ -7555,3 +7555,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adjust timeout thresholds for integration test suite
 - Extract progress tracking into dedicated emitter
 - Test timezone offset handling with varying dates
+- Clean up project structure and remove redundant exports
