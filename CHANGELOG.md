@@ -7554,3 +7554,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty input collections without throwing exceptions
 - Adjust timeout thresholds for integration test suite
 - Extract progress tracking into dedicated emitter
+- Test timezone offset handling with varying dates
