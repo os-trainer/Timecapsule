@@ -706,3 +706,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement summary statistics calculation helper
 - Fix incorrect default parameter assignment
 - Implement template interpolation utility
+- Fix memory leak in recurring event listeners
