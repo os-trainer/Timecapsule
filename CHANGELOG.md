@@ -7557,3 +7557,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test timezone offset handling with varying dates
 - Clean up project structure and remove redundant exports
 - Correct output formatting when statistics are zero
+- Add tests for custom output destination formatting
