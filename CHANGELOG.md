@@ -7560,3 +7560,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add tests for custom output destination formatting
 - Implement query filter helpers for collection items
 - Streamline event dispatching mechanism
+- Add test suite for distribution weight calculations
