@@ -725,3 +725,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add reusable string formatting utility functions
 - Document date format requirements and accepted tokens
 - Fix missing return statement in error branch
+- Add quick reference cheat sheet for CLI commands
