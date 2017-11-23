@@ -7568,3 +7568,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document preview mode and dry-run visualization
 - Add colorized terminal output formatter
 - Fix unhandled promise rejection in async error handler
+- Implement file reading helper with encoding support
