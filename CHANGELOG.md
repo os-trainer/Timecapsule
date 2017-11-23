@@ -727,3 +727,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix missing return statement in error branch
 - Add quick reference cheat sheet for CLI commands
 - Implement customizable output formatting options
+- Add unit tests for input validation helper functions
