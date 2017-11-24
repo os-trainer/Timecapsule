@@ -728,3 +728,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add quick reference cheat sheet for CLI commands
 - Implement customizable output formatting options
 - Add unit tests for input validation helper functions
+- Fix formatting anomaly in terminal progress display
