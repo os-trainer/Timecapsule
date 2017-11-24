@@ -730,3 +730,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for input validation helper functions
 - Fix formatting anomaly in terminal progress display
 - Add safe string truncation helper
+- Verify proper error types are thrown on invalid arguments
