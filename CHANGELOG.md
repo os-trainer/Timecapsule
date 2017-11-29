@@ -735,3 +735,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement configuration file loader with fallback defaults
 - Decouple output formatting from core computation logic
 - Extract progress tracking into dedicated emitter
+- Standardize date string formatting across all output
