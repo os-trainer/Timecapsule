@@ -7585,3 +7585,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test command line help output and option documentation
 - Add URL query string builder and parser
 - Improve function organization and module cohesion
+- Add safe string truncation helper
