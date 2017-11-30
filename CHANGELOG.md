@@ -737,3 +737,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract progress tracking into dedicated emitter
 - Standardize date string formatting across all output
 - Add colorized terminal output formatter
+- Add test suite for distribution weight calculations
