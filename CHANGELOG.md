@@ -7583,3 +7583,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct regex pattern matching for date validation
 - Add parameterized tests for date parsing variations
 - Test command line help output and option documentation
+- Add URL query string builder and parser
