@@ -7590,3 +7590,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test custom date formatting tokens and output strings
 - Add troubleshooting notes for frequent setup issues
 - Add clean script to purge build artifacts and temp files
+- Add detailed architecture overview and component diagram
