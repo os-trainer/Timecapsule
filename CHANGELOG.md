@@ -7593,3 +7593,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add detailed architecture overview and component diagram
 - Remove unused code and obsolete internal variables
 - Restructure project exports to avoid circular dependencies
+- Verify idempotency of cleanup routines in test suite
