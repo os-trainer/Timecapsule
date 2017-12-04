@@ -7598,3 +7598,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update author and contributor information in package descriptor
 - Implement template interpolation utility
 - Add unit tests for progress reporter events
+- Cover malformed command line options in test suite
