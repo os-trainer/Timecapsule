@@ -7595,3 +7595,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Restructure project exports to avoid circular dependencies
 - Verify idempotency of cleanup routines in test suite
 - Add verification tests for safe JSON parsing utilities
+- Update author and contributor information in package descriptor
