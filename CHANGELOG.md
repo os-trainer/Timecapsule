@@ -740,3 +740,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test suite for distribution weight calculations
 - Add safe deep clone utility function
 - Add parameterized tests for date parsing variations
+- Tune lint-staged configuration for staged files
