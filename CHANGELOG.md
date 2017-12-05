@@ -743,3 +743,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Tune lint-staged configuration for staged files
 - Remove obsolete polyfills and legacy compatibility shims
 - Add step-by-step tutorial for sample project generation
+- Add regression tests for previous edge-case bugs
