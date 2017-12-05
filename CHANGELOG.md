@@ -7599,3 +7599,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement template interpolation utility
 - Add unit tests for progress reporter events
 - Cover malformed command line options in test suite
+- Fix infinite loop risk in collection traversal logic
