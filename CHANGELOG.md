@@ -750,3 +750,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Create initial source directory and placeholder modules
 - Fix inaccurate execution duration calculation
+- Add defensive fallbacks for unexpected null values
