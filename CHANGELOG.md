@@ -7605,3 +7605,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle file permission errors with actionable messages
 - Refactor array processing routines to use functional methods
 - Update repository keywords and discovery tags
+- Verify proper error types are thrown on invalid arguments
