@@ -7607,3 +7607,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update repository keywords and discovery tags
 - Verify proper error types are thrown on invalid arguments
 - Fix memory leak in recurring event listeners
+- Add security considerations and safe execution notes
