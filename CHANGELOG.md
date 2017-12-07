@@ -7609,3 +7609,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak in recurring event listeners
 - Add security considerations and safe execution notes
 - Cover edge cases in date range calculation logic
+- Adjust linting and formatting configuration rules
