@@ -755,3 +755,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add contribution guidelines and development workflow steps
 - Implement retry mechanism for transient operations
 - Handle partial input objects during configuration merge
+- Add test cases for boolean flag normalization
