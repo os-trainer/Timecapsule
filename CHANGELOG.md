@@ -762,3 +762,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement event listener registry for status events
 - Improve clarity of variable scopes and closures
 - Handle unexpected zero-length arrays in reducer logic
+- Add input validation for user-supplied options
