@@ -766,3 +766,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correctly escape special characters in terminal output
 - Document preview mode and dry-run visualization
 - Add unit tests for collection filter predicates
+- Implement dry-run execution preview mode
