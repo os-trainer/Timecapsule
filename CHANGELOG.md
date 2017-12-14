@@ -768,3 +768,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for collection filter predicates
 - Implement dry-run execution preview mode
 - Add table of contents to main project documentation
+- Add command-line argument parser for configuration flags
