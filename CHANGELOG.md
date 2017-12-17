@@ -776,3 +776,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract file system operations into isolated adapter
 - Standardize exception messages across validation logic
 - Add examples comparing standard and conventional commits
+- Fix off-by-one error in collection index calculations
