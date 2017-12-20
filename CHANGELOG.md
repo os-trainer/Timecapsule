@@ -7619,3 +7619,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add tests for custom output destination formatting
 - Add comments explaining subtle edge cases in date math
 - Fix inaccurate execution duration calculation
+- Implement summary statistics calculation helper
