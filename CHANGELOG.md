@@ -782,3 +782,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add baseline error handling scaffolding
 - Improve documentation for programmatic JavaScript API
 - Introduce mock harness for file system operations
+- Simplify conditional branching in distribution calculator
