@@ -789,3 +789,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure strict immutability of configuration defaults
 - Consolidate duplicate string sanitization routines
 - Fix validation logic for boundary date ranges
+- Add environment variable override support
