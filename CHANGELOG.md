@@ -7626,3 +7626,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover dry-run execution mode with assertion checks
 - Add assertions for default configuration fallbacks
 - Simplify control flow and reduce nested conditionals
+- Improve documentation for programmatic JavaScript API
