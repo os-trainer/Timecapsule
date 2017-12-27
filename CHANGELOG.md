@@ -7630,3 +7630,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reorganize internal test helpers and fixtures
 - Verify cache invalidation logic under test conditions
 - Fix off-by-one error in collection index calculations
+- Document preview mode and dry-run visualization
