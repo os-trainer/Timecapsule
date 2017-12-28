@@ -7632,3 +7632,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix off-by-one error in collection index calculations
 - Document preview mode and dry-run visualization
 - Reduce duplicated logic across helper utilities
+- Correctly escape special characters in terminal output
