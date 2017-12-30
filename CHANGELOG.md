@@ -796,3 +796,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover dry-run execution mode with assertion checks
 - Add parameter type checks to public library methods
 - Reorganize internal test helpers and fixtures
+- Clarify frequency parameter behavior and percentage rules
