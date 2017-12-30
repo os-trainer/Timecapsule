@@ -791,3 +791,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix validation logic for boundary date ranges
 - Add environment variable override support
 - Document logging levels and diagnostic flags
+- Clean up dead code and obsolete helper methods
