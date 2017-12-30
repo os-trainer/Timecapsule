@@ -794,3 +794,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up dead code and obsolete helper methods
 - Implement date formatting and parsing helpers
 - Cover dry-run execution mode with assertion checks
+- Add parameter type checks to public library methods
