@@ -799,3 +799,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify frequency parameter behavior and percentage rules
 - Clean up stray debug statements and console output
 - Add clear synthetic demonstration disclaimer in documentation
+- Fix incorrect boolean flag evaluation
