@@ -801,3 +801,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add clear synthetic demonstration disclaimer in documentation
 - Fix incorrect boolean flag evaluation
 - Correct timestamp calculation for timezone offsets
+- Add support for verbose diagnostic output
