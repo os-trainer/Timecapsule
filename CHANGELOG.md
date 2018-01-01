@@ -7640,3 +7640,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct negative duration calculations across days
 - Add performance recommendations for large-scale runs
 - Fix circular reference error in object serialization
+- Clean up stray debug statements and console output
