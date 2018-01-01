@@ -804,3 +804,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for verbose diagnostic output
 - Adjust prettier configuration for consistent indentation
 - Handle process interruption cleanly during generation
+- Add parameterized tests for date parsing variations
