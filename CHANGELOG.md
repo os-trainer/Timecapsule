@@ -7643,3 +7643,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up stray debug statements and console output
 - Simplify error throwing and propagation mechanisms
 - Add reusable string formatting utility functions
+- Add regression test for boundary date calculations
