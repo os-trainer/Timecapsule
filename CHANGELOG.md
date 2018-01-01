@@ -803,3 +803,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct timestamp calculation for timezone offsets
 - Add support for verbose diagnostic output
 - Adjust prettier configuration for consistent indentation
+- Handle process interruption cleanly during generation
