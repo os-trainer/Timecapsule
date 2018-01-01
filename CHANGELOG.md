@@ -802,3 +802,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect boolean flag evaluation
 - Correct timestamp calculation for timezone offsets
 - Add support for verbose diagnostic output
+- Adjust prettier configuration for consistent indentation
