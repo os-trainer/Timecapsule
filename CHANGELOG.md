@@ -7649,3 +7649,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document error handling strategies and exit codes
 - Improve test coverage across utility modules
 - Add input sanitization for file paths
+- Add test cases for boolean flag normalization
