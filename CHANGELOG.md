@@ -810,3 +810,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve input handling and defensive type assertions
 - Improve test coverage across utility modules
 - Fix string encoding issue when processing special characters
+- Establish initial source exports and entry point
