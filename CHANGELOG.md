@@ -7657,3 +7657,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix type coercion error during numeric comparisons
 - Add environment variable override support
 - Fix formatting anomaly in terminal progress display
+- Extract terminal output logic into presentation layer
