@@ -7665,3 +7665,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve error messages with actionable resolution hints
 - Fix incorrect default parameter assignment
 - Document template options for supported project layouts
+- Correct string trimming logic for multi-line inputs
