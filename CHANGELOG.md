@@ -7671,3 +7671,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add examples of integrating tool into automated scripts
 - Add array sorting and filtering helper functions
 - Streamline option parsing and default resolution
+- Correct timestamp calculation for timezone offsets
