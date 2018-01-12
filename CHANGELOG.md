@@ -820,3 +820,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate string manipulation utilities
 - Simplify control flow and reduce nested conditionals
 - Update package version in manifest file
+- Fix incorrect default parameter assignment
