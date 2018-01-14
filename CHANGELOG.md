@@ -822,3 +822,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update package version in manifest file
 - Fix incorrect default parameter assignment
 - Configure automated pre-commit code verification
+- Fix unexpected empty input parsing in command line options
