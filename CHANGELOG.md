@@ -7682,3 +7682,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover edge cases in date range calculation logic
 - Handle malformed JSON configuration without crashing
 - Remove unused code and obsolete internal variables
+- Add regression tests for previous edge-case bugs
