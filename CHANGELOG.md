@@ -832,3 +832,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add npm script for running linter in check-only mode
 - Add support for custom output destination paths
 - Add comprehensive tests for configuration loader
+- Fix unhandled promise rejection in async error handler
