@@ -830,3 +830,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct boundary check in range validation utility
 - Test timezone offset handling with varying dates
 - Add npm script for running linter in check-only mode
+- Add support for custom output destination paths
