@@ -7687,3 +7687,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add npm script for running linter in check-only mode
 - Implement dry-run execution preview mode
 - Document logging levels and diagnostic flags
+- Add multi-step workflow runner utility
