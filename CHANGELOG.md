@@ -7689,3 +7689,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document logging levels and diagnostic flags
 - Add multi-step workflow runner utility
 - Add task definitions for local development tooling
+- Fix duplicate item registration in event subscriber list
