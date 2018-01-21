@@ -7696,3 +7696,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update lockfile with verified dependency tree
 - Implement stream-based chunk processor
 - Verify idempotency of cleanup routines in test suite
+- Fix inconsistent return type on validation failure
