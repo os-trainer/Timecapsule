@@ -845,3 +845,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add environment variable override support
 - Fix memory leak in recurring event listeners
 - Adjust timeout thresholds for integration test suite
+- Add multi-step workflow runner utility
