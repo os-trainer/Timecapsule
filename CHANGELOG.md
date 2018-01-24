@@ -7704,3 +7704,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement event listener registry for status events
 - Document custom commit message filtering and options
 - Handle timeout gracefully during external operations
+- Fix string encoding issue when processing special characters
