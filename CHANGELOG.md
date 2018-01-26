@@ -852,3 +852,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.8.0]
 ### Changed
 - Implement deep object merging utility
+- Improve readability of complex conditional evaluations
