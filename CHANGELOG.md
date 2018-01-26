@@ -846,3 +846,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak in recurring event listeners
 - Adjust timeout thresholds for integration test suite
 - Add multi-step workflow runner utility
+- Add array sorting and filtering helper functions
