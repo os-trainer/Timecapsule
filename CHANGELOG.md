@@ -854,3 +854,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement deep object merging utility
 - Improve readability of complex conditional evaluations
 - Implement flexible filter predicate builder
+- Simplify collection mapping and transformation pipelines
