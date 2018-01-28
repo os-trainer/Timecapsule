@@ -858,3 +858,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inaccurate execution duration calculation
 - Refactor caching mechanism for cleaner abstraction
 - Test command line help output and option documentation
+- Add FAQ section covering common configuration questions
