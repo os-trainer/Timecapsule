@@ -7709,3 +7709,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve README with comprehensive getting-started guide
 - Add unit tests for collection filter predicates
 - Correct error handling when input file is absent
+- Handle null and undefined options defensively
