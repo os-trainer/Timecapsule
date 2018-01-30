@@ -863,3 +863,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test empty collection handling across utility functions
 - Add test harness for simulated time progression
 - Simplify error throwing and propagation mechanisms
+- Correct timestamp calculation for timezone offsets
