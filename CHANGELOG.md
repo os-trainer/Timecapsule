@@ -867,3 +867,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression test for boundary date calculations
 - Handle missing configuration gracefully with defaults
 - Handle malformed JSON configuration without crashing
+- Verify platform-specific path handling in test suite
