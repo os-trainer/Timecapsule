@@ -7711,3 +7711,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct error handling when input file is absent
 - Handle null and undefined options defensively
 - Configure automated pre-commit code verification
+- Replace magic numbers with named configuration constants
