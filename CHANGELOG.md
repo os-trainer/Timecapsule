@@ -871,3 +871,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify installation instructions and system prerequisites
 - Improve consistency of option validation error messages
 - Extract progress tracking into dedicated emitter
+- Add support for JSON and plain text output formats
