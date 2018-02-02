@@ -874,3 +874,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for JSON and plain text output formats
 - Improve consistency of return structures across helpers
 - Improve test coverage across utility modules
+- Improve separation of concerns between CLI and core engine
