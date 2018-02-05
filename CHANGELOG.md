@@ -880,3 +880,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle timeout gracefully during external operations
 - Add code comments explaining complex date mathematics
 - Add custom formatting options for summary tables
+- Extract file system operations into isolated adapter
