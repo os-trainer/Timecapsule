@@ -878,3 +878,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify cache invalidation logic under test conditions
 - Rename internal variables and parameters for clarity
 - Handle timeout gracefully during external operations
+- Add code comments explaining complex date mathematics
