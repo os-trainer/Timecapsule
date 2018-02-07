@@ -7717,3 +7717,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update README with example workflow scenarios
 - Simplify complex arithmetic expressions in date logic
 - Fix inaccurate execution duration calculation
+- Document test execution commands and coverage reports
