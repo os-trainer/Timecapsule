@@ -7714,3 +7714,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Replace magic numbers with named configuration constants
 - Simplify error throwing and propagation mechanisms
 - Add snapshot tests for terminal output formatters
+- Update README with example workflow scenarios
