@@ -882,3 +882,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add custom formatting options for summary tables
 - Extract file system operations into isolated adapter
 - Fix duplicate item registration in event subscriber list
+- Add system status inspection helper
