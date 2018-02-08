@@ -7720,3 +7720,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document test execution commands and coverage reports
 - Add elapsed execution time measurement helper
 - Verify error messages for missing required options
+- Correct string trimming logic for multi-line inputs
