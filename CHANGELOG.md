@@ -883,3 +883,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract file system operations into isolated adapter
 - Fix duplicate item registration in event subscriber list
 - Add system status inspection helper
+- Normalize naming of options and arguments across modules
