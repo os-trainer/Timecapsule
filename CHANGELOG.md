@@ -7722,3 +7722,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify error messages for missing required options
 - Correct string trimming logic for multi-line inputs
 - Add custom error classes for domain-specific failures
+- Fix formatting anomaly in terminal progress display
