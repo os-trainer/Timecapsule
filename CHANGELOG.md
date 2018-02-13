@@ -887,3 +887,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document configuration options and default parameters
 - Fix unexpected empty input parsing in command line options
 - Add comments explaining subtle edge cases in date math
+- Add custom error classes for domain-specific failures
