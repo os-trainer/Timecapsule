@@ -885,3 +885,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add system status inspection helper
 - Normalize naming of options and arguments across modules
 - Document configuration options and default parameters
+- Fix unexpected empty input parsing in command line options
