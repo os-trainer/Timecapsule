@@ -890,3 +890,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add custom error classes for domain-specific failures
 - Fix missing return statement in error branch
 - Improve README with comprehensive getting-started guide
+- Add key-value store wrapper for memory cache
