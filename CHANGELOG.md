@@ -889,3 +889,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add comments explaining subtle edge cases in date math
 - Add custom error classes for domain-specific failures
 - Fix missing return statement in error branch
+- Improve README with comprehensive getting-started guide
