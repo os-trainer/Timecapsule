@@ -7731,3 +7731,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for input validation helper functions
 - Correct negative duration calculations across days
 - Handle process interruption cleanly during generation
+- Add regression test for boundary date calculations
