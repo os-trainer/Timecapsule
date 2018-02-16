@@ -892,3 +892,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve README with comprehensive getting-started guide
 - Add key-value store wrapper for memory cache
 - Cover edge cases in date range calculation logic
+- Improve code maintainability index across core files
