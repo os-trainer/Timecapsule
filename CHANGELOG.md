@@ -895,3 +895,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve code maintainability index across core files
 - Refactor validation pipelines to support chaining
 - Add validation rules for date range boundaries
+- Update author and contributor information in package descriptor
