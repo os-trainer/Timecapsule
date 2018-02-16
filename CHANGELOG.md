@@ -897,3 +897,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add validation rules for date range boundaries
 - Update author and contributor information in package descriptor
 - Fix formatting anomaly in terminal progress display
+- Simplify complex arithmetic expressions in date logic
