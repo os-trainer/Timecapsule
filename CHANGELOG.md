@@ -894,3 +894,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover edge cases in date range calculation logic
 - Improve code maintainability index across core files
 - Refactor validation pipelines to support chaining
+- Add validation rules for date range boundaries
