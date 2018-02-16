@@ -7741,3 +7741,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle partial input objects during configuration merge
 - Implement helper utilities for parameter parsing
 - Add security considerations and safe execution notes
+- Improve separation of concerns between CLI and core engine
