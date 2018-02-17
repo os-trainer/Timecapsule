@@ -901,3 +901,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve error messages with actionable resolution hints
 - Extract terminal output logic into presentation layer
 - Update project dependencies to latest secure versions
+- Fix memory leak caused by unreleased cache handles
