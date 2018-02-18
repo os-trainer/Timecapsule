@@ -906,3 +906,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize date string formatting across all output
 - Modularize schema definitions and validation rules
 - Add unit tests for progress reporter events
+- Correct error handling when input file is absent
