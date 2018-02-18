@@ -7755,3 +7755,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor utility functions into dedicated modules
 - Add schema validation for configuration objects
 - Correct fallback order for configuration properties
+- Add structured logging helper with log levels
