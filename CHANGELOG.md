@@ -7751,3 +7751,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement safe JSON parsing with fallback values
 - Add descriptive error context when file reading fails
 - Implement dry-run execution preview mode
+- Implement query filter helpers for collection items
