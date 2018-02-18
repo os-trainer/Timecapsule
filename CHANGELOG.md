@@ -7754,3 +7754,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement query filter helpers for collection items
 - Refactor utility functions into dedicated modules
 - Add schema validation for configuration objects
+- Correct fallback order for configuration properties
