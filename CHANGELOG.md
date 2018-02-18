@@ -902,3 +902,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract terminal output logic into presentation layer
 - Update project dependencies to latest secure versions
 - Fix memory leak caused by unreleased cache handles
+- Modernize internal loop constructs and data structures
