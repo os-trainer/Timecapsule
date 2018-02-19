@@ -7757,3 +7757,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct fallback order for configuration properties
 - Add structured logging helper with log levels
 - Modernize internal loop constructs and data structures
+- Adjust timeout thresholds for integration test suite
