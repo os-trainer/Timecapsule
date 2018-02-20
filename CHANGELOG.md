@@ -7763,3 +7763,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Remove dead code branches and redundant checks
 - Add test harness for simulated time progression
 - Update development dependencies for test framework
+- Consolidate duplicate string sanitization routines
