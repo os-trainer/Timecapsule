@@ -907,3 +907,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modularize schema definitions and validation rules
 - Add unit tests for progress reporter events
 - Correct error handling when input file is absent
+- Add URL query string builder and parser
