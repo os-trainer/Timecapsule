@@ -909,3 +909,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct error handling when input file is absent
 - Add URL query string builder and parser
 - Implement configuration merging priority logic
+- Cover complex configuration inheritance in tests
