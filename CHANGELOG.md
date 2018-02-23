@@ -7769,3 +7769,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement numeric range clamping helper
 - Normalize naming of options and arguments across modules
 - Introduce mock harness for file system operations
+- Document custom commit message filtering and options
