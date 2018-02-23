@@ -911,3 +911,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement configuration merging priority logic
 - Cover complex configuration inheritance in tests
 - Fix circular reference error in object serialization
+- Add snapshot tests for terminal output formatters
