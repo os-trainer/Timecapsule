@@ -7770,3 +7770,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Normalize naming of options and arguments across modules
 - Introduce mock harness for file system operations
 - Document custom commit message filtering and options
+- Improve consistency of option validation error messages
