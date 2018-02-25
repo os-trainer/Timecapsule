@@ -7773,3 +7773,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve consistency of option validation error messages
 - Fix improper resource cleanup on exit
 - Improve function organization and module cohesion
+- Correct boundary check in range validation utility
