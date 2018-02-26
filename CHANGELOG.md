@@ -7776,3 +7776,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct boundary check in range validation utility
 - Add tests for custom output destination formatting
 - Modularize command-line argument processing logic
+- Improve markdown formatting and typographic consistency in README
