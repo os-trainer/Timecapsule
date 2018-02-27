@@ -915,3 +915,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test custom date formatting tokens and output strings
 - Fix incorrect status code returned on input error
 - Implement command line flag alias mapping
+- Improve markdown formatting and typographic consistency in README
