@@ -913,3 +913,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix circular reference error in object serialization
 - Add snapshot tests for terminal output formatters
 - Test custom date formatting tokens and output strings
+- Fix incorrect status code returned on input error
