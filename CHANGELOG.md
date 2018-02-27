@@ -7778,3 +7778,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modularize command-line argument processing logic
 - Improve markdown formatting and typographic consistency in README
 - Add elapsed execution time measurement helper
+- Ensure consistent parameter ordering in helper signatures
