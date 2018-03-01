@@ -7784,3 +7784,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover malformed command line options in test suite
 - Correct path delimiter handling across operating systems
 - Refactor date calculation routines for better readability
+- Correct error handling when input file is absent
