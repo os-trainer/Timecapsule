@@ -918,3 +918,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve markdown formatting and typographic consistency in README
 - Improve input handling and defensive type assertions
 - Configure automated dependency review settings
+- Decompose monolithic workflow function into focused steps
