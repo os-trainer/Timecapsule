@@ -919,3 +919,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve input handling and defensive type assertions
 - Configure automated dependency review settings
 - Decompose monolithic workflow function into focused steps
+- Implement query filter helpers for collection items
