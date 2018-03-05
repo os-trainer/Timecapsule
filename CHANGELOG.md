@@ -7791,3 +7791,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add comprehensive tests for configuration loader
 - Update npm packaging whitelist in files array
 - Refactor promise handling to use modern async/await patterns
+- Update license field and attribution in package manifest
