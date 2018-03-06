@@ -7793,3 +7793,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor promise handling to use modern async/await patterns
 - Update license field and attribution in package manifest
 - Implement date formatting and parsing helpers
+- Fix validation logic for boundary date ranges
