@@ -927,3 +927,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test timezone offset handling with varying dates
 - Add badges for license, build status, and version
 - Add test cases for boolean flag normalization
+- Add structured logging helper with log levels
