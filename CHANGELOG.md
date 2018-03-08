@@ -7798,3 +7798,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add command-line argument parser for configuration flags
 - Improve modularity of utility function parameter signatures
 - Simplify collection mapping and transformation pipelines
+- Clean up dead code and obsolete helper methods
