@@ -929,3 +929,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test cases for boolean flag normalization
 - Add structured logging helper with log levels
 - Add descriptive error context when file reading fails
+- Configure engine version compatibility constraints
