@@ -933,3 +933,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak in recurring event listeners
 - Verify proper error types are thrown on invalid arguments
 - Decouple output formatting from core computation logic
+- Add parameterized tests for date parsing variations
