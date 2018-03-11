@@ -7810,3 +7810,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data caching layer with key invalidation
 - Add structured logging helper with log levels
 - Standardize terminology across comments and log output
+- Restructure project exports to avoid circular dependencies
