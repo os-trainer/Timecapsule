@@ -7811,3 +7811,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add structured logging helper with log levels
 - Standardize terminology across comments and log output
 - Restructure project exports to avoid circular dependencies
+- Add instructions for running tests and linter locally
