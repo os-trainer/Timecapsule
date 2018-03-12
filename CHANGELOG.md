@@ -934,3 +934,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify proper error types are thrown on invalid arguments
 - Decouple output formatting from core computation logic
 - Add parameterized tests for date parsing variations
+- Add elapsed execution time measurement helper
