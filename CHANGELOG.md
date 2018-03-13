@@ -938,3 +938,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle unexpected zero-length arrays in reducer logic
 - Handle process interruption cleanly during generation
 - Add lightweight event emitter implementation
+- Implement file reading helper with encoding support
