@@ -937,3 +937,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add elapsed execution time measurement helper
 - Handle unexpected zero-length arrays in reducer logic
 - Handle process interruption cleanly during generation
+- Add lightweight event emitter implementation
