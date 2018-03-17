@@ -7818,3 +7818,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify difference between distribution algorithms
 - Implement defensive parameter sanitization
 - Cover deep object merge edge cases in unit tests
+- Add array sorting and filtering helper functions
