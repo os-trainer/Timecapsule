@@ -7816,3 +7816,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement object transformation and mapping utilities
 - Fix intermittent failure in date boundary comparison
 - Clarify difference between distribution algorithms
+- Implement defensive parameter sanitization
