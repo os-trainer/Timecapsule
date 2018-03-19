@@ -945,3 +945,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix edge case in input handling for empty strings
 - Test invalid input handling and expected exceptions
 - Configure semantic versioning and release scripts
+- Refactor promise handling to use modern async/await patterns
