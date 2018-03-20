@@ -7830,3 +7830,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test command line help output and option documentation
 - Verify idempotency of cleanup routines in test suite
 - Add support for custom output destination paths
+- Cover dry-run execution mode with assertion checks
