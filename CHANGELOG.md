@@ -951,3 +951,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix type coercion error during numeric comparisons
 - Implement numeric range clamping helper
 - Verify cache invalidation logic under test conditions
+
+## [1.9.0]
+### Changed
+- Update author and contributor information in package descriptor
