@@ -959,3 +959,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify control flow and reduce nested conditionals
 - Add tests for custom output destination formatting
 - Fix unhandled promise rejection in async error handler
+- Improve error messages with actionable resolution hints
