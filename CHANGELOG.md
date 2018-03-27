@@ -957,3 +957,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update author and contributor information in package descriptor
 - Refactor utility functions into dedicated modules
 - Simplify control flow and reduce nested conditionals
+- Add tests for custom output destination formatting
