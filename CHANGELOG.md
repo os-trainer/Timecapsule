@@ -7845,3 +7845,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor caching mechanism for cleaner abstraction
 - Add usage notes for multi-year historical generation
 - Test empty collection handling across utility functions
+- Implement file reading helper with encoding support
