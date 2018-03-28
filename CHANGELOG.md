@@ -7843,3 +7843,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle process interruption cleanly during generation
 - Add integration test verifying end-to-end workflow execution
 - Refactor caching mechanism for cleaner abstraction
+- Add usage notes for multi-year historical generation
