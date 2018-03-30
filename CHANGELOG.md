@@ -7850,3 +7850,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage across utility modules
 - Fix validation logic for boundary date ranges
 - Clarify frequency parameter behavior and percentage rules
+- Add system status inspection helper
