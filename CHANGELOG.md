@@ -960,3 +960,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add tests for custom output destination formatting
 - Fix unhandled promise rejection in async error handler
 - Improve error messages with actionable resolution hints
+- Update project dependencies to latest secure versions
