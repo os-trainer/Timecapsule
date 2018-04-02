@@ -7853,3 +7853,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add system status inspection helper
 - Fix incorrect status code returned on input error
 - Initialize repository readme and overview notes
+- Implement deep object merging utility
