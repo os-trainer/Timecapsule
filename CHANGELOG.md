@@ -964,3 +964,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add performance recommendations for large-scale runs
 - Handle partial input objects during configuration merge
 - Verify platform-specific path handling in test suite
+- Update repository keywords and discovery tags
