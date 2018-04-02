@@ -962,3 +962,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve error messages with actionable resolution hints
 - Update project dependencies to latest secure versions
 - Add performance recommendations for large-scale runs
+- Handle partial input objects during configuration merge
