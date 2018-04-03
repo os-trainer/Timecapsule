@@ -968,3 +968,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add security considerations and safe execution notes
 - Add support for verbose diagnostic output
 - Fix potential race condition during file initialization
+- Refactor validation pipelines to support chaining
