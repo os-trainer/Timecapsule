@@ -7856,3 +7856,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement deep object merging utility
 - Implement command line flag alias mapping
 - Configure environment file loading conventions
+- Configure distribution bundle output settings
