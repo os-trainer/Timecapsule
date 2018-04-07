@@ -975,3 +975,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration for code coverage reporting
 - Ensure consistent error status codes across exit paths
 - Add multi-step workflow runner utility
+- Consolidate duplicate string sanitization routines
