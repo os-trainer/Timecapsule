@@ -973,3 +973,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Resolve incorrect return value for edge-case queries
 - Implement progress reporter for long-running workflows
 - Add configuration for code coverage reporting
+- Ensure consistent error status codes across exit paths
