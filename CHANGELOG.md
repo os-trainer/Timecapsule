@@ -7870,3 +7870,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline event dispatching mechanism
 - Handle partial input objects during configuration merge
 - Implement configuration file loader with fallback defaults
+- Add FAQ section covering common configuration questions
