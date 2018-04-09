@@ -7873,3 +7873,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add FAQ section covering common configuration questions
 - Refactor configuration fallback resolution
 - Implement customizable output formatting options
+- Add unit tests for progress reporter events
