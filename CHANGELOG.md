@@ -979,3 +979,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document template options for supported project layouts
 - Cover dry-run execution mode with assertion checks
 - Add configuration for source map generation
+- Add URL query string builder and parser
