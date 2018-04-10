@@ -981,3 +981,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration for source map generation
 - Add URL query string builder and parser
 - Add unit tests for rate limiting and throttling helpers
+- Correct fallback order for configuration properties
