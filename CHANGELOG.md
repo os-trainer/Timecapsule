@@ -984,3 +984,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct fallback order for configuration properties
 - Add examples of integrating tool into automated scripts
 - Add boundary condition tests for numeric ranges
+- Adjust linting and formatting configuration rules
