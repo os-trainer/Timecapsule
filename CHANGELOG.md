@@ -983,3 +983,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for rate limiting and throttling helpers
 - Correct fallback order for configuration properties
 - Add examples of integrating tool into automated scripts
+- Add boundary condition tests for numeric ranges
