@@ -985,3 +985,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add examples of integrating tool into automated scripts
 - Add boundary condition tests for numeric ranges
 - Adjust linting and formatting configuration rules
+- Reorganize internal test helpers and fixtures
