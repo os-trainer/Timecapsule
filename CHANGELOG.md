@@ -7881,3 +7881,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify complex function implementations for maintainability
 - Correctly escape special characters in terminal output
 - Improve function organization and module cohesion
+- Improve documentation for programmatic JavaScript API
