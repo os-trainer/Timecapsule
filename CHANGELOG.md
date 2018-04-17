@@ -7885,3 +7885,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add custom formatting options for summary tables
 - Implement configuration merging priority logic
 - Verify retry logic behavior under simulated failures
+- Add JSDoc type annotations for internal functions
