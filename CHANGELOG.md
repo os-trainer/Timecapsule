@@ -7887,3 +7887,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify retry logic behavior under simulated failures
 - Add JSDoc type annotations for internal functions
 - Fix missing return statement in error branch
+- Adjust linting and formatting configuration rules
