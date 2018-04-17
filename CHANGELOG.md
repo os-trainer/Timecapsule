@@ -7888,3 +7888,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add JSDoc type annotations for internal functions
 - Fix missing return statement in error branch
 - Adjust linting and formatting configuration rules
+- Fix duplicate item registration in event subscriber list
