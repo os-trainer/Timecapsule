@@ -993,3 +993,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement batch processing utility for array inputs
 - Add descriptive error context when file reading fails
 - Test empty collection handling across utility functions
+- Add support for custom output destination paths
