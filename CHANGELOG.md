@@ -995,3 +995,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test empty collection handling across utility functions
 - Add support for custom output destination paths
 - Extract date formatting templates into reusable helpers
+- Fix memory leak caused by unreleased cache handles
