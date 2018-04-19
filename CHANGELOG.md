@@ -7895,3 +7895,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect boolean flag evaluation
 - Add defensive fallbacks for unexpected null values
 - Remove dead code branches and redundant checks
+- Add performance recommendations for large-scale runs
