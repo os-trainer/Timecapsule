@@ -7899,3 +7899,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for JSON and plain text output formats
 - Fix circular reference error in object serialization
 - Add validation rules for date range boundaries
+- Add snapshot tests for terminal output formatters
