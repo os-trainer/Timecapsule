@@ -7907,3 +7907,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input sanitization for file paths
 - Correct timestamp calculation for timezone offsets
 - Clarify installation instructions and system prerequisites
+- Add multi-step workflow runner utility
