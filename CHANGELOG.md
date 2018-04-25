@@ -1009,3 +1009,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update license field and attribution in package manifest
 - Handle missing configuration gracefully with defaults
 - Add safe string truncation helper
+- Add structured logging helper with log levels
