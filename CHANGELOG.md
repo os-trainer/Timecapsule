@@ -1011,3 +1011,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add safe string truncation helper
 - Add structured logging helper with log levels
 - Add performance assertions for large collection processing
+- Handle timeout gracefully during external operations
