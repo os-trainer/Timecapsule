@@ -7917,3 +7917,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add project documentation template and license
 - Simplify complex arithmetic expressions in date logic
 - Implement flexible filter predicate builder
+- Fix argument parsing when flag value contains spaces
