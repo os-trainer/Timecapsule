@@ -1013,3 +1013,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add performance assertions for large collection processing
 - Handle timeout gracefully during external operations
 - Implement file reading helper with encoding support
+- Add npm script for running linter in check-only mode
