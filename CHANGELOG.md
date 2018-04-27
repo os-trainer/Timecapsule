@@ -7928,3 +7928,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up project structure and remove redundant exports
 - Fix inconsistent return type on validation failure
 - Add assertions to catch illegal state during execution
+- Fix unhandled promise rejection in async error handler
