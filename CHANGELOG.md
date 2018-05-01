@@ -1020,3 +1020,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle file permission errors with actionable messages
 - Simplify collection mapping and transformation pipelines
 - Implement flexible filter predicate builder
+- Fix incorrect status code returned on input error
