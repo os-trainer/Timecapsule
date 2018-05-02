@@ -7931,3 +7931,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unhandled promise rejection in async error handler
 - Rename internal variables and parameters for clarity
 - Simplify control flow and reduce nested conditionals
+- Add unit tests for string formatting and truncation helpers
