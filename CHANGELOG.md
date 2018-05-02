@@ -1021,3 +1021,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify collection mapping and transformation pipelines
 - Implement flexible filter predicate builder
 - Fix incorrect status code returned on input error
+- Document supported platforms and shell environments
