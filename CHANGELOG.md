@@ -1023,3 +1023,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect status code returned on input error
 - Document supported platforms and shell environments
 - Improve consistency of return structures across helpers
+- Fix edge case in input handling for empty strings
