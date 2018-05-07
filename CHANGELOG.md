@@ -1033,3 +1033,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update project dependencies to latest secure versions
 - Remove dead code branches and redundant checks
 - Cover complex configuration inheritance in tests
+- Improve readability of complex conditional evaluations
