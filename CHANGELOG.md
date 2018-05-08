@@ -7935,3 +7935,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reduce duplicated logic across helper utilities
 - Document date format requirements and accepted tokens
 - Add safe string truncation helper
+- Add regression tests for previous edge-case bugs
