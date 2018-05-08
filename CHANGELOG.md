@@ -1034,3 +1034,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Remove dead code branches and redundant checks
 - Cover complex configuration inheritance in tests
 - Improve readability of complex conditional evaluations
+- Correct fallback order for configuration properties
