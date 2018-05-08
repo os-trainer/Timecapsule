@@ -7937,3 +7937,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add safe string truncation helper
 - Add regression tests for previous edge-case bugs
 - Add basic data caching layer with key invalidation
+- Ensure consistent error status codes across exit paths
