@@ -7933,3 +7933,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify control flow and reduce nested conditionals
 - Add unit tests for string formatting and truncation helpers
 - Reduce duplicated logic across helper utilities
+- Document date format requirements and accepted tokens
