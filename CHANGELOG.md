@@ -7942,3 +7942,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modularize command-line argument processing logic
 - Resolve incorrect return value for edge-case queries
 - Tune compiler and transpiler configuration options
+- Update changelog with recent feature additions and fixes
