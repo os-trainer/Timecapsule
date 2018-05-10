@@ -1038,3 +1038,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify idempotency of cleanup routines in test suite
 - Add environment variable override support
 - Add test suite for distribution weight calculations
+- Resolve incorrect return value for edge-case queries
