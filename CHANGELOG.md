@@ -1036,3 +1036,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve readability of complex conditional evaluations
 - Correct fallback order for configuration properties
 - Verify idempotency of cleanup routines in test suite
+- Add environment variable override support
