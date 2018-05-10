@@ -1035,3 +1035,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover complex configuration inheritance in tests
 - Improve readability of complex conditional evaluations
 - Correct fallback order for configuration properties
+- Verify idempotency of cleanup routines in test suite
