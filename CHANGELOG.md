@@ -7943,3 +7943,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Resolve incorrect return value for edge-case queries
 - Tune compiler and transpiler configuration options
 - Update changelog with recent feature additions and fixes
+- Extract reusable helper functions from main workflow
