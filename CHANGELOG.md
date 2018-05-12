@@ -1043,3 +1043,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage for error recovery branches
 - Add key-value store wrapper for memory cache
 - Handle empty environment variables without error
+- Cover deep object merge edge cases in unit tests
