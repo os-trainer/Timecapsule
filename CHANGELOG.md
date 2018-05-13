@@ -7944,3 +7944,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Tune compiler and transpiler configuration options
 - Update changelog with recent feature additions and fixes
 - Extract reusable helper functions from main workflow
+- Extract file system operations into isolated adapter
