@@ -7945,3 +7945,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update changelog with recent feature additions and fixes
 - Extract reusable helper functions from main workflow
 - Extract file system operations into isolated adapter
+- Fix duplicate item registration in event subscriber list
