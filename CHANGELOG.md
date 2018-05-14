@@ -7948,3 +7948,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix duplicate item registration in event subscriber list
 - Improve consistency of option validation error messages
 - Add unit tests for terminal colorization toggles
+- Consolidate string manipulation utilities
