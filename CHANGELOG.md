@@ -7950,3 +7950,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for terminal colorization toggles
 - Consolidate string manipulation utilities
 - Fix missing return statement in error branch
+- Add elapsed execution time measurement helper
