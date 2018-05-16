@@ -7956,3 +7956,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract terminal output logic into presentation layer
 - Verify error messages for missing required options
 - Add instructions for running tests and linter locally
+- Decouple output formatting from core computation logic
