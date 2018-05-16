@@ -1047,3 +1047,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add comments explaining subtle edge cases in date math
 - Add assertions for default configuration fallbacks
 - Adjust prettier configuration for consistent indentation
+- Add defensive fallbacks for unexpected null values
