@@ -7955,3 +7955,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify proper error types are thrown on invalid arguments
 - Extract terminal output logic into presentation layer
 - Verify error messages for missing required options
+- Add instructions for running tests and linter locally
