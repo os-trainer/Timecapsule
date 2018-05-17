@@ -7957,3 +7957,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify error messages for missing required options
 - Add instructions for running tests and linter locally
 - Decouple output formatting from core computation logic
+- Add test suite for distribution weight calculations
