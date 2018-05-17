@@ -7958,3 +7958,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions for running tests and linter locally
 - Decouple output formatting from core computation logic
 - Add test suite for distribution weight calculations
+- Fix unexpected empty input parsing in command line options
