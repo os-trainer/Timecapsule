@@ -7960,3 +7960,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test suite for distribution weight calculations
 - Fix unexpected empty input parsing in command line options
 - Clarify installation instructions and system prerequisites
+- Normalize naming of options and arguments across modules
