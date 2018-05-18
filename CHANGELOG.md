@@ -1051,3 +1051,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify error messages for missing required options
 - Add boundary condition tests for numeric ranges
 - Fix type coercion error during numeric comparisons
+- Reduce duplicated logic across helper utilities
