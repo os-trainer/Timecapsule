@@ -7964,3 +7964,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for rate limiting and throttling helpers
 - Add custom formatting options for summary tables
 - Update package repository URLs and issue tracker links
+- Handle file permission errors with actionable messages
