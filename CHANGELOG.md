@@ -1055,3 +1055,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document error handling strategies and exit codes
 - Improve test coverage across utility modules
 - Streamline parameter passing across internal layers
+- Implement summary statistics calculation helper
