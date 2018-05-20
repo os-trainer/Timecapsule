@@ -1057,3 +1057,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline parameter passing across internal layers
 - Implement summary statistics calculation helper
 - Test command line help output and option documentation
+- Refactor caching mechanism for cleaner abstraction
