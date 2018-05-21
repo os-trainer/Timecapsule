@@ -7970,3 +7970,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Replace magic numbers with named configuration constants
 - Configure semantic versioning and release scripts
 - Add custom error classes for domain-specific failures
+- Refactor utility functions into dedicated modules
