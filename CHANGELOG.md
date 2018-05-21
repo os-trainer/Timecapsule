@@ -7969,3 +7969,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add array sorting and filtering helper functions
 - Replace magic numbers with named configuration constants
 - Configure semantic versioning and release scripts
+- Add custom error classes for domain-specific failures
