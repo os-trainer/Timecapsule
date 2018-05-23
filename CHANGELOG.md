@@ -1061,3 +1061,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve input handling and defensive type assertions
 - Implement numeric range clamping helper
 - Correct regex pattern matching for date validation
+- Modularize command-line argument processing logic
