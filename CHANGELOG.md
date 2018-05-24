@@ -7974,3 +7974,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix argument parsing when flag value contains spaces
 - Add initial contributor guidelines template
 - Implement safe JSON parsing with fallback values
+- Add configuration for code coverage reporting
