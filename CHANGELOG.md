@@ -7983,3 +7983,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add environment variable override support
 - Improve documentation for programmatic JavaScript API
 - Handle missing configuration gracefully with defaults
+- Remove obsolete polyfills and legacy compatibility shims
