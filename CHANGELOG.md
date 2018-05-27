@@ -7981,3 +7981,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix type coercion error during numeric comparisons
 - Consolidate error definitions and status messages
 - Add environment variable override support
+- Improve documentation for programmatic JavaScript API
