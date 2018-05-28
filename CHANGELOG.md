@@ -1064,3 +1064,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modularize command-line argument processing logic
 - Add unit tests for terminal colorization toggles
 - Clean up project structure and remove redundant exports
+- Correct boundary check in range validation utility
