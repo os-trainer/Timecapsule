@@ -7988,3 +7988,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add code comments explaining complex date mathematics
 - Add basic data processing and normalization pipeline
 - Fix improper resource cleanup on exit
+- Add security considerations and safe execution notes
