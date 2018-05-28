@@ -1063,3 +1063,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct regex pattern matching for date validation
 - Modularize command-line argument processing logic
 - Add unit tests for terminal colorization toggles
+- Clean up project structure and remove redundant exports
