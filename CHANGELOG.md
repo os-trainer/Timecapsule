@@ -1067,3 +1067,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct boundary check in range validation utility
 - Improve clarity of variable scopes and closures
 - Configure environment file loading conventions
+- Correct error handling when input file is absent
