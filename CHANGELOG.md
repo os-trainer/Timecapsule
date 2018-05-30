@@ -1070,3 +1070,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct error handling when input file is absent
 - Add system status inspection helper
 - Remove obsolete polyfills and legacy compatibility shims
+- Handle null and undefined options defensively
