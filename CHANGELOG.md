@@ -1071,3 +1071,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add system status inspection helper
 - Remove obsolete polyfills and legacy compatibility shims
 - Handle null and undefined options defensively
+- Verify retry logic behavior under simulated failures
