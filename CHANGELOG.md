@@ -7994,3 +7994,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Remove unused code and obsolete internal variables
 - Add contribution guidelines and development workflow steps
 - Fix potential race condition during file initialization
+- Implement progress reporter for long-running workflows
