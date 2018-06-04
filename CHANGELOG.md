@@ -7998,3 +7998,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add performance assertions for large collection processing
 - Update package version in manifest file
 - Implement date formatting and parsing helpers
+- Fix unhandled promise rejection in async error handler
