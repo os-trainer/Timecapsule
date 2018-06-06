@@ -8001,3 +8001,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unhandled promise rejection in async error handler
 - Add unit tests for input validation helper functions
 - Document logging levels and diagnostic flags
+- Fix intermittent failure in date boundary comparison
