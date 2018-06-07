@@ -8004,3 +8004,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix intermittent failure in date boundary comparison
 - Extract configuration validation into standalone validator
 - Add reusable string formatting utility functions
+- Document template options for supported project layouts
