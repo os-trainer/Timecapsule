@@ -1083,3 +1083,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate string manipulation utilities
 - Document distribution patterns and statistical behavior
 - Add custom error classes for domain-specific failures
+- Add snapshot tests for terminal output formatters
