@@ -1085,3 +1085,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add custom error classes for domain-specific failures
 - Add snapshot tests for terminal output formatters
 - Add unit tests for progress reporter events
+- Update lockfile with verified dependency tree
