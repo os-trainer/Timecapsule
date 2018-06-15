@@ -8014,3 +8014,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add validation rules for date range boundaries
 - Improve package scripts for building and testing
 - Add support for JSON and plain text output formats
+- Consolidate duplicate string sanitization routines
