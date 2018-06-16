@@ -1089,3 +1089,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create foundation modules for core processing
 - Add integration test verifying end-to-end workflow execution
 - Improve function organization and module cohesion
+- Fix off-by-one error in collection index calculations
