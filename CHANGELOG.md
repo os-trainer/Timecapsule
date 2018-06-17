@@ -1092,3 +1092,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix off-by-one error in collection index calculations
 - Clean up dead code and obsolete helper methods
 - Test custom date formatting tokens and output strings
+- Implement pagination helper for collection data
