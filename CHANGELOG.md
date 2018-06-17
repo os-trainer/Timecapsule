@@ -8018,3 +8018,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add multi-step workflow runner utility
 - Add unit tests for terminal colorization toggles
 - Handle null and undefined options defensively
+- Add clean script to purge build artifacts and temp files
