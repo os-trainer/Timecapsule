@@ -8022,3 +8022,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix off-by-one error in collection index calculations
 - Add key-value store wrapper for memory cache
 - Handle partial input objects during configuration merge
+- Update project dependencies to latest secure versions
