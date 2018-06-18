@@ -1098,3 +1098,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract reusable helper functions from main workflow
 - Add basic data caching layer with key invalidation
 - Extract date formatting templates into reusable helpers
+- Update API reference documentation for core exports
