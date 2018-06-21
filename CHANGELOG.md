@@ -1109,3 +1109,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline parameter passing across internal layers
 - Correct path delimiter handling across operating systems
 - Add support for verbose diagnostic output
+- Cover deep object merge edge cases in unit tests
