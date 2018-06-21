@@ -8025,3 +8025,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update project dependencies to latest secure versions
 - Extract date formatting templates into reusable helpers
 - Document environment variable configuration overrides
+- Ensure strict immutability of configuration defaults
