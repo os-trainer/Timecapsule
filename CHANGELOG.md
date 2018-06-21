@@ -1107,3 +1107,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add array sorting and filtering helper functions
 - Add unit tests for string formatting and truncation helpers
 - Streamline parameter passing across internal layers
+- Correct path delimiter handling across operating systems
