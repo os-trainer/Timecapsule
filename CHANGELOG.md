@@ -1104,3 +1104,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add table of contents to main project documentation
 - Add support for JSON and plain text output formats
 - Improve code formatting and consistent whitespace
+- Add array sorting and filtering helper functions
