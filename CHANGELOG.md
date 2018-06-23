@@ -8032,3 +8032,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add npm script for running unit test suite
 - Correct boundary check in range validation utility
 - Implement file reading helper with encoding support
+- Tune lint-staged configuration for staged files
