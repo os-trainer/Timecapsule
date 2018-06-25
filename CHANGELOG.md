@@ -8042,3 +8042,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize date string formatting across all output
 - Handle empty input collections without throwing exceptions
 - Add environment variable override support
+- Update changelog with recent feature additions and fixes
