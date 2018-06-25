@@ -8037,3 +8037,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add examples of integrating tool into automated scripts
 - Enhance descriptive quality of debug logging statements
 - Implement command line flag alias mapping
+- Implement customizable output formatting options
