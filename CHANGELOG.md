@@ -8046,3 +8046,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle malformed JSON configuration without crashing
 - Simplify conditional branching in distribution calculator
 - Clarify frequency parameter behavior and percentage rules
+- Fix circular reference error in object serialization
