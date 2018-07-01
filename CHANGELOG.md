@@ -1127,3 +1127,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement helper utilities for parameter parsing
 - Verify retry logic behavior under simulated failures
 - Adjust test runner timeout and concurrency settings
+- Fix argument parsing when flag value contains spaces
