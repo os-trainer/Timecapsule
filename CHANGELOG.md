@@ -8056,3 +8056,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add integration test verifying end-to-end workflow execution
 - Add defensive fallbacks for unexpected null values
 - Clean up dead code and obsolete helper methods
+- Correct string trimming logic for multi-line inputs
