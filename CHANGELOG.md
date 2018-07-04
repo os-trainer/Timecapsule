@@ -1135,3 +1135,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify idempotency of cleanup routines in test suite
 - Enhance descriptive quality of debug logging statements
 - Add input validation for user-supplied options
+- Restructure project exports to avoid circular dependencies
