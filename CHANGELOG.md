@@ -8062,3 +8062,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct output formatting when statistics are zero
 - Adjust prettier configuration for consistent indentation
 - Implement stream-based chunk processor
+- Add troubleshooting notes for frequent setup issues
