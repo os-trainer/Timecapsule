@@ -8065,3 +8065,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add troubleshooting notes for frequent setup issues
 - Update lockfile with verified dependency tree
 - Add strict boundary checks to numeric operations
+- Fix duplicate item registration in event subscriber list
