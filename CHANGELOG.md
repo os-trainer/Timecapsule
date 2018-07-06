@@ -1140,3 +1140,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration file for continuous integration
 - Cover malformed command line options in test suite
 - Add colorized terminal output formatter
+- Improve inline code documentation and parameter descriptions
