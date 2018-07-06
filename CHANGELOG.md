@@ -8068,3 +8068,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix duplicate item registration in event subscriber list
 - Consolidate error definitions and status messages
 - Verify cache invalidation logic under test conditions
+- Fix incorrect status code returned on input error
