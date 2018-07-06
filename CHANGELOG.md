@@ -1138,3 +1138,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Restructure project exports to avoid circular dependencies
 - Clarify frequency parameter behavior and percentage rules
 - Add configuration file for continuous integration
+- Cover malformed command line options in test suite
