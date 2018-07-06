@@ -1137,3 +1137,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input validation for user-supplied options
 - Restructure project exports to avoid circular dependencies
 - Clarify frequency parameter behavior and percentage rules
+- Add configuration file for continuous integration
