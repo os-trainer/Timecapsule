@@ -1144,3 +1144,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement command dispatcher with routing logic
 - Clean up temporary files and ensure deterministic cleanup
 - Add snapshot tests for terminal output formatters
+- Add troubleshooting notes for frequent setup issues
