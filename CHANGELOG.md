@@ -1147,3 +1147,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add troubleshooting notes for frequent setup issues
 - Add safe deep clone utility function
 - Fix validation logic for boundary date ranges
+- Add unit tests for collection filter predicates
