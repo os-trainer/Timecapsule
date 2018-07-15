@@ -1159,3 +1159,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Normalize naming of options and arguments across modules
 - Add custom formatting options for summary tables
+- Add clear synthetic demonstration disclaimer in documentation
