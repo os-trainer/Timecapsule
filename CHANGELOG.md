@@ -1161,3 +1161,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add custom formatting options for summary tables
 - Add clear synthetic demonstration disclaimer in documentation
 - Add unit tests for progress reporter events
+- Add validation rules for date range boundaries
