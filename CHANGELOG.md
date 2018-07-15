@@ -1154,3 +1154,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline event dispatching mechanism
 - Implement customizable output formatting options
 - Reorganize internal test helpers and fixtures
+
+## [2.1.0]
+### Changed
+- Normalize naming of options and arguments across modules
