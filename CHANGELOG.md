@@ -1153,3 +1153,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add usage examples for common command-line options
 - Streamline event dispatching mechanism
 - Implement customizable output formatting options
+- Reorganize internal test helpers and fixtures
