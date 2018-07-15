@@ -1152,3 +1152,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test custom date formatting tokens and output strings
 - Add usage examples for common command-line options
 - Streamline event dispatching mechanism
+- Implement customizable output formatting options
