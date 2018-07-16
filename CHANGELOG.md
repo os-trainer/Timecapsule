@@ -1163,3 +1163,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for progress reporter events
 - Add validation rules for date range boundaries
 - Correctly escape special characters in terminal output
+- Refactor caching mechanism for cleaner abstraction
