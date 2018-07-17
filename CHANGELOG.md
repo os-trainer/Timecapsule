@@ -1165,3 +1165,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correctly escape special characters in terminal output
 - Refactor caching mechanism for cleaner abstraction
 - Verify graceful handling of malformed input data
+- Add assertions to catch illegal state during execution
