@@ -1168,3 +1168,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add assertions to catch illegal state during execution
 - Add lightweight event emitter implementation
 - Correct regex pattern matching for date validation
+- Add parameterized tests for date parsing variations
