@@ -8084,3 +8084,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix formatting anomaly in terminal progress display
 - Refactor validation pipelines to support chaining
 - Extract date formatting templates into reusable helpers
+- Fix inconsistent return type on validation failure
