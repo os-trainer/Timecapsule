@@ -1172,3 +1172,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add examples of integrating tool into automated scripts
 - Add comprehensive tests for configuration loader
 - Add configuration for code coverage reporting
+- Correct negative duration calculations across days
