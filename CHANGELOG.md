@@ -8090,3 +8090,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover malformed command line options in test suite
 - Add input validation for user-supplied options
 - Fix missing return statement in error branch
+- Extract file system operations into isolated adapter
