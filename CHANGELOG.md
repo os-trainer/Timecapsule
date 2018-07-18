@@ -8088,3 +8088,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Rename internal variables and parameters for clarity
 - Improve function organization and module cohesion
 - Cover malformed command line options in test suite
+- Add input validation for user-supplied options
