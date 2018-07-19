@@ -8091,3 +8091,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input validation for user-supplied options
 - Fix missing return statement in error branch
 - Extract file system operations into isolated adapter
+- Add unit tests for rate limiting and throttling helpers
