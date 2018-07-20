@@ -1177,3 +1177,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement template interpolation utility
 - Cover complex configuration inheritance in tests
 - Update package repository URLs and issue tracker links
+- Correct string trimming logic for multi-line inputs
