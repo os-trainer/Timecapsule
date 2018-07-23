@@ -8096,3 +8096,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect default parameter assignment
 - Update development configuration and editor settings
 - Add safe deep clone utility function
+- Fix string encoding issue when processing special characters
