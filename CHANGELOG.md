@@ -1182,3 +1182,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add elapsed execution time measurement helper
 - Fix string encoding issue when processing special characters
 - Verify proper error types are thrown on invalid arguments
+- Add defensive fallbacks for unexpected null values
