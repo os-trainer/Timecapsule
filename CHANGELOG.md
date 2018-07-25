@@ -1184,3 +1184,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify proper error types are thrown on invalid arguments
 - Add defensive fallbacks for unexpected null values
 - Add schema validation for configuration objects
+- Add task definitions for local development tooling
