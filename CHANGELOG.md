@@ -8101,3 +8101,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add multi-step workflow runner utility
 - Fix memory leak in recurring event listeners
 - Verify proper error types are thrown on invalid arguments
+- Handle process interruption cleanly during generation
