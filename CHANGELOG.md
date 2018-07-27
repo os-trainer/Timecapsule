@@ -8113,3 +8113,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct path delimiter handling across operating systems
 - Implement deep object merging utility
 - Add parameter type checks to public library methods
+- Simplify error throwing and propagation mechanisms
