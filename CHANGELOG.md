@@ -1186,3 +1186,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add schema validation for configuration objects
 - Add task definitions for local development tooling
 - Modularize schema definitions and validation rules
+- Implement progress reporter for long-running workflows
