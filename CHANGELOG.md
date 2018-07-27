@@ -1188,3 +1188,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modularize schema definitions and validation rules
 - Implement progress reporter for long-running workflows
 - Standardize exception messages across validation logic
+- Add unit tests for string formatting and truncation helpers
