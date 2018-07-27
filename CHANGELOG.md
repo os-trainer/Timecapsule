@@ -1189,3 +1189,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement progress reporter for long-running workflows
 - Standardize exception messages across validation logic
 - Add unit tests for string formatting and truncation helpers
+- Add clean script to purge build artifacts and temp files
