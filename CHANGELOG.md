@@ -8118,3 +8118,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input sanitization for file paths
 - Handle timeout gracefully during external operations
 - Streamline event dispatching mechanism
+- Implement configuration merging priority logic
