@@ -8121,3 +8121,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement configuration merging priority logic
 - Document date format requirements and accepted tokens
 - Improve test coverage across utility modules
+- Add custom formatting options for summary tables
