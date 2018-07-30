@@ -8123,3 +8123,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage across utility modules
 - Add custom formatting options for summary tables
 - Fix incorrect boolean flag evaluation
+- Add table of contents to main project documentation
