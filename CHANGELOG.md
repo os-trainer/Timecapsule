@@ -8127,3 +8127,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for collection filter predicates
 - Simplify complex arithmetic expressions in date logic
 - Improve code maintainability index across core files
+- Adjust prettier configuration for consistent indentation
