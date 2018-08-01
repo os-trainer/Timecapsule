@@ -1195,3 +1195,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor argument parsing to standardize option names
 - Cover dry-run execution mode with assertion checks
 - Add boundary condition tests for numeric ranges
+- Streamline parameter passing across internal layers
