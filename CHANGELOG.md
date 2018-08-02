@@ -8135,3 +8135,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate duplicate string sanitization routines
 - Fix unexpected empty input parsing in command line options
 - Improve input handling and defensive type assertions
+- Implement flexible filter predicate builder
