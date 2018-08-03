@@ -8139,3 +8139,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify control flow and reduce nested conditionals
 - Cover dry-run execution mode with assertion checks
 - Ensure all async rejections provide meaningful Error instances
+- Improve inline code documentation and parameter descriptions
