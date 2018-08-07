@@ -1214,3 +1214,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data processing and normalization pipeline
 - Correct fallback order for configuration properties
 - Resolve incorrect return value for edge-case queries
+- Improve documentation for programmatic JavaScript API
