@@ -1212,3 +1212,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add verification tests for safe JSON parsing utilities
 - Extract terminal output logic into presentation layer
 - Add basic data processing and normalization pipeline
+- Correct fallback order for configuration properties
