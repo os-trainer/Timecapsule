@@ -8142,3 +8142,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve inline code documentation and parameter descriptions
 - Implement query filter helpers for collection items
 - Handle undefined configuration sections safely
+- Document environment variable configuration overrides
