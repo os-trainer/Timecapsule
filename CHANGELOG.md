@@ -1219,3 +1219,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor utility functions into dedicated modules
 - Handle null and undefined options defensively
 - Remove unused code and obsolete internal variables
+- Fix unhandled promise rejection in async error handler
