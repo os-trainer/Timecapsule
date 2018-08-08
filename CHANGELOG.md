@@ -1217,3 +1217,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve documentation for programmatic JavaScript API
 - Add array sorting and filtering helper functions
 - Refactor utility functions into dedicated modules
+- Handle null and undefined options defensively
