@@ -1221,3 +1221,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Remove unused code and obsolete internal variables
 - Fix unhandled promise rejection in async error handler
 - Update README with example workflow scenarios
+- Add custom formatting options for summary tables
