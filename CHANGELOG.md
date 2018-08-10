@@ -1226,3 +1226,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add performance assertions for large collection processing
 - Add environment variable override support
 - Create initial configuration defaults
+- Implement template interpolation utility
