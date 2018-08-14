@@ -8153,3 +8153,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify idempotency of cleanup routines in test suite
 - Add command-line argument parser for configuration flags
 - Implement command dispatcher with routing logic
+- Extract progress tracking into dedicated emitter
