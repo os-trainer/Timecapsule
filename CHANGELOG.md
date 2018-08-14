@@ -8155,3 +8155,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement command dispatcher with routing logic
 - Extract progress tracking into dedicated emitter
 - Add schema validation for configuration objects
+- Add examples comparing standard and conventional commits
