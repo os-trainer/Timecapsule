@@ -1228,3 +1228,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create initial configuration defaults
 - Implement template interpolation utility
 - Extract configuration validation into standalone validator
+- Fix validation logic for boundary date ranges
