@@ -8158,3 +8158,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add examples comparing standard and conventional commits
 - Implement retry mechanism for transient operations
 - Add comprehensive tests for configuration loader
+- Fix argument parsing when flag value contains spaces
