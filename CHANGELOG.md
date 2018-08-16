@@ -1237,3 +1237,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Rename internal variables and parameters for clarity
 - Correct path delimiter handling across operating systems
 - Add custom error classes for domain-specific failures
+- Add instructions for running tests and linter locally
