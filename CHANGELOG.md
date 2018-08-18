@@ -8168,3 +8168,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix intermittent failure in date boundary comparison
 - Document configuration options and default parameters
 - Add safe deep clone utility function
+- Standardize indentation and line wrapping across files
