@@ -1243,3 +1243,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add lightweight event emitter implementation
 - Verify graceful handling of malformed input data
 - Restructure project exports to avoid circular dependencies
+- Add unit tests for progress reporter events
