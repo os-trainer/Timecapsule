@@ -1239,3 +1239,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add custom error classes for domain-specific failures
 - Add instructions for running tests and linter locally
 - Implement summary statistics calculation helper
+- Decompose monolithic workflow function into focused steps
