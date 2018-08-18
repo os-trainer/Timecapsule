@@ -8166,3 +8166,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document distribution patterns and statistical behavior
 - Improve test coverage for error recovery branches
 - Fix intermittent failure in date boundary comparison
+- Document configuration options and default parameters
