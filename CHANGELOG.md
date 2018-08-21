@@ -8175,3 +8175,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Set up basic test fixtures and harness
 - Set up base development environment and tooling
 - Reduce duplicated logic across helper utilities
+- Refactor array processing routines to use functional methods
