@@ -8179,3 +8179,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover complex configuration inheritance in tests
 - Implement dry-run execution preview mode
 - Add acknowledgments and open-source project credits
+- Add snapshot tests for terminal output formatters
