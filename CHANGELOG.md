@@ -1250,3 +1250,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement command dispatcher with routing logic
 - Add examples comparing standard and conventional commits
 - Add JSDoc type annotations for internal functions
+- Add support for JSON and plain text output formats
