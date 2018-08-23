@@ -8180,3 +8180,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement dry-run execution preview mode
 - Add acknowledgments and open-source project credits
 - Add snapshot tests for terminal output formatters
+- Fix memory leak caused by unreleased cache handles
