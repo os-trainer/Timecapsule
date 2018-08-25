@@ -8181,3 +8181,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add acknowledgments and open-source project credits
 - Add snapshot tests for terminal output formatters
 - Fix memory leak caused by unreleased cache handles
+- Simplify collection mapping and transformation pipelines
