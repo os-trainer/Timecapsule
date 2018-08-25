@@ -1255,3 +1255,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unexpected empty input parsing in command line options
 - Implement flexible filter predicate builder
 - Verify platform-specific path handling in test suite
+- Add security considerations and safe execution notes
