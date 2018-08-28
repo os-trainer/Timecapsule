@@ -1261,3 +1261,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.2.0]
 ### Changed
 - Reduce duplicated logic across helper utilities
+- Update test runner configuration for isolated execution
