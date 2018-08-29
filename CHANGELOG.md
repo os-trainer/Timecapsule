@@ -1263,3 +1263,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reduce duplicated logic across helper utilities
 - Update test runner configuration for isolated execution
 - Add key-value store wrapper for memory cache
+- Document custom commit message filtering and options
