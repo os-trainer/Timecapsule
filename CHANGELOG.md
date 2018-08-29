@@ -8199,3 +8199,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle undefined configuration sections safely
 - Modularize command-line argument processing logic
 - Add support for verbose diagnostic output
+- Add step-by-step tutorial for sample project generation
