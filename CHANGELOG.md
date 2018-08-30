@@ -8201,3 +8201,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for verbose diagnostic output
 - Add step-by-step tutorial for sample project generation
 - Clean up temporary files and ensure deterministic cleanup
+- Handle file permission errors with actionable messages
