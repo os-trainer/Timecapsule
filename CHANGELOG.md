@@ -1265,3 +1265,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add key-value store wrapper for memory cache
 - Document custom commit message filtering and options
 - Handle missing configuration gracefully with defaults
+- Add colorized terminal output formatter
