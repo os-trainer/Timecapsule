@@ -8204,3 +8204,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle file permission errors with actionable messages
 - Adjust test runner timeout and concurrency settings
 - Implement deep object merging utility
+- Extract common constants into centralized configuration
