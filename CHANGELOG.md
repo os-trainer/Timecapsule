@@ -1268,3 +1268,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add colorized terminal output formatter
 - Implement batch processing utility for array inputs
 - Improve documentation for custom output templates
+- Fix duplicate item registration in event subscriber list
