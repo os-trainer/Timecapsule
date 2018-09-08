@@ -1271,3 +1271,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix duplicate item registration in event subscriber list
 - Refactor promise handling to use modern async/await patterns
 - Implement safe JSON parsing with fallback values
+- Handle partial input objects during configuration merge
