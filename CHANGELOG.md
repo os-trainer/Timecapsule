@@ -1273,3 +1273,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement safe JSON parsing with fallback values
 - Handle partial input objects during configuration merge
 - Consolidate string manipulation utilities
+- Fix edge case in input handling for empty strings
