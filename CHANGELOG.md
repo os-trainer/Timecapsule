@@ -8219,3 +8219,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve separation of concerns between CLI and core engine
 - Eliminate code duplication in internal helper branches
 - Fix circular reference error in object serialization
+- Test command line help output and option documentation
