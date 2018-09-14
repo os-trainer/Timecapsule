@@ -1275,3 +1275,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate string manipulation utilities
 - Fix edge case in input handling for empty strings
 - Add input validation for user-supplied options
+- Add comments explaining subtle edge cases in date math
