@@ -8230,3 +8230,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up dead code and obsolete helper methods
 - Implement query filter helpers for collection items
 - Configure semantic versioning and release scripts
+- Refactor caching mechanism for cleaner abstraction
