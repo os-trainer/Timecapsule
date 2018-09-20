@@ -1282,3 +1282,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for verbose diagnostic output
 - Implement dry-run execution preview mode
 - Fix inconsistent return type on validation failure
+- Fix incorrect boolean flag evaluation
