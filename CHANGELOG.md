@@ -8235,3 +8235,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add reusable string formatting utility functions
 - Modularize schema definitions and validation rules
 - Fix incorrect default parameter assignment
+- Normalize naming of options and arguments across modules
