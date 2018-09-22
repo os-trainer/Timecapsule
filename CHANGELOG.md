@@ -1288,3 +1288,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct error handling when input file is absent
 - Implement stream-based chunk processor
 - Correct string trimming logic for multi-line inputs
+- Refactor validation pipelines to support chaining
