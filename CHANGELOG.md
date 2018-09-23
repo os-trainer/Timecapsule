@@ -8237,3 +8237,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect default parameter assignment
 - Normalize naming of options and arguments across modules
 - Decouple output formatting from core computation logic
+- Fix duplicate item registration in event subscriber list
