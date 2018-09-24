@@ -8239,3 +8239,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decouple output formatting from core computation logic
 - Fix duplicate item registration in event subscriber list
 - Correct fallback order for configuration properties
+- Verify retry logic behavior under simulated failures
