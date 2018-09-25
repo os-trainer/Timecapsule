@@ -8243,3 +8243,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input validation for user-supplied options
 - Verify graceful handling of malformed input data
 - Fix unexpected empty input parsing in command line options
+- Add structured logging helper with log levels
