@@ -8251,3 +8251,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement batch processing utility for array inputs
 - Fix incorrect status code returned on input error
 - Add colorized terminal output formatter
+- Add boundary condition tests for numeric ranges
