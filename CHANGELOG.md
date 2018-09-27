@@ -8249,3 +8249,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve code formatting and consistent whitespace
 - Add parameterized tests for date parsing variations
 - Implement batch processing utility for array inputs
+- Fix incorrect status code returned on input error
