@@ -8258,3 +8258,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update author and contributor information in package descriptor
 - Add examples comparing standard and conventional commits
 - Correct boundary check in range validation utility
+- Implement deep object merging utility
