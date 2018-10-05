@@ -1300,3 +1300,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify proper error types are thrown on invalid arguments
 - Configure code style rules and ignore patterns
 - Document date format requirements and accepted tokens
+- Verify retry logic behavior under simulated failures
