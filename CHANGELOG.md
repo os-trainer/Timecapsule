@@ -1306,3 +1306,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify complex arithmetic expressions in date logic
 - Add URL query string builder and parser
 - Refactor configuration fallback resolution
+- Simplify collection mapping and transformation pipelines
