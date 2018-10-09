@@ -1307,3 +1307,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add URL query string builder and parser
 - Refactor configuration fallback resolution
 - Simplify collection mapping and transformation pipelines
+- Handle empty environment variables without error
