@@ -1308,3 +1308,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor configuration fallback resolution
 - Simplify collection mapping and transformation pipelines
 - Handle empty environment variables without error
+- Streamline option parsing and default resolution
