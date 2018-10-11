@@ -1311,3 +1311,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline option parsing and default resolution
 - Fix incorrect default parameter assignment
 - Add multi-step workflow runner utility
+- Implement event listener registry for status events
