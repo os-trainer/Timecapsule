@@ -8278,3 +8278,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for collection filter predicates
 - Add safe deep clone utility function
 - Ensure consistent parameter ordering in helper signatures
+- Correct timestamp calculation for timezone offsets
