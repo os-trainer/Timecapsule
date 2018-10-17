@@ -1316,3 +1316,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix type coercion error during numeric comparisons
 - Implement numeric range clamping helper
 - Improve separation of concerns between CLI and core engine
+- Correct regex pattern matching for date validation
