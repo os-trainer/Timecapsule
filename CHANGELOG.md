@@ -1317,3 +1317,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement numeric range clamping helper
 - Improve separation of concerns between CLI and core engine
 - Correct regex pattern matching for date validation
+- Fix memory leak caused by unreleased cache handles
