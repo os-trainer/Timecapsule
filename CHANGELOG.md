@@ -8294,3 +8294,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak in recurring event listeners
 - Add detailed architecture overview and component diagram
 - Refactor state management into centralized store
+- Add code comments explaining complex date mathematics
