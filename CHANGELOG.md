@@ -1323,3 +1323,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix intermittent failure in date boundary comparison
 - Document error handling strategies and exit codes
 - Standardize terminology across comments and log output
+- Handle process interruption cleanly during generation
