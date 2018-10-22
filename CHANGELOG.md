@@ -8300,3 +8300,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add usage notes for multi-year historical generation
 - Streamline parameter passing across internal layers
 - Improve consistency of return structures across helpers
+- Restructure project exports to avoid circular dependencies
