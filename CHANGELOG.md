@@ -8299,3 +8299,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor argument parsing to standardize option names
 - Add usage notes for multi-year historical generation
 - Streamline parameter passing across internal layers
+- Improve consistency of return structures across helpers
