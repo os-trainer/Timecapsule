@@ -8297,3 +8297,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add code comments explaining complex date mathematics
 - Add tests for custom output destination formatting
 - Refactor argument parsing to standardize option names
+- Add usage notes for multi-year historical generation
