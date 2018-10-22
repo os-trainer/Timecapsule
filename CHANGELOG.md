@@ -8301,3 +8301,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline parameter passing across internal layers
 - Improve consistency of return structures across helpers
 - Restructure project exports to avoid circular dependencies
+- Improve test coverage across utility modules
