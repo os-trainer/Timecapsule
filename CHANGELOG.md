@@ -8296,3 +8296,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor state management into centralized store
 - Add code comments explaining complex date mathematics
 - Add tests for custom output destination formatting
+- Refactor argument parsing to standardize option names
