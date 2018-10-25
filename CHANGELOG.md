@@ -8305,3 +8305,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve markdown formatting and typographic consistency in README
 - Add usage examples for common command-line options
 - Refactor configuration fallback resolution
+- Fix unhandled promise rejection in async error handler
