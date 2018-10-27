@@ -1333,3 +1333,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up project structure and remove redundant exports
 - Add elapsed execution time measurement helper
 - Correctly escape special characters in terminal output
+- Add regression test for boundary date calculations
