@@ -8315,3 +8315,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add array sorting and filtering helper functions
 - Fix circular reference error in object serialization
 - Add unit tests for rate limiting and throttling helpers
+- Implement pagination helper for collection data
