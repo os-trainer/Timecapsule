@@ -8318,3 +8318,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement pagination helper for collection data
 - Update package version in manifest file
 - Extract progress tracking into dedicated emitter
+- Document test execution commands and coverage reports
