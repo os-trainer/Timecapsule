@@ -8327,3 +8327,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add schema validation for configuration objects
 - Implement helper utilities for parameter parsing
 - Cover malformed command line options in test suite
+- Fix validation logic for boundary date ranges
