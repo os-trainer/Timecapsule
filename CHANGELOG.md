@@ -8325,3 +8325,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Resolve incorrect return value for edge-case queries
 - Streamline event dispatching mechanism
 - Add schema validation for configuration objects
+- Implement helper utilities for parameter parsing
