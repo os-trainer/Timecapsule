@@ -1339,3 +1339,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement query filter helpers for collection items
 - Enhance descriptive quality of debug logging statements
 - Improve README with comprehensive getting-started guide
+- Implement rate limiting throttle for helper actions
