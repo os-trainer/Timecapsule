@@ -1343,3 +1343,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix potential race condition during file initialization
 - Add system status inspection helper
 - Add regression tests for previous edge-case bugs
+- Add command-line argument parser for configuration flags
