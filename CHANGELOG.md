@@ -8329,3 +8329,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover malformed command line options in test suite
 - Fix validation logic for boundary date ranges
 - Add elapsed execution time measurement helper
+- Correct path delimiter handling across operating systems
