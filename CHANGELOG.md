@@ -8333,3 +8333,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modularize command-line argument processing logic
 - Implement customizable output formatting options
 - Refactor caching mechanism for cleaner abstraction
+- Fix missing return statement in error branch
