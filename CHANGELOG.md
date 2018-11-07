@@ -8341,3 +8341,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct timestamp calculation for timezone offsets
 - Reorganize internal test helpers and fixtures
 - Add support for custom output destination paths
+- Handle process interruption cleanly during generation
