@@ -8340,3 +8340,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement defensive parameter sanitization
 - Correct timestamp calculation for timezone offsets
 - Reorganize internal test helpers and fixtures
+- Add support for custom output destination paths
