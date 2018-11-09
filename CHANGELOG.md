@@ -8348,3 +8348,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add step-by-step tutorial for sample project generation
 - Cover deep object merge edge cases in unit tests
 - Refactor date calculation routines for better readability
+- Add configuration for source map generation
