@@ -8345,3 +8345,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve modularity of utility function parameter signatures
 - Handle null and undefined options defensively
 - Implement event listener registry for status events
+- Add step-by-step tutorial for sample project generation
