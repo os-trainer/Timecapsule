@@ -1350,3 +1350,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement retry mechanism for transient operations
 - Improve markdown formatting and typographic consistency in README
 - Fix inconsistent return type on validation failure
+- Decouple output formatting from core computation logic
