@@ -8349,3 +8349,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover deep object merge edge cases in unit tests
 - Refactor date calculation routines for better readability
 - Add configuration for source map generation
+- Fix memory leak caused by unreleased cache handles
