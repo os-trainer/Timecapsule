@@ -1354,3 +1354,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document configuration options and default parameters
 - Implement helper utilities for parameter parsing
 - Verify graceful handling of malformed input data
+- Update API reference documentation for core exports
