@@ -1357,3 +1357,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update API reference documentation for core exports
 - Handle malformed JSON configuration without crashing
 - Extract date formatting templates into reusable helpers
+- Add safe deep clone utility function
