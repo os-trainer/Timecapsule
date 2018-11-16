@@ -1365,3 +1365,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Fix inaccurate execution duration calculation
 - Fix incorrect default parameter assignment
+- Implement configuration file loader with fallback defaults
