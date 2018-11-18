@@ -8360,3 +8360,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions for running tests and linter locally
 - Fix type coercion error during numeric comparisons
 - Add key-value store wrapper for memory cache
+- Improve clarity of variable scopes and closures
