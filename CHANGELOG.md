@@ -1369,3 +1369,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix off-by-one error in collection index calculations
 - Extract configuration validation into standalone validator
 - Configure automated dependency review settings
+- Correct output formatting when statistics are zero
