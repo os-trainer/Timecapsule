@@ -1370,3 +1370,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract configuration validation into standalone validator
 - Configure automated dependency review settings
 - Correct output formatting when statistics are zero
+- Add step-by-step tutorial for sample project generation
