@@ -8363,3 +8363,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve clarity of variable scopes and closures
 - Add unit tests for progress reporter events
 - Fix infinite loop risk in collection traversal logic
+- Add command-line argument parser for configuration flags
