@@ -8361,3 +8361,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix type coercion error during numeric comparisons
 - Add key-value store wrapper for memory cache
 - Improve clarity of variable scopes and closures
+- Add unit tests for progress reporter events
