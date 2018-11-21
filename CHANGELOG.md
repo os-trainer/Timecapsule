@@ -8366,3 +8366,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add command-line argument parser for configuration flags
 - Update API reference documentation for core exports
 - Enhance descriptive quality of debug logging statements
+- Fix off-by-one error in collection index calculations
