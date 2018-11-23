@@ -8373,3 +8373,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement pagination helper for collection data
 - Refactor argument parsing to standardize option names
 - Correct fallback order for configuration properties
+- Adjust timeout thresholds for integration test suite
