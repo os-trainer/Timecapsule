@@ -8374,3 +8374,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor argument parsing to standardize option names
 - Correct fallback order for configuration properties
 - Adjust timeout thresholds for integration test suite
+- Improve function organization and module cohesion
