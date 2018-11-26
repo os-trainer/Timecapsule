@@ -8380,3 +8380,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty environment variables without error
 - Test custom date formatting tokens and output strings
 - Implement file reading helper with encoding support
+- Handle empty input collections without throwing exceptions
