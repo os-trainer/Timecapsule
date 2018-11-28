@@ -8386,3 +8386,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle partial input objects during configuration merge
 - Add parameterized tests for date parsing variations
 - Ensure all async rejections provide meaningful Error instances
+- Correct error handling when input file is absent
