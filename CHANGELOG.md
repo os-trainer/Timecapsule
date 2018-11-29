@@ -1381,3 +1381,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor array processing routines to use functional methods
 - Handle null and undefined options defensively
 - Add reusable string formatting utility functions
+- Add tests for custom output destination formatting
