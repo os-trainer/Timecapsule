@@ -8388,3 +8388,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure all async rejections provide meaningful Error instances
 - Correct error handling when input file is absent
 - Establish baseline directory hierarchy and exports
+- Correctly escape special characters in terminal output
