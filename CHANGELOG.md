@@ -8392,3 +8392,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure automated dependency review settings
 - Improve inline code documentation and parameter descriptions
 - Improve README with comprehensive getting-started guide
+- Add schema validation for configuration objects
