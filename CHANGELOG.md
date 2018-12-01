@@ -1383,3 +1383,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add reusable string formatting utility functions
 - Add tests for custom output destination formatting
 - Refactor argument parsing to standardize option names
+- Fix infinite loop risk in collection traversal logic
