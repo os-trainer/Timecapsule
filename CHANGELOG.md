@@ -8393,3 +8393,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve inline code documentation and parameter descriptions
 - Improve README with comprehensive getting-started guide
 - Add schema validation for configuration objects
+- Extract terminal output logic into presentation layer
