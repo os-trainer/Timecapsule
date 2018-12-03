@@ -8398,3 +8398,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Restructure project exports to avoid circular dependencies
 - Update license field and attribution in package manifest
 - Implement helper utilities for parameter parsing
+- Add boundary condition tests for numeric ranges
