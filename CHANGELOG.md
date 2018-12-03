@@ -8400,3 +8400,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement helper utilities for parameter parsing
 - Add boundary condition tests for numeric ranges
 - Fix formatting anomaly in terminal progress display
+- Add troubleshooting notes for frequent setup issues
