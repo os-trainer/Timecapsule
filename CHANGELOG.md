@@ -1388,3 +1388,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reduce duplicated logic across helper utilities
 - Implement progress reporter for long-running workflows
 - Add configuration file for static code analysis
+- Fix argument parsing when flag value contains spaces
