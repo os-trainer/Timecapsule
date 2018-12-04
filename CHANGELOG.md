@@ -1385,3 +1385,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor argument parsing to standardize option names
 - Fix infinite loop risk in collection traversal logic
 - Add support for custom output destination paths
+- Reduce duplicated logic across helper utilities
