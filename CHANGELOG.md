@@ -1390,3 +1390,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration file for static code analysis
 - Fix argument parsing when flag value contains spaces
 - Add test suite for distribution weight calculations
+- Test command line help output and option documentation
