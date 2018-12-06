@@ -8410,3 +8410,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure code style rules and ignore patterns
 - Document custom commit message filtering and options
 - Implement customizable output formatting options
+- Add badges for license, build status, and version
