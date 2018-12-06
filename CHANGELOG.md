@@ -8406,3 +8406,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add examples comparing standard and conventional commits
 - Fix edge case in input handling for empty strings
 - Add custom error classes for domain-specific failures
+- Improve test coverage across utility modules
