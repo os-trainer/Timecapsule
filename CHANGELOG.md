@@ -8413,3 +8413,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add badges for license, build status, and version
 - Fix missing return statement in error branch
 - Cover dry-run execution mode with assertion checks
+- Implement numeric range clamping helper
