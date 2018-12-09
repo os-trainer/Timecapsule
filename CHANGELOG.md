@@ -8419,3 +8419,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify cache invalidation logic under test conditions
 - Improve code formatting and consistent whitespace
 - Update API reference documentation for core exports
+- Correct regex pattern matching for date validation
