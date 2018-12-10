@@ -1394,3 +1394,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add structured logging helper with log levels
 - Document test execution commands and coverage reports
 - Streamline option parsing and default resolution
+- Add input sanitization for file paths
