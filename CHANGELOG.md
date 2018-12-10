@@ -1396,3 +1396,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline option parsing and default resolution
 - Add input sanitization for file paths
 - Improve consistency of option validation error messages
+- Add contribution guidelines and development workflow steps
