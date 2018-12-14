@@ -8427,3 +8427,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add tests for custom output destination formatting
 - Implement stream-based chunk processor
 - Modularize schema definitions and validation rules
+- Improve consistency of return structures across helpers
