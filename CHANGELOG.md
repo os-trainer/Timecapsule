@@ -8432,3 +8432,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression test for boundary date calculations
 - Add command-line argument parser for configuration flags
 - Add examples of integrating tool into automated scripts
+- Add test harness for simulated time progression
