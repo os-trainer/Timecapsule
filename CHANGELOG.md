@@ -1406,3 +1406,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix string encoding issue when processing special characters
 - Fix incorrect status code returned on input error
 - Streamline parameter passing across internal layers
+- Add strict boundary checks to numeric operations
