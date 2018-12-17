@@ -1407,3 +1407,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect status code returned on input error
 - Streamline parameter passing across internal layers
 - Add strict boundary checks to numeric operations
+- Add command-line argument parser for configuration flags
