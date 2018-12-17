@@ -1404,3 +1404,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement object transformation and mapping utilities
 - Test timezone offset handling with varying dates
 - Fix string encoding issue when processing special characters
+- Fix incorrect status code returned on input error
