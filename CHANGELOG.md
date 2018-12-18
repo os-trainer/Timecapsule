@@ -1408,3 +1408,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline parameter passing across internal layers
 - Add strict boundary checks to numeric operations
 - Add command-line argument parser for configuration flags
+- Add regression test for boundary date calculations
