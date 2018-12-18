@@ -8442,3 +8442,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement pagination helper for collection data
 - Handle empty input collections without throwing exceptions
 - Update development configuration and editor settings
+- Add contribution guidelines and development workflow steps
