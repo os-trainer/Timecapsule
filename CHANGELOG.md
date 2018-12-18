@@ -8440,3 +8440,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Eliminate code duplication in internal helper branches
 - Correct negative duration calculations across days
 - Implement pagination helper for collection data
+- Handle empty input collections without throwing exceptions
