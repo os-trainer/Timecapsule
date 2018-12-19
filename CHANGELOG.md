@@ -1412,3 +1412,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement pagination helper for collection data
 - Add unit tests for collection filter predicates
 - Extract file system operations into isolated adapter
+- Handle empty input collections without throwing exceptions
