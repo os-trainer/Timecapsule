@@ -8448,3 +8448,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle missing configuration gracefully with defaults
 - Improve separation of concerns between CLI and core engine
 - Document configuration options and default parameters
+- Fix infinite loop risk in collection traversal logic
