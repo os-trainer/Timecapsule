@@ -1417,3 +1417,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage across utility modules
 - Correct timestamp calculation for timezone offsets
 - Document logging levels and diagnostic flags
+- Adjust timeout thresholds for integration test suite
