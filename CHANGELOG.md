@@ -1418,3 +1418,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct timestamp calculation for timezone offsets
 - Document logging levels and diagnostic flags
 - Adjust timeout thresholds for integration test suite
+- Improve readability of complex conditional evaluations
