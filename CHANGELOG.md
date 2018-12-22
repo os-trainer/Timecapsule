@@ -8453,3 +8453,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure initial runtime environment defaults
 - Add custom formatting options for summary tables
 - Add colorized terminal output formatter
+- Simplify collection mapping and transformation pipelines
