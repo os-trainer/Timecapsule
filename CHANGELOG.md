@@ -1419,3 +1419,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document logging levels and diagnostic flags
 - Adjust timeout thresholds for integration test suite
 - Improve readability of complex conditional evaluations
+- Modularize command-line argument processing logic
