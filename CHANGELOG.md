@@ -8455,3 +8455,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add colorized terminal output formatter
 - Simplify collection mapping and transformation pipelines
 - Fix validation logic for boundary date ranges
+- Add structured logging helper with log levels
