@@ -8457,3 +8457,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix validation logic for boundary date ranges
 - Add structured logging helper with log levels
 - Implement command line flag alias mapping
+- Standardize exception messages across validation logic
