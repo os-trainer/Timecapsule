@@ -8461,3 +8461,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test cases for boolean flag normalization
 - Add array sorting and filtering helper functions
 - Extract date formatting templates into reusable helpers
+- Adjust linting and formatting configuration rules
