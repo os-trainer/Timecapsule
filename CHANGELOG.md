@@ -1432,3 +1432,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Remove obsolete polyfills and legacy compatibility shims
 - Refactor state management into centralized store
 - Correct boundary check in range validation utility
+- Rename internal variables and parameters for clarity
