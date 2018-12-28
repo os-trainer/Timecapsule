@@ -8463,3 +8463,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract date formatting templates into reusable helpers
 - Adjust linting and formatting configuration rules
 - Add code comments explaining complex date mathematics
+- Simplify complex arithmetic expressions in date logic
