@@ -8469,3 +8469,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve markdown formatting and typographic consistency in README
 - Add lightweight event emitter implementation
 - Refactor promise handling to use modern async/await patterns
+- Correct output formatting when statistics are zero
