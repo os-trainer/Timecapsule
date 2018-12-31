@@ -1437,3 +1437,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify idempotency of cleanup routines in test suite
 - Handle partial input objects during configuration merge
 - Add array sorting and filtering helper functions
+- Add regression tests for previous edge-case bugs
