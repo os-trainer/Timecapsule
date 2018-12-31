@@ -8473,3 +8473,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve documentation for programmatic JavaScript API
 - Add support for verbose diagnostic output
 - Add safe string truncation helper
+- Cover dry-run execution mode with assertion checks
