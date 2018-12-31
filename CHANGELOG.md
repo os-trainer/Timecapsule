@@ -1436,3 +1436,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update API reference documentation for core exports
 - Verify idempotency of cleanup routines in test suite
 - Handle partial input objects during configuration merge
+- Add array sorting and filtering helper functions
