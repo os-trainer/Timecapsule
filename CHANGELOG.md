@@ -1443,3 +1443,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add initial contributor guidelines template
 - Fix unexpected empty input parsing in command line options
 - Add safe deep clone utility function
+- Eliminate code duplication in internal helper branches
