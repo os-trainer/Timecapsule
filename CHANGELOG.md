@@ -1438,3 +1438,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle partial input objects during configuration merge
 - Add array sorting and filtering helper functions
 - Add regression tests for previous edge-case bugs
+- Add reusable string formatting utility functions
