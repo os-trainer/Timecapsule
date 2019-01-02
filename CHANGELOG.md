@@ -1441,3 +1441,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add reusable string formatting utility functions
 - Set up default project structure and entry points
 - Add initial contributor guidelines template
+- Fix unexpected empty input parsing in command line options
