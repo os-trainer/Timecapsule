@@ -8481,3 +8481,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak in recurring event listeners
 - Modularize schema definitions and validation rules
 - Implement retry mechanism for transient operations
+- Update README with example workflow scenarios
