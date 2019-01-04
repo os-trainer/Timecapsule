@@ -8484,3 +8484,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update README with example workflow scenarios
 - Implement summary statistics calculation helper
 - Add snapshot tests for terminal output formatters
+- Add basic data processing and normalization pipeline
