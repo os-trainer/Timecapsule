@@ -8486,3 +8486,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add snapshot tests for terminal output formatters
 - Add basic data processing and normalization pipeline
 - Fix off-by-one error in collection index calculations
+- Document date format requirements and accepted tokens
