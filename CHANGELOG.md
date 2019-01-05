@@ -8488,3 +8488,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix off-by-one error in collection index calculations
 - Document date format requirements and accepted tokens
 - Add reusable string formatting utility functions
+- Add integration test verifying end-to-end workflow execution
