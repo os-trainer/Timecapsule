@@ -1452,3 +1452,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update project metadata and repository description
 - Standardize date string formatting across all output
 - Fix validation logic for boundary date ranges
+- Verify error messages for missing required options
