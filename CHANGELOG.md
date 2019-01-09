@@ -1457,3 +1457,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add multi-step workflow runner utility
 - Fix circular reference error in object serialization
 - Document template options for supported project layouts
+- Fix string encoding issue when processing special characters
