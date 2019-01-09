@@ -8491,3 +8491,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add integration test verifying end-to-end workflow execution
 - Improve input handling and defensive type assertions
 - Handle empty environment variables without error
+- Add command-line argument parser for configuration flags
