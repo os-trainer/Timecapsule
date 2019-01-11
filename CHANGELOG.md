@@ -8493,3 +8493,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty environment variables without error
 - Add command-line argument parser for configuration flags
 - Fix type coercion error during numeric comparisons
+- Refactor configuration fallback resolution
