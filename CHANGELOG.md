@@ -1463,3 +1463,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor argument parsing to standardize option names
 - Implement rate limiting throttle for helper actions
 - Correct path delimiter handling across operating systems
+
+## [2.4.0]
+### Changed
+- Add input sanitization for file paths
