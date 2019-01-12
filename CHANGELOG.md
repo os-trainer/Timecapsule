@@ -8495,3 +8495,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix type coercion error during numeric comparisons
 - Refactor configuration fallback resolution
 - Implement numeric range clamping helper
+- Document supported platforms and shell environments
