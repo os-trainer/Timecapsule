@@ -8501,3 +8501,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix improper resource cleanup on exit
 - Correct timestamp calculation for timezone offsets
 - Add environment variable override support
+- Add defensive fallbacks for unexpected null values
