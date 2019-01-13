@@ -8498,3 +8498,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document supported platforms and shell environments
 - Add validation rules for date range boundaries
 - Implement command dispatcher with routing logic
+- Fix improper resource cleanup on exit
