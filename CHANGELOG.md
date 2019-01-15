@@ -8502,3 +8502,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct timestamp calculation for timezone offsets
 - Add environment variable override support
 - Add defensive fallbacks for unexpected null values
+- Test invalid input handling and expected exceptions
