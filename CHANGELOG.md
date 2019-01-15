@@ -8503,3 +8503,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add environment variable override support
 - Add defensive fallbacks for unexpected null values
 - Test invalid input handling and expected exceptions
+- Simplify conditional branching in distribution calculator
