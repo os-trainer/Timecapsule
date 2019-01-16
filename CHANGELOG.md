@@ -1471,3 +1471,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update repository keywords and discovery tags
 - Add unit tests for string formatting and truncation helpers
 - Improve separation of concerns between CLI and core engine
+- Add support for custom output destination paths
