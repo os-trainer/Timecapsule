@@ -8506,3 +8506,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify conditional branching in distribution calculator
 - Fix unhandled promise rejection in async error handler
 - Implement flexible filter predicate builder
+- Add descriptive error context when file reading fails
