@@ -1474,3 +1474,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for custom output destination paths
 - Fix infinite loop risk in collection traversal logic
 - Extract date formatting templates into reusable helpers
+- Add key-value store wrapper for memory cache
