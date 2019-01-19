@@ -1476,3 +1476,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract date formatting templates into reusable helpers
 - Add key-value store wrapper for memory cache
 - Add basic data caching layer with key invalidation
+- Add support for verbose diagnostic output
