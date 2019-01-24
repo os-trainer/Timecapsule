@@ -8513,3 +8513,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test empty collection handling across utility functions
 - Tune lint-staged configuration for staged files
 - Add input validation for user-supplied options
+- Resolve incorrect return value for edge-case queries
