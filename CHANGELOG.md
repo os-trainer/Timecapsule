@@ -8518,3 +8518,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement progress reporter for long-running workflows
 - Decompose monolithic workflow function into focused steps
 - Introduce mock harness for file system operations
+- Ensure consistent error status codes across exit paths
