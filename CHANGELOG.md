@@ -8526,3 +8526,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correctly escape special characters in terminal output
 - Improve package scripts for building and testing
 - Add performance assertions for large collection processing
+- Correct output formatting when statistics are zero
