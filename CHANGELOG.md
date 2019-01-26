@@ -8524,3 +8524,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify error messages for missing required options
 - Implement object transformation and mapping utilities
 - Correctly escape special characters in terminal output
+- Improve package scripts for building and testing
