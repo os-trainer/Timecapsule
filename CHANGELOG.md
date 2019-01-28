@@ -1482,3 +1482,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure all async rejections provide meaningful Error instances
 - Configure distribution bundle output settings
 - Add schema validation for configuration objects
+- Add input validation for user-supplied options
