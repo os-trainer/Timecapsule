@@ -8529,3 +8529,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct output formatting when statistics are zero
 - Test timezone offset handling with varying dates
 - Implement event listener registry for status events
+- Extract reusable helper functions from main workflow
