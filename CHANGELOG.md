@@ -1486,3 +1486,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add acknowledgments and open-source project credits
 - Fix off-by-one error in collection index calculations
 - Cover complex configuration inheritance in tests
+- Add FAQ section covering common configuration questions
