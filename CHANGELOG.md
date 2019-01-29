@@ -8532,3 +8532,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract reusable helper functions from main workflow
 - Document preview mode and dry-run visualization
 - Ensure strict immutability of configuration defaults
+- Implement file reading helper with encoding support
