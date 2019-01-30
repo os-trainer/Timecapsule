@@ -1489,3 +1489,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add FAQ section covering common configuration questions
 - Add unit tests for collection filter predicates
 - Add system status inspection helper
+- Resolve incorrect return value for edge-case queries
