@@ -8534,3 +8534,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure strict immutability of configuration defaults
 - Implement file reading helper with encoding support
 - Handle null and undefined options defensively
+- Cover deep object merge edge cases in unit tests
