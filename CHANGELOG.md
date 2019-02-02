@@ -1494,3 +1494,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration file for continuous integration
 - Cover deep object merge edge cases in unit tests
 - Add integration test verifying end-to-end workflow execution
+- Update npm packaging whitelist in files array
