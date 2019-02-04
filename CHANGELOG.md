@@ -1498,3 +1498,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for JSON and plain text output formats
 - Modularize command-line argument processing logic
 - Verify idempotency of cleanup routines in test suite
+- Fix incorrect default parameter assignment
