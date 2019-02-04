@@ -1499,3 +1499,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modularize command-line argument processing logic
 - Verify idempotency of cleanup routines in test suite
 - Fix incorrect default parameter assignment
+- Extract configuration validation into standalone validator
