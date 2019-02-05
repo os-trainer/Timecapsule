@@ -1506,3 +1506,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add custom formatting options for summary tables
 - Document environment variable configuration overrides
 - Ensure consistent error status codes across exit paths
+- Add safe string truncation helper
