@@ -1502,3 +1502,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract configuration validation into standalone validator
 - Add validation rules for date range boundaries
 - Update package version in manifest file
+- Fix missing return statement in error branch
