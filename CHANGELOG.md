@@ -1503,3 +1503,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add validation rules for date range boundaries
 - Update package version in manifest file
 - Fix missing return statement in error branch
+- Add custom formatting options for summary tables
