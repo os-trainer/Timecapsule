@@ -8546,3 +8546,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify graceful handling of malformed input data
 - Implement dry-run execution preview mode
 - Correct error handling when input file is absent
+- Add integration test verifying end-to-end workflow execution
