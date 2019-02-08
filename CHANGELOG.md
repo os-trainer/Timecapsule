@@ -8550,3 +8550,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve README with comprehensive getting-started guide
 - Add custom error classes for domain-specific failures
 - Modernize internal loop constructs and data structures
+- Implement command line flag alias mapping
