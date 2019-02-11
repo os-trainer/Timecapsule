@@ -8554,3 +8554,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inaccurate execution duration calculation
 - Improve documentation for custom output templates
 - Add support for custom output destination paths
+- Fix argument parsing when flag value contains spaces
