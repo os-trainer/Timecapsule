@@ -8558,3 +8558,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update package repository URLs and issue tracker links
 - Document supported platforms and shell environments
 - Fix potential race condition during file initialization
+- Add basic data caching layer with key invalidation
