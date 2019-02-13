@@ -8564,3 +8564,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add performance recommendations for large-scale runs
 - Handle process interruption cleanly during generation
 - Configure output directory paths for build pipeline
+- Consolidate error definitions and status messages
