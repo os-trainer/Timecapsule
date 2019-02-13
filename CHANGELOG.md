@@ -8561,3 +8561,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data caching layer with key invalidation
 - Update project metadata and repository description
 - Implement query filter helpers for collection items
+- Add performance recommendations for large-scale runs
