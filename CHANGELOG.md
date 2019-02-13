@@ -1511,3 +1511,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement progress reporter for long-running workflows
 - Extract common constants into centralized configuration
 - Add unit tests for terminal colorization toggles
+- Implement summary statistics calculation helper
