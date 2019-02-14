@@ -8565,3 +8565,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle process interruption cleanly during generation
 - Configure output directory paths for build pipeline
 - Consolidate error definitions and status messages
+- Add assertions to catch illegal state during execution
