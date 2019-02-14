@@ -1513,3 +1513,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for terminal colorization toggles
 - Implement summary statistics calculation helper
 - Add custom error classes for domain-specific failures
+- Update README with example workflow scenarios
