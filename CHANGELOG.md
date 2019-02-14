@@ -8568,3 +8568,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add assertions to catch illegal state during execution
 - Add usage examples for common command-line options
 - Implement retry mechanism for transient operations
+- Reduce duplicated logic across helper utilities
