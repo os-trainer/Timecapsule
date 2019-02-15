@@ -8569,3 +8569,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add usage examples for common command-line options
 - Implement retry mechanism for transient operations
 - Reduce duplicated logic across helper utilities
+- Test empty collection handling across utility functions
