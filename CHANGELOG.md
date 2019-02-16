@@ -1520,3 +1520,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure output directory paths for build pipeline
 - Simplify error throwing and propagation mechanisms
 - Add configuration for code coverage reporting
+- Improve consistency of return structures across helpers
