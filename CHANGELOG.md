@@ -8574,3 +8574,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle partial input objects during configuration merge
 - Fix incorrect boolean flag evaluation
 - Test custom date formatting tokens and output strings
+- Add input sanitization for file paths
