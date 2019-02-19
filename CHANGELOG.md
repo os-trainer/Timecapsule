@@ -8577,3 +8577,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input sanitization for file paths
 - Modularize command-line argument processing logic
 - Cover complex configuration inheritance in tests
+- Add test cases for boolean flag normalization
