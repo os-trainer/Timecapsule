@@ -8581,3 +8581,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for JSON and plain text output formats
 - Add safe deep clone utility function
 - Fix unexpected empty input parsing in command line options
+- Standardize terminology across comments and log output
