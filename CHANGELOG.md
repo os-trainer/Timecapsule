@@ -1532,3 +1532,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add quick reference cheat sheet for CLI commands
 - Implement numeric range clamping helper
 - Test empty collection handling across utility functions
+- Add troubleshooting notes for frequent setup issues
