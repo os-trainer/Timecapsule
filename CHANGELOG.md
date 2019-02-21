@@ -1529,3 +1529,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update package repository URLs and issue tracker links
 - Ensure strict immutability of configuration defaults
 - Handle unexpected zero-length arrays in reducer logic
+- Add quick reference cheat sheet for CLI commands
