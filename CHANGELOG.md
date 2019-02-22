@@ -1535,3 +1535,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add troubleshooting notes for frequent setup issues
 - Add URL query string builder and parser
 - Fix duplicate item registration in event subscriber list
+- Add unit tests for rate limiting and throttling helpers
