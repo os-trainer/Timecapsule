@@ -1539,3 +1539,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement query filter helpers for collection items
 - Add acknowledgments and open-source project credits
 - Add snapshot tests for terminal output formatters
+- Fix incorrect status code returned on input error
