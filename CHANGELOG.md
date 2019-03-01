@@ -1541,3 +1541,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add snapshot tests for terminal output formatters
 - Fix incorrect status code returned on input error
 - Refactor utility functions into dedicated modules
+- Test command line help output and option documentation
