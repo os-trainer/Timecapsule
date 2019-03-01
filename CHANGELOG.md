@@ -8597,3 +8597,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement date formatting and parsing helpers
 - Extract progress tracking into dedicated emitter
 - Fix inconsistent return type on validation failure
+- Add unit tests for collection filter predicates
