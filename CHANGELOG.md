@@ -8599,3 +8599,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inconsistent return type on validation failure
 - Add unit tests for collection filter predicates
 - Implement safe JSON parsing with fallback values
+- Refactor utility functions into dedicated modules
