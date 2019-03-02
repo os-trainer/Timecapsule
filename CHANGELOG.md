@@ -1542,3 +1542,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect status code returned on input error
 - Refactor utility functions into dedicated modules
 - Test command line help output and option documentation
+- Implement command line flag alias mapping
