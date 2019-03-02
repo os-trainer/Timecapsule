@@ -8600,3 +8600,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for collection filter predicates
 - Implement safe JSON parsing with fallback values
 - Refactor utility functions into dedicated modules
+- Fix memory leak caused by unreleased cache handles
