@@ -1550,3 +1550,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add badges for license, build status, and version
 - Correct error handling when input file is absent
 - Extract reusable helper functions from main workflow
+- Document preview mode and dry-run visualization
