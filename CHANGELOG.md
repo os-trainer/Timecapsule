@@ -1547,3 +1547,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement object transformation and mapping utilities
 - Add npm script for running linter in check-only mode
 - Verify error messages for missing required options
+- Add badges for license, build status, and version
