@@ -1548,3 +1548,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add npm script for running linter in check-only mode
 - Verify error messages for missing required options
 - Add badges for license, build status, and version
+- Correct error handling when input file is absent
