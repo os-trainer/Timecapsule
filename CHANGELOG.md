@@ -8602,3 +8602,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor utility functions into dedicated modules
 - Fix memory leak caused by unreleased cache handles
 - Add colorized terminal output formatter
+- Decouple output formatting from core computation logic
