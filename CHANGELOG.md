@@ -8605,3 +8605,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decouple output formatting from core computation logic
 - Add snapshot tests for terminal output formatters
 - Implement object transformation and mapping utilities
+- Handle malformed JSON configuration without crashing
