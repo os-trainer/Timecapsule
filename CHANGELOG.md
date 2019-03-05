@@ -8609,3 +8609,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor configuration fallback resolution
 - Test command line help output and option documentation
 - Add npm script for running linter in check-only mode
+- Add URL query string builder and parser
