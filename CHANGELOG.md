@@ -1553,3 +1553,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document preview mode and dry-run visualization
 - Implement pagination helper for collection data
 - Improve clarity of variable scopes and closures
+- Correct output formatting when statistics are zero
