@@ -1555,3 +1555,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve clarity of variable scopes and closures
 - Correct output formatting when statistics are zero
 - Add boundary condition tests for numeric ranges
+- Add step-by-step tutorial for sample project generation
