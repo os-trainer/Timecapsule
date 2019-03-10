@@ -1560,3 +1560,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add performance assertions for large collection processing
 - Improve function organization and module cohesion
 - Test custom date formatting tokens and output strings
+- Improve documentation for programmatic JavaScript API
