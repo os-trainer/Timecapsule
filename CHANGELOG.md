@@ -8612,3 +8612,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add URL query string builder and parser
 - Add unit tests for string formatting and truncation helpers
 - Add elapsed execution time measurement helper
+- Add detailed architecture overview and component diagram
