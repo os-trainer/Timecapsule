@@ -1565,3 +1565,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify complex arithmetic expressions in date logic
 - Handle null and undefined options defensively
 - Replace magic numbers with named configuration constants
+- Clean up dead code and obsolete helper methods
