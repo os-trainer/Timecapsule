@@ -1566,3 +1566,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle null and undefined options defensively
 - Replace magic numbers with named configuration constants
 - Clean up dead code and obsolete helper methods
+
+## [2.5.0]
+### Changed
+- Implement flexible filter predicate builder
