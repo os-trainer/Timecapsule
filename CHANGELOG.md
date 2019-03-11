@@ -1571,3 +1571,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Implement flexible filter predicate builder
 - Fix intermittent failure in date boundary comparison
+- Implement progress reporter for long-running workflows
