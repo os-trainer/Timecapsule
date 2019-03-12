@@ -1573,3 +1573,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix intermittent failure in date boundary comparison
 - Implement progress reporter for long-running workflows
 - Add configuration file for static code analysis
+- Configure engine version compatibility constraints
