@@ -1575,3 +1575,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration file for static code analysis
 - Configure engine version compatibility constraints
 - Add test cases for boolean flag normalization
+- Handle empty input collections without throwing exceptions
