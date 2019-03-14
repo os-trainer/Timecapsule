@@ -8619,3 +8619,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract configuration validation into standalone validator
 - Improve clarity of variable scopes and closures
 - Add multi-step workflow runner utility
+- Document logging levels and diagnostic flags
