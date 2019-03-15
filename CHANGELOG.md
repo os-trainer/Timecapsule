@@ -1578,3 +1578,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty input collections without throwing exceptions
 - Implement file reading helper with encoding support
 - Streamline event dispatching mechanism
+- Add examples of integrating tool into automated scripts
