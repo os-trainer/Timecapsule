@@ -8623,3 +8623,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize indentation and line wrapping across files
 - Handle empty input collections without throwing exceptions
 - Add troubleshooting notes for frequent setup issues
+- Improve consistency of return structures across helpers
