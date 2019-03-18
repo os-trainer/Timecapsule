@@ -8625,3 +8625,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add troubleshooting notes for frequent setup issues
 - Improve consistency of return structures across helpers
 - Add comprehensive tests for configuration loader
+- Add custom formatting options for summary tables
