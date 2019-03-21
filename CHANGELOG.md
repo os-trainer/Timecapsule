@@ -8630,3 +8630,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify idempotency of cleanup routines in test suite
 - Extract file system operations into isolated adapter
 - Update project dependencies to latest secure versions
+- Add assertions for default configuration fallbacks
