@@ -8634,3 +8634,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correctly escape special characters in terminal output
 - Simplify control flow and reduce nested conditionals
 - Implement flexible filter predicate builder
+- Cover deep object merge edge cases in unit tests
