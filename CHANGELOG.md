@@ -8632,3 +8632,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update project dependencies to latest secure versions
 - Add assertions for default configuration fallbacks
 - Correctly escape special characters in terminal output
+- Simplify control flow and reduce nested conditionals
