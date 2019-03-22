@@ -8633,3 +8633,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add assertions for default configuration fallbacks
 - Correctly escape special characters in terminal output
 - Simplify control flow and reduce nested conditionals
+- Implement flexible filter predicate builder
