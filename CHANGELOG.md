@@ -8639,3 +8639,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data caching layer with key invalidation
 - Consolidate duplicate string sanitization routines
 - Cover malformed command line options in test suite
+- Fix formatting anomaly in terminal progress display
