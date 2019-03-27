@@ -1588,3 +1588,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document supported platforms and shell environments
 - Implement stream-based chunk processor
 - Fix argument parsing when flag value contains spaces
+- Add descriptive error context when file reading fails
