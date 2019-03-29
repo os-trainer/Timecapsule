@@ -1594,3 +1594,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve README with comprehensive getting-started guide
 - Refactor date calculation routines for better readability
 - Ensure all async rejections provide meaningful Error instances
+- Add basic data processing and normalization pipeline
