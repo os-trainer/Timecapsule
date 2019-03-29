@@ -8642,3 +8642,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix formatting anomaly in terminal progress display
 - Correct error handling when input file is absent
 - Implement rate limiting throttle for helper actions
+- Cover complex configuration inheritance in tests
