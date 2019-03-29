@@ -1591,3 +1591,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add descriptive error context when file reading fails
 - Fix type coercion error during numeric comparisons
 - Implement template interpolation utility
+- Improve README with comprehensive getting-started guide
