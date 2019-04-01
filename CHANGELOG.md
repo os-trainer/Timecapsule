@@ -8650,3 +8650,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add JSDoc type annotations for internal functions
 - Implement query filter helpers for collection items
 - Add quick reference cheat sheet for CLI commands
+- Fix off-by-one error in collection index calculations
