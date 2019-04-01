@@ -8649,3 +8649,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor date calculation routines for better readability
 - Add JSDoc type annotations for internal functions
 - Implement query filter helpers for collection items
+- Add quick reference cheat sheet for CLI commands
