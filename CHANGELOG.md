@@ -8655,3 +8655,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle process interruption cleanly during generation
 - Add safe deep clone utility function
 - Update lockfile with verified dependency tree
+- Add parameter type checks to public library methods
