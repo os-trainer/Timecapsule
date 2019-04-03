@@ -1597,3 +1597,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data processing and normalization pipeline
 - Fix infinite loop risk in collection traversal logic
 - Extract progress tracking into dedicated emitter
+- Add input sanitization for file paths
