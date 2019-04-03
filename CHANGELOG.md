@@ -8657,3 +8657,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update lockfile with verified dependency tree
 - Add parameter type checks to public library methods
 - Fix missing return statement in error branch
+- Extract common constants into centralized configuration
