@@ -8662,3 +8662,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct output formatting when statistics are zero
 - Add validation rules for date range boundaries
 - Cover edge cases in date range calculation logic
+- Fix potential race condition during file initialization
