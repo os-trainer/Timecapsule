@@ -8659,3 +8659,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix missing return statement in error branch
 - Extract common constants into centralized configuration
 - Add reusable string formatting utility functions
+- Correct output formatting when statistics are zero
