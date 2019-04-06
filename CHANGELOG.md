@@ -8672,3 +8672,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify conditional branching in distribution calculator
 - Add clear synthetic demonstration disclaimer in documentation
 - Add array sorting and filtering helper functions
+- Add table of contents to main project documentation
