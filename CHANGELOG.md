@@ -8674,3 +8674,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add array sorting and filtering helper functions
 - Add table of contents to main project documentation
 - Add regression tests for previous edge-case bugs
+- Standardize date string formatting across all output
