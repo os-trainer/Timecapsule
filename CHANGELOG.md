@@ -1600,3 +1600,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input sanitization for file paths
 - Add FAQ section covering common configuration questions
 - Restructure project exports to avoid circular dependencies
+- Update lockfile with verified dependency tree
