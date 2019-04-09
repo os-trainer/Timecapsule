@@ -8680,3 +8680,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect boolean flag evaluation
 - Verify error messages for missing required options
 - Modernize internal loop constructs and data structures
+- Fix unexpected empty input parsing in command line options
