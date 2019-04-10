@@ -1606,3 +1606,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update project dependencies to latest secure versions
 - Improve modularity of utility function parameter signatures
 - Add assertions for default configuration fallbacks
+- Add structured logging helper with log levels
