@@ -1605,3 +1605,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add colorized terminal output formatter
 - Update project dependencies to latest secure versions
 - Improve modularity of utility function parameter signatures
+- Add assertions for default configuration fallbacks
