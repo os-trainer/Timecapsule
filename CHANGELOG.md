@@ -1608,3 +1608,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add assertions for default configuration fallbacks
 - Add structured logging helper with log levels
 - Handle missing configuration gracefully with defaults
+- Add environment variable override support
