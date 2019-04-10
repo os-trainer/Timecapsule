@@ -8683,3 +8683,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unexpected empty input parsing in command line options
 - Configure code style rules and ignore patterns
 - Add URL query string builder and parser
+- Correct fallback order for configuration properties
