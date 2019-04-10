@@ -8685,3 +8685,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add URL query string builder and parser
 - Correct fallback order for configuration properties
 - Add FAQ section covering common configuration questions
+- Add assertions for default configuration fallbacks
