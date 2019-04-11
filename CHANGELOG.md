@@ -8689,3 +8689,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct negative duration calculations across days
 - Improve readability of complex conditional evaluations
 - Set up base development environment and tooling
+- Ensure consistent parameter ordering in helper signatures
