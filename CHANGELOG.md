@@ -1610,3 +1610,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle missing configuration gracefully with defaults
 - Add environment variable override support
 - Add integration test verifying end-to-end workflow execution
+- Fix memory leak in recurring event listeners
