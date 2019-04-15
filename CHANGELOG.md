@@ -8693,3 +8693,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update changelog with recent feature additions and fixes
 - Verify idempotency of cleanup routines in test suite
 - Rename internal variables and parameters for clarity
+- Add unit tests for progress reporter events
