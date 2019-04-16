@@ -1614,3 +1614,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle undefined configuration sections safely
 - Refactor validation pipelines to support chaining
 - Ensure consistent parameter ordering in helper signatures
+- Improve test coverage for error recovery branches
