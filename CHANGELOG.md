@@ -1621,3 +1621,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix edge case in input handling for empty strings
 - Implement deep object merging utility
 - Verify cache invalidation logic under test conditions
+- Fix incorrect boolean flag evaluation
