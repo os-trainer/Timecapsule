@@ -1619,3 +1619,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve package scripts for building and testing
 - Add unit tests for rate limiting and throttling helpers
 - Fix edge case in input handling for empty strings
+- Implement deep object merging utility
