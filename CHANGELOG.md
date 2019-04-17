@@ -1616,3 +1616,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure consistent parameter ordering in helper signatures
 - Improve test coverage for error recovery branches
 - Implement event listener registry for status events
+- Improve package scripts for building and testing
