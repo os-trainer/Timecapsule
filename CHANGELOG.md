@@ -1625,3 +1625,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct negative duration calculations across days
 - Implement safe JSON parsing with fallback values
 - Add unit tests for input validation helper functions
+- Handle null and undefined options defensively
