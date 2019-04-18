@@ -8707,3 +8707,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add tests for custom output destination formatting
 - Implement command dispatcher with routing logic
 - Fix improper resource cleanup on exit
+- Improve separation of concerns between CLI and core engine
