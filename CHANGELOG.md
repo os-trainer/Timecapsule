@@ -1634,3 +1634,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Tune lint-staged configuration for staged files
 - Set up clean project entry and public API interface
 - Implement file reading helper with encoding support
+- Test custom date formatting tokens and output strings
