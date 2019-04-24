@@ -8714,3 +8714,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reduce duplicated logic across helper utilities
 - Verify retry logic behavior under simulated failures
 - Add colorized terminal output formatter
+- Fix argument parsing when flag value contains spaces
