@@ -8718,3 +8718,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak caused by unreleased cache handles
 - Cover dry-run execution mode with assertion checks
 - Correctly escape special characters in terminal output
+- Add snapshot tests for terminal output formatters
