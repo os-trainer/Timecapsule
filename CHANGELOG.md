@@ -1637,3 +1637,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test custom date formatting tokens and output strings
 - Fix inconsistent return type on validation failure
 - Modularize schema definitions and validation rules
+- Add safe deep clone utility function
