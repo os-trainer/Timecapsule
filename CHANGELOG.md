@@ -1641,3 +1641,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update API reference documentation for core exports
 - Implement retry mechanism for transient operations
 - Add unit tests for collection filter predicates
+- Refactor configuration fallback resolution
