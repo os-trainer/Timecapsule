@@ -1638,3 +1638,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inconsistent return type on validation failure
 - Modularize schema definitions and validation rules
 - Add safe deep clone utility function
+- Update API reference documentation for core exports
