@@ -1646,3 +1646,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update author and contributor information in package descriptor
 - Implement batch processing utility for array inputs
 - Establish initial source exports and entry point
+- Extract file system operations into isolated adapter
