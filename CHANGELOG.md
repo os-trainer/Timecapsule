@@ -8721,3 +8721,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add snapshot tests for terminal output formatters
 - Implement object transformation and mapping utilities
 - Handle timeout gracefully during external operations
+- Implement event listener registry for status events
