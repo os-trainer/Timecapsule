@@ -1651,3 +1651,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement customizable output formatting options
 - Implement command dispatcher with routing logic
 - Add snapshot tests for terminal output formatters
+- Add input sanitization for file paths
