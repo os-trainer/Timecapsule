@@ -8728,3 +8728,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test empty collection handling across utility functions
 - Add safe string truncation helper
 - Extract common constants into centralized configuration
+- Document preview mode and dry-run visualization
