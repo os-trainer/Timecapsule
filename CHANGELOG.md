@@ -8734,3 +8734,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for verbose diagnostic output
 - Clean up project structure and remove redundant exports
 - Add npm script for running unit test suite
+- Add custom error classes for domain-specific failures
