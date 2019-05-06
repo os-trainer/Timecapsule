@@ -8736,3 +8736,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add npm script for running unit test suite
 - Add custom error classes for domain-specific failures
 - Add regression test for boundary date calculations
+- Standardize exception messages across validation logic
