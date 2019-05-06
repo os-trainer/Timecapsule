@@ -1656,3 +1656,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test suite for distribution weight calculations
 - Add URL query string builder and parser
 - Add acknowledgments and open-source project credits
+- Add performance assertions for large collection processing
