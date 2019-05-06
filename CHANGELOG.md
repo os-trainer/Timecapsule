@@ -8731,3 +8731,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document preview mode and dry-run visualization
 - Consolidate string manipulation utilities
 - Test timezone offset handling with varying dates
+- Add support for verbose diagnostic output
