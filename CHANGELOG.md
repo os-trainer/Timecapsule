@@ -8735,3 +8735,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up project structure and remove redundant exports
 - Add npm script for running unit test suite
 - Add custom error classes for domain-specific failures
+- Add regression test for boundary date calculations
