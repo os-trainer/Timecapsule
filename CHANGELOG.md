@@ -8739,3 +8739,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize exception messages across validation logic
 - Test command line help output and option documentation
 - Implement template interpolation utility
+- Cover complex configuration inheritance in tests
