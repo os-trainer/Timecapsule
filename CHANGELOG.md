@@ -1661,3 +1661,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decouple output formatting from core computation logic
 - Implement stream-based chunk processor
 - Update changelog with recent feature additions and fixes
+- Extract progress tracking into dedicated emitter
