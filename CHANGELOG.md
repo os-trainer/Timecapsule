@@ -1660,3 +1660,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle unexpected zero-length arrays in reducer logic
 - Decouple output formatting from core computation logic
 - Implement stream-based chunk processor
+- Update changelog with recent feature additions and fixes
