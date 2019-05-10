@@ -8747,3 +8747,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up stray debug statements and console output
 - Fix unhandled promise rejection in async error handler
 - Improve test coverage across utility modules
+- Update test runner configuration for isolated execution
