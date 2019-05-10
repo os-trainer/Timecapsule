@@ -8746,3 +8746,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify control flow and reduce nested conditionals
 - Clean up stray debug statements and console output
 - Fix unhandled promise rejection in async error handler
+- Improve test coverage across utility modules
