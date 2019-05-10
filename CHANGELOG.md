@@ -8745,3 +8745,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test cases for boolean flag normalization
 - Simplify control flow and reduce nested conditionals
 - Clean up stray debug statements and console output
+- Fix unhandled promise rejection in async error handler
