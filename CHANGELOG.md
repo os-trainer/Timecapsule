@@ -1664,3 +1664,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract progress tracking into dedicated emitter
 - Add parameter type checks to public library methods
 - Add basic data processing and normalization pipeline
+- Document error handling strategies and exit codes
