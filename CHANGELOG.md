@@ -8751,3 +8751,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update API reference documentation for core exports
 - Add input validation for user-supplied options
 - Streamline event dispatching mechanism
+- Correct error handling when input file is absent
