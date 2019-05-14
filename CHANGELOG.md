@@ -8749,3 +8749,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage across utility modules
 - Update test runner configuration for isolated execution
 - Update API reference documentation for core exports
+- Add input validation for user-supplied options
