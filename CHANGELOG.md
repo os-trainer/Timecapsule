@@ -8750,3 +8750,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update test runner configuration for isolated execution
 - Update API reference documentation for core exports
 - Add input validation for user-supplied options
+- Streamline event dispatching mechanism
