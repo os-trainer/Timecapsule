@@ -1668,3 +1668,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix validation logic for boundary date ranges
 - Add test cases for boolean flag normalization
 - Implement flexible filter predicate builder
+- Improve naming consistency across internal interfaces
