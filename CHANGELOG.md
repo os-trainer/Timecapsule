@@ -1666,3 +1666,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data processing and normalization pipeline
 - Document error handling strategies and exit codes
 - Fix validation logic for boundary date ranges
+- Add test cases for boolean flag normalization
