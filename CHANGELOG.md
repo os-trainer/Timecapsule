@@ -8752,3 +8752,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input validation for user-supplied options
 - Streamline event dispatching mechanism
 - Correct error handling when input file is absent
+- Clarify difference between distribution algorithms
