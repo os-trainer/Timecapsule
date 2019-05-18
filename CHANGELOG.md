@@ -8758,3 +8758,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add command-line argument parser for configuration flags
 - Fix circular reference error in object serialization
 - Adjust timeout thresholds for integration test suite
+- Verify idempotency of cleanup routines in test suite
