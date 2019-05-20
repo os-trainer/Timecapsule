@@ -8760,3 +8760,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adjust timeout thresholds for integration test suite
 - Verify idempotency of cleanup routines in test suite
 - Streamline parameter passing across internal layers
+- Add system status inspection helper
