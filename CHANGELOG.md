@@ -1683,3 +1683,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle missing configuration gracefully with defaults
 - Add initial contributor guidelines template
 - Test invalid input handling and expected exceptions
+- Add detailed architecture overview and component diagram
