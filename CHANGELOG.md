@@ -1685,3 +1685,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test invalid input handling and expected exceptions
 - Add detailed architecture overview and component diagram
 - Correct regex pattern matching for date validation
+- Add command-line argument parser for configuration flags
