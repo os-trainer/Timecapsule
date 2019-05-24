@@ -8768,3 +8768,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement helper utilities for parameter parsing
 - Add key-value store wrapper for memory cache
 - Correct timestamp calculation for timezone offsets
+- Improve test coverage for error recovery branches
