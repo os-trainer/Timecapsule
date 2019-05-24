@@ -8770,3 +8770,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct timestamp calculation for timezone offsets
 - Improve test coverage for error recovery branches
 - Implement date formatting and parsing helpers
+- Handle empty environment variables without error
