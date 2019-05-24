@@ -8767,3 +8767,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct regex pattern matching for date validation
 - Implement helper utilities for parameter parsing
 - Add key-value store wrapper for memory cache
+- Correct timestamp calculation for timezone offsets
