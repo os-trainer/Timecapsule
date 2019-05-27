@@ -1691,3 +1691,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct string trimming logic for multi-line inputs
 - Add system status inspection helper
 - Add instructions for running tests and linter locally
+- Add regression test for boundary date calculations
