@@ -8778,3 +8778,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve function organization and module cohesion
 - Implement summary statistics calculation helper
 - Add comprehensive tests for configuration loader
+- Refactor argument parsing to standardize option names
