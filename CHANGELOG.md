@@ -1695,3 +1695,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement progress reporter for long-running workflows
 - Correct path delimiter handling across operating systems
 - Add multi-step workflow runner utility
+- Handle malformed JSON configuration without crashing
