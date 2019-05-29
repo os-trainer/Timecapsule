@@ -1696,3 +1696,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct path delimiter handling across operating systems
 - Add multi-step workflow runner utility
 - Handle malformed JSON configuration without crashing
+- Extract common constants into centralized configuration
