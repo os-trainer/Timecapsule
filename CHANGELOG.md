@@ -8784,3 +8784,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement configuration merging priority logic
 - Add test harness for simulated time progression
 - Decouple output formatting from core computation logic
+- Implement dry-run execution preview mode
