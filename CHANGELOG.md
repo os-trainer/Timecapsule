@@ -8785,3 +8785,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test harness for simulated time progression
 - Decouple output formatting from core computation logic
 - Implement dry-run execution preview mode
+- Update npm packaging whitelist in files array
