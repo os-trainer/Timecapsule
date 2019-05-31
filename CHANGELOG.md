@@ -8786,3 +8786,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decouple output formatting from core computation logic
 - Implement dry-run execution preview mode
 - Update npm packaging whitelist in files array
+- Correct path delimiter handling across operating systems
