@@ -1703,3 +1703,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Replace magic numbers with named configuration constants
 - Test empty collection handling across utility functions
 - Fix intermittent failure in date boundary comparison
+- Add array sorting and filtering helper functions
