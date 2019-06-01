@@ -1707,3 +1707,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document environment variable configuration overrides
 - Implement safe JSON parsing with fallback values
 - Ensure consistent parameter ordering in helper signatures
+- Verify retry logic behavior under simulated failures
