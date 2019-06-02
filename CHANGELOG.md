@@ -8788,3 +8788,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update npm packaging whitelist in files array
 - Correct path delimiter handling across operating systems
 - Improve inline code documentation and parameter descriptions
+- Add schema validation for configuration objects
