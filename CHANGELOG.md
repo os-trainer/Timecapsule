@@ -8789,3 +8789,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct path delimiter handling across operating systems
 - Improve inline code documentation and parameter descriptions
 - Add schema validation for configuration objects
+- Extract date formatting templates into reusable helpers
