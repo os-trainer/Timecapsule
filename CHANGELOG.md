@@ -8793,3 +8793,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct boundary check in range validation utility
 - Improve documentation for custom output templates
 - Handle null and undefined options defensively
+- Add examples of integrating tool into automated scripts
