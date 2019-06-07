@@ -8799,3 +8799,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize date string formatting across all output
 - Verify proper error types are thrown on invalid arguments
 - Document custom commit message filtering and options
+- Add performance assertions for large collection processing
