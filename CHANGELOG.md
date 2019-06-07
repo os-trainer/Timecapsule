@@ -8796,3 +8796,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add examples of integrating tool into automated scripts
 - Add unit tests for collection filter predicates
 - Add clean script to purge build artifacts and temp files
+- Standardize date string formatting across all output
