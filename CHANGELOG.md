@@ -8804,3 +8804,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inaccurate execution duration calculation
 - Add badges for license, build status, and version
 - Handle undefined configuration sections safely
+- Add integration test verifying end-to-end workflow execution
