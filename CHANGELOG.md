@@ -8807,3 +8807,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add integration test verifying end-to-end workflow execution
 - Implement progress reporter for long-running workflows
 - Add structured logging helper with log levels
+- Add support for JSON and plain text output formats
