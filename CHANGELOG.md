@@ -8810,3 +8810,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for JSON and plain text output formats
 - Add clear synthetic demonstration disclaimer in documentation
 - Test invalid input handling and expected exceptions
+- Restructure project exports to avoid circular dependencies
