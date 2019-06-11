@@ -8812,3 +8812,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test invalid input handling and expected exceptions
 - Restructure project exports to avoid circular dependencies
 - Update author and contributor information in package descriptor
+- Document logging levels and diagnostic flags
