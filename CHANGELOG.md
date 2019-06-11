@@ -1718,3 +1718,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add tests for custom output destination formatting
 - Implement retry mechanism for transient operations
 - Refactor configuration fallback resolution
+- Fix missing return statement in error branch
