@@ -1724,3 +1724,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data processing and normalization pipeline
 - Verify error messages for missing required options
 - Standardize terminology across comments and log output
+- Fix incorrect default parameter assignment
