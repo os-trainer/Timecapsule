@@ -8815,3 +8815,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document logging levels and diagnostic flags
 - Simplify complex arithmetic expressions in date logic
 - Handle file permission errors with actionable messages
+- Add support for custom output destination paths
