@@ -8814,3 +8814,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update author and contributor information in package descriptor
 - Document logging levels and diagnostic flags
 - Simplify complex arithmetic expressions in date logic
+- Handle file permission errors with actionable messages
