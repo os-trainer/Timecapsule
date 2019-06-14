@@ -8818,3 +8818,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for custom output destination paths
 - Handle unexpected zero-length arrays in reducer logic
 - Consolidate duplicate string sanitization routines
+- Add strict boundary checks to numeric operations
