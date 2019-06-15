@@ -1726,3 +1726,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize terminology across comments and log output
 - Fix incorrect default parameter assignment
 - Implement helper utilities for parameter parsing
+- Verify proper error types are thrown on invalid arguments
