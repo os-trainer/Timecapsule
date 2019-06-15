@@ -1725,3 +1725,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify error messages for missing required options
 - Standardize terminology across comments and log output
 - Fix incorrect default parameter assignment
+- Implement helper utilities for parameter parsing
