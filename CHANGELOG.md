@@ -8827,3 +8827,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect default parameter assignment
 - Add security considerations and safe execution notes
 - Fix inconsistent return type on validation failure
+- Add input sanitization for file paths
