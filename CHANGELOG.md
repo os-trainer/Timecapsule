@@ -8825,3 +8825,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify installation instructions and system prerequisites
 - Introduce mock harness for file system operations
 - Fix incorrect default parameter assignment
+- Add security considerations and safe execution notes
