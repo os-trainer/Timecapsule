@@ -8829,3 +8829,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inconsistent return type on validation failure
 - Add input sanitization for file paths
 - Add unit tests for progress reporter events
+- Add safe string truncation helper
