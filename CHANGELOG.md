@@ -8832,3 +8832,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add safe string truncation helper
 - Fix type coercion error during numeric comparisons
 - Add unit tests for terminal colorization toggles
+- Add multi-step workflow runner utility
