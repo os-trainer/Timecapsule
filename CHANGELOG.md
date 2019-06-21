@@ -1738,3 +1738,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover dry-run execution mode with assertion checks
 - Add JSDoc type annotations for internal functions
 - Handle undefined configuration sections safely
+- Add assertions for default configuration fallbacks
