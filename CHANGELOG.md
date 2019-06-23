@@ -1743,3 +1743,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement template interpolation utility
 - Verify platform-specific path handling in test suite
 - Improve test coverage across utility modules
+- Add safe string truncation helper
