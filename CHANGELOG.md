@@ -1749,3 +1749,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test cases for boolean flag normalization
 - Improve clarity of variable scopes and closures
 - Resolve incorrect return value for edge-case queries
+- Adjust timeout thresholds for integration test suite
