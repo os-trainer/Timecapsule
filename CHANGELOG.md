@@ -8839,3 +8839,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement command dispatcher with routing logic
 - Implement numeric range clamping helper
 - Improve naming consistency across internal interfaces
+- Implement query filter helpers for collection items
