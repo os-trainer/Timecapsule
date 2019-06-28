@@ -8842,3 +8842,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement query filter helpers for collection items
 - Add quick reference cheat sheet for CLI commands
 - Update package version in manifest file
+- Implement defensive parameter sanitization
