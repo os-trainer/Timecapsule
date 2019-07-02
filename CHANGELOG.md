@@ -8851,3 +8851,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve modularity of utility function parameter signatures
 - Handle malformed JSON configuration without crashing
 - Correct path delimiter handling across operating systems
+- Add unit tests for input validation helper functions
