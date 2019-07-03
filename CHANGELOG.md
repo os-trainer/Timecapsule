@@ -1760,3 +1760,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add assertions to catch illegal state during execution
 - Adjust test runner timeout and concurrency settings
 - Add unit tests for progress reporter events
+- Add basic data caching layer with key invalidation
