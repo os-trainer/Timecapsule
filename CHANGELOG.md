@@ -1764,3 +1764,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve code formatting and consistent whitespace
 - Verify cache invalidation logic under test conditions
 - Improve naming consistency across internal interfaces
+- Handle process interruption cleanly during generation
