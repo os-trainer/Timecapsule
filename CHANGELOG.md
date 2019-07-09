@@ -1772,3 +1772,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor array processing routines to use functional methods
 - Improve inline code documentation and parameter descriptions
 - Add unit tests for rate limiting and throttling helpers
+
+## [2.7.0]
+### Changed
+- Add support for custom output destination paths
