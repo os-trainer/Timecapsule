@@ -8869,3 +8869,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement event listener registry for status events
 - Clean up project structure and remove redundant exports
 - Add usage notes for multi-year historical generation
+- Improve input handling and defensive type assertions
