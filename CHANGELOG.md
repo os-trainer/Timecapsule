@@ -1779,3 +1779,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix string encoding issue when processing special characters
 - Document logging levels and diagnostic flags
 - Add structured logging helper with log levels
+- Correct output formatting when statistics are zero
