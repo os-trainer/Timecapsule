@@ -8871,3 +8871,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add usage notes for multi-year historical generation
 - Improve input handling and defensive type assertions
 - Verify error messages for missing required options
+- Add step-by-step tutorial for sample project generation
