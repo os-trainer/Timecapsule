@@ -8872,3 +8872,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve input handling and defensive type assertions
 - Verify error messages for missing required options
 - Add step-by-step tutorial for sample project generation
+- Document test execution commands and coverage reports
