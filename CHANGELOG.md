@@ -1777,3 +1777,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Add support for custom output destination paths
 - Fix string encoding issue when processing special characters
+- Document logging levels and diagnostic flags
