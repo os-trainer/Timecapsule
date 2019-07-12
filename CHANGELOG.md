@@ -1784,3 +1784,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add snapshot tests for terminal output formatters
 - Add input validation for user-supplied options
 - Add code comments explaining complex date mathematics
+- Refactor caching mechanism for cleaner abstraction
