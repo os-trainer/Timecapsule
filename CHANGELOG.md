@@ -1781,3 +1781,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add structured logging helper with log levels
 - Correct output formatting when statistics are zero
 - Simplify control flow and reduce nested conditionals
+- Add snapshot tests for terminal output formatters
