@@ -1786,3 +1786,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add code comments explaining complex date mathematics
 - Refactor caching mechanism for cleaner abstraction
 - Add validation rules for date range boundaries
+- Document date format requirements and accepted tokens
