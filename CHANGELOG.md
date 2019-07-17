@@ -8887,3 +8887,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct timestamp calculation for timezone offsets
 - Decompose monolithic workflow function into focused steps
 - Add reusable string formatting utility functions
+- Fix inconsistent return type on validation failure
