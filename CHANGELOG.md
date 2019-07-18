@@ -8892,3 +8892,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline event dispatching mechanism
 - Fix unhandled promise rejection in async error handler
 - Add custom formatting options for summary tables
+- Add usage examples for common command-line options
