@@ -8890,3 +8890,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inconsistent return type on validation failure
 - Verify graceful handling of malformed input data
 - Streamline event dispatching mechanism
+- Fix unhandled promise rejection in async error handler
