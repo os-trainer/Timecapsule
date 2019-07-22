@@ -1795,3 +1795,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Establish baseline directory hierarchy and exports
 - Add custom error classes for domain-specific failures
 - Add usage notes for multi-year historical generation
+- Improve readability of complex conditional evaluations
