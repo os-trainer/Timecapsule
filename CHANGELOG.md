@@ -8902,3 +8902,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline parameter passing across internal layers
 - Cover malformed command line options in test suite
 - Add unit tests for progress reporter events
+- Fix memory leak caused by unreleased cache handles
