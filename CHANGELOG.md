@@ -8903,3 +8903,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover malformed command line options in test suite
 - Add unit tests for progress reporter events
 - Fix memory leak caused by unreleased cache handles
+- Implement command line flag alias mapping
