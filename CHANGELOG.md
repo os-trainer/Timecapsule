@@ -8910,3 +8910,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test invalid input handling and expected exceptions
 - Add unit tests for rate limiting and throttling helpers
 - Implement file reading helper with encoding support
+- Handle partial input objects during configuration merge
