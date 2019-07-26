@@ -8908,3 +8908,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add quick reference cheat sheet for CLI commands
 - Add schema validation for configuration objects
 - Test invalid input handling and expected exceptions
+- Add unit tests for rate limiting and throttling helpers
