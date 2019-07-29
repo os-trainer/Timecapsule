@@ -1815,3 +1815,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure environment file loading conventions
 - Clean up dead code and obsolete helper methods
 - Cover malformed command line options in test suite
+- Add support for JSON and plain text output formats
