@@ -1819,3 +1819,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline event dispatching mechanism
 - Implement dry-run execution preview mode
 - Update project metadata and repository description
+- Fix memory leak in recurring event listeners
