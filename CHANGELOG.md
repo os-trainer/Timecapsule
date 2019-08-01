@@ -1821,3 +1821,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update project metadata and repository description
 - Fix memory leak in recurring event listeners
 - Add regression tests for previous edge-case bugs
+- Refactor promise handling to use modern async/await patterns
