@@ -1820,3 +1820,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement dry-run execution preview mode
 - Update project metadata and repository description
 - Fix memory leak in recurring event listeners
+- Add regression tests for previous edge-case bugs
