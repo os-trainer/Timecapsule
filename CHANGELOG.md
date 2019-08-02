@@ -8933,3 +8933,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Resolve incorrect return value for edge-case queries
 - Document error handling strategies and exit codes
 - Add basic data processing and normalization pipeline
+- Clarify frequency parameter behavior and percentage rules
