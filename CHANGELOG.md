@@ -1823,3 +1823,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression tests for previous edge-case bugs
 - Refactor promise handling to use modern async/await patterns
 - Add environment variable override support
+- Update changelog with recent feature additions and fixes
