@@ -1826,3 +1826,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update changelog with recent feature additions and fixes
 - Add support for verbose diagnostic output
 - Fix unhandled promise rejection in async error handler
+- Add usage examples for common command-line options
