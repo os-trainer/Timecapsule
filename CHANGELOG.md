@@ -1828,3 +1828,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unhandled promise rejection in async error handler
 - Add usage examples for common command-line options
 - Add key-value store wrapper for memory cache
+- Handle empty environment variables without error
