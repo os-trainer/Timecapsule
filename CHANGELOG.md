@@ -1829,3 +1829,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add usage examples for common command-line options
 - Add key-value store wrapper for memory cache
 - Handle empty environment variables without error
+- Improve test coverage for error recovery branches
