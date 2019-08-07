@@ -1837,3 +1837,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add assertions for default configuration fallbacks
 - Fix type coercion error during numeric comparisons
 - Extract reusable helper functions from main workflow
+- Reduce duplicated logic across helper utilities
