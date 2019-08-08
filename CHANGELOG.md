@@ -8937,3 +8937,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify control flow and reduce nested conditionals
 - Implement template interpolation utility
 - Add comments explaining subtle edge cases in date math
+- Fix circular reference error in object serialization
