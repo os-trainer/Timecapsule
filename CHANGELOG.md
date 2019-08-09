@@ -8942,3 +8942,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify error messages for missing required options
 - Implement helper utilities for parameter parsing
 - Refactor validation pipelines to support chaining
+- Fix improper resource cleanup on exit
