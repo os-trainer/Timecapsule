@@ -8951,3 +8951,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document environment variable configuration overrides
 - Add regression tests for previous edge-case bugs
 - Correct output formatting when statistics are zero
+- Add troubleshooting notes for frequent setup issues
