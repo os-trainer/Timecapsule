@@ -8949,3 +8949,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update author and contributor information in package descriptor
 - Handle process interruption cleanly during generation
 - Document environment variable configuration overrides
+- Add regression tests for previous edge-case bugs
