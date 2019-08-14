@@ -1852,3 +1852,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle partial input objects during configuration merge
 - Restructure project exports to avoid circular dependencies
 - Implement defensive parameter sanitization
+- Handle process interruption cleanly during generation
