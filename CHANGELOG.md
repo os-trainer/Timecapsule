@@ -1854,3 +1854,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement defensive parameter sanitization
 - Handle process interruption cleanly during generation
 - Add unit tests for input validation helper functions
+- Add configuration for source map generation
