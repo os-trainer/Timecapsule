@@ -1861,3 +1861,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Enhance descriptive quality of debug logging statements
 - Improve README with comprehensive getting-started guide
 - Add support for custom output destination paths
+- Fix off-by-one error in collection index calculations
