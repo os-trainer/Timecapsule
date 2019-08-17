@@ -1862,3 +1862,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve README with comprehensive getting-started guide
 - Add support for custom output destination paths
 - Fix off-by-one error in collection index calculations
+- Configure automated dependency review settings
