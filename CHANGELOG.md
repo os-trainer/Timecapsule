@@ -1865,3 +1865,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure automated dependency review settings
 - Correct fallback order for configuration properties
 - Document test execution commands and coverage reports
+- Correct boundary check in range validation utility
