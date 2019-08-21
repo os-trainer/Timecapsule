@@ -8959,3 +8959,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle file permission errors with actionable messages
 - Refactor array processing routines to use functional methods
 - Add usage examples for common command-line options
+- Add instructions for running tests and linter locally
