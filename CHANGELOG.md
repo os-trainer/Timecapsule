@@ -1869,3 +1869,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement deep object merging utility
 - Correct error handling when input file is absent
 - Improve naming consistency across internal interfaces
+- Clarify frequency parameter behavior and percentage rules
