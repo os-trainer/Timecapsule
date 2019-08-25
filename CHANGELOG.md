@@ -1872,3 +1872,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify frequency parameter behavior and percentage rules
 - Consolidate error definitions and status messages
 - Cover complex configuration inheritance in tests
+- Improve documentation for programmatic JavaScript API
