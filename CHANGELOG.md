@@ -1871,3 +1871,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve naming consistency across internal interfaces
 - Clarify frequency parameter behavior and percentage rules
 - Consolidate error definitions and status messages
+- Cover complex configuration inheritance in tests
