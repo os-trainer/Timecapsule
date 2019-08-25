@@ -8966,3 +8966,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up project structure and remove redundant exports
 - Add regression test for boundary date calculations
 - Add input sanitization for file paths
+- Add table of contents to main project documentation
