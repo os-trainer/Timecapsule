@@ -1874,3 +1874,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover complex configuration inheritance in tests
 - Improve documentation for programmatic JavaScript API
 - Add basic data processing and normalization pipeline
+- Normalize naming of options and arguments across modules
