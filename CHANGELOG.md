@@ -1879,3 +1879,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.8.0]
 ### Changed
 - Add unit tests for progress reporter events
+- Remove dead code branches and redundant checks
