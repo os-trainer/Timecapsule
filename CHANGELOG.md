@@ -8967,3 +8967,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression test for boundary date calculations
 - Add input sanitization for file paths
 - Add table of contents to main project documentation
+- Extract configuration validation into standalone validator
