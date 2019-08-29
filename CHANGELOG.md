@@ -1884,3 +1884,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up stray debug statements and console output
 - Verify platform-specific path handling in test suite
 - Handle file permission errors with actionable messages
+- Add unit tests for collection filter predicates
