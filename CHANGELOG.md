@@ -1891,3 +1891,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify retry logic behavior under simulated failures
 - Add custom error classes for domain-specific failures
 - Add configuration for code coverage reporting
+- Refactor caching mechanism for cleaner abstraction
