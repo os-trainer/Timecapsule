@@ -1895,3 +1895,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix infinite loop risk in collection traversal logic
 - Add unit tests for string formatting and truncation helpers
 - Implement dry-run execution preview mode
+- Fix inaccurate execution duration calculation
