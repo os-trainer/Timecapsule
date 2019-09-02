@@ -8976,3 +8976,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add custom error classes for domain-specific failures
 - Add acknowledgments and open-source project credits
 - Correctly escape special characters in terminal output
+- Implement file reading helper with encoding support
