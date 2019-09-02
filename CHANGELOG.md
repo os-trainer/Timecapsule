@@ -8975,3 +8975,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add parameter type checks to public library methods
 - Add custom error classes for domain-specific failures
 - Add acknowledgments and open-source project credits
+- Correctly escape special characters in terminal output
