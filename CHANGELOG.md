@@ -8978,3 +8978,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correctly escape special characters in terminal output
 - Implement file reading helper with encoding support
 - Improve separation of concerns between CLI and core engine
+- Fix unexpected empty input parsing in command line options
