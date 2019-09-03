@@ -8981,3 +8981,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unexpected empty input parsing in command line options
 - Add test cases for boolean flag normalization
 - Remove obsolete polyfills and legacy compatibility shims
+- Add unit tests for string formatting and truncation helpers
