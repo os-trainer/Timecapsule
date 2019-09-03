@@ -8980,3 +8980,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve separation of concerns between CLI and core engine
 - Fix unexpected empty input parsing in command line options
 - Add test cases for boolean flag normalization
+- Remove obsolete polyfills and legacy compatibility shims
