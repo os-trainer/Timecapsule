@@ -8985,3 +8985,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor utility functions into dedicated modules
 - Improve test coverage for error recovery branches
 - Remove dead code branches and redundant checks
+- Refactor caching mechanism for cleaner abstraction
