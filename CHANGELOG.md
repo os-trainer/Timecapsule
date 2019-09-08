@@ -8990,3 +8990,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add environment variable override support
 - Introduce mock harness for file system operations
 - Implement stream-based chunk processor
+- Handle null and undefined options defensively
