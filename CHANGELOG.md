@@ -8995,3 +8995,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify cache invalidation logic under test conditions
 - Implement progress reporter for long-running workflows
 - Add unit tests for input validation helper functions
+- Fix memory leak in recurring event listeners
