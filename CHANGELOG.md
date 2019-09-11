@@ -8998,3 +8998,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak in recurring event listeners
 - Add npm script for running unit test suite
 - Implement command line flag alias mapping
+- Clarify installation instructions and system prerequisites
