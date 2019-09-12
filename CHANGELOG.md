@@ -1915,3 +1915,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect boolean flag evaluation
 - Extract file system operations into isolated adapter
 - Tune lint-staged configuration for staged files
+- Introduce mock harness for file system operations
