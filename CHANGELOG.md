@@ -1917,3 +1917,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Tune lint-staged configuration for staged files
 - Introduce mock harness for file system operations
 - Add custom formatting options for summary tables
+- Correctly escape special characters in terminal output
