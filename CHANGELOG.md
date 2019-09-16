@@ -1922,3 +1922,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test invalid input handling and expected exceptions
 - Extract terminal output logic into presentation layer
 - Add clear synthetic demonstration disclaimer in documentation
+- Fix unexpected empty input parsing in command line options
