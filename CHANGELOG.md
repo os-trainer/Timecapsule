@@ -1924,3 +1924,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add clear synthetic demonstration disclaimer in documentation
 - Fix unexpected empty input parsing in command line options
 - Cover dry-run execution mode with assertion checks
+- Modularize command-line argument processing logic
