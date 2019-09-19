@@ -9011,3 +9011,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression tests for previous edge-case bugs
 - Fix incorrect status code returned on input error
 - Update README with example workflow scenarios
+- Add comments explaining subtle edge cases in date math
