@@ -9010,3 +9010,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modularize command-line argument processing logic
 - Add regression tests for previous edge-case bugs
 - Fix incorrect status code returned on input error
+- Update README with example workflow scenarios
