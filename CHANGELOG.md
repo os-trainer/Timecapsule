@@ -1926,3 +1926,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover dry-run execution mode with assertion checks
 - Modularize command-line argument processing logic
 - Implement pagination helper for collection data
+- Fix improper resource cleanup on exit
