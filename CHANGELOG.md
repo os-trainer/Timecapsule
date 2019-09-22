@@ -9020,3 +9020,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify complex arithmetic expressions in date logic
 - Fix missing return statement in error branch
 - Verify platform-specific path handling in test suite
+- Add system status inspection helper
