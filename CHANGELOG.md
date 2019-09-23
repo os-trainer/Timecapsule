@@ -9023,3 +9023,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add system status inspection helper
 - Add usage notes for multi-year historical generation
 - Test invalid input handling and expected exceptions
+- Fix inaccurate execution duration calculation
