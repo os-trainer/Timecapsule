@@ -1934,3 +1934,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure automated pre-commit code verification
 - Add unit tests for terminal colorization toggles
 - Simplify control flow and reduce nested conditionals
+- Fix argument parsing when flag value contains spaces
