@@ -9028,3 +9028,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract date formatting templates into reusable helpers
 - Add snapshot tests for terminal output formatters
 - Add validation rules for date range boundaries
+- Extract progress tracking into dedicated emitter
