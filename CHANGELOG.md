@@ -1936,3 +1936,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify control flow and reduce nested conditionals
 - Fix argument parsing when flag value contains spaces
 - Add tests for custom output destination formatting
+- Add comments explaining subtle edge cases in date math
