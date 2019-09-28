@@ -9038,3 +9038,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document supported platforms and shell environments
 - Add unit tests for terminal colorization toggles
 - Add descriptive error context when file reading fails
+- Correct fallback order for configuration properties
