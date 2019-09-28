@@ -9036,3 +9036,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix intermittent failure in date boundary comparison
 - Handle empty environment variables without error
 - Document supported platforms and shell environments
+- Add unit tests for terminal colorization toggles
