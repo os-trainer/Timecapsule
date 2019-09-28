@@ -9034,3 +9034,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update author and contributor information in package descriptor
 - Add performance assertions for large collection processing
 - Fix intermittent failure in date boundary comparison
+- Handle empty environment variables without error
