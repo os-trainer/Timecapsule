@@ -9045,3 +9045,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct boundary check in range validation utility
 - Implement configuration file loader with fallback defaults
 - Add test suite for distribution weight calculations
+- Add unit tests for rate limiting and throttling helpers
