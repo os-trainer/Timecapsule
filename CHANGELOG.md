@@ -9049,3 +9049,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify error throwing and propagation mechanisms
 - Fix validation logic for boundary date ranges
 - Implement deep object merging utility
+- Streamline option parsing and default resolution
