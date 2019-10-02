@@ -9050,3 +9050,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix validation logic for boundary date ranges
 - Implement deep object merging utility
 - Streamline option parsing and default resolution
+- Fix formatting anomaly in terminal progress display
