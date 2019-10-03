@@ -1950,3 +1950,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix formatting anomaly in terminal progress display
 - Document environment variable configuration overrides
 - Add input sanitization for file paths
+- Verify proper error types are thrown on invalid arguments
