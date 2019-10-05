@@ -9060,3 +9060,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test custom date formatting tokens and output strings
 - Handle malformed JSON configuration without crashing
 - Implement batch processing utility for array inputs
+- Fix off-by-one error in collection index calculations
