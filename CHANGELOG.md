@@ -9058,3 +9058,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add lightweight event emitter implementation
 - Clarify difference between distribution algorithms
 - Test custom date formatting tokens and output strings
+- Handle malformed JSON configuration without crashing
