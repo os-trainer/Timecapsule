@@ -1952,3 +1952,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input sanitization for file paths
 - Verify proper error types are thrown on invalid arguments
 - Implement batch processing utility for array inputs
+- Simplify error throwing and propagation mechanisms
