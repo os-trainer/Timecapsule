@@ -1955,3 +1955,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify error throwing and propagation mechanisms
 - Update development dependencies for test framework
 - Handle process interruption cleanly during generation
+- Handle empty input collections without throwing exceptions
