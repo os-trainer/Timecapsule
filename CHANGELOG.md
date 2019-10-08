@@ -9064,3 +9064,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Introduce mock harness for file system operations
 - Handle unexpected zero-length arrays in reducer logic
 - Document configuration options and default parameters
+- Implement dry-run execution preview mode
