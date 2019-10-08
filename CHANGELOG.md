@@ -9066,3 +9066,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document configuration options and default parameters
 - Implement dry-run execution preview mode
 - Implement stream-based chunk processor
+- Restructure project exports to avoid circular dependencies
