@@ -1959,3 +1959,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for verbose diagnostic output
 - Improve input handling and defensive type assertions
 - Clarify difference between distribution algorithms
+- Decouple output formatting from core computation logic
