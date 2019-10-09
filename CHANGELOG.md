@@ -9069,3 +9069,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Restructure project exports to avoid circular dependencies
 - Fix incorrect status code returned on input error
 - Cover deep object merge edge cases in unit tests
+- Implement retry mechanism for transient operations
