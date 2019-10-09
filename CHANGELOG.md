@@ -9068,3 +9068,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement stream-based chunk processor
 - Restructure project exports to avoid circular dependencies
 - Fix incorrect status code returned on input error
+- Cover deep object merge edge cases in unit tests
