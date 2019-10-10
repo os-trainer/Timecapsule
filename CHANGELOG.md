@@ -1961,3 +1961,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify difference between distribution algorithms
 - Decouple output formatting from core computation logic
 - Add URL query string builder and parser
+- Document configuration options and default parameters
