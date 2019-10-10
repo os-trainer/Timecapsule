@@ -1964,3 +1964,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document configuration options and default parameters
 - Correct error handling when input file is absent
 - Add test cases for boolean flag normalization
+- Implement date formatting and parsing helpers
