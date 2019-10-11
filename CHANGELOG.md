@@ -9077,3 +9077,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure environment file loading conventions
 - Add detailed architecture overview and component diagram
 - Handle timeout gracefully during external operations
+- Document test execution commands and coverage reports
