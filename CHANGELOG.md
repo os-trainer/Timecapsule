@@ -9085,3 +9085,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document logging levels and diagnostic flags
 - Add input sanitization for file paths
 - Implement customizable output formatting options
+- Ensure consistent parameter ordering in helper signatures
