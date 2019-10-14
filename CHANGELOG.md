@@ -1973,3 +1973,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract date formatting templates into reusable helpers
 - Add parameterized tests for date parsing variations
 - Implement flexible filter predicate builder
+- Fix duplicate item registration in event subscriber list
