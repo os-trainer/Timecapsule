@@ -1976,3 +1976,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix duplicate item registration in event subscriber list
 - Add elapsed execution time measurement helper
 - Cover edge cases in date range calculation logic
+- Fix potential race condition during file initialization
