@@ -1982,3 +1982,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.9.0]
 ### Changed
 - Improve test coverage across utility modules
+- Initialize test runner configuration and directory
