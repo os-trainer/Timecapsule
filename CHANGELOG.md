@@ -9088,3 +9088,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure consistent parameter ordering in helper signatures
 - Add integration test verifying end-to-end workflow execution
 - Correct path delimiter handling across operating systems
+- Fix inaccurate execution duration calculation
