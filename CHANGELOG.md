@@ -1978,3 +1978,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover edge cases in date range calculation logic
 - Fix potential race condition during file initialization
 - Improve separation of concerns between CLI and core engine
+
+## [2.9.0]
+### Changed
+- Improve test coverage across utility modules
