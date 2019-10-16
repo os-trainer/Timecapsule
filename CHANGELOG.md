@@ -9092,3 +9092,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor state management into centralized store
 - Fix incorrect default parameter assignment
 - Ensure consistent error status codes across exit paths
+- Fix duplicate item registration in event subscriber list
