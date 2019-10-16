@@ -1977,3 +1977,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add elapsed execution time measurement helper
 - Cover edge cases in date range calculation logic
 - Fix potential race condition during file initialization
+- Improve separation of concerns between CLI and core engine
