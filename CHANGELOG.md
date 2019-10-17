@@ -9095,3 +9095,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix duplicate item registration in event subscriber list
 - Add schema validation for configuration objects
 - Add multi-step workflow runner utility
+- Improve documentation for custom output templates
