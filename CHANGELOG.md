@@ -1986,3 +1986,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for JSON and plain text output formats
 - Handle timeout gracefully during external operations
 - Update API reference documentation for core exports
+- Implement query filter helpers for collection items
