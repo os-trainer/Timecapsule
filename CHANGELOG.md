@@ -1992,3 +1992,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct fallback order for configuration properties
 - Clarify installation instructions and system prerequisites
 - Add test suite for distribution weight calculations
+- Eliminate code duplication in internal helper branches
