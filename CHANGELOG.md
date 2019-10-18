@@ -1990,3 +1990,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add assertions for default configuration fallbacks
 - Improve function organization and module cohesion
 - Correct fallback order for configuration properties
+- Clarify installation instructions and system prerequisites
