@@ -1994,3 +1994,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test suite for distribution weight calculations
 - Eliminate code duplication in internal helper branches
 - Fix inaccurate execution duration calculation
+- Handle file permission errors with actionable messages
