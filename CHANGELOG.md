@@ -9098,3 +9098,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve documentation for custom output templates
 - Normalize naming of options and arguments across modules
 - Add base package descriptor with metadata
+- Add performance recommendations for large-scale runs
