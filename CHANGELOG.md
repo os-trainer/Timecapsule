@@ -1997,3 +1997,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle file permission errors with actionable messages
 - Verify graceful handling of malformed input data
 - Refactor argument parsing to standardize option names
+- Improve consistency of return structures across helpers
