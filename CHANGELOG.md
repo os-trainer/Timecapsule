@@ -9100,3 +9100,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add base package descriptor with metadata
 - Add performance recommendations for large-scale runs
 - Correct error handling when input file is absent
+- Simplify conditional branching in distribution calculator
