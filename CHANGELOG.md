@@ -1999,3 +1999,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor argument parsing to standardize option names
 - Improve consistency of return structures across helpers
 - Add boundary condition tests for numeric ranges
+- Add system status inspection helper
