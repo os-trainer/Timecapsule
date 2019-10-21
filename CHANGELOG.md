@@ -9103,3 +9103,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify conditional branching in distribution calculator
 - Improve test coverage for error recovery branches
 - Document distribution patterns and statistical behavior
+- Handle process interruption cleanly during generation
