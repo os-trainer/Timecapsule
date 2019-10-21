@@ -2003,3 +2003,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test custom date formatting tokens and output strings
 - Streamline option parsing and default resolution
 - Add table of contents to main project documentation
+- Clean up temporary files and ensure deterministic cleanup
