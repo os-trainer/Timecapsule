@@ -9109,3 +9109,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect boolean flag evaluation
 - Add usage examples for common command-line options
 - Add snapshot tests for terminal output formatters
+- Streamline option parsing and default resolution
