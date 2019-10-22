@@ -9107,3 +9107,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add JSDoc type annotations for internal functions
 - Reorganize internal test helpers and fixtures
 - Fix incorrect boolean flag evaluation
+- Add usage examples for common command-line options
