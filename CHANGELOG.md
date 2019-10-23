@@ -2008,3 +2008,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add reusable string formatting utility functions
 - Fix edge case in input handling for empty strings
 - Consolidate duplicate string sanitization routines
+- Add multi-step workflow runner utility
