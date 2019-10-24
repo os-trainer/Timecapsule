@@ -2010,3 +2010,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate duplicate string sanitization routines
 - Add multi-step workflow runner utility
 - Add regression test for boundary date calculations
+- Improve error messages with actionable resolution hints
