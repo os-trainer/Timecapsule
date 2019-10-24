@@ -9111,3 +9111,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add snapshot tests for terminal output formatters
 - Streamline option parsing and default resolution
 - Configure distribution bundle output settings
+- Extract terminal output logic into presentation layer
