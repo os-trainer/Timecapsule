@@ -2014,3 +2014,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add code comments explaining complex date mathematics
 - Add configuration file for continuous integration
 - Add validation rules for date range boundaries
+- Test command line help output and option documentation
