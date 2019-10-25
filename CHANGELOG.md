@@ -2018,3 +2018,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover malformed command line options in test suite
 - Clean up project structure and remove redundant exports
 - Update test runner configuration for isolated execution
+- Implement configuration merging priority logic
