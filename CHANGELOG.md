@@ -2019,3 +2019,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up project structure and remove redundant exports
 - Update test runner configuration for isolated execution
 - Implement configuration merging priority logic
+- Add examples of integrating tool into automated scripts
