@@ -2021,3 +2021,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement configuration merging priority logic
 - Add examples of integrating tool into automated scripts
 - Handle empty environment variables without error
+- Implement event listener registry for status events
