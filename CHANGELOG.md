@@ -9115,3 +9115,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement flexible filter predicate builder
 - Add key-value store wrapper for memory cache
 - Fix formatting anomaly in terminal progress display
+- Add support for custom output destination paths
