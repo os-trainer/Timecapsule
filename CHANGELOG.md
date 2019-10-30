@@ -2030,3 +2030,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor state management into centralized store
 - Implement defensive parameter sanitization
 - Add detailed architecture overview and component diagram
+- Fix off-by-one error in collection index calculations
