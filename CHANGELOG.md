@@ -2034,3 +2034,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add assertions to catch illegal state during execution
 - Cover edge cases in date range calculation logic
 - Implement progress reporter for long-running workflows
+- Fix incorrect boolean flag evaluation
