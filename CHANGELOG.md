@@ -9124,3 +9124,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test harness for simulated time progression
 - Extract reusable helper functions from main workflow
 - Add examples comparing standard and conventional commits
+- Verify proper error types are thrown on invalid arguments
