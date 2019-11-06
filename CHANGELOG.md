@@ -9135,3 +9135,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add tests for custom output destination formatting
 - Fix memory leak in recurring event listeners
 - Refactor promise handling to use modern async/await patterns
+- Document supported platforms and shell environments
