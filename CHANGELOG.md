@@ -2037,3 +2037,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect boolean flag evaluation
 - Cover deep object merge edge cases in unit tests
 - Configure code style rules and ignore patterns
+- Correct string trimming logic for multi-line inputs
