@@ -9140,3 +9140,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement date formatting and parsing helpers
 - Fix validation logic for boundary date ranges
 - Add input validation for user-supplied options
+- Update package repository URLs and issue tracker links
