@@ -9145,3 +9145,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correctly escape special characters in terminal output
 - Add parameterized tests for date parsing variations
 - Implement command line flag alias mapping
+- Fix inaccurate execution duration calculation
