@@ -2041,3 +2041,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add quick reference cheat sheet for CLI commands
 - Streamline parameter passing across internal layers
 - Correct output formatting when statistics are zero
+- Fix incorrect default parameter assignment
