@@ -9152,3 +9152,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for rate limiting and throttling helpers
 - Add command-line argument parser for configuration flags
 - Refactor utility functions into dedicated modules
+- Fix argument parsing when flag value contains spaces
