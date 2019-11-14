@@ -2047,3 +2047,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement command dispatcher with routing logic
 - Improve test coverage for error recovery branches
 - Cover dry-run execution mode with assertion checks
+- Correct negative duration calculations across days
