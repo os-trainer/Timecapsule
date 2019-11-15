@@ -9157,3 +9157,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve function organization and module cohesion
 - Add colorized terminal output formatter
 - Cover malformed command line options in test suite
+- Improve README with comprehensive getting-started guide
