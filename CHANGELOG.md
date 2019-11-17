@@ -2053,3 +2053,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure consistent error status codes across exit paths
 - Add schema validation for configuration objects
 - Consolidate string manipulation utilities
+- Fix unexpected empty input parsing in command line options
