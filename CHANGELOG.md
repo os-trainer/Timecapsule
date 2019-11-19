@@ -2058,3 +2058,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement retry mechanism for transient operations
 - Fix memory leak in recurring event listeners
 - Document date format requirements and accepted tokens
+- Add environment variable override support
