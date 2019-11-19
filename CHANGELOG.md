@@ -9162,3 +9162,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add elapsed execution time measurement helper
 - Add support for JSON and plain text output formats
 - Decompose monolithic workflow function into focused steps
+- Fix infinite loop risk in collection traversal logic
