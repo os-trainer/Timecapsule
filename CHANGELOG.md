@@ -2060,3 +2060,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document date format requirements and accepted tokens
 - Add environment variable override support
 - Handle file permission errors with actionable messages
+- Extract common constants into centralized configuration
