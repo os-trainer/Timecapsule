@@ -9164,3 +9164,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decompose monolithic workflow function into focused steps
 - Fix infinite loop risk in collection traversal logic
 - Simplify collection mapping and transformation pipelines
+- Update README with example workflow scenarios
