@@ -2070,3 +2070,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement stream-based chunk processor
 - Modernize internal loop constructs and data structures
 - Handle timeout gracefully during external operations
+- Implement file reading helper with encoding support
