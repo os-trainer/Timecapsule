@@ -2065,3 +2065,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test custom date formatting tokens and output strings
 - Refactor date calculation routines for better readability
 - Correctly escape special characters in terminal output
+- Verify idempotency of cleanup routines in test suite
