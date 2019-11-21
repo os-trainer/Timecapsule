@@ -2069,3 +2069,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix missing return statement in error branch
 - Implement stream-based chunk processor
 - Modernize internal loop constructs and data structures
+- Handle timeout gracefully during external operations
