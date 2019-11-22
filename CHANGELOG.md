@@ -2072,3 +2072,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle timeout gracefully during external operations
 - Implement file reading helper with encoding support
 - Extract progress tracking into dedicated emitter
+- Fix unhandled promise rejection in async error handler
