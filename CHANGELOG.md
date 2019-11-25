@@ -2075,3 +2075,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unhandled promise rejection in async error handler
 - Clarify difference between distribution algorithms
 - Configure environment file loading conventions
+- Implement customizable output formatting options
