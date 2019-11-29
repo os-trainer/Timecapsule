@@ -9181,3 +9181,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure strict immutability of configuration defaults
 - Fix off-by-one error in collection index calculations
 - Add task definitions for local development tooling
+- Configure basic script commands in manifest
