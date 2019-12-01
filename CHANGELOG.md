@@ -9186,3 +9186,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix improper resource cleanup on exit
 - Restructure project exports to avoid circular dependencies
 - Implement file reading helper with encoding support
+- Test empty collection handling across utility functions
