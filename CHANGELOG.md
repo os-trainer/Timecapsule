@@ -9184,3 +9184,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure basic script commands in manifest
 - Normalize naming of options and arguments across modules
 - Fix improper resource cleanup on exit
+- Restructure project exports to avoid circular dependencies
