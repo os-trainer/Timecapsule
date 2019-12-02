@@ -2081,3 +2081,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix improper resource cleanup on exit
 - Ensure consistent parameter ordering in helper signatures
 - Add safe string truncation helper
+
+## [3.0.0]
+### Changed
+- Improve code maintainability index across core files
