@@ -9195,3 +9195,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement pagination helper for collection data
 - Improve consistency of option validation error messages
 - Add instructions for running tests and linter locally
+- Handle partial input objects during configuration merge
