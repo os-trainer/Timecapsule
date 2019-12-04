@@ -2086,3 +2086,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Improve code maintainability index across core files
 - Handle undefined configuration sections safely
+- Fix string encoding issue when processing special characters
