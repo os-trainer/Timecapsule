@@ -2091,3 +2091,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reorganize internal test helpers and fixtures
 - Improve consistency of option validation error messages
 - Correct path delimiter handling across operating systems
+- Implement helper utilities for parameter parsing
