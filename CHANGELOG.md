@@ -2095,3 +2095,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add parameterized tests for date parsing variations
 - Fix argument parsing when flag value contains spaces
 - Add npm script for running unit test suite
+- Implement configuration merging priority logic
