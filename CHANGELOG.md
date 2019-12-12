@@ -2101,3 +2101,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add reusable string formatting utility functions
 - Update package version in manifest file
 - Simplify conditional branching in distribution calculator
+- Fix inaccurate execution duration calculation
