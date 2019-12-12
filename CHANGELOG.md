@@ -9208,3 +9208,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover dry-run execution mode with assertion checks
 - Modularize schema definitions and validation rules
 - Correct path delimiter handling across operating systems
+- Add array sorting and filtering helper functions
