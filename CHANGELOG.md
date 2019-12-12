@@ -9205,3 +9205,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add custom formatting options for summary tables
 - Document template options for supported project layouts
 - Configure semantic versioning and release scripts
+- Cover dry-run execution mode with assertion checks
