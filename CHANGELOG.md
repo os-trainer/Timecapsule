@@ -9213,3 +9213,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify proper error types are thrown on invalid arguments
 - Improve function organization and module cohesion
 - Add troubleshooting notes for frequent setup issues
+- Resolve incorrect return value for edge-case queries
