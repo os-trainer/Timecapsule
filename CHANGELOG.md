@@ -2106,3 +2106,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decouple output formatting from core computation logic
 - Update development configuration and editor settings
 - Add snapshot tests for terminal output formatters
+- Reduce duplicated logic across helper utilities
