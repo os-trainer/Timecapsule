@@ -2110,3 +2110,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for custom output destination paths
 - Document template options for supported project layouts
 - Verify proper error types are thrown on invalid arguments
+- Cover deep object merge edge cases in unit tests
