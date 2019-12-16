@@ -2107,3 +2107,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update development configuration and editor settings
 - Add snapshot tests for terminal output formatters
 - Reduce duplicated logic across helper utilities
+- Add support for custom output destination paths
