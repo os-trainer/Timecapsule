@@ -2112,3 +2112,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify proper error types are thrown on invalid arguments
 - Cover deep object merge edge cases in unit tests
 - Add support for JSON and plain text output formats
+- Clean up stray debug statements and console output
