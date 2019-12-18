@@ -9219,3 +9219,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add clean script to purge build artifacts and temp files
 - Add integration test verifying end-to-end workflow execution
 - Correct fallback order for configuration properties
+- Add elapsed execution time measurement helper
