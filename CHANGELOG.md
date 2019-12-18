@@ -2115,3 +2115,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up stray debug statements and console output
 - Refactor validation pipelines to support chaining
 - Implement dry-run execution preview mode
+- Add security considerations and safe execution notes
