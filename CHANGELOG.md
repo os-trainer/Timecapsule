@@ -9237,3 +9237,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement safe JSON parsing with fallback values
 - Add parameterized tests for date parsing variations
 - Add support for JSON and plain text output formats
+- Fix incorrect status code returned on input error
