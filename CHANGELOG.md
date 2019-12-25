@@ -9236,3 +9236,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement template interpolation utility
 - Implement safe JSON parsing with fallback values
 - Add parameterized tests for date parsing variations
+- Add support for JSON and plain text output formats
