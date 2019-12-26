@@ -9239,3 +9239,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for JSON and plain text output formats
 - Fix incorrect status code returned on input error
 - Document error handling strategies and exit codes
+- Streamline option parsing and default resolution
