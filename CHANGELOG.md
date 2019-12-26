@@ -2134,3 +2134,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix type coercion error during numeric comparisons
 - Implement customizable output formatting options
 - Update README with example workflow scenarios
+- Correct boundary check in range validation utility
