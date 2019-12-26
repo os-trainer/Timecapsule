@@ -2127,3 +2127,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify retry logic behavior under simulated failures
 - Add FAQ section covering common configuration questions
 - Add input validation for user-supplied options
+- Add usage notes for multi-year historical generation
