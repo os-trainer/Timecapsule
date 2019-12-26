@@ -2133,3 +2133,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor utility functions into dedicated modules
 - Fix type coercion error during numeric comparisons
 - Implement customizable output formatting options
+- Update README with example workflow scenarios
