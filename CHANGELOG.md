@@ -2129,3 +2129,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input validation for user-supplied options
 - Add usage notes for multi-year historical generation
 - Add unit tests for terminal colorization toggles
+- Correct output formatting when statistics are zero
