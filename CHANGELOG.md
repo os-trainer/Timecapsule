@@ -2142,3 +2142,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Replace magic numbers with named configuration constants
 - Improve function organization and module cohesion
 - Correct string trimming logic for multi-line inputs
+- Adjust prettier configuration for consistent indentation
