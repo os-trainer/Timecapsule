@@ -2144,3 +2144,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct string trimming logic for multi-line inputs
 - Adjust prettier configuration for consistent indentation
 - Add URL query string builder and parser
+- Consolidate duplicate string sanitization routines
