@@ -2147,3 +2147,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate duplicate string sanitization routines
 - Correct error handling when input file is absent
 - Add basic application bootstrap logic
+- Remove obsolete polyfills and legacy compatibility shims
