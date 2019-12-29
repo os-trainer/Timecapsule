@@ -9244,3 +9244,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression tests for previous edge-case bugs
 - Fix intermittent failure in date boundary comparison
 - Improve inline code documentation and parameter descriptions
+- Fix missing return statement in error branch
