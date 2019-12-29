@@ -2146,3 +2146,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add URL query string builder and parser
 - Consolidate duplicate string sanitization routines
 - Correct error handling when input file is absent
+- Add basic application bootstrap logic
