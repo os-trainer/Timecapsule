@@ -2153,3 +2153,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement summary statistics calculation helper
 - Fix circular reference error in object serialization
 - Decompose monolithic workflow function into focused steps
+- Add regression test for boundary date calculations
