@@ -2155,3 +2155,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decompose monolithic workflow function into focused steps
 - Add regression test for boundary date calculations
 - Implement event listener registry for status events
+- Add tests for custom output destination formatting
