@@ -2160,3 +2160,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix intermittent failure in date boundary comparison
 - Add base package descriptor with metadata
 - Configure automated pre-commit code verification
+- Fix validation logic for boundary date ranges
