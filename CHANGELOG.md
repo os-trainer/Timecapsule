@@ -2163,3 +2163,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix validation logic for boundary date ranges
 - Cover malformed command line options in test suite
 - Add instructions for running tests and linter locally
+- Add colorized terminal output formatter
