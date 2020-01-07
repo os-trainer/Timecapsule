@@ -2166,3 +2166,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add colorized terminal output formatter
 - Standardize indentation and line wrapping across files
 - Fix incorrect boolean flag evaluation
+- Fix infinite loop risk in collection traversal logic
