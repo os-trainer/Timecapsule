@@ -2170,3 +2170,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add defensive fallbacks for unexpected null values
 - Add structured logging helper with log levels
 - Add assertions for default configuration fallbacks
+- Cover complex configuration inheritance in tests
