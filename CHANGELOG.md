@@ -2175,3 +2175,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor promise handling to use modern async/await patterns
 - Add strict boundary checks to numeric operations
 - Add unit tests for collection filter predicates
+- Correct timestamp calculation for timezone offsets
