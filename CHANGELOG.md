@@ -2174,3 +2174,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix off-by-one error in collection index calculations
 - Refactor promise handling to use modern async/await patterns
 - Add strict boundary checks to numeric operations
+- Add unit tests for collection filter predicates
