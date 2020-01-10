@@ -9262,3 +9262,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement file reading helper with encoding support
 - Extract common constants into centralized configuration
 - Verify graceful handling of malformed input data
+- Document preview mode and dry-run visualization
