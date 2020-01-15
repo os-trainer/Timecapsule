@@ -9274,3 +9274,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update changelog with recent feature additions and fixes
 - Consolidate duplicate string sanitization routines
 - Add safe string truncation helper
+- Add usage notes for multi-year historical generation
