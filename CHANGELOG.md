@@ -2178,3 +2178,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct timestamp calculation for timezone offsets
 - Add task definitions for local development tooling
 - Restructure project exports to avoid circular dependencies
+- Configure semantic versioning and release scripts
