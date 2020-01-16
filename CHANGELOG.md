@@ -2179,3 +2179,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add task definitions for local development tooling
 - Restructure project exports to avoid circular dependencies
 - Configure semantic versioning and release scripts
+- Improve test coverage across utility modules
