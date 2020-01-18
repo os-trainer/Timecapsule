@@ -2184,3 +2184,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add clean script to purge build artifacts and temp files
 - Refactor array processing routines to use functional methods
 - Implement date formatting and parsing helpers
+
+## [3.1.0]
+### Changed
+- Add troubleshooting notes for frequent setup issues
