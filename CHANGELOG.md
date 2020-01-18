@@ -2188,3 +2188,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [3.1.0]
 ### Changed
 - Add troubleshooting notes for frequent setup issues
+- Refactor configuration fallback resolution
