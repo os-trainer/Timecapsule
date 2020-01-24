@@ -2201,3 +2201,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract configuration validation into standalone validator
 - Test timezone offset handling with varying dates
 - Handle unexpected zero-length arrays in reducer logic
+- Add descriptive error context when file reading fails
