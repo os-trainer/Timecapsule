@@ -2199,3 +2199,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak in recurring event listeners
 - Implement deep object merging utility
 - Extract configuration validation into standalone validator
+- Test timezone offset handling with varying dates
