@@ -2203,3 +2203,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle unexpected zero-length arrays in reducer logic
 - Add descriptive error context when file reading fails
 - Implement safe JSON parsing with fallback values
+- Document distribution patterns and statistical behavior
