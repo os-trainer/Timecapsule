@@ -9296,3 +9296,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle file permission errors with actionable messages
 - Test invalid input handling and expected exceptions
 - Document date format requirements and accepted tokens
+- Add unit tests for progress reporter events
