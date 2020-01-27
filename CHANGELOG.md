@@ -2205,3 +2205,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement safe JSON parsing with fallback values
 - Document distribution patterns and statistical behavior
 - Update repository keywords and discovery tags
+- Implement query filter helpers for collection items
