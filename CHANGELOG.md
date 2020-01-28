@@ -9299,3 +9299,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for progress reporter events
 - Implement configuration merging priority logic
 - Handle empty environment variables without error
+- Remove obsolete polyfills and legacy compatibility shims
