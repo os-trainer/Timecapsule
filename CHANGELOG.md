@@ -9298,3 +9298,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document date format requirements and accepted tokens
 - Add unit tests for progress reporter events
 - Implement configuration merging priority logic
+- Handle empty environment variables without error
