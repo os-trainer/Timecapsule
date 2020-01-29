@@ -9300,3 +9300,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement configuration merging priority logic
 - Handle empty environment variables without error
 - Remove obsolete polyfills and legacy compatibility shims
+- Add unit tests for rate limiting and throttling helpers
