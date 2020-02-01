@@ -9313,3 +9313,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add boundary condition tests for numeric ranges
 - Handle missing configuration gracefully with defaults
 - Simplify complex function implementations for maintainability
+- Add test cases for boolean flag normalization
