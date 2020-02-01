@@ -9314,3 +9314,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle missing configuration gracefully with defaults
 - Simplify complex function implementations for maintainability
 - Add test cases for boolean flag normalization
+- Add contribution guidelines and development workflow steps
