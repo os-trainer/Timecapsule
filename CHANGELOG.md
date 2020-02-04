@@ -2212,3 +2212,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document supported platforms and shell environments
 - Normalize naming of options and arguments across modules
 - Implement helper utilities for parameter parsing
+- Cover edge cases in date range calculation logic
