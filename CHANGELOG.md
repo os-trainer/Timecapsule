@@ -9327,3 +9327,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update project dependencies to latest secure versions
 - Implement stream-based chunk processor
 - Reduce duplicated logic across helper utilities
+- Add unit tests for string formatting and truncation helpers
