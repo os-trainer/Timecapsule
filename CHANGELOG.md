@@ -9326,3 +9326,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression test for boundary date calculations
 - Update project dependencies to latest secure versions
 - Implement stream-based chunk processor
+- Reduce duplicated logic across helper utilities
