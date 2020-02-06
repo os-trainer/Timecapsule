@@ -9325,3 +9325,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve documentation for programmatic JavaScript API
 - Add regression test for boundary date calculations
 - Update project dependencies to latest secure versions
+- Implement stream-based chunk processor
