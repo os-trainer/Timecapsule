@@ -9342,3 +9342,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement helper utilities for parameter parsing
 - Refactor validation pipelines to support chaining
 - Fix inconsistent return type on validation failure
+- Improve test coverage across utility modules
