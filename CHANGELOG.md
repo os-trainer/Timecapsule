@@ -9346,3 +9346,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement object transformation and mapping utilities
 - Adjust test runner timeout and concurrency settings
 - Fix incorrect default parameter assignment
+- Add colorized terminal output formatter
