@@ -2226,3 +2226,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle partial input objects during configuration merge
 - Update development dependencies for test framework
 - Add regression tests for previous edge-case bugs
+- Handle empty environment variables without error
