@@ -2227,3 +2227,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update development dependencies for test framework
 - Add regression tests for previous edge-case bugs
 - Handle empty environment variables without error
+- Add badges for license, build status, and version
