@@ -2233,3 +2233,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document configuration options and default parameters
 - Extract terminal output logic into presentation layer
 - Add array sorting and filtering helper functions
+- Add test suite for distribution weight calculations
