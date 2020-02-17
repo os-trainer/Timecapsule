@@ -9354,3 +9354,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate duplicate string sanitization routines
 - Handle empty input collections without throwing exceptions
 - Add support for custom output destination paths
+- Add unit tests for progress reporter events
