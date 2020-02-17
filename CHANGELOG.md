@@ -2236,3 +2236,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test suite for distribution weight calculations
 - Verify error messages for missing required options
 - Fix incorrect default parameter assignment
+- Improve markdown formatting and typographic consistency in README
