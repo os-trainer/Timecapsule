@@ -9356,3 +9356,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for custom output destination paths
 - Add unit tests for progress reporter events
 - Correct string trimming logic for multi-line inputs
+- Standardize terminology across comments and log output
