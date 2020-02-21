@@ -9361,3 +9361,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement numeric range clamping helper
 - Handle malformed JSON configuration without crashing
 - Fix type coercion error during numeric comparisons
+- Improve naming consistency across internal interfaces
