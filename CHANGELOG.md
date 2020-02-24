@@ -9365,3 +9365,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect status code returned on input error
 - Add key-value store wrapper for memory cache
 - Add unit tests for collection filter predicates
+- Add step-by-step tutorial for sample project generation
