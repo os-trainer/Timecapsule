@@ -9363,3 +9363,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix type coercion error during numeric comparisons
 - Improve naming consistency across internal interfaces
 - Fix incorrect status code returned on input error
+- Add key-value store wrapper for memory cache
