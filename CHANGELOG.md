@@ -9370,3 +9370,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement command line flag alias mapping
 - Fix circular reference error in object serialization
 - Add custom formatting options for summary tables
+- Add quick reference cheat sheet for CLI commands
