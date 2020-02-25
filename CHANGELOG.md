@@ -2241,3 +2241,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inaccurate execution duration calculation
 - Add custom error classes for domain-specific failures
 - Enhance descriptive quality of debug logging statements
+- Update changelog with recent feature additions and fixes
