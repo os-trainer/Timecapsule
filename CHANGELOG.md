@@ -9371,3 +9371,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix circular reference error in object serialization
 - Add custom formatting options for summary tables
 - Add quick reference cheat sheet for CLI commands
+- Test command line help output and option documentation
