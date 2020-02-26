@@ -2242,3 +2242,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add custom error classes for domain-specific failures
 - Enhance descriptive quality of debug logging statements
 - Update changelog with recent feature additions and fixes
+- Document date format requirements and accepted tokens
