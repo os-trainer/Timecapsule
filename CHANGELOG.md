@@ -2244,3 +2244,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update changelog with recent feature additions and fixes
 - Document date format requirements and accepted tokens
 - Handle undefined configuration sections safely
+- Add safe string truncation helper
