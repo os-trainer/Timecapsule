@@ -9379,3 +9379,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update development dependencies for test framework
 - Add command-line argument parser for configuration flags
 - Fix intermittent failure in date boundary comparison
+- Cover edge cases in date range calculation logic
