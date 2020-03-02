@@ -9381,3 +9381,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix intermittent failure in date boundary comparison
 - Cover edge cases in date range calculation logic
 - Update README with example workflow scenarios
+- Handle file permission errors with actionable messages
