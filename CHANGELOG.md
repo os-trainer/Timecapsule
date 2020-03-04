@@ -9383,3 +9383,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update README with example workflow scenarios
 - Handle file permission errors with actionable messages
 - Simplify control flow and reduce nested conditionals
+- Add elapsed execution time measurement helper
