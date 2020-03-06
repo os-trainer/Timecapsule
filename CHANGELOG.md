@@ -9387,3 +9387,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify graceful handling of malformed input data
 - Simplify complex arithmetic expressions in date logic
 - Fix infinite loop risk in collection traversal logic
+- Clarify installation instructions and system prerequisites
