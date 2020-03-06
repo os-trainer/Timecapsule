@@ -9389,3 +9389,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix infinite loop risk in collection traversal logic
 - Clarify installation instructions and system prerequisites
 - Implement template interpolation utility
+- Fix inaccurate execution duration calculation
