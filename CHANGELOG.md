@@ -2253,3 +2253,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for string formatting and truncation helpers
 - Fix memory leak caused by unreleased cache handles
 - Add configuration for source map generation
+- Add test harness for simulated time progression
