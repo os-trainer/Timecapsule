@@ -2258,3 +2258,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data processing and normalization pipeline
 - Implement file reading helper with encoding support
 - Simplify collection mapping and transformation pipelines
+- Add instructions for running tests and linter locally
