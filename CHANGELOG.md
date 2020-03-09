@@ -2255,3 +2255,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration for source map generation
 - Add test harness for simulated time progression
 - Improve naming consistency across internal interfaces
+- Add basic data processing and normalization pipeline
