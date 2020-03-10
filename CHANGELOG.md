@@ -2260,3 +2260,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify collection mapping and transformation pipelines
 - Add instructions for running tests and linter locally
 - Update repository keywords and discovery tags
+- Extract file system operations into isolated adapter
