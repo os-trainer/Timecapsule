@@ -9393,3 +9393,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Remove dead code branches and redundant checks
 - Add unit tests for string formatting and truncation helpers
 - Fix off-by-one error in collection index calculations
+- Decouple output formatting from core computation logic
