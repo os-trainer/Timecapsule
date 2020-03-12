@@ -9392,3 +9392,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inaccurate execution duration calculation
 - Remove dead code branches and redundant checks
 - Add unit tests for string formatting and truncation helpers
+- Fix off-by-one error in collection index calculations
