@@ -9395,3 +9395,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix off-by-one error in collection index calculations
 - Decouple output formatting from core computation logic
 - Cover complex configuration inheritance in tests
+- Add acknowledgments and open-source project credits
