@@ -9396,3 +9396,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decouple output formatting from core computation logic
 - Cover complex configuration inheritance in tests
 - Add acknowledgments and open-source project credits
+- Clean up dead code and obsolete helper methods
