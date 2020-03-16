@@ -9398,3 +9398,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add acknowledgments and open-source project credits
 - Clean up dead code and obsolete helper methods
 - Implement safe JSON parsing with fallback values
+- Fix incorrect default parameter assignment
