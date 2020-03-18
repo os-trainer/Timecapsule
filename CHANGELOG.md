@@ -2271,3 +2271,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add snapshot tests for terminal output formatters
 - Fix incorrect status code returned on input error
 - Improve separation of concerns between CLI and core engine
+- Modernize internal loop constructs and data structures
