@@ -9408,3 +9408,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Normalize naming of options and arguments across modules
 - Improve separation of concerns between CLI and core engine
 - Add regression test for boundary date calculations
+- Eliminate code duplication in internal helper branches
