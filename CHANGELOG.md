@@ -9406,3 +9406,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve clarity of variable scopes and closures
 - Add unit tests for input validation helper functions
 - Normalize naming of options and arguments across modules
+- Improve separation of concerns between CLI and core engine
