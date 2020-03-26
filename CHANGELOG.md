@@ -2287,3 +2287,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add comprehensive tests for configuration loader
 - Implement retry mechanism for transient operations
 - Add unit tests for rate limiting and throttling helpers
+
+## [3.2.0]
+### Changed
+- Implement command dispatcher with routing logic
