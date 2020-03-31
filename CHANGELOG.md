@@ -2301,3 +2301,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle partial input objects during configuration merge
 - Document preview mode and dry-run visualization
 - Clean up project structure and remove redundant exports
+- Fix validation logic for boundary date ranges
