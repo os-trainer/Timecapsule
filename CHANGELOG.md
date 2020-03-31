@@ -2299,3 +2299,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix duplicate item registration in event subscriber list
 - Extract common constants into centralized configuration
 - Handle partial input objects during configuration merge
+- Document preview mode and dry-run visualization
