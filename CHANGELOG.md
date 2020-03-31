@@ -2303,3 +2303,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up project structure and remove redundant exports
 - Fix validation logic for boundary date ranges
 - Add usage notes for multi-year historical generation
+- Fix inconsistent return type on validation failure
