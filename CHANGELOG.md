@@ -2306,3 +2306,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inconsistent return type on validation failure
 - Document environment variable configuration overrides
 - Standardize date string formatting across all output
+- Correct regex pattern matching for date validation
