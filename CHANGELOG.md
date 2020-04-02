@@ -9416,3 +9416,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement query filter helpers for collection items
 - Add schema validation for configuration objects
 - Add detailed architecture overview and component diagram
+- Handle null and undefined options defensively
