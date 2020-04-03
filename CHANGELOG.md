@@ -2310,3 +2310,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement rate limiting throttle for helper actions
 - Add elapsed execution time measurement helper
 - Fix argument parsing when flag value contains spaces
+- Add initial build output ignore patterns
