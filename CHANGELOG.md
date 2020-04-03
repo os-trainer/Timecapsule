@@ -9420,3 +9420,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add structured logging helper with log levels
 - Add test harness for simulated time progression
 - Consolidate string manipulation utilities
+- Correctly escape special characters in terminal output
