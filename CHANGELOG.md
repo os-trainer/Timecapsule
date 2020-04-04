@@ -9423,3 +9423,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correctly escape special characters in terminal output
 - Add parameter type checks to public library methods
 - Update project metadata and repository description
+- Refactor promise handling to use modern async/await patterns
