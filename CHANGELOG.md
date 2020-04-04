@@ -9422,3 +9422,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate string manipulation utilities
 - Correctly escape special characters in terminal output
 - Add parameter type checks to public library methods
+- Update project metadata and repository description
