@@ -9439,3 +9439,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct error handling when input file is absent
 - Add test cases for boolean flag normalization
 - Add support for custom output destination paths
+- Improve error messages with actionable resolution hints
