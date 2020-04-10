@@ -9436,3 +9436,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data caching layer with key invalidation
 - Verify platform-specific path handling in test suite
 - Improve documentation for programmatic JavaScript API
+- Correct error handling when input file is absent
