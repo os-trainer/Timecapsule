@@ -9441,3 +9441,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for custom output destination paths
 - Improve error messages with actionable resolution hints
 - Handle timeout gracefully during external operations
+- Add table of contents to main project documentation
