@@ -2321,3 +2321,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage across utility modules
 - Implement defensive parameter sanitization
 - Add unit tests for progress reporter events
+- Resolve incorrect return value for edge-case queries
