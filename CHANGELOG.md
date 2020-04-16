@@ -9448,3 +9448,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Rename internal variables and parameters for clarity
 - Add custom error classes for domain-specific failures
 - Correct path delimiter handling across operating systems
+- Add support for JSON and plain text output formats
