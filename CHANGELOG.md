@@ -9464,3 +9464,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct negative duration calculations across days
 - Verify retry logic behavior under simulated failures
 - Refactor date calculation routines for better readability
+- Improve test coverage across utility modules
