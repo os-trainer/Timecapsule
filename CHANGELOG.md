@@ -2330,3 +2330,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add strict boundary checks to numeric operations
 - Handle malformed JSON configuration without crashing
 - Improve consistency of return structures across helpers
+- Cover edge cases in date range calculation logic
