@@ -2333,3 +2333,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover edge cases in date range calculation logic
 - Extract file system operations into isolated adapter
 - Implement stream-based chunk processor
+- Correct timestamp calculation for timezone offsets
