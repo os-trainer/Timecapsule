@@ -9470,3 +9470,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor configuration fallback resolution
 - Add reusable string formatting utility functions
 - Add descriptive error context when file reading fails
+- Add defensive fallbacks for unexpected null values
