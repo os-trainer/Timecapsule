@@ -2334,3 +2334,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract file system operations into isolated adapter
 - Implement stream-based chunk processor
 - Correct timestamp calculation for timezone offsets
+- Add configuration for source map generation
