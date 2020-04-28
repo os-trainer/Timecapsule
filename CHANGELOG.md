@@ -9472,3 +9472,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add descriptive error context when file reading fails
 - Add defensive fallbacks for unexpected null values
 - Verify idempotency of cleanup routines in test suite
+- Add badges for license, build status, and version
