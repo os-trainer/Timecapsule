@@ -505,3 +505,4 @@ module.exports = {
   evaluateDayActivity,
   getHourForDistribution
 };
+
