@@ -9475,3 +9475,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add badges for license, build status, and version
 - Add performance recommendations for large-scale runs
 - Implement safe JSON parsing with fallback values
+- Extract common constants into centralized configuration
