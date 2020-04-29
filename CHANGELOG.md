@@ -9481,3 +9481,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add boundary condition tests for numeric ranges
 - Correct timestamp calculation for timezone offsets
 - Fix duplicate item registration in event subscriber list
+- Add security considerations and safe execution notes
