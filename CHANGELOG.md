@@ -9480,3 +9480,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement stream-based chunk processor
 - Add boundary condition tests for numeric ranges
 - Correct timestamp calculation for timezone offsets
+- Fix duplicate item registration in event subscriber list
