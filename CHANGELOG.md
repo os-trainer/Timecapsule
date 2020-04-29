@@ -9482,3 +9482,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct timestamp calculation for timezone offsets
 - Fix duplicate item registration in event subscriber list
 - Add security considerations and safe execution notes
+- Fix type coercion error during numeric comparisons
