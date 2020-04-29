@@ -2346,3 +2346,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update development dependencies for test framework
 - Cover dry-run execution mode with assertion checks
 - Decouple output formatting from core computation logic
+- Handle null and undefined options defensively
