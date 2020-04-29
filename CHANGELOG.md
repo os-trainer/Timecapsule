@@ -2342,3 +2342,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor argument parsing to standardize option names
 - Improve error messages with actionable resolution hints
 - Add command-line argument parser for configuration flags
+- Correct boundary check in range validation utility
