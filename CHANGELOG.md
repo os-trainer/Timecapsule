@@ -2349,3 +2349,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle null and undefined options defensively
 - Add multi-step workflow runner utility
 - Add test suite for distribution weight calculations
+- Refactor utility functions into dedicated modules
