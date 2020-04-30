@@ -9483,3 +9483,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix duplicate item registration in event subscriber list
 - Add security considerations and safe execution notes
 - Fix type coercion error during numeric comparisons
+- Add integration test verifying end-to-end workflow execution
