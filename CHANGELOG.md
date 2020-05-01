@@ -2352,3 +2352,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor utility functions into dedicated modules
 - Correct negative duration calculations across days
 - Reduce duplicated logic across helper utilities
+- Add unit tests for terminal colorization toggles
