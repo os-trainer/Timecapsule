@@ -2358,3 +2358,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement batch processing utility for array inputs
 - Correct string trimming logic for multi-line inputs
 - Add usage notes for multi-year historical generation
+- Add configuration for code coverage reporting
