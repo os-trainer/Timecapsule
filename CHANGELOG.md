@@ -9491,3 +9491,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve modularity of utility function parameter signatures
 - Streamline event dispatching mechanism
 - Fix memory leak in recurring event listeners
+- Correct output formatting when statistics are zero
