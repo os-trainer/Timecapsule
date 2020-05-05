@@ -9492,3 +9492,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline event dispatching mechanism
 - Fix memory leak in recurring event listeners
 - Correct output formatting when statistics are zero
+- Implement date formatting and parsing helpers
