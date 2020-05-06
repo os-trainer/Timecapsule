@@ -2363,3 +2363,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add security considerations and safe execution notes
 - Streamline parameter passing across internal layers
 - Add comprehensive tests for configuration loader
+- Extract progress tracking into dedicated emitter
