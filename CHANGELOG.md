@@ -9496,3 +9496,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add elapsed execution time measurement helper
 - Clarify installation instructions and system prerequisites
 - Add basic data processing and normalization pipeline
+- Ensure consistent parameter ordering in helper signatures
