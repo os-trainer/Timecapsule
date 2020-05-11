@@ -2366,3 +2366,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract progress tracking into dedicated emitter
 - Add schema validation for configuration objects
 - Fix formatting anomaly in terminal progress display
+- Simplify collection mapping and transformation pipelines
