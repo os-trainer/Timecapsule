@@ -2368,3 +2368,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix formatting anomaly in terminal progress display
 - Simplify collection mapping and transformation pipelines
 - Add basic data processing and normalization pipeline
+- Fix missing return statement in error branch
