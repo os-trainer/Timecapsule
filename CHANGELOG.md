@@ -2380,3 +2380,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve function organization and module cohesion
 - Update project metadata and repository description
 - Fix inconsistent return type on validation failure
+- Modularize command-line argument processing logic
