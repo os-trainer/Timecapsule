@@ -9510,3 +9510,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Remove obsolete polyfills and legacy compatibility shims
 - Add safe string truncation helper
 - Handle file permission errors with actionable messages
+- Verify error messages for missing required options
