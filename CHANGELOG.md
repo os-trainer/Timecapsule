@@ -2379,3 +2379,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add quick reference cheat sheet for CLI commands
 - Improve function organization and module cohesion
 - Update project metadata and repository description
+- Fix inconsistent return type on validation failure
