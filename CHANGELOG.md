@@ -2385,3 +2385,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for verbose diagnostic output
 - Ensure strict immutability of configuration defaults
 - Simplify control flow and reduce nested conditionals
+- Fix infinite loop risk in collection traversal logic
