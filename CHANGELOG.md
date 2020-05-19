@@ -2390,3 +2390,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate duplicate string sanitization routines
 - Introduce mock harness for file system operations
 - Implement event listener registry for status events
+
+## [3.3.0]
+### Changed
+- Improve readability of complex conditional evaluations
