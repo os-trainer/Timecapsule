@@ -9518,3 +9518,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Remove unused code and obsolete internal variables
 - Adjust timeout thresholds for integration test suite
 - Refactor state management into centralized store
+- Handle partial input objects during configuration merge
