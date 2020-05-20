@@ -2397,3 +2397,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement query filter helpers for collection items
 - Extract common constants into centralized configuration
 - Add contribution guidelines and development workflow steps
+- Bootstrap core library skeleton
