@@ -2395,3 +2395,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Improve readability of complex conditional evaluations
 - Implement query filter helpers for collection items
+- Extract common constants into centralized configuration
