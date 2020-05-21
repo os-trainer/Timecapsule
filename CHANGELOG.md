@@ -2400,3 +2400,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Bootstrap core library skeleton
 - Standardize indentation and line wrapping across files
 - Add structured logging helper with log levels
+- Add performance recommendations for large-scale runs
