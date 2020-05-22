@@ -9524,3 +9524,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Introduce mock harness for file system operations
 - Add multi-step workflow runner utility
 - Consolidate string manipulation utilities
+- Add FAQ section covering common configuration questions
