@@ -9527,3 +9527,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add FAQ section covering common configuration questions
 - Correct fallback order for configuration properties
 - Improve separation of concerns between CLI and core engine
+- Modularize schema definitions and validation rules
