@@ -9529,3 +9529,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve separation of concerns between CLI and core engine
 - Modularize schema definitions and validation rules
 - Handle missing configuration gracefully with defaults
+- Refactor caching mechanism for cleaner abstraction
