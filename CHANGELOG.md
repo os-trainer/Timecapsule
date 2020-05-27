@@ -9535,3 +9535,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix duplicate item registration in event subscriber list
 - Standardize exception messages across validation logic
 - Add unit tests for rate limiting and throttling helpers
+- Refactor promise handling to use modern async/await patterns
