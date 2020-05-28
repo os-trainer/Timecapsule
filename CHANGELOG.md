@@ -2411,3 +2411,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add npm script for running linter in check-only mode
 - Implement customizable output formatting options
 - Add key-value store wrapper for memory cache
+- Fix improper resource cleanup on exit
