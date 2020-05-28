@@ -2414,3 +2414,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix improper resource cleanup on exit
 - Cover deep object merge edge cases in unit tests
 - Simplify complex arithmetic expressions in date logic
+- Add badges for license, build status, and version
