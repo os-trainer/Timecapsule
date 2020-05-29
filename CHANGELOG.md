@@ -2420,3 +2420,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test custom date formatting tokens and output strings
 - Add safe string truncation helper
 - Add basic data caching layer with key invalidation
+- Correct error handling when input file is absent
