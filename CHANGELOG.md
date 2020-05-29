@@ -9538,3 +9538,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor promise handling to use modern async/await patterns
 - Correctly escape special characters in terminal output
 - Improve test coverage for error recovery branches
+- Implement dry-run execution preview mode
