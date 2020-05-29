@@ -2417,3 +2417,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add badges for license, build status, and version
 - Add input validation for user-supplied options
 - Add URL query string builder and parser
+- Test custom date formatting tokens and output strings
