@@ -2423,3 +2423,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct error handling when input file is absent
 - Initialize core module interfaces
 - Implement stream-based chunk processor
+- Add regression tests for previous edge-case bugs
