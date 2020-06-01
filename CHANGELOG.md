@@ -9546,3 +9546,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline parameter passing across internal layers
 - Add snapshot tests for terminal output formatters
 - Implement configuration merging priority logic
+- Refactor argument parsing to standardize option names
