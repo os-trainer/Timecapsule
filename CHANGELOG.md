@@ -9552,3 +9552,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement helper utilities for parameter parsing
 - Handle empty input collections without throwing exceptions
 - Fix incorrect boolean flag evaluation
+- Standardize indentation and line wrapping across files
