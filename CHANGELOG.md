@@ -2436,3 +2436,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decompose monolithic workflow function into focused steps
 - Correct path delimiter handling across operating systems
 - Add unit tests for rate limiting and throttling helpers
+- Add system status inspection helper
