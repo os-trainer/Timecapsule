@@ -9560,3 +9560,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update changelog with recent feature additions and fixes
 - Simplify complex arithmetic expressions in date logic
 - Implement deep object merging utility
+- Add parameterized tests for date parsing variations
