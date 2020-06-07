@@ -2440,3 +2440,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify error messages for missing required options
 - Improve documentation for custom output templates
 - Test invalid input handling and expected exceptions
+- Fix inaccurate execution duration calculation
