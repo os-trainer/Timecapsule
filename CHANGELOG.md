@@ -2442,3 +2442,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test invalid input handling and expected exceptions
 - Fix inaccurate execution duration calculation
 - Add snapshot tests for terminal output formatters
+- Implement command line flag alias mapping
