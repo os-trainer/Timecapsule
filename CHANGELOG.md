@@ -2445,3 +2445,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement command line flag alias mapping
 - Correct negative duration calculations across days
 - Cover malformed command line options in test suite
+- Eliminate code duplication in internal helper branches
