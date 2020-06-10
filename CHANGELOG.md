@@ -9564,3 +9564,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix validation logic for boundary date ranges
 - Add tests for custom output destination formatting
 - Fix incorrect default parameter assignment
+- Extract file system operations into isolated adapter
