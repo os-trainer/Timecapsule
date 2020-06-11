@@ -9570,3 +9570,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify proper error types are thrown on invalid arguments
 - Add support for verbose diagnostic output
 - Decouple output formatting from core computation logic
+- Add unit tests for terminal colorization toggles
