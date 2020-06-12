@@ -2447,3 +2447,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover malformed command line options in test suite
 - Eliminate code duplication in internal helper branches
 - Add array sorting and filtering helper functions
+- Handle undefined configuration sections safely
