@@ -9571,3 +9571,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for verbose diagnostic output
 - Decouple output formatting from core computation logic
 - Add unit tests for terminal colorization toggles
+- Fix inconsistent return type on validation failure
