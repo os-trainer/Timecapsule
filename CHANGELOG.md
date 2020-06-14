@@ -9576,3 +9576,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct error handling when input file is absent
 - Simplify control flow and reduce nested conditionals
 - Improve markdown formatting and typographic consistency in README
+- Correct fallback order for configuration properties
