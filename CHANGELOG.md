@@ -2453,3 +2453,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct boundary check in range validation utility
 - Add tests for custom output destination formatting
 - Fix duplicate item registration in event subscriber list
+- Implement file reading helper with encoding support
