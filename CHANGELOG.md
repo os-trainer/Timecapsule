@@ -9572,3 +9572,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decouple output formatting from core computation logic
 - Add unit tests for terminal colorization toggles
 - Fix inconsistent return type on validation failure
+- Test timezone offset handling with varying dates
