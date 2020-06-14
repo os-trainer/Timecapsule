@@ -9574,3 +9574,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inconsistent return type on validation failure
 - Test timezone offset handling with varying dates
 - Correct error handling when input file is absent
+- Simplify control flow and reduce nested conditionals
