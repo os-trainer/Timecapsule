@@ -2459,3 +2459,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update package repository URLs and issue tracker links
 - Correct output formatting when statistics are zero
 - Handle timeout gracefully during external operations
+- Add performance assertions for large collection processing
