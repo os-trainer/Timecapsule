@@ -9580,3 +9580,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add structured logging helper with log levels
 - Add regression tests for previous edge-case bugs
 - Implement summary statistics calculation helper
+- Clarify difference between distribution algorithms
