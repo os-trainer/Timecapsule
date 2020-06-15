@@ -2456,3 +2456,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement file reading helper with encoding support
 - Add JSDoc type annotations for internal functions
 - Document supported platforms and shell environments
+- Update package repository URLs and issue tracker links
