@@ -2455,3 +2455,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix duplicate item registration in event subscriber list
 - Implement file reading helper with encoding support
 - Add JSDoc type annotations for internal functions
+- Document supported platforms and shell environments
