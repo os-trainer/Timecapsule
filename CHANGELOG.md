@@ -9583,3 +9583,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify difference between distribution algorithms
 - Add unit tests for collection filter predicates
 - Implement command dispatcher with routing logic
+- Fix edge case in input handling for empty strings
