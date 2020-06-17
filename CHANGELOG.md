@@ -2466,3 +2466,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement template interpolation utility
 - Streamline event dispatching mechanism
 - Fix intermittent failure in date boundary comparison
+- Clarify installation instructions and system prerequisites
