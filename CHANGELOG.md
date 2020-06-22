@@ -9588,3 +9588,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement customizable output formatting options
 - Fix memory leak in recurring event listeners
 - Refactor promise handling to use modern async/await patterns
+- Add multi-step workflow runner utility
