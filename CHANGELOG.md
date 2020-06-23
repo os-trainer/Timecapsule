@@ -9593,3 +9593,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor validation pipelines to support chaining
 - Correct output formatting when statistics are zero
 - Add custom formatting options for summary tables
+- Add assertions for default configuration fallbacks
