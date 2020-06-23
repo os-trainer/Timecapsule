@@ -9594,3 +9594,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct output formatting when statistics are zero
 - Add custom formatting options for summary tables
 - Add assertions for default configuration fallbacks
+- Fix infinite loop risk in collection traversal logic
