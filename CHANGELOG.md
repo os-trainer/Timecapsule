@@ -9598,3 +9598,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input validation for user-supplied options
 - Add unit tests for input validation helper functions
 - Simplify complex function implementations for maintainability
+- Fix type coercion error during numeric comparisons
