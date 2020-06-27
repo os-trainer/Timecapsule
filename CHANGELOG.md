@@ -2472,3 +2472,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage for error recovery branches
 - Add examples of integrating tool into automated scripts
 - Fix unexpected empty input parsing in command line options
+- Clean up dead code and obsolete helper methods
