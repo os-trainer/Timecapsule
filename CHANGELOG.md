@@ -9604,3 +9604,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix potential race condition during file initialization
 - Document error handling strategies and exit codes
 - Ensure strict immutability of configuration defaults
+- Clean up project structure and remove redundant exports
