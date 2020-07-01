@@ -2476,3 +2476,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document preview mode and dry-run visualization
 - Add custom error classes for domain-specific failures
 - Add unit tests for progress reporter events
+- Add regression test for boundary date calculations
