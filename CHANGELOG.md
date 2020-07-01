@@ -9609,3 +9609,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input sanitization for file paths
 - Add configuration file for static code analysis
 - Improve consistency of return structures across helpers
+- Add schema validation for configuration objects
