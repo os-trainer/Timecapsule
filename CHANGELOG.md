@@ -9610,3 +9610,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration file for static code analysis
 - Improve consistency of return structures across helpers
 - Add schema validation for configuration objects
+- Test command line help output and option documentation
