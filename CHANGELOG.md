@@ -2478,3 +2478,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for progress reporter events
 - Add regression test for boundary date calculations
 - Standardize exception messages across validation logic
+- Add multi-step workflow runner utility
