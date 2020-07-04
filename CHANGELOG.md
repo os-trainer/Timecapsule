@@ -2483,3 +2483,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inconsistent return type on validation failure
 - Add configuration file for static code analysis
 - Add support for custom output destination paths
+- Improve README with comprehensive getting-started guide
