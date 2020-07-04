@@ -9616,3 +9616,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify cache invalidation logic under test conditions
 - Implement batch processing utility for array inputs
 - Extract reusable helper functions from main workflow
+- Add usage examples for common command-line options
