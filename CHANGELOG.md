@@ -9627,3 +9627,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add defensive fallbacks for unexpected null values
 - Update license field and attribution in package manifest
 - Refactor array processing routines to use functional methods
+- Document configuration options and default parameters
