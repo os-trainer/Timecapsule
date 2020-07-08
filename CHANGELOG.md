@@ -2488,3 +2488,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modularize schema definitions and validation rules
 - Implement helper utilities for parameter parsing
 - Correct timestamp calculation for timezone offsets
+- Improve consistency of option validation error messages
