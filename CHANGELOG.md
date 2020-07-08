@@ -2487,3 +2487,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test timezone offset handling with varying dates
 - Modularize schema definitions and validation rules
 - Implement helper utilities for parameter parsing
+- Correct timestamp calculation for timezone offsets
