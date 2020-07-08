@@ -2489,3 +2489,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement helper utilities for parameter parsing
 - Correct timestamp calculation for timezone offsets
 - Improve consistency of option validation error messages
+- Add integration test verifying end-to-end workflow execution
