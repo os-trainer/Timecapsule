@@ -2485,3 +2485,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for custom output destination paths
 - Improve README with comprehensive getting-started guide
 - Test timezone offset handling with varying dates
+- Modularize schema definitions and validation rules
