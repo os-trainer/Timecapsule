@@ -9634,3 +9634,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement flexible filter predicate builder
 - Fix unexpected empty input parsing in command line options
 - Correct path delimiter handling across operating systems
+- Clarify frequency parameter behavior and percentage rules
