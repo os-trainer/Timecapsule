@@ -2493,3 +2493,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement command dispatcher with routing logic
 - Ensure all async rejections provide meaningful Error instances
 - Clarify frequency parameter behavior and percentage rules
+
+## [3.4.0]
+### Changed
+- Add strict boundary checks to numeric operations
