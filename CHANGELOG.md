@@ -9633,3 +9633,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix formatting anomaly in terminal progress display
 - Implement flexible filter predicate builder
 - Fix unexpected empty input parsing in command line options
+- Correct path delimiter handling across operating systems
