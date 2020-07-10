@@ -2499,3 +2499,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add strict boundary checks to numeric operations
 - Add support for JSON and plain text output formats
 - Add usage examples for common command-line options
+- Handle null and undefined options defensively
