@@ -9638,3 +9638,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix string encoding issue when processing special characters
 - Decompose monolithic workflow function into focused steps
 - Add JSDoc type annotations for internal functions
+- Add colorized terminal output formatter
