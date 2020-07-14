@@ -9639,3 +9639,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decompose monolithic workflow function into focused steps
 - Add JSDoc type annotations for internal functions
 - Add colorized terminal output formatter
+- Add quick reference cheat sheet for CLI commands
