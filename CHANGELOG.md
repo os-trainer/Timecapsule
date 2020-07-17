@@ -2510,3 +2510,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement defensive parameter sanitization
 - Improve code formatting and consistent whitespace
 - Fix incorrect boolean flag evaluation
+- Tune lint-staged configuration for staged files
