@@ -9653,3 +9653,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle undefined configuration sections safely
 - Streamline option parsing and default resolution
 - Add system status inspection helper
+- Add unit tests for collection filter predicates
