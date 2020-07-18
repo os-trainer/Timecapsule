@@ -2513,3 +2513,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Tune lint-staged configuration for staged files
 - Clarify difference between distribution algorithms
 - Implement retry mechanism for transient operations
+- Handle process interruption cleanly during generation
