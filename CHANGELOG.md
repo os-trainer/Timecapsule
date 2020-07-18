@@ -2514,3 +2514,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify difference between distribution algorithms
 - Implement retry mechanism for transient operations
 - Handle process interruption cleanly during generation
+- Modularize command-line argument processing logic
