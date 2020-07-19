@@ -2515,3 +2515,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement retry mechanism for transient operations
 - Handle process interruption cleanly during generation
 - Modularize command-line argument processing logic
+- Add comments explaining subtle edge cases in date math
