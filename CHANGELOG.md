@@ -9655,3 +9655,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add system status inspection helper
 - Add unit tests for collection filter predicates
 - Document environment variable configuration overrides
+- Add support for verbose diagnostic output
