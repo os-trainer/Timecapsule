@@ -9656,3 +9656,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for collection filter predicates
 - Document environment variable configuration overrides
 - Add support for verbose diagnostic output
+- Cover deep object merge edge cases in unit tests
