@@ -2525,3 +2525,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add safe deep clone utility function
 - Add unit tests for input validation helper functions
 - Rename internal variables and parameters for clarity
+- Correct negative duration calculations across days
