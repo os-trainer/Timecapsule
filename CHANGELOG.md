@@ -2529,3 +2529,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add environment variable override support
 - Handle unexpected zero-length arrays in reducer logic
 - Document template options for supported project layouts
+- Add lightweight event emitter implementation
