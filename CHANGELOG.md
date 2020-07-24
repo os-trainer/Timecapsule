@@ -9660,3 +9660,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty environment variables without error
 - Add configuration file for continuous integration
 - Implement query filter helpers for collection items
+- Fix type coercion error during numeric comparisons
