@@ -2527,3 +2527,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Rename internal variables and parameters for clarity
 - Correct negative duration calculations across days
 - Add environment variable override support
+- Handle unexpected zero-length arrays in reducer logic
