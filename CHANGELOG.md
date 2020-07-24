@@ -9661,3 +9661,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration file for continuous integration
 - Implement query filter helpers for collection items
 - Fix type coercion error during numeric comparisons
+- Add comments explaining subtle edge cases in date math
