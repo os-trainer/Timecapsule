@@ -2531,3 +2531,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document template options for supported project layouts
 - Add lightweight event emitter implementation
 - Fix memory leak in recurring event listeners
+- Add colorized terminal output formatter
