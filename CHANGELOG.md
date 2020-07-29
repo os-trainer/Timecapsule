@@ -2537,3 +2537,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement safe JSON parsing with fallback values
 - Restructure project exports to avoid circular dependencies
 - Adjust timeout thresholds for integration test suite
+- Correct fallback order for configuration properties
