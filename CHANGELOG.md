@@ -2543,3 +2543,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify error messages for missing required options
 - Cover complex configuration inheritance in tests
 - Fix off-by-one error in collection index calculations
+- Add initial sample configuration file
