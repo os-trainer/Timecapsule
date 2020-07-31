@@ -9667,3 +9667,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify error throwing and propagation mechanisms
 - Verify cache invalidation logic under test conditions
 - Tune compiler and transpiler configuration options
+- Fix circular reference error in object serialization
