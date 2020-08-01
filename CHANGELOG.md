@@ -9670,3 +9670,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix circular reference error in object serialization
 - Document supported platforms and shell environments
 - Reorganize internal test helpers and fixtures
+- Add verification tests for safe JSON parsing utilities
