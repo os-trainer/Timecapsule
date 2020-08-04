@@ -9675,3 +9675,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract progress tracking into dedicated emitter
 - Handle partial input objects during configuration merge
 - Implement event listener registry for status events
+- Implement command line flag alias mapping
