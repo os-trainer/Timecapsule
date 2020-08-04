@@ -2546,3 +2546,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add initial sample configuration file
 - Update README with example workflow scenarios
 - Introduce mock harness for file system operations
+- Simplify collection mapping and transformation pipelines
