@@ -2548,3 +2548,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Introduce mock harness for file system operations
 - Simplify collection mapping and transformation pipelines
 - Add validation rules for date range boundaries
+- Add descriptive error context when file reading fails
