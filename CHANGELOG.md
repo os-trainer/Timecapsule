@@ -2550,3 +2550,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add validation rules for date range boundaries
 - Add descriptive error context when file reading fails
 - Refactor utility functions into dedicated modules
+- Fix edge case in input handling for empty strings
