@@ -9683,3 +9683,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix missing return statement in error branch
 - Verify proper error types are thrown on invalid arguments
 - Extract configuration validation into standalone validator
+- Add configuration for source map generation
