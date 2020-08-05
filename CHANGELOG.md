@@ -2551,3 +2551,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add descriptive error context when file reading fails
 - Refactor utility functions into dedicated modules
 - Fix edge case in input handling for empty strings
+- Implement deep object merging utility
