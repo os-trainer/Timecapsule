@@ -2554,3 +2554,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement deep object merging utility
 - Streamline event dispatching mechanism
 - Ensure all async rejections provide meaningful Error instances
+- Add unit tests for rate limiting and throttling helpers
