@@ -9687,3 +9687,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify complex function implementations for maintainability
 - Handle malformed JSON configuration without crashing
 - Implement retry mechanism for transient operations
+- Add step-by-step tutorial for sample project generation
