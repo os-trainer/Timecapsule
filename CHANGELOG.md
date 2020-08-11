@@ -2560,3 +2560,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify error throwing and propagation mechanisms
 - Add table of contents to main project documentation
 - Update project dependencies to latest secure versions
+- Add custom formatting options for summary tables
