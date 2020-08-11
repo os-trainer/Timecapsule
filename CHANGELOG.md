@@ -2559,3 +2559,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add schema validation for configuration objects
 - Simplify error throwing and propagation mechanisms
 - Add table of contents to main project documentation
+- Update project dependencies to latest secure versions
