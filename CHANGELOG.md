@@ -9691,3 +9691,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modernize internal loop constructs and data structures
 - Add troubleshooting notes for frequent setup issues
 - Fix unhandled promise rejection in async error handler
+- Add lightweight event emitter implementation
