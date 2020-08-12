@@ -2563,3 +2563,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add custom formatting options for summary tables
 - Handle empty input collections without throwing exceptions
 - Implement template interpolation utility
+- Simplify conditional branching in distribution calculator
