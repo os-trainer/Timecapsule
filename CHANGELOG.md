@@ -2564,3 +2564,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty input collections without throwing exceptions
 - Implement template interpolation utility
 - Simplify conditional branching in distribution calculator
+- Document error handling strategies and exit codes
