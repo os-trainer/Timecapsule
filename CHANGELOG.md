@@ -2566,3 +2566,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify conditional branching in distribution calculator
 - Document error handling strategies and exit codes
 - Fix circular reference error in object serialization
+- Add unit tests for progress reporter events
