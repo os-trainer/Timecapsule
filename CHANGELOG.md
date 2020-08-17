@@ -9700,3 +9700,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update license field and attribution in package manifest
 - Add URL query string builder and parser
 - Fix incorrect status code returned on input error
+- Add detailed architecture overview and component diagram
