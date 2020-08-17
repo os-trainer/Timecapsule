@@ -9703,3 +9703,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add detailed architecture overview and component diagram
 - Handle process interruption cleanly during generation
 - Fix argument parsing when flag value contains spaces
+- Ensure all async rejections provide meaningful Error instances
