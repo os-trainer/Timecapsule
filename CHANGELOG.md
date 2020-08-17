@@ -9705,3 +9705,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix argument parsing when flag value contains spaces
 - Ensure all async rejections provide meaningful Error instances
 - Add custom error classes for domain-specific failures
+- Test custom date formatting tokens and output strings
