@@ -9708,3 +9708,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test custom date formatting tokens and output strings
 - Add clear synthetic demonstration disclaimer in documentation
 - Improve readability of complex conditional evaluations
+- Add assertions for default configuration fallbacks
