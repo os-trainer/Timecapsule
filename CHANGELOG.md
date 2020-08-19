@@ -9713,3 +9713,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix improper resource cleanup on exit
 - Test empty collection handling across utility functions
 - Update API reference documentation for core exports
+- Add unit tests for string formatting and truncation helpers
