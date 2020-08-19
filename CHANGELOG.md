@@ -9715,3 +9715,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update API reference documentation for core exports
 - Add unit tests for string formatting and truncation helpers
 - Add custom formatting options for summary tables
+- Add code comments explaining complex date mathematics
