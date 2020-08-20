@@ -2573,3 +2573,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adjust test runner timeout and concurrency settings
 - Fix memory leak caused by unreleased cache handles
 - Document configuration options and default parameters
+- Fix incorrect default parameter assignment
