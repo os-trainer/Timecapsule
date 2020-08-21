@@ -2575,3 +2575,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document configuration options and default parameters
 - Fix incorrect default parameter assignment
 - Implement configuration file loader with fallback defaults
+- Improve naming consistency across internal interfaces
