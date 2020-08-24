@@ -2583,3 +2583,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure consistent parameter ordering in helper signatures
 - Improve readability of complex conditional evaluations
 - Cover dry-run execution mode with assertion checks
+- Improve inline code documentation and parameter descriptions
