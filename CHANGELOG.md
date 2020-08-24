@@ -2582,3 +2582,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add elapsed execution time measurement helper
 - Ensure consistent parameter ordering in helper signatures
 - Improve readability of complex conditional evaluations
+- Cover dry-run execution mode with assertion checks
