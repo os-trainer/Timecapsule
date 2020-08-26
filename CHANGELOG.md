@@ -9727,3 +9727,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test invalid input handling and expected exceptions
 - Implement query filter helpers for collection items
 - Implement summary statistics calculation helper
+- Correct boundary check in range validation utility
