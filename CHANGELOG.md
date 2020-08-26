@@ -9724,3 +9724,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for JSON and plain text output formats
 - Fix memory leak caused by unreleased cache handles
 - Replace magic numbers with named configuration constants
+- Test invalid input handling and expected exceptions
