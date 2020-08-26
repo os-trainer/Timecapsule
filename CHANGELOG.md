@@ -9726,3 +9726,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Replace magic numbers with named configuration constants
 - Test invalid input handling and expected exceptions
 - Implement query filter helpers for collection items
+- Implement summary statistics calculation helper
