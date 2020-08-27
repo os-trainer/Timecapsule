@@ -2585,3 +2585,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover dry-run execution mode with assertion checks
 - Improve inline code documentation and parameter descriptions
 - Test timezone offset handling with varying dates
+- Add key-value store wrapper for memory cache
