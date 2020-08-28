@@ -9733,3 +9733,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix circular reference error in object serialization
 - Implement helper utilities for parameter parsing
 - Document template options for supported project layouts
+- Ensure consistent parameter ordering in helper signatures
