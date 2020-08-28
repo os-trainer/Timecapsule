@@ -2587,3 +2587,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test timezone offset handling with varying dates
 - Add key-value store wrapper for memory cache
 - Streamline option parsing and default resolution
+- Handle empty environment variables without error
