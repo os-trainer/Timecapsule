@@ -2589,3 +2589,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline option parsing and default resolution
 - Handle empty environment variables without error
 - Implement file reading helper with encoding support
+- Add FAQ section covering common configuration questions
