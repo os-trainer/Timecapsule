@@ -2596,3 +2596,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add defensive fallbacks for unexpected null values
 - Refactor date calculation routines for better readability
 - Add snapshot tests for terminal output formatters
+
+## [3.5.0]
+### Changed
+- Add acknowledgments and open-source project credits
