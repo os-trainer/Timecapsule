@@ -2600,3 +2600,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [3.5.0]
 ### Changed
 - Add acknowledgments and open-source project credits
+- Add assertions for default configuration fallbacks
