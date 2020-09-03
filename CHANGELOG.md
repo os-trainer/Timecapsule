@@ -2608,3 +2608,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update API reference documentation for core exports
 - Verify idempotency of cleanup routines in test suite
 - Add task definitions for local development tooling
+- Improve documentation for programmatic JavaScript API
