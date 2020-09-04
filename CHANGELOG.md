@@ -9747,3 +9747,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression test for boundary date calculations
 - Add acknowledgments and open-source project credits
 - Fix incorrect default parameter assignment
+- Adjust timeout thresholds for integration test suite
