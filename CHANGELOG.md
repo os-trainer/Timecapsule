@@ -2610,3 +2610,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add task definitions for local development tooling
 - Improve documentation for programmatic JavaScript API
 - Simplify complex function implementations for maintainability
+- Fix incorrect status code returned on input error
