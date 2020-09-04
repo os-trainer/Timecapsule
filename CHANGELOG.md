@@ -9743,3 +9743,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve clarity of variable scopes and closures
 - Correct path delimiter handling across operating systems
 - Handle timeout gracefully during external operations
+- Add support for custom output destination paths
