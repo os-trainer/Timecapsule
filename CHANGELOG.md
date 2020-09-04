@@ -9745,3 +9745,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle timeout gracefully during external operations
 - Add support for custom output destination paths
 - Add regression test for boundary date calculations
+- Add acknowledgments and open-source project credits
