@@ -2613,3 +2613,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect status code returned on input error
 - Add usage examples for common command-line options
 - Add URL query string builder and parser
+- Verify cache invalidation logic under test conditions
