@@ -2611,3 +2611,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve documentation for programmatic JavaScript API
 - Simplify complex function implementations for maintainability
 - Fix incorrect status code returned on input error
+- Add usage examples for common command-line options
