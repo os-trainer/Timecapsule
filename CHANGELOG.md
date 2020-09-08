@@ -9750,3 +9750,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adjust timeout thresholds for integration test suite
 - Implement event listener registry for status events
 - Verify error messages for missing required options
+- Clarify difference between distribution algorithms
