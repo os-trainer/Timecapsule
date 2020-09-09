@@ -9756,3 +9756,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct error handling when input file is absent
 - Refactor date calculation routines for better readability
 - Add lightweight event emitter implementation
+- Cover dry-run execution mode with assertion checks
