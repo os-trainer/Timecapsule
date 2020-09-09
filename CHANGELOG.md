@@ -9753,3 +9753,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify difference between distribution algorithms
 - Fix validation logic for boundary date ranges
 - Configure initial runtime environment defaults
+- Correct error handling when input file is absent
