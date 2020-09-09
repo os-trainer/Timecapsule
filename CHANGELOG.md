@@ -2620,3 +2620,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modernize internal loop constructs and data structures
 - Handle malformed JSON configuration without crashing
 - Add test suite for distribution weight calculations
+- Correct string trimming logic for multi-line inputs
