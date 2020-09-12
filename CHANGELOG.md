@@ -2624,3 +2624,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract terminal output logic into presentation layer
 - Add reusable string formatting utility functions
 - Correct error handling when input file is absent
+- Fix incorrect boolean flag evaluation
