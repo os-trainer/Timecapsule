@@ -9774,3 +9774,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle process interruption cleanly during generation
 - Improve separation of concerns between CLI and core engine
 - Ensure consistent error status codes across exit paths
+- Implement file reading helper with encoding support
