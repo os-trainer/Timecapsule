@@ -9772,3 +9772,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor state management into centralized store
 - Ensure strict immutability of configuration defaults
 - Handle process interruption cleanly during generation
+- Improve separation of concerns between CLI and core engine
