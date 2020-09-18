@@ -9781,3 +9781,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add clean script to purge build artifacts and temp files
 - Update API reference documentation for core exports
 - Fix off-by-one error in collection index calculations
+- Improve test coverage for error recovery branches
