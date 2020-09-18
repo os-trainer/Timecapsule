@@ -9782,3 +9782,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update API reference documentation for core exports
 - Fix off-by-one error in collection index calculations
 - Improve test coverage for error recovery branches
+- Fix incorrect status code returned on input error
