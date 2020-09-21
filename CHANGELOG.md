@@ -9784,3 +9784,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage for error recovery branches
 - Fix incorrect status code returned on input error
 - Fix argument parsing when flag value contains spaces
+- Implement numeric range clamping helper
