@@ -9787,3 +9787,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement numeric range clamping helper
 - Add unit tests for rate limiting and throttling helpers
 - Document distribution patterns and statistical behavior
+- Add base package descriptor with metadata
