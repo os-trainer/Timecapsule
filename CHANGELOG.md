@@ -2647,3 +2647,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression tests for previous edge-case bugs
 - Add multi-step workflow runner utility
 - Extract date formatting templates into reusable helpers
+- Update README with example workflow scenarios
