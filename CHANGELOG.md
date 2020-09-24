@@ -9792,3 +9792,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement command line flag alias mapping
 - Fix potential race condition during file initialization
 - Cover edge cases in date range calculation logic
+- Tune lint-staged configuration for staged files
