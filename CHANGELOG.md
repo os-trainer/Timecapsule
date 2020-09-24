@@ -2651,3 +2651,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize terminology across comments and log output
 - Update author and contributor information in package descriptor
 - Improve test coverage for error recovery branches
+- Document logging levels and diagnostic flags
