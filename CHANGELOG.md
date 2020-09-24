@@ -9793,3 +9793,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix potential race condition during file initialization
 - Cover edge cases in date range calculation logic
 - Tune lint-staged configuration for staged files
+- Handle unexpected zero-length arrays in reducer logic
