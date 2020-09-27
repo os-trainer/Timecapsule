@@ -2653,3 +2653,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage for error recovery branches
 - Document logging levels and diagnostic flags
 - Add verification tests for safe JSON parsing utilities
+- Correct fallback order for configuration properties
