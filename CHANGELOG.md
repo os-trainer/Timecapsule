@@ -2656,3 +2656,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct fallback order for configuration properties
 - Add custom error classes for domain-specific failures
 - Verify proper error types are thrown on invalid arguments
+- Document distribution patterns and statistical behavior
