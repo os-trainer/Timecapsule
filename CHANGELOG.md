@@ -9800,3 +9800,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document supported platforms and shell environments
 - Consolidate duplicate string sanitization routines
 - Fix type coercion error during numeric comparisons
+- Correct timestamp calculation for timezone offsets
