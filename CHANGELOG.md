@@ -2659,3 +2659,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document distribution patterns and statistical behavior
 - Fix formatting anomaly in terminal progress display
 - Implement batch processing utility for array inputs
+- Add examples of integrating tool into automated scripts
