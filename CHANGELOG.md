@@ -2661,3 +2661,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement batch processing utility for array inputs
 - Add examples of integrating tool into automated scripts
 - Update npm packaging whitelist in files array
+- Implement rate limiting throttle for helper actions
