@@ -2662,3 +2662,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add examples of integrating tool into automated scripts
 - Update npm packaging whitelist in files array
 - Implement rate limiting throttle for helper actions
+- Fix infinite loop risk in collection traversal logic
