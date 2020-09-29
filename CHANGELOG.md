@@ -9802,3 +9802,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix type coercion error during numeric comparisons
 - Correct timestamp calculation for timezone offsets
 - Improve naming consistency across internal interfaces
+- Document configuration options and default parameters
