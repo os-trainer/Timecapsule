@@ -9804,3 +9804,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve naming consistency across internal interfaces
 - Document configuration options and default parameters
 - Handle empty environment variables without error
+- Streamline parameter passing across internal layers
