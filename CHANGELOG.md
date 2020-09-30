@@ -9805,3 +9805,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document configuration options and default parameters
 - Handle empty environment variables without error
 - Streamline parameter passing across internal layers
+- Add unit tests for terminal colorization toggles
