@@ -9814,3 +9814,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input sanitization for file paths
 - Fix unhandled promise rejection in async error handler
 - Update package repository URLs and issue tracker links
+- Test timezone offset handling with varying dates
