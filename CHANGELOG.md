@@ -9819,3 +9819,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update package version in manifest file
 - Implement retry mechanism for transient operations
 - Fix infinite loop risk in collection traversal logic
+- Cover complex configuration inheritance in tests
