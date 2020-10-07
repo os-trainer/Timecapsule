@@ -2671,3 +2671,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement retry mechanism for transient operations
 - Resolve incorrect return value for edge-case queries
 - Add performance assertions for large collection processing
+- Test command line help output and option documentation
