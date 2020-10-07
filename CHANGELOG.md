@@ -2673,3 +2673,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add performance assertions for large collection processing
 - Test command line help output and option documentation
 - Update changelog with recent feature additions and fixes
+- Improve test coverage across utility modules
