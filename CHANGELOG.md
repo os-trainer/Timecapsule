@@ -2682,3 +2682,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add usage notes for multi-year historical generation
 - Implement date formatting and parsing helpers
 - Fix memory leak in recurring event listeners
+- Reorganize internal test helpers and fixtures
