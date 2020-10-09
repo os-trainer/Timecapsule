@@ -2679,3 +2679,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add parameterized tests for date parsing variations
 - Handle null and undefined options defensively
 - Update license field and attribution in package manifest
+- Add usage notes for multi-year historical generation
