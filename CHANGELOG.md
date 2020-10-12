@@ -9833,3 +9833,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement dry-run execution preview mode
 - Update repository keywords and discovery tags
 - Add unit tests for progress reporter events
+- Add contribution guidelines and development workflow steps
