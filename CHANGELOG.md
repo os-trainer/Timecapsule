@@ -9832,3 +9832,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct string trimming logic for multi-line inputs
 - Implement dry-run execution preview mode
 - Update repository keywords and discovery tags
+- Add unit tests for progress reporter events
