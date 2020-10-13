@@ -2693,3 +2693,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update API reference documentation for core exports
 - Fix intermittent failure in date boundary comparison
 - Add quick reference cheat sheet for CLI commands
+- Add test cases for boolean flag normalization
