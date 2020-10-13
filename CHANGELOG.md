@@ -2692,3 +2692,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add table of contents to main project documentation
 - Update API reference documentation for core exports
 - Fix intermittent failure in date boundary comparison
+- Add quick reference cheat sheet for CLI commands
