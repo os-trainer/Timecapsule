@@ -2690,3 +2690,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Remove dead code branches and redundant checks
 - Fix incorrect status code returned on input error
 - Add table of contents to main project documentation
+- Update API reference documentation for core exports
