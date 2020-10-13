@@ -2691,3 +2691,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect status code returned on input error
 - Add table of contents to main project documentation
 - Update API reference documentation for core exports
+- Fix intermittent failure in date boundary comparison
