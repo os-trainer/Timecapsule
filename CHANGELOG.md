@@ -2694,3 +2694,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix intermittent failure in date boundary comparison
 - Add quick reference cheat sheet for CLI commands
 - Add test cases for boolean flag normalization
+- Refactor validation pipelines to support chaining
