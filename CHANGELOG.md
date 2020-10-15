@@ -9837,3 +9837,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect boolean flag evaluation
 - Add tests for custom output destination formatting
 - Rename internal variables and parameters for clarity
+- Add safe deep clone utility function
