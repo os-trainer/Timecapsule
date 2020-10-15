@@ -9838,3 +9838,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add tests for custom output destination formatting
 - Rename internal variables and parameters for clarity
 - Add safe deep clone utility function
+- Add array sorting and filtering helper functions
