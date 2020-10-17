@@ -2699,3 +2699,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct boundary check in range validation utility
 - Implement defensive parameter sanitization
 - Correct timestamp calculation for timezone offsets
+
+## [3.6.0]
+### Changed
+- Add usage examples for common command-line options
