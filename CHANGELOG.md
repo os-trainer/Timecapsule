@@ -2704,3 +2704,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Add usage examples for common command-line options
 - Add unit tests for string formatting and truncation helpers
+- Implement event listener registry for status events
