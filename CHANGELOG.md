@@ -9842,3 +9842,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle null and undefined options defensively
 - Correct boundary check in range validation utility
 - Add environment variable override support
+- Configure environment file loading conventions
