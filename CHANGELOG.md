@@ -9851,3 +9851,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement defensive parameter sanitization
 - Ensure all async rejections provide meaningful Error instances
 - Add test harness for simulated time progression
+- Refactor utility functions into dedicated modules
