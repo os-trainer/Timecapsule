@@ -2714,3 +2714,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement helper utilities for parameter parsing
 - Add contribution guidelines and development workflow steps
 - Handle timeout gracefully during external operations
+- Clarify frequency parameter behavior and percentage rules
