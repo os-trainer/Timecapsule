@@ -2716,3 +2716,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle timeout gracefully during external operations
 - Clarify frequency parameter behavior and percentage rules
 - Add support for custom output destination paths
+- Correctly escape special characters in terminal output
