@@ -2715,3 +2715,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add contribution guidelines and development workflow steps
 - Handle timeout gracefully during external operations
 - Clarify frequency parameter behavior and percentage rules
+- Add support for custom output destination paths
