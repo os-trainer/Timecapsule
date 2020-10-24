@@ -2725,3 +2725,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve input handling and defensive type assertions
 - Add validation rules for date range boundaries
 - Fix potential race condition during file initialization
+- Fix unexpected empty input parsing in command line options
