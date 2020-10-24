@@ -9858,3 +9858,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add schema validation for configuration objects
 - Improve markdown formatting and typographic consistency in README
 - Fix missing return statement in error branch
+- Add test suite for distribution weight calculations
