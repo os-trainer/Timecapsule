@@ -9860,3 +9860,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix missing return statement in error branch
 - Add test suite for distribution weight calculations
 - Implement stream-based chunk processor
+- Handle empty input collections without throwing exceptions
