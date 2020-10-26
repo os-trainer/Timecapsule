@@ -2730,3 +2730,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement pagination helper for collection data
 - Refactor caching mechanism for cleaner abstraction
 - Add acknowledgments and open-source project credits
+- Add parameter type checks to public library methods
