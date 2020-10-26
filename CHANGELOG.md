@@ -2733,3 +2733,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add parameter type checks to public library methods
 - Add basic data caching layer with key invalidation
 - Fix off-by-one error in collection index calculations
+- Fix edge case in input handling for empty strings
