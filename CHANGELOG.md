@@ -2735,3 +2735,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix off-by-one error in collection index calculations
 - Fix edge case in input handling for empty strings
 - Refactor argument parsing to standardize option names
+- Cover edge cases in date range calculation logic
