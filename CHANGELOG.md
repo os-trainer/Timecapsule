@@ -9867,3 +9867,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct negative duration calculations across days
 - Clean up stray debug statements and console output
 - Add basic data caching layer with key invalidation
+- Restructure project exports to avoid circular dependencies
