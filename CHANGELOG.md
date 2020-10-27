@@ -2737,3 +2737,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor argument parsing to standardize option names
 - Cover edge cases in date range calculation logic
 - Implement object transformation and mapping utilities
+- Update license field and attribution in package manifest
