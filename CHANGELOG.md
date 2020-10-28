@@ -2741,3 +2741,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle partial input objects during configuration merge
 - Consolidate error definitions and status messages
 - Simplify complex arithmetic expressions in date logic
+- Fix duplicate item registration in event subscriber list
