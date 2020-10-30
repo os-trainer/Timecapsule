@@ -2744,3 +2744,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix duplicate item registration in event subscriber list
 - Add test harness for simulated time progression
 - Add clear synthetic demonstration disclaimer in documentation
+- Fix circular reference error in object serialization
