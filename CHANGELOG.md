@@ -2746,3 +2746,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add clear synthetic demonstration disclaimer in documentation
 - Fix circular reference error in object serialization
 - Add performance recommendations for large-scale runs
+- Add comments explaining subtle edge cases in date math
