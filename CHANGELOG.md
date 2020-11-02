@@ -9877,3 +9877,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add boundary condition tests for numeric ranges
 - Add initial build output ignore patterns
 - Improve package scripts for building and testing
+- Refactor configuration fallback resolution
