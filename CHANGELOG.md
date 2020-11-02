@@ -9878,3 +9878,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add initial build output ignore patterns
 - Improve package scripts for building and testing
 - Refactor configuration fallback resolution
+- Configure engine version compatibility constraints
