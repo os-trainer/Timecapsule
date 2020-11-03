@@ -2754,3 +2754,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test empty collection handling across utility functions
 - Fix argument parsing when flag value contains spaces
 - Improve documentation for programmatic JavaScript API
+- Reduce duplicated logic across helper utilities
