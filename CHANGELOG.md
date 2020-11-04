@@ -9884,3 +9884,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for verbose diagnostic output
 - Add detailed architecture overview and component diagram
 - Document date format requirements and accepted tokens
+- Correct output formatting when statistics are zero
