@@ -9885,3 +9885,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add detailed architecture overview and component diagram
 - Document date format requirements and accepted tokens
 - Correct output formatting when statistics are zero
+- Resolve incorrect return value for edge-case queries
