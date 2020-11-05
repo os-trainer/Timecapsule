@@ -9887,3 +9887,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct output formatting when statistics are zero
 - Resolve incorrect return value for edge-case queries
 - Handle process interruption cleanly during generation
+- Decouple output formatting from core computation logic
