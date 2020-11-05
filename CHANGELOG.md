@@ -2763,3 +2763,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decompose monolithic workflow function into focused steps
 - Verify idempotency of cleanup routines in test suite
 - Add schema validation for configuration objects
+- Adjust linting and formatting configuration rules
