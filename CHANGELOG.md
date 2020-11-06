@@ -2765,3 +2765,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add schema validation for configuration objects
 - Adjust linting and formatting configuration rules
 - Introduce mock harness for file system operations
+- Fix missing return statement in error branch
