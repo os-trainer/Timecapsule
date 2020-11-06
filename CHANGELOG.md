@@ -2768,3 +2768,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix missing return statement in error branch
 - Verify platform-specific path handling in test suite
 - Implement flexible filter predicate builder
+- Document error handling strategies and exit codes
