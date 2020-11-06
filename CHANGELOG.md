@@ -9891,3 +9891,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add safe string truncation helper
 - Configure semantic versioning and release scripts
 - Reorganize internal test helpers and fixtures
+- Add system status inspection helper
