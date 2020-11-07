@@ -9899,3 +9899,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect boolean flag evaluation
 - Implement dry-run execution preview mode
 - Extract common constants into centralized configuration
+- Correct fallback order for configuration properties
