@@ -9902,3 +9902,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct fallback order for configuration properties
 - Add configuration for code coverage reporting
 - Correct regex pattern matching for date validation
+- Add custom formatting options for summary tables
