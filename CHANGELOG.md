@@ -9908,3 +9908,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify error throwing and propagation mechanisms
 - Fix memory leak caused by unreleased cache handles
 - Implement file reading helper with encoding support
+- Cover complex configuration inheritance in tests
