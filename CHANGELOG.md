@@ -9906,3 +9906,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Eliminate code duplication in internal helper branches
 - Update development configuration and editor settings
 - Simplify error throwing and propagation mechanisms
+- Fix memory leak caused by unreleased cache handles
