@@ -9931,3 +9931,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unexpected empty input parsing in command line options
 - Fix missing return statement in error branch
 - Add regression test for boundary date calculations
+- Improve input handling and defensive type assertions
