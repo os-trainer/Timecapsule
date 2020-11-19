@@ -9932,3 +9932,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix missing return statement in error branch
 - Add regression test for boundary date calculations
 - Improve input handling and defensive type assertions
+- Handle undefined configuration sections safely
