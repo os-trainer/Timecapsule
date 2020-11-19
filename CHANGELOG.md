@@ -9933,3 +9933,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression test for boundary date calculations
 - Improve input handling and defensive type assertions
 - Handle undefined configuration sections safely
+- Document custom commit message filtering and options
