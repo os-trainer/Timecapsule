@@ -9937,3 +9937,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement progress reporter for long-running workflows
 - Add assertions for default configuration fallbacks
 - Fix edge case in input handling for empty strings
+- Cover edge cases in date range calculation logic
