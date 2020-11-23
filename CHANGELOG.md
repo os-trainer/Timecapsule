@@ -9943,3 +9943,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement defensive parameter sanitization
 - Decompose monolithic workflow function into focused steps
 - Add test suite for distribution weight calculations
+- Correct negative duration calculations across days
