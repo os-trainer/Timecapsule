@@ -2795,3 +2795,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add verification tests for safe JSON parsing utilities
 - Add instructions for running tests and linter locally
 - Add input validation for user-supplied options
+- Document test execution commands and coverage reports
