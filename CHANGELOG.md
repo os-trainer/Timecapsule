@@ -9946,3 +9946,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct negative duration calculations across days
 - Refactor state management into centralized store
 - Add examples of integrating tool into automated scripts
+- Add validation rules for date range boundaries
