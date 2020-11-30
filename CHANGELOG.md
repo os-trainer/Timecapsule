@@ -2801,3 +2801,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement object transformation and mapping utilities
 - Simplify collection mapping and transformation pipelines
 - Correct regex pattern matching for date validation
+- Correct negative duration calculations across days
