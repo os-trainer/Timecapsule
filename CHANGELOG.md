@@ -9961,3 +9961,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve consistency of option validation error messages
 - Add examples comparing standard and conventional commits
 - Implement command dispatcher with routing logic
+- Handle empty environment variables without error
