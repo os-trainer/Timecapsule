@@ -2806,3 +2806,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [3.7.0]
 ### Changed
 - Implement progress reporter for long-running workflows
+- Correct boundary check in range validation utility
