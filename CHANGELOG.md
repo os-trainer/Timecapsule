@@ -9964,3 +9964,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty environment variables without error
 - Implement retry mechanism for transient operations
 - Improve function organization and module cohesion
+- Add unit tests for rate limiting and throttling helpers
