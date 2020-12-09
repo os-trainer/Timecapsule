@@ -2819,3 +2819,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix string encoding issue when processing special characters
 - Add unit tests for progress reporter events
 - Add schema validation for configuration objects
+- Modularize command-line argument processing logic
