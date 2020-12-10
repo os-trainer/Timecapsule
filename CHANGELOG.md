@@ -9969,3 +9969,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Replace magic numbers with named configuration constants
 - Simplify conditional branching in distribution calculator
 - Add quick reference cheat sheet for CLI commands
+- Add usage notes for multi-year historical generation
