@@ -9971,3 +9971,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add quick reference cheat sheet for CLI commands
 - Add usage notes for multi-year historical generation
 - Implement command line flag alias mapping
+- Correct error handling when input file is absent
