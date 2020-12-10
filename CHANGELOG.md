@@ -2820,3 +2820,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for progress reporter events
 - Add schema validation for configuration objects
 - Modularize command-line argument processing logic
+- Add test cases for boolean flag normalization
