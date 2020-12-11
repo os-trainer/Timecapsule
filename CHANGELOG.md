@@ -2821,3 +2821,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add schema validation for configuration objects
 - Modularize command-line argument processing logic
 - Add test cases for boolean flag normalization
+- Fix circular reference error in object serialization
