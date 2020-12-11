@@ -9973,3 +9973,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement command line flag alias mapping
 - Correct error handling when input file is absent
 - Add environment variable override support
+- Add performance recommendations for large-scale runs
