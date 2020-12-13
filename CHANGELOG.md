@@ -9981,3 +9981,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Introduce mock harness for file system operations
 - Extract progress tracking into dedicated emitter
 - Implement query filter helpers for collection items
+- Add clear synthetic demonstration disclaimer in documentation
