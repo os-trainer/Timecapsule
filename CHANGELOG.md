@@ -2825,3 +2825,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add lightweight event emitter implementation
 - Add boundary condition tests for numeric ranges
 - Reorganize internal test helpers and fixtures
+- Fix memory leak in recurring event listeners
