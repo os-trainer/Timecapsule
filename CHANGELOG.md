@@ -9984,3 +9984,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add clear synthetic demonstration disclaimer in documentation
 - Add reusable string formatting utility functions
 - Implement flexible filter predicate builder
+- Handle file permission errors with actionable messages
