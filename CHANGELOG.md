@@ -9986,3 +9986,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement flexible filter predicate builder
 - Handle file permission errors with actionable messages
 - Add acknowledgments and open-source project credits
+- Add code comments explaining complex date mathematics
