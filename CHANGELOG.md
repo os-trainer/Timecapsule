@@ -2828,3 +2828,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak in recurring event listeners
 - Add unit tests for rate limiting and throttling helpers
 - Implement command dispatcher with routing logic
+- Extract common constants into centralized configuration
