@@ -9993,3 +9993,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak in recurring event listeners
 - Update test runner configuration for isolated execution
 - Improve documentation for custom output templates
+- Handle undefined configuration sections safely
