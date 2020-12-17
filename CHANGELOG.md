@@ -10001,3 +10001,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add schema validation for configuration objects
 - Add npm script for running linter in check-only mode
 - Add array sorting and filtering helper functions
+- Fix infinite loop risk in collection traversal logic
