@@ -9996,3 +9996,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle undefined configuration sections safely
 - Implement event listener registry for status events
 - Add security considerations and safe execution notes
+- Add test suite for distribution weight calculations
