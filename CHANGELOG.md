@@ -2836,3 +2836,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test suite for distribution weight calculations
 - Implement event listener registry for status events
 - Add security considerations and safe execution notes
+- Extract configuration validation into standalone validator
