@@ -2839,3 +2839,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract configuration validation into standalone validator
 - Correctly escape special characters in terminal output
 - Cover malformed command line options in test suite
+- Implement rate limiting throttle for helper actions
