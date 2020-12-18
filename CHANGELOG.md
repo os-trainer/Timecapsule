@@ -2841,3 +2841,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover malformed command line options in test suite
 - Implement rate limiting throttle for helper actions
 - Ensure consistent error status codes across exit paths
+- Fix argument parsing when flag value contains spaces
