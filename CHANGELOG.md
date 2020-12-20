@@ -10008,3 +10008,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve readability of complex conditional evaluations
 - Add key-value store wrapper for memory cache
 - Add configuration file for static code analysis
+- Fix intermittent failure in date boundary comparison
