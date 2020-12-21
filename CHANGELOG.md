@@ -10012,3 +10012,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for JSON and plain text output formats
 - Fix validation logic for boundary date ranges
 - Reduce duplicated logic across helper utilities
+- Handle timeout gracefully during external operations
