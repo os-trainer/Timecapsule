@@ -2845,3 +2845,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add colorized terminal output formatter
 - Configure initial build and runtime settings
 - Extract date formatting templates into reusable helpers
+- Add support for custom output destination paths
