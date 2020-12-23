@@ -10020,3 +10020,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement customizable output formatting options
 - Fix incorrect status code returned on input error
 - Add assertions to catch illegal state during execution
+- Fix missing return statement in error branch
