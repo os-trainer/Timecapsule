@@ -10018,3 +10018,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle malformed JSON configuration without crashing
 - Extract date formatting templates into reusable helpers
 - Implement customizable output formatting options
+- Fix incorrect status code returned on input error
