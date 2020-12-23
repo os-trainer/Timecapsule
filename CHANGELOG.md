@@ -2849,3 +2849,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak caused by unreleased cache handles
 - Improve code formatting and consistent whitespace
 - Implement helper utilities for parameter parsing
+- Improve documentation for custom output templates
