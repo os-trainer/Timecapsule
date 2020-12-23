@@ -2850,3 +2850,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve code formatting and consistent whitespace
 - Implement helper utilities for parameter parsing
 - Improve documentation for custom output templates
+- Add integration test verifying end-to-end workflow execution
