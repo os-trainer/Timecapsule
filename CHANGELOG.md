@@ -10024,3 +10024,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update project dependencies to latest secure versions
 - Decouple output formatting from core computation logic
 - Update lockfile with verified dependency tree
+- Document error handling strategies and exit codes
