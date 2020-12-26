@@ -10023,3 +10023,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix missing return statement in error branch
 - Update project dependencies to latest secure versions
 - Decouple output formatting from core computation logic
+- Update lockfile with verified dependency tree
