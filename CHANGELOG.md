@@ -10025,3 +10025,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decouple output formatting from core computation logic
 - Update lockfile with verified dependency tree
 - Document error handling strategies and exit codes
+- Add elapsed execution time measurement helper
