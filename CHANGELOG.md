@@ -10027,3 +10027,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document error handling strategies and exit codes
 - Add elapsed execution time measurement helper
 - Add unit tests for input validation helper functions
+- Fix type coercion error during numeric comparisons
