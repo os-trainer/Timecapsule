@@ -10032,3 +10032,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve consistency of return structures across helpers
 - Correct fallback order for configuration properties
 - Simplify complex arithmetic expressions in date logic
+- Add snapshot tests for terminal output formatters
