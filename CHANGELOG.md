@@ -2861,3 +2861,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inaccurate execution duration calculation
 - Implement object transformation and mapping utilities
 - Correct error handling when input file is absent
+- Update package repository URLs and issue tracker links
