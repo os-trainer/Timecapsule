@@ -10030,3 +10030,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix type coercion error during numeric comparisons
 - Configure distribution bundle output settings
 - Improve consistency of return structures across helpers
+- Correct fallback order for configuration properties
