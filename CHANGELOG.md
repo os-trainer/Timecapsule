@@ -2864,3 +2864,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update package repository URLs and issue tracker links
 - Implement template interpolation utility
 - Improve test coverage across utility modules
+- Fix unexpected empty input parsing in command line options
