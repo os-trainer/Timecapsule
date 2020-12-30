@@ -2860,3 +2860,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add detailed architecture overview and component diagram
 - Fix inaccurate execution duration calculation
 - Implement object transformation and mapping utilities
+- Correct error handling when input file is absent
