@@ -10036,3 +10036,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correctly escape special characters in terminal output
 - Refactor configuration fallback resolution
 - Update author and contributor information in package descriptor
+- Ensure consistent error status codes across exit paths
