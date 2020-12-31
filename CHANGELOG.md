@@ -2868,3 +2868,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement pagination helper for collection data
 - Handle missing configuration gracefully with defaults
 - Clean up project structure and remove redundant exports
+- Fix type coercion error during numeric comparisons
