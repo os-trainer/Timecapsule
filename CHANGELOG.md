@@ -10035,3 +10035,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add snapshot tests for terminal output formatters
 - Correctly escape special characters in terminal output
 - Refactor configuration fallback resolution
+- Update author and contributor information in package descriptor
