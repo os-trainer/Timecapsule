@@ -10034,3 +10034,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify complex arithmetic expressions in date logic
 - Add snapshot tests for terminal output formatters
 - Correctly escape special characters in terminal output
+- Refactor configuration fallback resolution
