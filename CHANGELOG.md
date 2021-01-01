@@ -10039,3 +10039,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure consistent error status codes across exit paths
 - Simplify control flow and reduce nested conditionals
 - Resolve incorrect return value for edge-case queries
+- Document logging levels and diagnostic flags
