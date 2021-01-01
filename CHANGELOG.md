@@ -10038,3 +10038,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update author and contributor information in package descriptor
 - Ensure consistent error status codes across exit paths
 - Simplify control flow and reduce nested conditionals
+- Resolve incorrect return value for edge-case queries
