@@ -10043,3 +10043,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inconsistent return type on validation failure
 - Add lightweight event emitter implementation
 - Add performance assertions for large collection processing
+- Implement numeric range clamping helper
