@@ -10046,3 +10046,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement numeric range clamping helper
 - Modularize schema definitions and validation rules
 - Reorganize internal test helpers and fixtures
+- Add instructions for running tests and linter locally
