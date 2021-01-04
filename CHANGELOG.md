@@ -10049,3 +10049,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions for running tests and linter locally
 - Implement helper utilities for parameter parsing
 - Add verification tests for safe JSON parsing utilities
+- Decompose monolithic workflow function into focused steps
