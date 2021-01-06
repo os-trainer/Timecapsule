@@ -10052,3 +10052,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decompose monolithic workflow function into focused steps
 - Clarify frequency parameter behavior and percentage rules
 - Add system status inspection helper
+- Cover deep object merge edge cases in unit tests
