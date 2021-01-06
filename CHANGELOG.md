@@ -2878,3 +2878,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add environment variable override support
 - Improve clarity of variable scopes and closures
 - Standardize date string formatting across all output
+- Refactor state management into centralized store
