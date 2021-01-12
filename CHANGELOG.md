@@ -10058,3 +10058,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak caused by unreleased cache handles
 - Add unit tests for collection filter predicates
 - Standardize exception messages across validation logic
+- Initialize modular directory structure
