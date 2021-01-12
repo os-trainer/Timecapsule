@@ -10061,3 +10061,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Initialize modular directory structure
 - Correct timestamp calculation for timezone offsets
 - Fix unexpected empty input parsing in command line options
+- Add basic data caching layer with key invalidation
