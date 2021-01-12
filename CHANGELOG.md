@@ -2890,3 +2890,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add troubleshooting notes for frequent setup issues
 - Fix incorrect status code returned on input error
 - Streamline option parsing and default resolution
+- Implement stream-based chunk processor
