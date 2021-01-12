@@ -10059,3 +10059,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for collection filter predicates
 - Standardize exception messages across validation logic
 - Initialize modular directory structure
+- Correct timestamp calculation for timezone offsets
