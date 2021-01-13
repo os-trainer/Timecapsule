@@ -10065,3 +10065,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify platform-specific path handling in test suite
 - Remove unused code and obsolete internal variables
 - Add unit tests for string formatting and truncation helpers
+- Add npm script for running linter in check-only mode
