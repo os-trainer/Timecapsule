@@ -10071,3 +10071,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix improper resource cleanup on exit
 - Verify idempotency of cleanup routines in test suite
 - Streamline parameter passing across internal layers
+- Add FAQ section covering common configuration questions
