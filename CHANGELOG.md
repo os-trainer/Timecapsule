@@ -2905,3 +2905,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add defensive fallbacks for unexpected null values
 - Tune lint-staged configuration for staged files
 - Clarify installation instructions and system prerequisites
+
+## [3.8.0]
+### Changed
+- Test empty collection handling across utility functions
