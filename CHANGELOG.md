@@ -2904,3 +2904,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement deep object merging utility
 - Add defensive fallbacks for unexpected null values
 - Tune lint-staged configuration for staged files
+- Clarify installation instructions and system prerequisites
