@@ -10085,3 +10085,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for verbose diagnostic output
 - Modernize internal loop constructs and data structures
 - Add JSDoc type annotations for internal functions
+- Add unit tests for progress reporter events
