@@ -10079,3 +10079,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix validation logic for boundary date ranges
 - Add assertions for default configuration fallbacks
 - Add boundary condition tests for numeric ranges
+- Update npm packaging whitelist in files array
