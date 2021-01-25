@@ -10091,3 +10091,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration file for continuous integration
 - Improve documentation for custom output templates
 - Add regression tests for previous edge-case bugs
+- Extract date formatting templates into reusable helpers
