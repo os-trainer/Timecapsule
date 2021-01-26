@@ -2914,3 +2914,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Remove obsolete polyfills and legacy compatibility shims
 - Verify idempotency of cleanup routines in test suite
 - Implement query filter helpers for collection items
+- Verify proper error types are thrown on invalid arguments
