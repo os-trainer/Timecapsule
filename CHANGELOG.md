@@ -2916,3 +2916,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement query filter helpers for collection items
 - Verify proper error types are thrown on invalid arguments
 - Document test execution commands and coverage reports
+- Fix inconsistent return type on validation failure
