@@ -2920,3 +2920,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement customizable output formatting options
 - Test invalid input handling and expected exceptions
 - Add multi-step workflow runner utility
+- Improve separation of concerns between CLI and core engine
