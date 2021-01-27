@@ -2921,3 +2921,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test invalid input handling and expected exceptions
 - Add multi-step workflow runner utility
 - Improve separation of concerns between CLI and core engine
+- Correct string trimming logic for multi-line inputs
