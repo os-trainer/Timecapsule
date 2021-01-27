@@ -2923,3 +2923,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve separation of concerns between CLI and core engine
 - Correct string trimming logic for multi-line inputs
 - Improve test coverage for error recovery branches
+- Refactor date calculation routines for better readability
