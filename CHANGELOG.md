@@ -10103,3 +10103,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Normalize naming of options and arguments across modules
 - Standardize date string formatting across all output
 - Fix memory leak in recurring event listeners
+- Refactor caching mechanism for cleaner abstraction
