@@ -2925,3 +2925,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage for error recovery branches
 - Refactor date calculation routines for better readability
 - Add reusable string formatting utility functions
+- Add instructions for running tests and linter locally
