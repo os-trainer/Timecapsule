@@ -2928,3 +2928,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions for running tests and linter locally
 - Correct fallback order for configuration properties
 - Add command-line argument parser for configuration flags
+- Refactor promise handling to use modern async/await patterns
