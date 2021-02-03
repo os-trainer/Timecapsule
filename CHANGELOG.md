@@ -10114,3 +10114,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify error messages for missing required options
 - Refactor state management into centralized store
 - Configure automated dependency review settings
+- Add custom error classes for domain-specific failures
