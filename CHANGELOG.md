@@ -10117,3 +10117,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add custom error classes for domain-specific failures
 - Eliminate code duplication in internal helper branches
 - Fix incorrect default parameter assignment
+- Improve consistency of option validation error messages
