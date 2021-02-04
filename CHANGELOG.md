@@ -10116,3 +10116,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure automated dependency review settings
 - Add custom error classes for domain-specific failures
 - Eliminate code duplication in internal helper branches
+- Fix incorrect default parameter assignment
