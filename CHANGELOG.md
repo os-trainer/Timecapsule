@@ -2933,3 +2933,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle unexpected zero-length arrays in reducer logic
 - Refactor array processing routines to use functional methods
 - Add descriptive error context when file reading fails
+- Add input sanitization for file paths
