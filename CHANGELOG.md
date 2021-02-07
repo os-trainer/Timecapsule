@@ -10118,3 +10118,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Eliminate code duplication in internal helper branches
 - Fix incorrect default parameter assignment
 - Improve consistency of option validation error messages
+- Reduce duplicated logic across helper utilities
