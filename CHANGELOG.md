@@ -2934,3 +2934,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor array processing routines to use functional methods
 - Add descriptive error context when file reading fails
 - Add input sanitization for file paths
+- Streamline parameter passing across internal layers
