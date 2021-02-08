@@ -2938,3 +2938,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add tests for custom output destination formatting
 - Add key-value store wrapper for memory cache
 - Add regression tests for previous edge-case bugs
+- Add security considerations and safe execution notes
