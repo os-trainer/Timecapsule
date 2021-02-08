@@ -2936,3 +2936,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input sanitization for file paths
 - Streamline parameter passing across internal layers
 - Add tests for custom output destination formatting
+- Add key-value store wrapper for memory cache
