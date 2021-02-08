@@ -10119,3 +10119,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect default parameter assignment
 - Improve consistency of option validation error messages
 - Reduce duplicated logic across helper utilities
+- Fix intermittent failure in date boundary comparison
