@@ -10121,3 +10121,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reduce duplicated logic across helper utilities
 - Fix intermittent failure in date boundary comparison
 - Implement configuration merging priority logic
+- Add badges for license, build status, and version
