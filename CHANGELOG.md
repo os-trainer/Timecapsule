@@ -10127,3 +10127,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement summary statistics calculation helper
 - Fix off-by-one error in collection index calculations
 - Implement object transformation and mapping utilities
+- Implement deep object merging utility
