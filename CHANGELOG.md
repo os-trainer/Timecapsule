@@ -10130,3 +10130,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement deep object merging utility
 - Improve test coverage for error recovery branches
 - Document distribution patterns and statistical behavior
+- Verify proper error types are thrown on invalid arguments
