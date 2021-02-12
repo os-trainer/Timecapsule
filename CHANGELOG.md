@@ -2949,3 +2949,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add performance assertions for large collection processing
 - Update project metadata and repository description
 - Improve input handling and defensive type assertions
+- Improve test coverage across utility modules
