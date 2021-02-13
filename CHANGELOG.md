@@ -2951,3 +2951,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve input handling and defensive type assertions
 - Improve test coverage across utility modules
 - Configure automated dependency review settings
+- Fix incorrect default parameter assignment
