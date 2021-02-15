@@ -10133,3 +10133,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify proper error types are thrown on invalid arguments
 - Refactor argument parsing to standardize option names
 - Fix duplicate item registration in event subscriber list
+- Handle timeout gracefully during external operations
