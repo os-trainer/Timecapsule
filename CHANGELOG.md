@@ -10135,3 +10135,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix duplicate item registration in event subscriber list
 - Handle timeout gracefully during external operations
 - Handle undefined configuration sections safely
+- Implement pagination helper for collection data
