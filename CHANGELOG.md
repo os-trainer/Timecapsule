@@ -2963,3 +2963,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update development configuration and editor settings
 - Add assertions for default configuration fallbacks
 - Modularize schema definitions and validation rules
+- Fix validation logic for boundary date ranges
