@@ -10138,3 +10138,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement pagination helper for collection data
 - Add configuration file for static code analysis
 - Add system status inspection helper
+- Document test execution commands and coverage reports
