@@ -2972,3 +2972,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add snapshot tests for terminal output formatters
 - Modularize command-line argument processing logic
 - Update development dependencies for test framework
+- Document custom commit message filtering and options
