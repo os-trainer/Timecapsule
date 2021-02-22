@@ -10144,3 +10144,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve README with comprehensive getting-started guide
 - Implement command dispatcher with routing logic
 - Improve function organization and module cohesion
+- Add examples comparing standard and conventional commits
