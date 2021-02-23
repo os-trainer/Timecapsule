@@ -2982,3 +2982,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unhandled promise rejection in async error handler
 - Extract progress tracking into dedicated emitter
 - Fix off-by-one error in collection index calculations
+- Add unit tests for terminal colorization toggles
