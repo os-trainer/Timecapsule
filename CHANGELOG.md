@@ -10146,3 +10146,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve function organization and module cohesion
 - Add examples comparing standard and conventional commits
 - Handle malformed JSON configuration without crashing
+- Improve separation of concerns between CLI and core engine
