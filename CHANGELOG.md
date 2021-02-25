@@ -2985,3 +2985,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for terminal colorization toggles
 - Implement date formatting and parsing helpers
 - Add JSDoc type annotations for internal functions
+- Handle file permission errors with actionable messages
