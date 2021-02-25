@@ -10149,3 +10149,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve separation of concerns between CLI and core engine
 - Add npm script for running linter in check-only mode
 - Refactor promise handling to use modern async/await patterns
+- Add input sanitization for file paths
