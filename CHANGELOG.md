@@ -10151,3 +10151,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor promise handling to use modern async/await patterns
 - Add input sanitization for file paths
 - Add unit tests for rate limiting and throttling helpers
+- Normalize naming of options and arguments across modules
