@@ -2989,3 +2989,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add colorized terminal output formatter
 - Handle null and undefined options defensively
 - Ensure consistent parameter ordering in helper signatures
+- Tune compiler and transpiler configuration options
