@@ -10155,3 +10155,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add custom formatting options for summary tables
 - Fix potential race condition during file initialization
 - Refactor array processing routines to use functional methods
+- Fix memory leak caused by unreleased cache handles
