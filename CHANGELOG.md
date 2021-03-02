@@ -2996,3 +2996,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline parameter passing across internal layers
 - Add quick reference cheat sheet for CLI commands
 - Implement batch processing utility for array inputs
+- Add input sanitization for file paths
