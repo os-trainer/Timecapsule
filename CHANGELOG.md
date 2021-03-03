@@ -2999,3 +2999,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input sanitization for file paths
 - Document error handling strategies and exit codes
 - Cover complex configuration inheritance in tests
+- Document logging levels and diagnostic flags
