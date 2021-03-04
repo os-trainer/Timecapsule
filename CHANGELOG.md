@@ -3001,3 +3001,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover complex configuration inheritance in tests
 - Document logging levels and diagnostic flags
 - Fix inaccurate execution duration calculation
+- Add examples comparing standard and conventional commits
