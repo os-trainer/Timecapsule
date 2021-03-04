@@ -3002,3 +3002,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document logging levels and diagnostic flags
 - Fix inaccurate execution duration calculation
 - Add examples comparing standard and conventional commits
+- Correct path delimiter handling across operating systems
