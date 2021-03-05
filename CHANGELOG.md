@@ -3004,3 +3004,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add examples comparing standard and conventional commits
 - Correct path delimiter handling across operating systems
 - Initialize standard project layout and files
+- Add safe string truncation helper
