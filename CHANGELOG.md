@@ -3007,3 +3007,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add safe string truncation helper
 - Fix potential race condition during file initialization
 - Cover dry-run execution mode with assertion checks
+- Reorganize internal test helpers and fixtures
