@@ -3005,3 +3005,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct path delimiter handling across operating systems
 - Initialize standard project layout and files
 - Add safe string truncation helper
+- Fix potential race condition during file initialization
