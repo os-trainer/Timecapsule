@@ -3012,3 +3012,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [3.9.0]
 ### Changed
 - Add unit tests for progress reporter events
+- Correct timestamp calculation for timezone offsets
