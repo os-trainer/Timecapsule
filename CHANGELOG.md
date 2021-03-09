@@ -3016,3 +3016,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Normalize naming of options and arguments across modules
 - Add configuration for code coverage reporting
 - Simplify complex arithmetic expressions in date logic
+- Add custom formatting options for summary tables
