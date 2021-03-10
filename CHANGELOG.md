@@ -3019,3 +3019,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add custom formatting options for summary tables
 - Modularize schema definitions and validation rules
 - Resolve incorrect return value for edge-case queries
+- Fix edge case in input handling for empty strings
