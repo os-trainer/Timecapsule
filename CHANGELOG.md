@@ -10171,3 +10171,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data processing and normalization pipeline
 - Modularize command-line argument processing logic
 - Cover malformed command line options in test suite
+- Correct error handling when input file is absent
