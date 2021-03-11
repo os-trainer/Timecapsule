@@ -10172,3 +10172,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modularize command-line argument processing logic
 - Cover malformed command line options in test suite
 - Correct error handling when input file is absent
+- Cover edge cases in date range calculation logic
