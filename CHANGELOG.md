@@ -3021,3 +3021,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Resolve incorrect return value for edge-case queries
 - Fix edge case in input handling for empty strings
 - Refactor state management into centralized store
+- Add system status inspection helper
