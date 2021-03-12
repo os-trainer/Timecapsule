@@ -10178,3 +10178,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up stray debug statements and console output
 - Document preview mode and dry-run visualization
 - Add input validation for user-supplied options
+- Remove obsolete polyfills and legacy compatibility shims
