@@ -10179,3 +10179,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document preview mode and dry-run visualization
 - Add input validation for user-supplied options
 - Remove obsolete polyfills and legacy compatibility shims
+- Add key-value store wrapper for memory cache
