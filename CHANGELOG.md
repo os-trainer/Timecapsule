@@ -10183,3 +10183,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract progress tracking into dedicated emitter
 - Handle partial input objects during configuration merge
 - Fix inconsistent return type on validation failure
+- Resolve incorrect return value for edge-case queries
