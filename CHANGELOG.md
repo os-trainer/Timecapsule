@@ -10184,3 +10184,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle partial input objects during configuration merge
 - Fix inconsistent return type on validation failure
 - Resolve incorrect return value for edge-case queries
+- Add performance assertions for large collection processing
