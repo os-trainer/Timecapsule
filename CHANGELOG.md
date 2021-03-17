@@ -3038,3 +3038,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up stray debug statements and console output
 - Fix incorrect default parameter assignment
 - Decouple output formatting from core computation logic
+- Adjust prettier configuration for consistent indentation
