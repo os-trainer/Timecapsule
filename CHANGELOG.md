@@ -3037,3 +3037,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for verbose diagnostic output
 - Clean up stray debug statements and console output
 - Fix incorrect default parameter assignment
+- Decouple output formatting from core computation logic
