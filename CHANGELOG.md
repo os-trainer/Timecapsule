@@ -3033,3 +3033,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify conditional branching in distribution calculator
 - Add lightweight event emitter implementation
 - Improve modularity of utility function parameter signatures
+- Update API reference documentation for core exports
