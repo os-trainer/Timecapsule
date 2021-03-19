@@ -3040,3 +3040,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decouple output formatting from core computation logic
 - Adjust prettier configuration for consistent indentation
 - Test custom date formatting tokens and output strings
+- Add basic data processing and normalization pipeline
