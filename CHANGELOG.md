@@ -10192,3 +10192,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for JSON and plain text output formats
 - Implement object transformation and mapping utilities
 - Update author and contributor information in package descriptor
+- Test empty collection handling across utility functions
