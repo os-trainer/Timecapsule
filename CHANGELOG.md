@@ -10197,3 +10197,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inaccurate execution duration calculation
 - Update changelog with recent feature additions and fixes
 - Implement command line flag alias mapping
+- Add snapshot tests for terminal output formatters
