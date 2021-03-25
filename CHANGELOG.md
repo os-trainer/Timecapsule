@@ -3044,3 +3044,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix intermittent failure in date boundary comparison
 - Document environment variable configuration overrides
 - Update npm packaging whitelist in files array
+- Fix improper resource cleanup on exit
