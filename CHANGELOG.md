@@ -10207,3 +10207,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct output formatting when statistics are zero
 - Add examples of integrating tool into automated scripts
 - Add unit tests for input validation helper functions
+- Add multi-step workflow runner utility
