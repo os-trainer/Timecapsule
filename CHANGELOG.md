@@ -10205,3 +10205,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure distribution bundle output settings
 - Implement deep object merging utility
 - Correct output formatting when statistics are zero
+- Add examples of integrating tool into automated scripts
