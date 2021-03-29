@@ -3046,3 +3046,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update npm packaging whitelist in files array
 - Fix improper resource cleanup on exit
 - Add test suite for distribution weight calculations
+- Implement dry-run execution preview mode
