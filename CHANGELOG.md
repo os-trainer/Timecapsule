@@ -3047,3 +3047,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix improper resource cleanup on exit
 - Add test suite for distribution weight calculations
 - Implement dry-run execution preview mode
+- Remove unused code and obsolete internal variables
