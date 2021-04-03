@@ -3054,3 +3054,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix missing return statement in error branch
 - Add safe deep clone utility function
 - Add tests for custom output destination formatting
+- Add input validation for user-supplied options
