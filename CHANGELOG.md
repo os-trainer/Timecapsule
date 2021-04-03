@@ -3056,3 +3056,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add tests for custom output destination formatting
 - Add input validation for user-supplied options
 - Verify graceful handling of malformed input data
+- Configure code formatting rules and baseline
