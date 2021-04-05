@@ -10214,3 +10214,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement rate limiting throttle for helper actions
 - Simplify conditional branching in distribution calculator
 - Test invalid input handling and expected exceptions
+- Fix improper resource cleanup on exit
