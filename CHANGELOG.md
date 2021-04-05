@@ -3060,3 +3060,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add comprehensive tests for configuration loader
 - Fix infinite loop risk in collection traversal logic
 - Implement command dispatcher with routing logic
+- Add unit tests for collection filter predicates
