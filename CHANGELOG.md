@@ -3065,3 +3065,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add safe string truncation helper
 - Add snapshot tests for terminal output formatters
 - Add custom error classes for domain-specific failures
+- Add unit tests for rate limiting and throttling helpers
