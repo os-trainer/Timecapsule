@@ -10221,3 +10221,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add tests for custom output destination formatting
 - Add colorized terminal output formatter
 - Handle process interruption cleanly during generation
+- Fix missing return statement in error branch
