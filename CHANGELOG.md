@@ -3072,3 +3072,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add parameterized tests for date parsing variations
 - Implement retry mechanism for transient operations
 - Configure distribution bundle output settings
+- Add regression test for boundary date calculations
