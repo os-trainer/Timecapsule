@@ -10228,3 +10228,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test timezone offset handling with varying dates
 - Add unit tests for string formatting and truncation helpers
 - Add safe string truncation helper
+- Ensure consistent parameter ordering in helper signatures
