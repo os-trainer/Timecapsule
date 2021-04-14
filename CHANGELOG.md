@@ -3083,3 +3083,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty input collections without throwing exceptions
 - Refactor argument parsing to standardize option names
 - Add unit tests for input validation helper functions
+- Handle null and undefined options defensively
