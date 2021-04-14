@@ -3082,3 +3082,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover edge cases in date range calculation logic
 - Handle empty input collections without throwing exceptions
 - Refactor argument parsing to standardize option names
+- Add unit tests for input validation helper functions
