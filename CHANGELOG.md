@@ -3079,3 +3079,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test harness for simulated time progression
 - Add support for JSON and plain text output formats
 - Configure automated pre-commit code verification
+- Cover edge cases in date range calculation logic
