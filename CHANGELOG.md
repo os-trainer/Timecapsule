@@ -10243,3 +10243,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify difference between distribution algorithms
 - Add test harness for simulated time progression
 - Extract file system operations into isolated adapter
+- Improve documentation for programmatic JavaScript API
