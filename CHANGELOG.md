@@ -3090,3 +3090,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement progress reporter for long-running workflows
 - Add badges for license, build status, and version
 - Add comments explaining subtle edge cases in date math
+- Correct fallback order for configuration properties
