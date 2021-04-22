@@ -10247,3 +10247,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure environment file loading conventions
 - Implement file reading helper with encoding support
 - Add troubleshooting notes for frequent setup issues
+- Extract terminal output logic into presentation layer
