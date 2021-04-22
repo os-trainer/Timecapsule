@@ -10248,3 +10248,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement file reading helper with encoding support
 - Add troubleshooting notes for frequent setup issues
 - Extract terminal output logic into presentation layer
+- Verify proper error types are thrown on invalid arguments
