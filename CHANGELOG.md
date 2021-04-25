@@ -10251,3 +10251,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify proper error types are thrown on invalid arguments
 - Handle missing configuration gracefully with defaults
 - Extract configuration validation into standalone validator
+- Add environment variable override support
