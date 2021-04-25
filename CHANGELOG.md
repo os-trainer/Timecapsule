@@ -3093,3 +3093,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct fallback order for configuration properties
 - Handle malformed JSON configuration without crashing
 - Test empty collection handling across utility functions
+- Implement configuration merging priority logic
