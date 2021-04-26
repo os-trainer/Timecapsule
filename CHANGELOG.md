@@ -3096,3 +3096,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement configuration merging priority logic
 - Cover complex configuration inheritance in tests
 - Add table of contents to main project documentation
+- Correct timestamp calculation for timezone offsets
