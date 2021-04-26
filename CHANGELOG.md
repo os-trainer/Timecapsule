@@ -10255,3 +10255,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement date formatting and parsing helpers
 - Fix off-by-one error in collection index calculations
 - Add usage notes for multi-year historical generation
+- Refactor date calculation routines for better readability
