@@ -10256,3 +10256,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix off-by-one error in collection index calculations
 - Add usage notes for multi-year historical generation
 - Refactor date calculation routines for better readability
+- Handle null and undefined options defensively
