@@ -3095,3 +3095,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test empty collection handling across utility functions
 - Implement configuration merging priority logic
 - Cover complex configuration inheritance in tests
+- Add table of contents to main project documentation
