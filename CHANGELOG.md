@@ -3098,3 +3098,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add table of contents to main project documentation
 - Correct timestamp calculation for timezone offsets
 - Streamline option parsing and default resolution
+- Improve input handling and defensive type assertions
