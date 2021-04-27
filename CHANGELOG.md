@@ -3097,3 +3097,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover complex configuration inheritance in tests
 - Add table of contents to main project documentation
 - Correct timestamp calculation for timezone offsets
+- Streamline option parsing and default resolution
