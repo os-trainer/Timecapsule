@@ -3100,3 +3100,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline option parsing and default resolution
 - Improve input handling and defensive type assertions
 - Introduce mock harness for file system operations
+- Fix off-by-one error in collection index calculations
