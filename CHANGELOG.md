@@ -10260,3 +10260,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add lightweight event emitter implementation
 - Improve modularity of utility function parameter signatures
 - Refactor utility functions into dedicated modules
+- Cover malformed command line options in test suite
