@@ -3101,3 +3101,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve input handling and defensive type assertions
 - Introduce mock harness for file system operations
 - Fix off-by-one error in collection index calculations
+- Cover deep object merge edge cases in unit tests
