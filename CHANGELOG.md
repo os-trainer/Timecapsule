@@ -10264,3 +10264,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle unexpected zero-length arrays in reducer logic
 - Add unit tests for progress reporter events
 - Fix unhandled promise rejection in async error handler
+- Improve code maintainability index across core files
