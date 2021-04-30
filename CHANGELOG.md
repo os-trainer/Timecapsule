@@ -3103,3 +3103,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix off-by-one error in collection index calculations
 - Cover deep object merge edge cases in unit tests
 - Improve code maintainability index across core files
+- Fix incorrect status code returned on input error
