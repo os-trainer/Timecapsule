@@ -3105,3 +3105,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve code maintainability index across core files
 - Fix incorrect status code returned on input error
 - Add integration test verifying end-to-end workflow execution
+- Update author and contributor information in package descriptor
