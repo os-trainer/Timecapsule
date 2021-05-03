@@ -3110,3 +3110,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add FAQ section covering common configuration questions
 - Implement event listener registry for status events
 - Add regression tests for previous edge-case bugs
+- Fix incorrect boolean flag evaluation
