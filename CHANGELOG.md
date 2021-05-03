@@ -3107,3 +3107,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add integration test verifying end-to-end workflow execution
 - Update author and contributor information in package descriptor
 - Fix memory leak caused by unreleased cache handles
+- Add FAQ section covering common configuration questions
