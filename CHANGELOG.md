@@ -10268,3 +10268,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement summary statistics calculation helper
 - Document error handling strategies and exit codes
 - Implement numeric range clamping helper
+- Restructure project exports to avoid circular dependencies
