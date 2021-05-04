@@ -10266,3 +10266,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unhandled promise rejection in async error handler
 - Improve code maintainability index across core files
 - Implement summary statistics calculation helper
+- Document error handling strategies and exit codes
