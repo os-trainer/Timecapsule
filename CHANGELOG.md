@@ -10270,3 +10270,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement numeric range clamping helper
 - Restructure project exports to avoid circular dependencies
 - Fix incorrect boolean flag evaluation
+- Extract reusable helper functions from main workflow
