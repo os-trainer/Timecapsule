@@ -3119,3 +3119,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify proper error types are thrown on invalid arguments
 - Fix inaccurate execution duration calculation
 - Add URL query string builder and parser
+- Add code comments explaining complex date mathematics
