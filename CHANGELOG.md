@@ -10273,3 +10273,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract reusable helper functions from main workflow
 - Set up default project structure and entry points
 - Correct regex pattern matching for date validation
+- Implement query filter helpers for collection items
