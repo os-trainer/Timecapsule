@@ -10277,3 +10277,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify retry logic behavior under simulated failures
 - Clean up dead code and obsolete helper methods
 - Implement safe JSON parsing with fallback values
+- Test command line help output and option documentation
