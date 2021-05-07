@@ -3126,3 +3126,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adjust test runner timeout and concurrency settings
 - Correctly escape special characters in terminal output
 - Implement stream-based chunk processor
+- Update changelog with recent feature additions and fixes
