@@ -10287,3 +10287,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add parameterized tests for date parsing variations
 - Fix edge case in input handling for empty strings
 - Handle empty input collections without throwing exceptions
+- Add elapsed execution time measurement helper
