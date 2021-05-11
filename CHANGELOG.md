@@ -3136,3 +3136,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure output directory paths for build pipeline
 - Update README with example workflow scenarios
 - Tune compiler and transpiler configuration options
+- Test invalid input handling and expected exceptions
