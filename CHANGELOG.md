@@ -10291,3 +10291,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure all async rejections provide meaningful Error instances
 - Update npm packaging whitelist in files array
 - Rename internal variables and parameters for clarity
+- Fix circular reference error in object serialization
