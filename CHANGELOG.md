@@ -3146,3 +3146,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unexpected empty input parsing in command line options
 - Simplify conditional branching in distribution calculator
 - Add unit tests for collection filter predicates
+- Handle empty input collections without throwing exceptions
