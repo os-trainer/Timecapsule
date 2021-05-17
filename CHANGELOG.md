@@ -3143,3 +3143,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add system status inspection helper
 - Add schema validation for configuration objects
 - Add parameterized tests for date parsing variations
+- Fix unexpected empty input parsing in command line options
