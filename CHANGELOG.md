@@ -3150,3 +3150,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add clean script to purge build artifacts and temp files
 - Streamline event dispatching mechanism
 - Update package repository URLs and issue tracker links
+- Add detailed architecture overview and component diagram
