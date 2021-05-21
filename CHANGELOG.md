@@ -10310,3 +10310,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct output formatting when statistics are zero
 - Add support for custom output destination paths
 - Enhance descriptive quality of debug logging statements
+- Add validation rules for date range boundaries
