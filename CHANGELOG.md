@@ -3155,3 +3155,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure distribution bundle output settings
 - Add safe deep clone utility function
 - Reorganize internal test helpers and fixtures
+- Document environment variable configuration overrides
