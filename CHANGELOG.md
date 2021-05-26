@@ -3158,3 +3158,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document environment variable configuration overrides
 - Add unit tests for string formatting and truncation helpers
 - Simplify complex function implementations for maintainability
+- Fix circular reference error in object serialization
