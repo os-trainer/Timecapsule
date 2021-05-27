@@ -10320,3 +10320,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement dry-run execution preview mode
 - Fix duplicate item registration in event subscriber list
 - Add unit tests for collection filter predicates
+- Simplify complex arithmetic expressions in date logic
