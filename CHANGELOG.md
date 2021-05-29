@@ -3162,3 +3162,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure consistent parameter ordering in helper signatures
 - Cover complex configuration inheritance in tests
 - Add performance assertions for large collection processing
+- Streamline option parsing and default resolution
