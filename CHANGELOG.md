@@ -3164,3 +3164,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add performance assertions for large collection processing
 - Streamline option parsing and default resolution
 - Handle process interruption cleanly during generation
+- Add support for custom output destination paths
