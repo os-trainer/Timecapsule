@@ -10324,3 +10324,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize terminology across comments and log output
 - Fix incorrect boolean flag evaluation
 - Add key-value store wrapper for memory cache
+- Fix improper resource cleanup on exit
