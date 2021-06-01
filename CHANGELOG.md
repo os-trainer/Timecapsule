@@ -3171,3 +3171,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover dry-run execution mode with assertion checks
 - Implement safe JSON parsing with fallback values
 - Document distribution patterns and statistical behavior
+- Correct output formatting when statistics are zero
