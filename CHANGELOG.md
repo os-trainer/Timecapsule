@@ -3172,3 +3172,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement safe JSON parsing with fallback values
 - Document distribution patterns and statistical behavior
 - Correct output formatting when statistics are zero
+- Verify error messages for missing required options
