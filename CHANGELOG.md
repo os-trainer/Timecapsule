@@ -3183,3 +3183,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add defensive fallbacks for unexpected null values
 - Configure automated pre-commit code verification
 - Refactor array processing routines to use functional methods
+- Add support for JSON and plain text output formats
