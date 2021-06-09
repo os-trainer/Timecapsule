@@ -3184,3 +3184,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure automated pre-commit code verification
 - Refactor array processing routines to use functional methods
 - Add support for JSON and plain text output formats
+- Add test harness for simulated time progression
