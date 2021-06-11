@@ -3186,3 +3186,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for JSON and plain text output formats
 - Add test harness for simulated time progression
 - Fix inconsistent return type on validation failure
+- Refactor utility functions into dedicated modules
