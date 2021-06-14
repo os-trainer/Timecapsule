@@ -3189,3 +3189,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor utility functions into dedicated modules
 - Implement pagination helper for collection data
 - Add test suite for distribution weight calculations
+- Add npm script for running unit test suite
