@@ -3190,3 +3190,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement pagination helper for collection data
 - Add test suite for distribution weight calculations
 - Add npm script for running unit test suite
+- Correct boundary check in range validation utility
