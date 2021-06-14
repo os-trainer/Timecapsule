@@ -3188,3 +3188,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inconsistent return type on validation failure
 - Refactor utility functions into dedicated modules
 - Implement pagination helper for collection data
+- Add test suite for distribution weight calculations
