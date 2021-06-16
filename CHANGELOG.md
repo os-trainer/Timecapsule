@@ -10346,3 +10346,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modularize schema definitions and validation rules
 - Update API reference documentation for core exports
 - Correct string trimming logic for multi-line inputs
+- Add configuration for source map generation
