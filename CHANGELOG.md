@@ -10345,3 +10345,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify error messages for missing required options
 - Modularize schema definitions and validation rules
 - Update API reference documentation for core exports
+- Correct string trimming logic for multi-line inputs
