@@ -10357,3 +10357,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for verbose diagnostic output
 - Correct boundary check in range validation utility
 - Clarify installation instructions and system prerequisites
+- Clean up temporary files and ensure deterministic cleanup
