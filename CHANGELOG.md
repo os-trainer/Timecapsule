@@ -3200,3 +3200,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor caching mechanism for cleaner abstraction
 - Cover malformed command line options in test suite
 - Implement command line flag alias mapping
+- Document preview mode and dry-run visualization
