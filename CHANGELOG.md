@@ -10362,3 +10362,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement template interpolation utility
 - Add array sorting and filtering helper functions
 - Tune lint-staged configuration for staged files
+- Add detailed architecture overview and component diagram
