@@ -10364,3 +10364,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Tune lint-staged configuration for staged files
 - Add detailed architecture overview and component diagram
 - Implement progress reporter for long-running workflows
+- Adjust linting and formatting configuration rules
