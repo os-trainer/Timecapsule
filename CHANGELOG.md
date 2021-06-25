@@ -10368,3 +10368,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unhandled promise rejection in async error handler
 - Implement flexible filter predicate builder
 - Streamline event dispatching mechanism
+- Add schema validation for configuration objects
