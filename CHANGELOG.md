@@ -3212,3 +3212,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor validation pipelines to support chaining
 - Resolve incorrect return value for edge-case queries
 - Simplify error throwing and propagation mechanisms
+- Add contribution guidelines and development workflow steps
