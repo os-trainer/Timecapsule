@@ -3213,3 +3213,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Resolve incorrect return value for edge-case queries
 - Simplify error throwing and propagation mechanisms
 - Add contribution guidelines and development workflow steps
+- Standardize indentation and line wrapping across files
