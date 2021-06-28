@@ -3214,3 +3214,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify error throwing and propagation mechanisms
 - Add contribution guidelines and development workflow steps
 - Standardize indentation and line wrapping across files
+
+## [4.1.0]
+### Changed
+- Enhance descriptive quality of debug logging statements
