@@ -3218,3 +3218,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [4.1.0]
 ### Changed
 - Enhance descriptive quality of debug logging statements
+- Implement flexible filter predicate builder
