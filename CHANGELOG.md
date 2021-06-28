@@ -3220,3 +3220,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Enhance descriptive quality of debug logging statements
 - Implement flexible filter predicate builder
 - Add structured logging helper with log levels
+- Extract file system operations into isolated adapter
