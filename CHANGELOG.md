@@ -10371,3 +10371,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add schema validation for configuration objects
 - Add unit tests for rate limiting and throttling helpers
 - Correct path delimiter handling across operating systems
+- Improve modularity of utility function parameter signatures
