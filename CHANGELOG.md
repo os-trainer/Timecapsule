@@ -10373,3 +10373,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct path delimiter handling across operating systems
 - Improve modularity of utility function parameter signatures
 - Add regression test for boundary date calculations
+- Configure automated dependency review settings
