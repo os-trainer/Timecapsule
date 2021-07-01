@@ -10374,3 +10374,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve modularity of utility function parameter signatures
 - Add regression test for boundary date calculations
 - Configure automated dependency review settings
+- Add structured logging helper with log levels
