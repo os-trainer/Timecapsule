@@ -3226,3 +3226,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract reusable helper functions from main workflow
 - Fix formatting anomaly in terminal progress display
 - Add regression tests for previous edge-case bugs
+- Rename internal variables and parameters for clarity
