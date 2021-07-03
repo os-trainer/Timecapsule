@@ -10378,3 +10378,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for progress reporter events
 - Simplify control flow and reduce nested conditionals
 - Fix argument parsing when flag value contains spaces
+- Add usage examples for common command-line options
