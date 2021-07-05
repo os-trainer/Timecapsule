@@ -3233,3 +3233,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement date formatting and parsing helpers
 - Implement batch processing utility for array inputs
 - Add tests for custom output destination formatting
+- Improve documentation for custom output templates
