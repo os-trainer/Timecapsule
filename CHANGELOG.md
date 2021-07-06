@@ -10382,3 +10382,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve code formatting and consistent whitespace
 - Modularize command-line argument processing logic
 - Introduce mock harness for file system operations
+- Handle null and undefined options defensively
