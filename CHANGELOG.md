@@ -10384,3 +10384,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Introduce mock harness for file system operations
 - Handle null and undefined options defensively
 - Add safe deep clone utility function
+- Fix off-by-one error in collection index calculations
