@@ -10380,3 +10380,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix argument parsing when flag value contains spaces
 - Add usage examples for common command-line options
 - Improve code formatting and consistent whitespace
+- Modularize command-line argument processing logic
