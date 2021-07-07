@@ -3237,3 +3237,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct negative duration calculations across days
 - Extract configuration validation into standalone validator
 - Implement query filter helpers for collection items
+- Test empty collection handling across utility functions
