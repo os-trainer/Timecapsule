@@ -10385,3 +10385,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle null and undefined options defensively
 - Add safe deep clone utility function
 - Fix off-by-one error in collection index calculations
+- Test custom date formatting tokens and output strings
