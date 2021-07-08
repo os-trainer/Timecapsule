@@ -3240,3 +3240,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test empty collection handling across utility functions
 - Correct error handling when input file is absent
 - Clean up dead code and obsolete helper methods
+- Fix type coercion error during numeric comparisons
