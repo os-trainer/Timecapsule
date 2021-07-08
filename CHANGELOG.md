@@ -3239,3 +3239,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement query filter helpers for collection items
 - Test empty collection handling across utility functions
 - Correct error handling when input file is absent
+- Clean up dead code and obsolete helper methods
