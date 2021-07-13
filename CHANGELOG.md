@@ -10401,3 +10401,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle missing configuration gracefully with defaults
 - Test timezone offset handling with varying dates
 - Correct fallback order for configuration properties
+- Simplify conditional branching in distribution calculator
