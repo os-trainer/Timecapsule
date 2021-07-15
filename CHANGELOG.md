@@ -3245,3 +3245,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add examples comparing standard and conventional commits
 - Add input sanitization for file paths
 - Configure initial runtime environment defaults
+- Document supported platforms and shell environments
