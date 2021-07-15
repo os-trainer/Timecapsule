@@ -10407,3 +10407,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve README with comprehensive getting-started guide
 - Implement dry-run execution preview mode
 - Cover malformed command line options in test suite
+- Streamline option parsing and default resolution
