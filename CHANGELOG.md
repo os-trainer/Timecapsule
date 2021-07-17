@@ -10409,3 +10409,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover malformed command line options in test suite
 - Streamline option parsing and default resolution
 - Cover complex configuration inheritance in tests
+- Implement summary statistics calculation helper
