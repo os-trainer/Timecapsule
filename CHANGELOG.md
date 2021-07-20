@@ -3253,3 +3253,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor date calculation routines for better readability
 - Configure local development workflow scripts
 - Correct path delimiter handling across operating systems
+- Ensure all async rejections provide meaningful Error instances
