@@ -3256,3 +3256,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure all async rejections provide meaningful Error instances
 - Introduce mock harness for file system operations
 - Add assertions for default configuration fallbacks
+- Add multi-step workflow runner utility
