@@ -3262,3 +3262,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify error messages for missing required options
 - Consolidate duplicate string sanitization routines
 - Handle unexpected zero-length arrays in reducer logic
+- Add custom formatting options for summary tables
