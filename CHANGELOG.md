@@ -10422,3 +10422,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve separation of concerns between CLI and core engine
 - Implement customizable output formatting options
 - Handle empty environment variables without error
+- Add npm script for running unit test suite
