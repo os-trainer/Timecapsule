@@ -10419,3 +10419,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add contribution guidelines and development workflow steps
 - Add comprehensive tests for configuration loader
 - Add URL query string builder and parser
+- Improve separation of concerns between CLI and core engine
