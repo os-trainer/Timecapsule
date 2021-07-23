@@ -10421,3 +10421,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add URL query string builder and parser
 - Improve separation of concerns between CLI and core engine
 - Implement customizable output formatting options
+- Handle empty environment variables without error
