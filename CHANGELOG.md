@@ -10425,3 +10425,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add npm script for running unit test suite
 - Implement flexible filter predicate builder
 - Verify idempotency of cleanup routines in test suite
+- Implement file reading helper with encoding support
