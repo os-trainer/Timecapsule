@@ -10426,3 +10426,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement flexible filter predicate builder
 - Verify idempotency of cleanup routines in test suite
 - Implement file reading helper with encoding support
+- Refactor argument parsing to standardize option names
