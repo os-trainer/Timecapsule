@@ -10431,3 +10431,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize indentation and line wrapping across files
 - Correct regex pattern matching for date validation
 - Improve test coverage across utility modules
+- Document logging levels and diagnostic flags
