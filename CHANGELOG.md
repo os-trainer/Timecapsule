@@ -3273,3 +3273,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle partial input objects during configuration merge
 - Add code comments explaining complex date mathematics
 - Add npm script for running unit test suite
+- Fix memory leak in recurring event listeners
