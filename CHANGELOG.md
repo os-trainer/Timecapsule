@@ -10434,3 +10434,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document logging levels and diagnostic flags
 - Add task definitions for local development tooling
 - Add lightweight event emitter implementation
+- Correct string trimming logic for multi-line inputs
