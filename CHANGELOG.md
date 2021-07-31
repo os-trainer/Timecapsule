@@ -3276,3 +3276,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak in recurring event listeners
 - Test custom date formatting tokens and output strings
 - Configure automated dependency review settings
+- Clarify installation instructions and system prerequisites
