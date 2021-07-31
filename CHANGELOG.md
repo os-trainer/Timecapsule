@@ -3275,3 +3275,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add npm script for running unit test suite
 - Fix memory leak in recurring event listeners
 - Test custom date formatting tokens and output strings
+- Configure automated dependency review settings
