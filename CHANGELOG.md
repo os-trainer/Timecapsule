@@ -3280,3 +3280,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modernize internal loop constructs and data structures
 - Add basic data caching layer with key invalidation
 - Decompose monolithic workflow function into focused steps
+- Add regression tests for previous edge-case bugs
