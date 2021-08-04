@@ -3283,3 +3283,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression tests for previous edge-case bugs
 - Extract date formatting templates into reusable helpers
 - Add custom error classes for domain-specific failures
+- Add acknowledgments and open-source project credits
