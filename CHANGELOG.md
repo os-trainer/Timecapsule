@@ -3281,3 +3281,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data caching layer with key invalidation
 - Decompose monolithic workflow function into focused steps
 - Add regression tests for previous edge-case bugs
+- Extract date formatting templates into reusable helpers
