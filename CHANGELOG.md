@@ -10443,3 +10443,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for terminal colorization toggles
 - Add array sorting and filtering helper functions
 - Reduce duplicated logic across helper utilities
+- Clean up project structure and remove redundant exports
