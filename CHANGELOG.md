@@ -3286,3 +3286,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add acknowledgments and open-source project credits
 - Clean up temporary files and ensure deterministic cleanup
 - Fix potential race condition during file initialization
+- Improve test coverage across utility modules
