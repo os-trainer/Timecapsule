@@ -3288,3 +3288,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix potential race condition during file initialization
 - Improve test coverage across utility modules
 - Correct string trimming logic for multi-line inputs
+- Document date format requirements and accepted tokens
