@@ -3292,3 +3292,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reduce duplicated logic across helper utilities
 - Fix unhandled promise rejection in async error handler
 - Implement deep object merging utility
+- Normalize naming of options and arguments across modules
