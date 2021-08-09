@@ -10448,3 +10448,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect boolean flag evaluation
 - Add step-by-step tutorial for sample project generation
 - Add validation rules for date range boundaries
+- Improve readability of complex conditional evaluations
