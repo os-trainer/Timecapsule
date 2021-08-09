@@ -3298,3 +3298,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add lightweight event emitter implementation
 - Fix edge case in input handling for empty strings
 - Document supported platforms and shell environments
+- Implement dry-run execution preview mode
