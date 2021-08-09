@@ -3294,3 +3294,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement deep object merging utility
 - Normalize naming of options and arguments across modules
 - Fix incorrect boolean flag evaluation
+- Implement helper utilities for parameter parsing
