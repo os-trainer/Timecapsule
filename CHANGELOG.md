@@ -10451,3 +10451,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve readability of complex conditional evaluations
 - Add unit tests for input validation helper functions
 - Clarify installation instructions and system prerequisites
+- Add custom formatting options for summary tables
