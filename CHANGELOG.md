@@ -3300,3 +3300,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document supported platforms and shell environments
 - Implement dry-run execution preview mode
 - Correct boundary check in range validation utility
+- Add clear synthetic demonstration disclaimer in documentation
