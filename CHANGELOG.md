@@ -3308,3 +3308,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify difference between distribution algorithms
 - Add structured logging helper with log levels
 - Correct negative duration calculations across days
+- Add contribution guidelines and development workflow steps
