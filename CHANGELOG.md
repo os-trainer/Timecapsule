@@ -3311,3 +3311,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add contribution guidelines and development workflow steps
 - Cover deep object merge edge cases in unit tests
 - Correct timestamp calculation for timezone offsets
+- Adjust linting and formatting configuration rules
