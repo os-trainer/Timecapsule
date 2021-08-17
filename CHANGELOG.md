@@ -3309,3 +3309,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add structured logging helper with log levels
 - Correct negative duration calculations across days
 - Add contribution guidelines and development workflow steps
+- Cover deep object merge edge cases in unit tests
