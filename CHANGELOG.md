@@ -3313,3 +3313,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct timestamp calculation for timezone offsets
 - Adjust linting and formatting configuration rules
 - Remove dead code branches and redundant checks
+- Fix string encoding issue when processing special characters
