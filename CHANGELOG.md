@@ -10470,3 +10470,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix potential race condition during file initialization
 - Document custom commit message filtering and options
 - Add support for verbose diagnostic output
+- Refactor caching mechanism for cleaner abstraction
