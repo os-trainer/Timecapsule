@@ -10469,3 +10469,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update project metadata and repository description
 - Fix potential race condition during file initialization
 - Document custom commit message filtering and options
+- Add support for verbose diagnostic output
