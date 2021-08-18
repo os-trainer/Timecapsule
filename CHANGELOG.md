@@ -10468,3 +10468,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add key-value store wrapper for memory cache
 - Update project metadata and repository description
 - Fix potential race condition during file initialization
+- Document custom commit message filtering and options
