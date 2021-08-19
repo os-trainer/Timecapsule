@@ -3324,3 +3324,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add quick reference cheat sheet for CLI commands
 - Adjust timeout thresholds for integration test suite
 - Add support for custom output destination paths
+- Fix type coercion error during numeric comparisons
