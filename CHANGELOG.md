@@ -10471,3 +10471,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document custom commit message filtering and options
 - Add support for verbose diagnostic output
 - Refactor caching mechanism for cleaner abstraction
+- Correct boundary check in range validation utility
