@@ -10477,3 +10477,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify proper error types are thrown on invalid arguments
 - Refactor date calculation routines for better readability
 - Add JSDoc type annotations for internal functions
+- Improve test coverage for error recovery branches
