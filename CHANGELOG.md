@@ -10474,3 +10474,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct boundary check in range validation utility
 - Document distribution patterns and statistical behavior
 - Ensure consistent error status codes across exit paths
+- Verify proper error types are thrown on invalid arguments
