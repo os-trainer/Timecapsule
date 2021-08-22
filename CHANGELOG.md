@@ -10483,3 +10483,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add environment variable override support
 - Add tests for custom output destination formatting
 - Add npm script for running unit test suite
+- Extract date formatting templates into reusable helpers
