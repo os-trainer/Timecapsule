@@ -10493,3 +10493,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty environment variables without error
 - Clean up dead code and obsolete helper methods
 - Implement query filter helpers for collection items
+- Fix duplicate item registration in event subscriber list
