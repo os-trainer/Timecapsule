@@ -10490,3 +10490,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement configuration merging priority logic
 - Cover dry-run execution mode with assertion checks
 - Fix memory leak caused by unreleased cache handles
+- Handle empty environment variables without error
