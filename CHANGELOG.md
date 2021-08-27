@@ -10495,3 +10495,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement query filter helpers for collection items
 - Fix duplicate item registration in event subscriber list
 - Standardize terminology across comments and log output
+- Correct string trimming logic for multi-line inputs
