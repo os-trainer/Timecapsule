@@ -10494,3 +10494,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up dead code and obsolete helper methods
 - Implement query filter helpers for collection items
 - Fix duplicate item registration in event subscriber list
+- Standardize terminology across comments and log output
