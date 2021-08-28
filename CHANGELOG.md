@@ -10497,3 +10497,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize terminology across comments and log output
 - Correct string trimming logic for multi-line inputs
 - Add safe string truncation helper
+- Add unit tests for collection filter predicates
