@@ -3338,3 +3338,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract common constants into centralized configuration
 - Improve inline code documentation and parameter descriptions
 - Add elapsed execution time measurement helper
+- Extract terminal output logic into presentation layer
