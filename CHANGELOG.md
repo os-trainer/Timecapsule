@@ -10505,3 +10505,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct error handling when input file is absent
 - Update license field and attribution in package manifest
 - Improve code maintainability index across core files
+- Test empty collection handling across utility functions
