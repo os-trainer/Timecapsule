@@ -3339,3 +3339,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve inline code documentation and parameter descriptions
 - Add elapsed execution time measurement helper
 - Extract terminal output logic into presentation layer
+- Fix inconsistent return type on validation failure
