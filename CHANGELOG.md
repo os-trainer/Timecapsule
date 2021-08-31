@@ -3341,3 +3341,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract terminal output logic into presentation layer
 - Fix inconsistent return type on validation failure
 - Cover malformed command line options in test suite
+- Fix memory leak in recurring event listeners
