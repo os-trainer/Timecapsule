@@ -3343,3 +3343,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover malformed command line options in test suite
 - Fix memory leak in recurring event listeners
 - Add configuration for source map generation
+- Implement flexible filter predicate builder
