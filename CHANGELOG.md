@@ -10511,3 +10511,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement object transformation and mapping utilities
 - Fix improper resource cleanup on exit
 - Fix unexpected empty input parsing in command line options
+- Add quick reference cheat sheet for CLI commands
