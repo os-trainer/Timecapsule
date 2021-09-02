@@ -10517,3 +10517,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions for running tests and linter locally
 - Add code comments explaining complex date mathematics
 - Refactor state management into centralized store
+- Add URL query string builder and parser
