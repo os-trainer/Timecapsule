@@ -10522,3 +10522,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify graceful handling of malformed input data
 - Handle partial input objects during configuration merge
 - Extract terminal output logic into presentation layer
+- Cover edge cases in date range calculation logic
