@@ -10526,3 +10526,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test cases for boolean flag normalization
 - Standardize date string formatting across all output
 - Update changelog with recent feature additions and fixes
+- Configure engine version compatibility constraints
