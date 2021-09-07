@@ -3351,3 +3351,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document configuration options and default parameters
 - Handle process interruption cleanly during generation
 - Reduce duplicated logic across helper utilities
+- Improve consistency of option validation error messages
