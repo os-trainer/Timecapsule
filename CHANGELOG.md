@@ -10528,3 +10528,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update changelog with recent feature additions and fixes
 - Configure engine version compatibility constraints
 - Handle empty input collections without throwing exceptions
+- Add input validation for user-supplied options
