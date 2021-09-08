@@ -10530,3 +10530,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty input collections without throwing exceptions
 - Add input validation for user-supplied options
 - Refactor validation pipelines to support chaining
+- Add performance recommendations for large-scale runs
