@@ -3357,3 +3357,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decompose monolithic workflow function into focused steps
 - Add tests for custom output destination formatting
 - Improve code formatting and consistent whitespace
+- Simplify error throwing and propagation mechanisms
