@@ -10533,3 +10533,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add performance recommendations for large-scale runs
 - Extract common constants into centralized configuration
 - Add integration test verifying end-to-end workflow execution
+- Add examples comparing standard and conventional commits
