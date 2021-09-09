@@ -10535,3 +10535,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add integration test verifying end-to-end workflow execution
 - Add examples comparing standard and conventional commits
 - Document custom commit message filtering and options
+- Correctly escape special characters in terminal output
