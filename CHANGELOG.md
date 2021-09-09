@@ -3360,3 +3360,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify error throwing and propagation mechanisms
 - Handle undefined configuration sections safely
 - Eliminate code duplication in internal helper branches
+- Add badges for license, build status, and version
