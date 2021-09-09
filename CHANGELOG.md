@@ -3363,3 +3363,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add badges for license, build status, and version
 - Implement object transformation and mapping utilities
 - Fix unexpected empty input parsing in command line options
+- Consolidate error definitions and status messages
