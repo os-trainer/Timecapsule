@@ -3368,3 +3368,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify idempotency of cleanup routines in test suite
 - Implement template interpolation utility
 - Implement command line flag alias mapping
+- Fix inaccurate execution duration calculation
