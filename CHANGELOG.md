@@ -10537,3 +10537,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document custom commit message filtering and options
 - Correctly escape special characters in terminal output
 - Update package repository URLs and issue tracker links
+- Consolidate error definitions and status messages
