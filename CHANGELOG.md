@@ -3371,3 +3371,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inaccurate execution duration calculation
 - Ensure strict immutability of configuration defaults
 - Implement safe JSON parsing with fallback values
+- Refactor state management into centralized store
