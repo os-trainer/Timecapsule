@@ -3378,3 +3378,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add table of contents to main project documentation
 - Correct regex pattern matching for date validation
 - Add URL query string builder and parser
+- Improve README with comprehensive getting-started guide
