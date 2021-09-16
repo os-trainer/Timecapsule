@@ -10541,3 +10541,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement safe JSON parsing with fallback values
 - Add unit tests for input validation helper functions
 - Correct timestamp calculation for timezone offsets
+- Add support for JSON and plain text output formats
