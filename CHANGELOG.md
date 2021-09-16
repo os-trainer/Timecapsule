@@ -3380,3 +3380,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add URL query string builder and parser
 - Improve README with comprehensive getting-started guide
 - Add assertions to catch illegal state during execution
+- Add colorized terminal output formatter
