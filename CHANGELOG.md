@@ -10543,3 +10543,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct timestamp calculation for timezone offsets
 - Add support for JSON and plain text output formats
 - Fix formatting anomaly in terminal progress display
+- Decouple output formatting from core computation logic
