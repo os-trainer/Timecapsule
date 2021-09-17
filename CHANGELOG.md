@@ -10544,3 +10544,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for JSON and plain text output formats
 - Fix formatting anomaly in terminal progress display
 - Decouple output formatting from core computation logic
+- Add custom error classes for domain-specific failures
