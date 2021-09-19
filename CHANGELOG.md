@@ -10552,3 +10552,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix validation logic for boundary date ranges
 - Cover complex configuration inheritance in tests
 - Add badges for license, build status, and version
+- Fix missing return statement in error branch
