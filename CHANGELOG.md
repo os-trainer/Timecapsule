@@ -10553,3 +10553,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover complex configuration inheritance in tests
 - Add badges for license, build status, and version
 - Fix missing return statement in error branch
+- Clean up dead code and obsolete helper methods
