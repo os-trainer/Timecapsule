@@ -10555,3 +10555,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix missing return statement in error branch
 - Clean up dead code and obsolete helper methods
 - Add boundary condition tests for numeric ranges
+- Handle process interruption cleanly during generation
