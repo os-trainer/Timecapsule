@@ -3383,3 +3383,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add colorized terminal output formatter
 - Refactor argument parsing to standardize option names
 - Improve modularity of utility function parameter signatures
+- Handle partial input objects during configuration merge
