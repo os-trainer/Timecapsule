@@ -3390,3 +3390,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up project structure and remove redundant exports
 - Standardize exception messages across validation logic
 - Fix improper resource cleanup on exit
+- Improve separation of concerns between CLI and core engine
