@@ -3389,3 +3389,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix circular reference error in object serialization
 - Clean up project structure and remove redundant exports
 - Standardize exception messages across validation logic
+- Fix improper resource cleanup on exit
