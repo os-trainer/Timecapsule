@@ -3392,3 +3392,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix improper resource cleanup on exit
 - Improve separation of concerns between CLI and core engine
 - Test timezone offset handling with varying dates
+- Simplify complex arithmetic expressions in date logic
