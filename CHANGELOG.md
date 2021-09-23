@@ -3388,3 +3388,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement helper utilities for parameter parsing
 - Fix circular reference error in object serialization
 - Clean up project structure and remove redundant exports
+- Standardize exception messages across validation logic
