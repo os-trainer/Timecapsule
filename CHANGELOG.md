@@ -3394,3 +3394,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test timezone offset handling with varying dates
 - Simplify complex arithmetic expressions in date logic
 - Correct fallback order for configuration properties
+- Add key-value store wrapper for memory cache
