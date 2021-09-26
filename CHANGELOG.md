@@ -3396,3 +3396,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct fallback order for configuration properties
 - Add key-value store wrapper for memory cache
 - Add FAQ section covering common configuration questions
+- Add regression test for boundary date calculations
