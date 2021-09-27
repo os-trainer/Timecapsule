@@ -3402,3 +3402,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input sanitization for file paths
 - Update API reference documentation for core exports
 - Improve code maintainability index across core files
+- Fix incorrect default parameter assignment
