@@ -10562,3 +10562,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document distribution patterns and statistical behavior
 - Extract reusable helper functions from main workflow
 - Add lightweight event emitter implementation
+- Add comments explaining subtle edge cases in date math
