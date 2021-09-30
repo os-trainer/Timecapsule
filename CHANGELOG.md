@@ -3410,3 +3410,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Replace magic numbers with named configuration constants
 - Correct output formatting when statistics are zero
 - Implement numeric range clamping helper
+- Fix missing return statement in error branch
