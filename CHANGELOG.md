@@ -3406,3 +3406,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add system status inspection helper
 - Consolidate string manipulation utilities
 - Improve test coverage for error recovery branches
+- Add input validation for user-supplied options
