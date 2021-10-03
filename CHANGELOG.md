@@ -10571,3 +10571,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract file system operations into isolated adapter
 - Add unit tests for terminal colorization toggles
 - Handle undefined configuration sections safely
+- Add examples of integrating tool into automated scripts
