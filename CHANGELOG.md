@@ -10576,3 +10576,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add troubleshooting notes for frequent setup issues
 - Refactor promise handling to use modern async/await patterns
 - Handle missing configuration gracefully with defaults
+- Add command-line argument parser for configuration flags
