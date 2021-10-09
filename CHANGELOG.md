@@ -3411,3 +3411,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct output formatting when statistics are zero
 - Implement numeric range clamping helper
 - Fix missing return statement in error branch
+- Standardize terminology across comments and log output
