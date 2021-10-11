@@ -3416,3 +3416,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add verification tests for safe JSON parsing utilities
 - Implement object transformation and mapping utilities
 - Fix incorrect status code returned on input error
+- Fix intermittent failure in date boundary comparison
