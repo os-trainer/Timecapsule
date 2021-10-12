@@ -3418,3 +3418,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect status code returned on input error
 - Fix intermittent failure in date boundary comparison
 - Add step-by-step tutorial for sample project generation
+- Cover edge cases in date range calculation logic
