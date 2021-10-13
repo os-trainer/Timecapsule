@@ -3425,3 +3425,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Handle null and undefined options defensively
 - Add regression tests for previous edge-case bugs
+- Test custom date formatting tokens and output strings
