@@ -3420,3 +3420,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add step-by-step tutorial for sample project generation
 - Cover edge cases in date range calculation logic
 - Add command-line argument parser for configuration flags
+
+## [4.3.0]
+### Changed
+- Handle null and undefined options defensively
