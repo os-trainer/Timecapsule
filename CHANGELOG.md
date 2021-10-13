@@ -3419,3 +3419,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix intermittent failure in date boundary comparison
 - Add step-by-step tutorial for sample project generation
 - Cover edge cases in date range calculation logic
+- Add command-line argument parser for configuration flags
