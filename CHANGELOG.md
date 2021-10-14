@@ -10591,3 +10591,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement dry-run execution preview mode
 - Improve readability of complex conditional evaluations
 - Add support for custom output destination paths
+- Cover edge cases in date range calculation logic
