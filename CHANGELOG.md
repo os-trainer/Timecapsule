@@ -10590,3 +10590,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor array processing routines to use functional methods
 - Implement dry-run execution preview mode
 - Improve readability of complex conditional evaluations
+- Add support for custom output destination paths
