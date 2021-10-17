@@ -3429,3 +3429,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement stream-based chunk processor
 - Add unit tests for collection filter predicates
 - Update package version in manifest file
+- Implement summary statistics calculation helper
