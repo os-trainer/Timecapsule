@@ -10604,3 +10604,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix argument parsing when flag value contains spaces
 - Restructure project exports to avoid circular dependencies
 - Add configuration file for continuous integration
+- Add basic data processing and normalization pipeline
