@@ -3434,3 +3434,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update npm packaging whitelist in files array
 - Implement dry-run execution preview mode
 - Extract common constants into centralized configuration
+- Fix validation logic for boundary date ranges
