@@ -3432,3 +3432,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement summary statistics calculation helper
 - Correct path delimiter handling across operating systems
 - Update npm packaging whitelist in files array
+- Implement dry-run execution preview mode
