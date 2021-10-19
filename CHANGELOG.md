@@ -3437,3 +3437,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix validation logic for boundary date ranges
 - Fix argument parsing when flag value contains spaces
 - Adjust timeout thresholds for integration test suite
+- Verify idempotency of cleanup routines in test suite
