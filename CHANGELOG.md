@@ -10605,3 +10605,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Restructure project exports to avoid circular dependencies
 - Add configuration file for continuous integration
 - Add basic data processing and normalization pipeline
+- Simplify conditional branching in distribution calculator
