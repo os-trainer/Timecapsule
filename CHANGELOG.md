@@ -3439,3 +3439,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adjust timeout thresholds for integration test suite
 - Verify idempotency of cleanup routines in test suite
 - Fix formatting anomaly in terminal progress display
+- Verify error messages for missing required options
