@@ -10611,3 +10611,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add comprehensive tests for configuration loader
 - Add input sanitization for file paths
 - Fix formatting anomaly in terminal progress display
+- Document logging levels and diagnostic flags
