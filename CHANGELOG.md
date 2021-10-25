@@ -10616,3 +10616,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add system status inspection helper
 - Extract date formatting templates into reusable helpers
 - Fix incorrect status code returned on input error
+- Consolidate error definitions and status messages
