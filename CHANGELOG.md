@@ -3440,3 +3440,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify idempotency of cleanup routines in test suite
 - Fix formatting anomaly in terminal progress display
 - Verify error messages for missing required options
+- Simplify control flow and reduce nested conditionals
