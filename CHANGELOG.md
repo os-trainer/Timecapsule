@@ -3442,3 +3442,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify error messages for missing required options
 - Simplify control flow and reduce nested conditionals
 - Add custom error classes for domain-specific failures
+- Add assertions for default configuration fallbacks
