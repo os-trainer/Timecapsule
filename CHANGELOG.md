@@ -3446,3 +3446,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract reusable helper functions from main workflow
 - Implement pagination helper for collection data
 - Resolve incorrect return value for edge-case queries
+- Add custom formatting options for summary tables
