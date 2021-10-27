@@ -3447,3 +3447,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement pagination helper for collection data
 - Resolve incorrect return value for edge-case queries
 - Add custom formatting options for summary tables
+- Add unit tests for input validation helper functions
