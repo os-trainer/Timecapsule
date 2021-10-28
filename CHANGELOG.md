@@ -10628,3 +10628,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add performance assertions for large collection processing
 - Add colorized terminal output formatter
 - Refactor validation pipelines to support chaining
+- Fix duplicate item registration in event subscriber list
