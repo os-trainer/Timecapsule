@@ -3454,3 +3454,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak caused by unreleased cache handles
 - Add reusable string formatting utility functions
 - Handle empty environment variables without error
+- Add integration test verifying end-to-end workflow execution
