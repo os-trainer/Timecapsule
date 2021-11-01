@@ -3458,3 +3458,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Initialize repository readme and overview notes
 - Remove unused code and obsolete internal variables
 - Document distribution patterns and statistical behavior
+- Fix unhandled promise rejection in async error handler
