@@ -10638,3 +10638,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test custom date formatting tokens and output strings
 - Add clear synthetic demonstration disclaimer in documentation
 - Standardize date string formatting across all output
+- Test command line help output and option documentation
