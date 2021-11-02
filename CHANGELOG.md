@@ -3461,3 +3461,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unhandled promise rejection in async error handler
 - Improve modularity of utility function parameter signatures
 - Implement configuration file loader with fallback defaults
+- Add snapshot tests for terminal output formatters
