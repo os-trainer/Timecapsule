@@ -10643,3 +10643,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document date format requirements and accepted tokens
 - Implement configuration merging priority logic
 - Consolidate string manipulation utilities
+- Implement query filter helpers for collection items
