@@ -3465,3 +3465,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve input handling and defensive type assertions
 - Handle undefined configuration sections safely
 - Add environment variable override support
+- Add tests for custom output destination formatting
