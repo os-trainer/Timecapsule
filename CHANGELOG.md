@@ -3464,3 +3464,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add snapshot tests for terminal output formatters
 - Improve input handling and defensive type assertions
 - Handle undefined configuration sections safely
+- Add environment variable override support
