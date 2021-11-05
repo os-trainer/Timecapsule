@@ -3467,3 +3467,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add environment variable override support
 - Add tests for custom output destination formatting
 - Add strict boundary checks to numeric operations
+- Fix duplicate item registration in event subscriber list
