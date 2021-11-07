@@ -10646,3 +10646,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement query filter helpers for collection items
 - Handle unexpected zero-length arrays in reducer logic
 - Add descriptive error context when file reading fails
+- Fix missing return statement in error branch
