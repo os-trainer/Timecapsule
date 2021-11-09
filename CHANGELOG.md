@@ -10651,3 +10651,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement configuration file loader with fallback defaults
 - Update lockfile with verified dependency tree
 - Add array sorting and filtering helper functions
+- Fix improper resource cleanup on exit
