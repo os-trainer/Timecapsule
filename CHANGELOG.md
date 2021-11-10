@@ -10653,3 +10653,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add array sorting and filtering helper functions
 - Fix improper resource cleanup on exit
 - Add safe deep clone utility function
+- Adjust prettier configuration for consistent indentation
