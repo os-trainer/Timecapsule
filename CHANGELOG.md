@@ -3474,3 +3474,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify platform-specific path handling in test suite
 - Handle malformed JSON configuration without crashing
 - Extract configuration validation into standalone validator
+- Add test suite for distribution weight calculations
