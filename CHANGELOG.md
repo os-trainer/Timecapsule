@@ -3480,3 +3480,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement rate limiting throttle for helper actions
 - Add configuration file for static code analysis
 - Streamline parameter passing across internal layers
+- Handle file permission errors with actionable messages
