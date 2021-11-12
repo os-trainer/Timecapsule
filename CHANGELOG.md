@@ -10656,3 +10656,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adjust prettier configuration for consistent indentation
 - Add verification tests for safe JSON parsing utilities
 - Improve code maintainability index across core files
+- Correct negative duration calculations across days
