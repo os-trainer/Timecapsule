@@ -3483,3 +3483,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle file permission errors with actionable messages
 - Implement batch processing utility for array inputs
 - Decouple output formatting from core computation logic
+- Add acknowledgments and open-source project credits
