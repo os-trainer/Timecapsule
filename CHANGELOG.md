@@ -10662,3 +10662,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update development dependencies for test framework
 - Add badges for license, build status, and version
 - Reduce duplicated logic across helper utilities
+- Handle empty input collections without throwing exceptions
