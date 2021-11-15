@@ -10661,3 +10661,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test timezone offset handling with varying dates
 - Update development dependencies for test framework
 - Add badges for license, build status, and version
+- Reduce duplicated logic across helper utilities
