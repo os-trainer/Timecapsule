@@ -3487,3 +3487,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve consistency of return structures across helpers
 - Cover dry-run execution mode with assertion checks
 - Add support for JSON and plain text output formats
+- Handle null and undefined options defensively
