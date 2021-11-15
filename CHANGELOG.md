@@ -3488,3 +3488,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover dry-run execution mode with assertion checks
 - Add support for JSON and plain text output formats
 - Handle null and undefined options defensively
+- Test command line help output and option documentation
