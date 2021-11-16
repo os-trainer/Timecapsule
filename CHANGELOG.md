@@ -3489,3 +3489,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for JSON and plain text output formats
 - Handle null and undefined options defensively
 - Test command line help output and option documentation
+- Ensure consistent error status codes across exit paths
