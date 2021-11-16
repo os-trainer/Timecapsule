@@ -10664,3 +10664,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reduce duplicated logic across helper utilities
 - Handle empty input collections without throwing exceptions
 - Standardize exception messages across validation logic
+- Extract configuration validation into standalone validator
