@@ -10673,3 +10673,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test empty collection handling across utility functions
 - Configure semantic versioning and release scripts
 - Fix memory leak caused by unreleased cache handles
+- Configure output directory paths for build pipeline
