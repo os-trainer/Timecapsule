@@ -3492,3 +3492,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure consistent error status codes across exit paths
 - Fix incorrect boolean flag evaluation
 - Implement event listener registry for status events
+- Add examples comparing standard and conventional commits
