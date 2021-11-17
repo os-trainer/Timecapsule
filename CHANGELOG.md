@@ -10675,3 +10675,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak caused by unreleased cache handles
 - Configure output directory paths for build pipeline
 - Add input validation for user-supplied options
+- Clean up project structure and remove redundant exports
