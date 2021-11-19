@@ -10679,3 +10679,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input sanitization for file paths
 - Implement rate limiting throttle for helper actions
 - Update API reference documentation for core exports
+- Verify proper error types are thrown on invalid arguments
