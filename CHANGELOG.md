@@ -3499,3 +3499,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify proper error types are thrown on invalid arguments
 - Consolidate string manipulation utilities
 - Add test cases for boolean flag normalization
+- Document error handling strategies and exit codes
