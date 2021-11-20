@@ -10682,3 +10682,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify proper error types are thrown on invalid arguments
 - Correct timestamp calculation for timezone offsets
 - Document environment variable configuration overrides
+- Consolidate duplicate string sanitization routines
