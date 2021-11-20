@@ -10681,3 +10681,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update API reference documentation for core exports
 - Verify proper error types are thrown on invalid arguments
 - Correct timestamp calculation for timezone offsets
+- Document environment variable configuration overrides
