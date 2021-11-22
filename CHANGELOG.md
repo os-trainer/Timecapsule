@@ -10685,3 +10685,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate duplicate string sanitization routines
 - Correctly escape special characters in terminal output
 - Implement event listener registry for status events
+- Add unit tests for collection filter predicates
