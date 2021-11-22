@@ -10683,3 +10683,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct timestamp calculation for timezone offsets
 - Document environment variable configuration overrides
 - Consolidate duplicate string sanitization routines
+- Correctly escape special characters in terminal output
