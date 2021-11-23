@@ -3508,3 +3508,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage for error recovery branches
 - Extract progress tracking into dedicated emitter
 - Handle empty input collections without throwing exceptions
+- Add parameter type checks to public library methods
