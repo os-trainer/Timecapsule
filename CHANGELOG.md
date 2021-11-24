@@ -10690,3 +10690,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add structured logging helper with log levels
 - Add custom error classes for domain-specific failures
 - Remove dead code branches and redundant checks
+- Fix type coercion error during numeric comparisons
