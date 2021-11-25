@@ -10695,3 +10695,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for JSON and plain text output formats
 - Ensure consistent error status codes across exit paths
 - Simplify control flow and reduce nested conditionals
+- Implement file reading helper with encoding support
