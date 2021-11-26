@@ -10698,3 +10698,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement file reading helper with encoding support
 - Fix off-by-one error in collection index calculations
 - Tune compiler and transpiler configuration options
+- Refactor caching mechanism for cleaner abstraction
