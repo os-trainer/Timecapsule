@@ -3511,3 +3511,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add parameter type checks to public library methods
 - Fix inaccurate execution duration calculation
 - Improve package scripts for building and testing
+- Add test harness for simulated time progression
