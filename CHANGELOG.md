@@ -3518,3 +3518,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect default parameter assignment
 - Implement summary statistics calculation helper
 - Handle undefined configuration sections safely
+- Cover malformed command line options in test suite
