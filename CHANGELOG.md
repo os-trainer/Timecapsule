@@ -3516,3 +3516,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement query filter helpers for collection items
 - Add parameterized tests for date parsing variations
 - Fix incorrect default parameter assignment
+- Implement summary statistics calculation helper
