@@ -3512,3 +3512,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inaccurate execution duration calculation
 - Improve package scripts for building and testing
 - Add test harness for simulated time progression
+- Extract terminal output logic into presentation layer
