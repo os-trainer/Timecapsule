@@ -10702,3 +10702,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add snapshot tests for terminal output formatters
 - Improve test coverage for error recovery branches
 - Implement numeric range clamping helper
+- Extract file system operations into isolated adapter
