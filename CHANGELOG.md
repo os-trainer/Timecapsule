@@ -3520,3 +3520,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle undefined configuration sections safely
 - Cover malformed command line options in test suite
 - Add configuration file for continuous integration
+- Cover edge cases in date range calculation logic
