@@ -10710,3 +10710,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add parameter type checks to public library methods
 - Implement command line flag alias mapping
 - Simplify error throwing and propagation mechanisms
+- Add clean script to purge build artifacts and temp files
