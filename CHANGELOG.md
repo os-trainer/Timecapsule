@@ -10707,3 +10707,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add parameterized tests for date parsing variations
 - Handle undefined configuration sections safely
 - Improve documentation for programmatic JavaScript API
+- Add parameter type checks to public library methods
