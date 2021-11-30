@@ -3522,3 +3522,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration file for continuous integration
 - Cover edge cases in date range calculation logic
 - Create directory structure for utility modules
+- Add comments explaining subtle edge cases in date math
