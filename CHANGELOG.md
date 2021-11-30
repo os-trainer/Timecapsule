@@ -10709,3 +10709,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve documentation for programmatic JavaScript API
 - Add parameter type checks to public library methods
 - Implement command line flag alias mapping
+- Simplify error throwing and propagation mechanisms
