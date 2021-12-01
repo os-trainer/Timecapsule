@@ -10713,3 +10713,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add clean script to purge build artifacts and temp files
 - Extract common constants into centralized configuration
 - Improve documentation for custom output templates
+- Handle process interruption cleanly during generation
