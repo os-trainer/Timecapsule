@@ -10716,3 +10716,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle process interruption cleanly during generation
 - Implement date formatting and parsing helpers
 - Correct output formatting when statistics are zero
+- Add performance assertions for large collection processing
