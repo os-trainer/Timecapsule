@@ -10720,3 +10720,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve README with comprehensive getting-started guide
 - Implement stream-based chunk processor
 - Add integration test verifying end-to-end workflow execution
+- Extract progress tracking into dedicated emitter
