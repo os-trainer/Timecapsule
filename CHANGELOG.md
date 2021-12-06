@@ -3532,3 +3532,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add safe string truncation helper
 - Refactor date calculation routines for better readability
 - Consolidate duplicate string sanitization routines
+- Implement deep object merging utility
