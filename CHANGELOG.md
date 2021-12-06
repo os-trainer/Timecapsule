@@ -10728,3 +10728,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify collection mapping and transformation pipelines
 - Add regression tests for previous edge-case bugs
 - Ensure strict immutability of configuration defaults
+- Add safe string truncation helper
