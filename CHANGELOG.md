@@ -10729,3 +10729,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression tests for previous edge-case bugs
 - Ensure strict immutability of configuration defaults
 - Add safe string truncation helper
+- Add contribution guidelines and development workflow steps
