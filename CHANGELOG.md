@@ -10736,3 +10736,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle null and undefined options defensively
 - Refactor state management into centralized store
 - Implement retry mechanism for transient operations
+- Handle file permission errors with actionable messages
