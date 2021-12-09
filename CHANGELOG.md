@@ -3536,3 +3536,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover complex configuration inheritance in tests
 - Simplify conditional branching in distribution calculator
 - Add support for verbose diagnostic output
+- Fix type coercion error during numeric comparisons
