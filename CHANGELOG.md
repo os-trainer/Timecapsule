@@ -10740,3 +10740,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify retry logic behavior under simulated failures
 - Configure code style rules and ignore patterns
 - Add acknowledgments and open-source project credits
+- Fix memory leak in recurring event listeners
