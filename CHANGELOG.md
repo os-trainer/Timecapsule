@@ -3540,3 +3540,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor caching mechanism for cleaner abstraction
 - Add lightweight event emitter implementation
 - Streamline option parsing and default resolution
+- Correct timestamp calculation for timezone offsets
