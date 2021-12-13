@@ -3546,3 +3546,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement file reading helper with encoding support
 - Ensure consistent error status codes across exit paths
 - Add unit tests for terminal colorization toggles
+- Fix validation logic for boundary date ranges
