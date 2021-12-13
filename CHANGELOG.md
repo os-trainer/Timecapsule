@@ -3544,3 +3544,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression test for boundary date calculations
 - Fix off-by-one error in collection index calculations
 - Implement file reading helper with encoding support
+- Ensure consistent error status codes across exit paths
