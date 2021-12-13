@@ -3542,3 +3542,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline option parsing and default resolution
 - Correct timestamp calculation for timezone offsets
 - Add regression test for boundary date calculations
+- Fix off-by-one error in collection index calculations
