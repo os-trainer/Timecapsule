@@ -3547,3 +3547,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure consistent error status codes across exit paths
 - Add unit tests for terminal colorization toggles
 - Fix validation logic for boundary date ranges
+- Simplify control flow and reduce nested conditionals
