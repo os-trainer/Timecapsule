@@ -3548,3 +3548,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for terminal colorization toggles
 - Fix validation logic for boundary date ranges
 - Simplify control flow and reduce nested conditionals
+- Add unit tests for collection filter predicates
