@@ -10748,3 +10748,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression test for boundary date calculations
 - Add command-line argument parser for configuration flags
 - Test invalid input handling and expected exceptions
+- Document template options for supported project layouts
