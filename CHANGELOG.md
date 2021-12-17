@@ -10752,3 +10752,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test harness for simulated time progression
 - Modularize command-line argument processing logic
 - Add structured logging helper with log levels
+- Correct negative duration calculations across days
