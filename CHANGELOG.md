@@ -3549,3 +3549,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix validation logic for boundary date ranges
 - Simplify control flow and reduce nested conditionals
 - Add unit tests for collection filter predicates
+- Document supported platforms and shell environments
