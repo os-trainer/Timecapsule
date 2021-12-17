@@ -3550,3 +3550,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify control flow and reduce nested conditionals
 - Add unit tests for collection filter predicates
 - Document supported platforms and shell environments
+- Resolve incorrect return value for edge-case queries
