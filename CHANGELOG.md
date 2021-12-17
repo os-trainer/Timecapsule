@@ -10750,3 +10750,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test invalid input handling and expected exceptions
 - Document template options for supported project layouts
 - Add test harness for simulated time progression
+- Modularize command-line argument processing logic
