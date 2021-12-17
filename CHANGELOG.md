@@ -3552,3 +3552,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document supported platforms and shell environments
 - Resolve incorrect return value for edge-case queries
 - Add code comments explaining complex date mathematics
+- Add clean script to purge build artifacts and temp files
