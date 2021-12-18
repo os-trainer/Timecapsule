@@ -10755,3 +10755,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct negative duration calculations across days
 - Add defensive fallbacks for unexpected null values
 - Implement pagination helper for collection data
+- Modernize internal loop constructs and data structures
