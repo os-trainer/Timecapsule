@@ -10759,3 +10759,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect status code returned on input error
 - Add basic data processing and normalization pipeline
 - Refactor validation pipelines to support chaining
+- Update repository keywords and discovery tags
