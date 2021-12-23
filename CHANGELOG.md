@@ -10760,3 +10760,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data processing and normalization pipeline
 - Refactor validation pipelines to support chaining
 - Update repository keywords and discovery tags
+- Add validation rules for date range boundaries
