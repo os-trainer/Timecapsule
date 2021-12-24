@@ -10762,3 +10762,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update repository keywords and discovery tags
 - Add validation rules for date range boundaries
 - Eliminate code duplication in internal helper branches
+- Add unit tests for progress reporter events
