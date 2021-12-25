@@ -10764,3 +10764,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Eliminate code duplication in internal helper branches
 - Add unit tests for progress reporter events
 - Configure environment file loading conventions
+- Fix argument parsing when flag value contains spaces
