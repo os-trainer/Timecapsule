@@ -10766,3 +10766,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure environment file loading conventions
 - Fix argument parsing when flag value contains spaces
 - Initialize test runner configuration and directory
+- Adjust test runner timeout and concurrency settings
