@@ -3561,3 +3561,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression tests for previous edge-case bugs
 - Document configuration options and default parameters
 - Improve naming consistency across internal interfaces
+- Implement configuration merging priority logic
