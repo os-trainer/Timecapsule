@@ -3564,3 +3564,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement configuration merging priority logic
 - Clarify difference between distribution algorithms
 - Add unit tests for progress reporter events
+- Improve markdown formatting and typographic consistency in README
