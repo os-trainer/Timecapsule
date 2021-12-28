@@ -3562,3 +3562,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document configuration options and default parameters
 - Improve naming consistency across internal interfaces
 - Implement configuration merging priority logic
+- Clarify difference between distribution algorithms
