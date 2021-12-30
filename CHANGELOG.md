@@ -10775,3 +10775,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add assertions for default configuration fallbacks
 - Add comments explaining subtle edge cases in date math
 - Implement customizable output formatting options
+- Cover dry-run execution mode with assertion checks
