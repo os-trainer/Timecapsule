@@ -10779,3 +10779,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix intermittent failure in date boundary comparison
 - Clean up dead code and obsolete helper methods
 - Cover deep object merge edge cases in unit tests
+- Rename internal variables and parameters for clarity
