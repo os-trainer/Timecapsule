@@ -3572,3 +3572,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage for error recovery branches
 - Fix inconsistent return type on validation failure
 - Standardize exception messages across validation logic
+- Implement progress reporter for long-running workflows
