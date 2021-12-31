@@ -10781,3 +10781,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover deep object merge edge cases in unit tests
 - Rename internal variables and parameters for clarity
 - Handle timeout gracefully during external operations
+- Verify platform-specific path handling in test suite
