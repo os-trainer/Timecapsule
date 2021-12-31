@@ -10782,3 +10782,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Rename internal variables and parameters for clarity
 - Handle timeout gracefully during external operations
 - Verify platform-specific path handling in test suite
+- Add assertions to catch illegal state during execution
