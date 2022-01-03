@@ -10787,3 +10787,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update development configuration and editor settings
 - Implement deep object merging utility
 - Simplify control flow and reduce nested conditionals
+- Update license field and attribution in package manifest
