@@ -3575,3 +3575,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement progress reporter for long-running workflows
 - Test invalid input handling and expected exceptions
 - Correct error handling when input file is absent
+- Implement command line flag alias mapping
