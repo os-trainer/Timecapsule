@@ -10796,3 +10796,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add tests for custom output destination formatting
 - Implement helper utilities for parameter parsing
 - Update npm packaging whitelist in files array
+- Handle malformed JSON configuration without crashing
