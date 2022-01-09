@@ -3580,3 +3580,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Remove unused code and obsolete internal variables
 - Add configuration file for static code analysis
 - Add system status inspection helper
+- Document test execution commands and coverage reports
