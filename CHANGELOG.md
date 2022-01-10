@@ -10807,3 +10807,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement progress reporter for long-running workflows
 - Correct error handling when input file is absent
 - Clean up project structure and remove redundant exports
+- Add configuration file for continuous integration
