@@ -3582,3 +3582,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add system status inspection helper
 - Document test execution commands and coverage reports
 - Correct negative duration calculations across days
+- Handle partial input objects during configuration merge
