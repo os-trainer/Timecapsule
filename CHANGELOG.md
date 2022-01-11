@@ -3587,3 +3587,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify proper error types are thrown on invalid arguments
 - Fix missing return statement in error branch
 - Add test cases for boolean flag normalization
+- Add colorized terminal output formatter
