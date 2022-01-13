@@ -3593,3 +3593,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document environment variable configuration overrides
 - Add basic data processing and normalization pipeline
 - Fix memory leak caused by unreleased cache handles
+- Refactor utility functions into dedicated modules
