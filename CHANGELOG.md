@@ -10818,3 +10818,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add FAQ section covering common configuration questions
 - Add snapshot tests for terminal output formatters
 - Correct path delimiter handling across operating systems
+- Add test suite for distribution weight calculations
