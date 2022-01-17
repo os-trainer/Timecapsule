@@ -10814,3 +10814,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add code comments explaining complex date mathematics
 - Consolidate duplicate string sanitization routines
 - Resolve incorrect return value for edge-case queries
+- Fix infinite loop risk in collection traversal logic
