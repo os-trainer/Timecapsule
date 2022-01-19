@@ -3604,3 +3604,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify complex function implementations for maintainability
 - Add npm script for running linter in check-only mode
 - Fix circular reference error in object serialization
+- Adjust prettier configuration for consistent indentation
