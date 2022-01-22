@@ -3610,3 +3610,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract file system operations into isolated adapter
 - Implement summary statistics calculation helper
 - Extract progress tracking into dedicated emitter
+- Cover deep object merge edge cases in unit tests
