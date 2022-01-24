@@ -10825,3 +10825,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct string trimming logic for multi-line inputs
 - Implement configuration file loader with fallback defaults
 - Adjust timeout thresholds for integration test suite
+- Fix inaccurate execution duration calculation
