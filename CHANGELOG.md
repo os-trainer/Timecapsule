@@ -3625,3 +3625,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for rate limiting and throttling helpers
 - Simplify complex arithmetic expressions in date logic
 - Implement deep object merging utility
+- Fix duplicate item registration in event subscriber list
