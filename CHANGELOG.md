@@ -10837,3 +10837,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify error throwing and propagation mechanisms
 - Fix validation logic for boundary date ranges
 - Enhance descriptive quality of debug logging statements
+- Clarify frequency parameter behavior and percentage rules
