@@ -3626,3 +3626,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify complex arithmetic expressions in date logic
 - Implement deep object merging utility
 - Fix duplicate item registration in event subscriber list
+
+## [4.5.0]
+### Changed
+- Add support for JSON and plain text output formats
