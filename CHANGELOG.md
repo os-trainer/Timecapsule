@@ -10840,3 +10840,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify frequency parameter behavior and percentage rules
 - Reduce duplicated logic across helper utilities
 - Add reusable string formatting utility functions
+- Fix string encoding issue when processing special characters
