@@ -10844,3 +10844,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test empty collection handling across utility functions
 - Add input sanitization for file paths
 - Remove obsolete polyfills and legacy compatibility shims
+- Fix argument parsing when flag value contains spaces
