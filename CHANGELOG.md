@@ -10851,3 +10851,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle partial input objects during configuration merge
 - Add assertions for default configuration fallbacks
 - Standardize terminology across comments and log output
+- Add task definitions for local development tooling
