@@ -3630,3 +3630,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [4.5.0]
 ### Changed
 - Add support for JSON and plain text output formats
+- Fix unhandled promise rejection in async error handler
