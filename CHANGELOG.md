@@ -10855,3 +10855,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover deep object merge edge cases in unit tests
 - Add custom formatting options for summary tables
 - Extract common constants into centralized configuration
+- Add key-value store wrapper for memory cache
