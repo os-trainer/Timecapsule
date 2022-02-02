@@ -10854,3 +10854,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add task definitions for local development tooling
 - Cover deep object merge edge cases in unit tests
 - Add custom formatting options for summary tables
+- Extract common constants into centralized configuration
