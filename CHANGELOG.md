@@ -3632,3 +3632,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for JSON and plain text output formats
 - Fix unhandled promise rejection in async error handler
 - Add regression test for boundary date calculations
+- Add JSDoc type annotations for internal functions
