@@ -3635,3 +3635,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add JSDoc type annotations for internal functions
 - Ensure all async rejections provide meaningful Error instances
 - Document logging levels and diagnostic flags
+- Add unit tests for string formatting and truncation helpers
