@@ -3633,3 +3633,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unhandled promise rejection in async error handler
 - Add regression test for boundary date calculations
 - Add JSDoc type annotations for internal functions
+- Ensure all async rejections provide meaningful Error instances
