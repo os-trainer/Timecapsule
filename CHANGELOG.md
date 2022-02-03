@@ -10861,3 +10861,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test invalid input handling and expected exceptions
 - Implement batch processing utility for array inputs
 - Cover complex configuration inheritance in tests
+- Fix incorrect default parameter assignment
