@@ -3643,3 +3643,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement command dispatcher with routing logic
 - Create utility library structure
 - Handle empty environment variables without error
+- Clarify difference between distribution algorithms
