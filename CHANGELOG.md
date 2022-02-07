@@ -10865,3 +10865,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement command line flag alias mapping
 - Add configuration for code coverage reporting
 - Add schema validation for configuration objects
+- Add detailed architecture overview and component diagram
