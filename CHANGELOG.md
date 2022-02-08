@@ -3645,3 +3645,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty environment variables without error
 - Clarify difference between distribution algorithms
 - Add validation rules for date range boundaries
+- Improve error messages with actionable resolution hints
