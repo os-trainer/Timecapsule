@@ -10870,3 +10870,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add integration test verifying end-to-end workflow execution
 - Add test cases for boolean flag normalization
 - Correct path delimiter handling across operating systems
+- Improve markdown formatting and typographic consistency in README
