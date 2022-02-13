@@ -3655,3 +3655,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure engine version compatibility constraints
 - Add unit tests for progress reporter events
 - Fix memory leak in recurring event listeners
+- Add performance recommendations for large-scale runs
