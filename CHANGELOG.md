@@ -3654,3 +3654,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Remove dead code branches and redundant checks
 - Configure engine version compatibility constraints
 - Add unit tests for progress reporter events
+- Fix memory leak in recurring event listeners
