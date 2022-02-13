@@ -3657,3 +3657,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak in recurring event listeners
 - Add performance recommendations for large-scale runs
 - Cover dry-run execution mode with assertion checks
+- Refactor state management into centralized store
