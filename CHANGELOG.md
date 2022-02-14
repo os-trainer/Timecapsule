@@ -10876,3 +10876,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add validation rules for date range boundaries
 - Refactor date calculation routines for better readability
 - Fix off-by-one error in collection index calculations
+- Test timezone offset handling with varying dates
