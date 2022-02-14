@@ -10878,3 +10878,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix off-by-one error in collection index calculations
 - Test timezone offset handling with varying dates
 - Clean up dead code and obsolete helper methods
+- Implement query filter helpers for collection items
