@@ -3659,3 +3659,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover dry-run execution mode with assertion checks
 - Refactor state management into centralized store
 - Fix improper resource cleanup on exit
+- Add FAQ section covering common configuration questions
