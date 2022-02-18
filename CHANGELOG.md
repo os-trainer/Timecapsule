@@ -10889,3 +10889,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak in recurring event listeners
 - Add quick reference cheat sheet for CLI commands
 - Add support for custom output destination paths
+- Refactor caching mechanism for cleaner abstraction
