@@ -3666,3 +3666,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add integration test verifying end-to-end workflow execution
 - Remove obsolete polyfills and legacy compatibility shims
 - Decouple output formatting from core computation logic
+- Document template options for supported project layouts
