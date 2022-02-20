@@ -3671,3 +3671,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct output formatting when statistics are zero
 - Clean up project structure and remove redundant exports
 - Configure semantic versioning and release scripts
+- Implement configuration merging priority logic
