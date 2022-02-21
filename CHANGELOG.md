@@ -10894,3 +10894,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize indentation and line wrapping across files
 - Add regression tests for previous edge-case bugs
 - Improve readability of complex conditional evaluations
+- Correct regex pattern matching for date validation
