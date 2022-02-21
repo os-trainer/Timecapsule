@@ -10893,3 +10893,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document test execution commands and coverage reports
 - Standardize indentation and line wrapping across files
 - Add regression tests for previous edge-case bugs
+- Improve readability of complex conditional evaluations
