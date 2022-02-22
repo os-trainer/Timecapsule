@@ -3678,3 +3678,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle process interruption cleanly during generation
 - Add test cases for boolean flag normalization
 - Add defensive fallbacks for unexpected null values
+- Add boundary condition tests for numeric ranges
