@@ -3676,3 +3676,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test timezone offset handling with varying dates
 - Handle unexpected zero-length arrays in reducer logic
 - Handle process interruption cleanly during generation
+- Add test cases for boolean flag normalization
