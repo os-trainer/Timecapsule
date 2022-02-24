@@ -3685,3 +3685,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle timeout gracefully during external operations
 - Implement query filter helpers for collection items
 - Improve separation of concerns between CLI and core engine
+- Cover edge cases in date range calculation logic
