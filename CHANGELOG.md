@@ -3686,3 +3686,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement query filter helpers for collection items
 - Improve separation of concerns between CLI and core engine
 - Cover edge cases in date range calculation logic
+- Fix validation logic for boundary date ranges
