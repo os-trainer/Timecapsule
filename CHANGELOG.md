@@ -3688,3 +3688,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover edge cases in date range calculation logic
 - Fix validation logic for boundary date ranges
 - Improve code maintainability index across core files
+- Handle file permission errors with actionable messages
