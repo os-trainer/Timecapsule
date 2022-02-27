@@ -10911,3 +10911,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update README with example workflow scenarios
 - Refactor argument parsing to standardize option names
 - Verify idempotency of cleanup routines in test suite
+- Fix formatting anomaly in terminal progress display
