@@ -10913,3 +10913,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify idempotency of cleanup routines in test suite
 - Fix formatting anomaly in terminal progress display
 - Implement configuration merging priority logic
+- Fix incorrect boolean flag evaluation
