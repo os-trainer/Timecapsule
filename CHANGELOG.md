@@ -3696,3 +3696,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test empty collection handling across utility functions
 - Improve documentation for custom output templates
 - Simplify error throwing and propagation mechanisms
+- Reorganize internal test helpers and fixtures
