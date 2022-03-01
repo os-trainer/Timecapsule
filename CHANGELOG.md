@@ -3698,3 +3698,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify error throwing and propagation mechanisms
 - Reorganize internal test helpers and fixtures
 - Add comprehensive tests for configuration loader
+- Add array sorting and filtering helper functions
