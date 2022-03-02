@@ -10916,3 +10916,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect boolean flag evaluation
 - Add URL query string builder and parser
 - Handle file permission errors with actionable messages
+- Improve README with comprehensive getting-started guide
