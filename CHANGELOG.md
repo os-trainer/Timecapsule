@@ -10918,3 +10918,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle file permission errors with actionable messages
 - Improve README with comprehensive getting-started guide
 - Add unit tests for rate limiting and throttling helpers
+- Fix incorrect default parameter assignment
