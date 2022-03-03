@@ -10920,3 +10920,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for rate limiting and throttling helpers
 - Fix incorrect default parameter assignment
 - Add acknowledgments and open-source project credits
+- Fix memory leak caused by unreleased cache handles
