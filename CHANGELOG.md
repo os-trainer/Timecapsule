@@ -10924,3 +10924,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for verbose diagnostic output
 - Improve consistency of return structures across helpers
 - Streamline event dispatching mechanism
+- Configure automated dependency review settings
