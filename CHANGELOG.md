@@ -10926,3 +10926,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline event dispatching mechanism
 - Configure automated dependency review settings
 - Cover deep object merge edge cases in unit tests
+- Implement defensive parameter sanitization
