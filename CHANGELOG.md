@@ -3703,3 +3703,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct path delimiter handling across operating systems
 - Add detailed architecture overview and component diagram
 - Implement template interpolation utility
+- Fix unhandled promise rejection in async error handler
