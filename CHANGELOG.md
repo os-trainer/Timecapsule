@@ -10922,3 +10922,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add acknowledgments and open-source project credits
 - Fix memory leak caused by unreleased cache handles
 - Add support for verbose diagnostic output
+- Improve consistency of return structures across helpers
