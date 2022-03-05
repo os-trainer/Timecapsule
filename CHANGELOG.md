@@ -3706,3 +3706,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unhandled promise rejection in async error handler
 - Implement pagination helper for collection data
 - Refactor promise handling to use modern async/await patterns
+- Implement customizable output formatting options
