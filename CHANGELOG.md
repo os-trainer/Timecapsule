@@ -3708,3 +3708,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor promise handling to use modern async/await patterns
 - Implement customizable output formatting options
 - Replace magic numbers with named configuration constants
+- Consolidate duplicate string sanitization routines
