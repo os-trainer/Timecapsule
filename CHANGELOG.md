@@ -3709,3 +3709,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement customizable output formatting options
 - Replace magic numbers with named configuration constants
 - Consolidate duplicate string sanitization routines
+- Handle malformed JSON configuration without crashing
