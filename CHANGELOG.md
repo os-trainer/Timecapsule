@@ -10930,3 +10930,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add parameter type checks to public library methods
 - Resolve incorrect return value for edge-case queries
 - Document date format requirements and accepted tokens
+- Add safe deep clone utility function
