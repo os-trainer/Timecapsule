@@ -3711,3 +3711,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate duplicate string sanitization routines
 - Handle malformed JSON configuration without crashing
 - Add safe deep clone utility function
+- Handle empty input collections without throwing exceptions
