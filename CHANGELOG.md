@@ -10934,3 +10934,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle missing configuration gracefully with defaults
 - Decompose monolithic workflow function into focused steps
 - Add basic data processing and normalization pipeline
+- Correctly escape special characters in terminal output
