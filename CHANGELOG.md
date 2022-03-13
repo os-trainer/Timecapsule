@@ -3721,3 +3721,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve naming consistency across internal interfaces
 - Verify error messages for missing required options
 - Implement numeric range clamping helper
+- Improve consistency of return structures across helpers
