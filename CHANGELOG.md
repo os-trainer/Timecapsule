@@ -10945,3 +10945,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement object transformation and mapping utilities
 - Adjust linting and formatting configuration rules
 - Handle unexpected zero-length arrays in reducer logic
+- Add descriptive error context when file reading fails
