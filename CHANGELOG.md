@@ -3728,3 +3728,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement retry mechanism for transient operations
 - Add security considerations and safe execution notes
 - Handle missing configuration gracefully with defaults
+- Add performance assertions for large collection processing
