@@ -10950,3 +10950,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add usage notes for multi-year historical generation
 - Add reusable string formatting utility functions
 - Add unit tests for input validation helper functions
+- Clean up temporary files and ensure deterministic cleanup
