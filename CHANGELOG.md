@@ -3733,3 +3733,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [4.6.0]
 ### Changed
 - Update test runner configuration for isolated execution
+- Fix argument parsing when flag value contains spaces
