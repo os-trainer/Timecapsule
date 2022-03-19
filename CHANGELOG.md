@@ -10959,3 +10959,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix improper resource cleanup on exit
 - Improve input handling and defensive type assertions
 - Verify error messages for missing required options
+- Add support for JSON and plain text output formats
