@@ -10966,3 +10966,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement helper utilities for parameter parsing
 - Add assertions for default configuration fallbacks
 - Refactor state management into centralized store
+- Add configuration for source map generation
