@@ -3741,3 +3741,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add npm script for running linter in check-only mode
 - Implement file reading helper with encoding support
 - Decompose monolithic workflow function into focused steps
+- Cover complex configuration inheritance in tests
