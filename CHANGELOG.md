@@ -3742,3 +3742,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement file reading helper with encoding support
 - Decompose monolithic workflow function into focused steps
 - Cover complex configuration inheritance in tests
+- Add examples of integrating tool into automated scripts
