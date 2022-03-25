@@ -10969,3 +10969,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration for source map generation
 - Add array sorting and filtering helper functions
 - Verify graceful handling of malformed input data
+- Refactor configuration fallback resolution
