@@ -10970,3 +10970,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add array sorting and filtering helper functions
 - Verify graceful handling of malformed input data
 - Refactor configuration fallback resolution
+- Add FAQ section covering common configuration questions
