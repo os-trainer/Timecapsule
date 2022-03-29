@@ -3750,3 +3750,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize indentation and line wrapping across files
 - Refactor caching mechanism for cleaner abstraction
 - Fix inaccurate execution duration calculation
+- Cover edge cases in date range calculation logic
