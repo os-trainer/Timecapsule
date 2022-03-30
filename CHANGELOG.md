@@ -10983,3 +10983,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions for running tests and linter locally
 - Add performance assertions for large collection processing
 - Document distribution patterns and statistical behavior
+- Add multi-step workflow runner utility
