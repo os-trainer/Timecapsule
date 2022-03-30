@@ -10985,3 +10985,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document distribution patterns and statistical behavior
 - Add multi-step workflow runner utility
 - Refactor array processing routines to use functional methods
+- Document environment variable configuration overrides
