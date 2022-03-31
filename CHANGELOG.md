@@ -10988,3 +10988,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document environment variable configuration overrides
 - Fix argument parsing when flag value contains spaces
 - Add environment variable override support
+- Extract terminal output logic into presentation layer
