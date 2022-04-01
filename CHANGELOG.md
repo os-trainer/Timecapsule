@@ -10992,3 +10992,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression tests for previous edge-case bugs
 - Add key-value store wrapper for memory cache
 - Rename internal variables and parameters for clarity
+- Handle empty input collections without throwing exceptions
