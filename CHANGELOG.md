@@ -10994,3 +10994,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Rename internal variables and parameters for clarity
 - Handle empty input collections without throwing exceptions
 - Update API reference documentation for core exports
+- Fix unhandled promise rejection in async error handler
