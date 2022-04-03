@@ -10999,3 +10999,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle process interruption cleanly during generation
 - Add boundary condition tests for numeric ranges
 - Add examples of integrating tool into automated scripts
+- Correct error handling when input file is absent
