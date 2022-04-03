@@ -10996,3 +10996,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update API reference documentation for core exports
 - Fix unhandled promise rejection in async error handler
 - Add usage examples for common command-line options
+- Handle process interruption cleanly during generation
