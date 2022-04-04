@@ -11002,3 +11002,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct error handling when input file is absent
 - Decouple output formatting from core computation logic
 - Improve inline code documentation and parameter descriptions
+- Test custom date formatting tokens and output strings
