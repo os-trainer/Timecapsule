@@ -11001,3 +11001,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add examples of integrating tool into automated scripts
 - Correct error handling when input file is absent
 - Decouple output formatting from core computation logic
+- Improve inline code documentation and parameter descriptions
