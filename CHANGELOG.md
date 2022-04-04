@@ -3762,3 +3762,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Set up base development environment and tooling
 - Add usage notes for multi-year historical generation
 - Add safe string truncation helper
+- Verify idempotency of cleanup routines in test suite
