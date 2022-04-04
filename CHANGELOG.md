@@ -3765,3 +3765,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify idempotency of cleanup routines in test suite
 - Correct fallback order for configuration properties
 - Correct output formatting when statistics are zero
+- Add input validation for user-supplied options
