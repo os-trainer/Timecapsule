@@ -11003,3 +11003,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decouple output formatting from core computation logic
 - Improve inline code documentation and parameter descriptions
 - Test custom date formatting tokens and output strings
+- Fix intermittent failure in date boundary comparison
