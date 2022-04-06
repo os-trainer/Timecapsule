@@ -11005,3 +11005,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test custom date formatting tokens and output strings
 - Fix intermittent failure in date boundary comparison
 - Extract progress tracking into dedicated emitter
+- Add test harness for simulated time progression
