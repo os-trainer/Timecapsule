@@ -11006,3 +11006,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix intermittent failure in date boundary comparison
 - Extract progress tracking into dedicated emitter
 - Add test harness for simulated time progression
+- Set up standard project conventions and layout
