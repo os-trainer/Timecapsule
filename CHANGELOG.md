@@ -11010,3 +11010,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline option parsing and default resolution
 - Implement summary statistics calculation helper
 - Add strict boundary checks to numeric operations
+- Correct fallback order for configuration properties
