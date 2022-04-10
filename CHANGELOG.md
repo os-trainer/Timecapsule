@@ -11015,3 +11015,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify complex arithmetic expressions in date logic
 - Add unit tests for collection filter predicates
 - Implement numeric range clamping helper
+- Restructure project exports to avoid circular dependencies
