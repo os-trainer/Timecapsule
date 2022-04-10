@@ -11017,3 +11017,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement numeric range clamping helper
 - Restructure project exports to avoid circular dependencies
 - Fix duplicate item registration in event subscriber list
+- Streamline parameter passing across internal layers
