@@ -3770,3 +3770,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Remove unused code and obsolete internal variables
 - Add support for verbose diagnostic output
 - Fix validation logic for boundary date ranges
+- Ensure strict immutability of configuration defaults
