@@ -11026,3 +11026,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Tune compiler and transpiler configuration options
 - Add unit tests for terminal colorization toggles
 - Add command-line argument parser for configuration flags
+- Add tests for custom output destination formatting
