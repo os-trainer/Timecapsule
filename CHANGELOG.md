@@ -11025,3 +11025,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for rate limiting and throttling helpers
 - Tune compiler and transpiler configuration options
 - Add unit tests for terminal colorization toggles
+- Add command-line argument parser for configuration flags
