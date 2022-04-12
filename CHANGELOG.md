@@ -3774,3 +3774,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modularize schema definitions and validation rules
 - Update README with example workflow scenarios
 - Add unit tests for input validation helper functions
+- Implement progress reporter for long-running workflows
