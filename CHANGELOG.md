@@ -11039,3 +11039,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle undefined configuration sections safely
 - Add lightweight event emitter implementation
 - Add test cases for boolean flag normalization
+- Fix inconsistent return type on validation failure
