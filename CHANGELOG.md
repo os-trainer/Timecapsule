@@ -3787,3 +3787,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update license field and attribution in package manifest
 - Clean up stray debug statements and console output
 - Test command line help output and option documentation
+- Streamline event dispatching mechanism
