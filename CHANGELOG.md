@@ -11048,3 +11048,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement stream-based chunk processor
 - Refactor configuration fallback resolution
 - Remove unused code and obsolete internal variables
+- Add structured logging helper with log levels
