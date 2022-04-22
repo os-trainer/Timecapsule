@@ -3790,3 +3790,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline event dispatching mechanism
 - Fix intermittent failure in date boundary comparison
 - Add safe deep clone utility function
+- Extract common constants into centralized configuration
