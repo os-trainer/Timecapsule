@@ -3794,3 +3794,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add troubleshooting notes for frequent setup issues
 - Add unit tests for terminal colorization toggles
 - Improve modularity of utility function parameter signatures
+- Fix inconsistent return type on validation failure
