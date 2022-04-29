@@ -11061,3 +11061,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct output formatting when statistics are zero
 - Verify error messages for missing required options
 - Document preview mode and dry-run visualization
+- Refactor promise handling to use modern async/await patterns
