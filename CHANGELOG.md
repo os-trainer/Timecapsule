@@ -11062,3 +11062,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify error messages for missing required options
 - Document preview mode and dry-run visualization
 - Refactor promise handling to use modern async/await patterns
+- Fix incorrect status code returned on input error
