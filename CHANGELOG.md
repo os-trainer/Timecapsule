@@ -11065,3 +11065,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect status code returned on input error
 - Add step-by-step tutorial for sample project generation
 - Reorganize internal test helpers and fixtures
+- Correct negative duration calculations across days
