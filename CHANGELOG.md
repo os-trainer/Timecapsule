@@ -11067,3 +11067,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reorganize internal test helpers and fixtures
 - Correct negative duration calculations across days
 - Improve package scripts for building and testing
+- Add snapshot tests for terminal output formatters
