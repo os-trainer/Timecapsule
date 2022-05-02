@@ -3802,3 +3802,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document preview mode and dry-run visualization
 - Eliminate code duplication in internal helper branches
 - Add support for custom output destination paths
+- Extract date formatting templates into reusable helpers
