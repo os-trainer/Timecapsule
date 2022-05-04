@@ -3808,3 +3808,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update lockfile with verified dependency tree
 - Consolidate error definitions and status messages
 - Add array sorting and filtering helper functions
+- Fix duplicate item registration in event subscriber list
