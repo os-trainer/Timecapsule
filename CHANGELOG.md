@@ -11082,3 +11082,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement flexible filter predicate builder
 - Fix missing return statement in error branch
 - Handle empty environment variables without error
+- Modularize schema definitions and validation rules
