@@ -3809,3 +3809,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate error definitions and status messages
 - Add array sorting and filtering helper functions
 - Fix duplicate item registration in event subscriber list
+- Document date format requirements and accepted tokens
