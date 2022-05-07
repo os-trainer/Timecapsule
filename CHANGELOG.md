@@ -11088,3 +11088,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve readability of complex conditional evaluations
 - Add verification tests for safe JSON parsing utilities
 - Add basic application bootstrap logic
+- Improve separation of concerns between CLI and core engine
