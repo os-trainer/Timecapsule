@@ -3816,3 +3816,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add usage examples for common command-line options
 - Implement dry-run execution preview mode
 - Fix unhandled promise rejection in async error handler
+- Add safe string truncation helper
