@@ -11090,3 +11090,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic application bootstrap logic
 - Improve separation of concerns between CLI and core engine
 - Eliminate code duplication in internal helper branches
+- Improve error messages with actionable resolution hints
