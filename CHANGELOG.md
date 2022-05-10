@@ -3818,3 +3818,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unhandled promise rejection in async error handler
 - Add safe string truncation helper
 - Test timezone offset handling with varying dates
+- Add JSDoc type annotations for internal functions
