@@ -3825,3 +3825,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add parameter type checks to public library methods
 - Improve test coverage across utility modules
 - Add key-value store wrapper for memory cache
+- Fix incorrect default parameter assignment
