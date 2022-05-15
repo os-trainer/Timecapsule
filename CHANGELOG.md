@@ -11097,3 +11097,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve README with comprehensive getting-started guide
 - Restructure project exports to avoid circular dependencies
 - Implement batch processing utility for array inputs
+- Handle malformed JSON configuration without crashing
