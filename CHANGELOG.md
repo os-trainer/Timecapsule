@@ -3831,3 +3831,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement retry mechanism for transient operations
 - Correct regex pattern matching for date validation
 - Streamline option parsing and default resolution
+- Refactor utility functions into dedicated modules
