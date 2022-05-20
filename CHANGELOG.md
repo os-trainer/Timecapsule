@@ -11110,3 +11110,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor caching mechanism for cleaner abstraction
 - Implement deep object merging utility
 - Update changelog with recent feature additions and fixes
+- Remove obsolete polyfills and legacy compatibility shims
