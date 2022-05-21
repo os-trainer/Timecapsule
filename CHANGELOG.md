@@ -11112,3 +11112,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update changelog with recent feature additions and fixes
 - Remove obsolete polyfills and legacy compatibility shims
 - Fix intermittent failure in date boundary comparison
+- Tune lint-staged configuration for staged files
