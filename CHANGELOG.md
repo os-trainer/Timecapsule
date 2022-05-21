@@ -11111,3 +11111,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement deep object merging utility
 - Update changelog with recent feature additions and fixes
 - Remove obsolete polyfills and legacy compatibility shims
+- Fix intermittent failure in date boundary comparison
