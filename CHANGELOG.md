@@ -11114,3 +11114,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix intermittent failure in date boundary comparison
 - Tune lint-staged configuration for staged files
 - Correct output formatting when statistics are zero
+- Correct fallback order for configuration properties
