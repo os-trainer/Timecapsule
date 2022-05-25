@@ -3836,3 +3836,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [4.7.0]
 ### Changed
 - Add assertions to catch illegal state during execution
+- Add URL query string builder and parser
