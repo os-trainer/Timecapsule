@@ -11124,3 +11124,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix argument parsing when flag value contains spaces
 - Add unit tests for string formatting and truncation helpers
 - Add custom error classes for domain-specific failures
+- Fix circular reference error in object serialization
