@@ -11122,3 +11122,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement template interpolation utility
 - Add descriptive error context when file reading fails
 - Fix argument parsing when flag value contains spaces
+- Add unit tests for string formatting and truncation helpers
