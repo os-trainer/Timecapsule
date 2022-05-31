@@ -11135,3 +11135,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve modularity of utility function parameter signatures
 - Cover dry-run execution mode with assertion checks
 - Refactor state management into centralized store
+- Add usage notes for multi-year historical generation
