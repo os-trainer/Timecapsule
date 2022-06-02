@@ -11138,3 +11138,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add usage notes for multi-year historical generation
 - Handle file permission errors with actionable messages
 - Add comprehensive tests for configuration loader
+- Add input sanitization for file paths
