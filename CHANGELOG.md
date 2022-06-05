@@ -3845,3 +3845,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct string trimming logic for multi-line inputs
 - Implement pagination helper for collection data
 - Add unit tests for rate limiting and throttling helpers
+- Improve consistency of return structures across helpers
