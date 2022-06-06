@@ -11144,3 +11144,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test timezone offset handling with varying dates
 - Reorganize internal test helpers and fixtures
 - Correct timestamp calculation for timezone offsets
+- Extract file system operations into isolated adapter
