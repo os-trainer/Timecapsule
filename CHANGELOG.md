@@ -11146,3 +11146,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct timestamp calculation for timezone offsets
 - Extract file system operations into isolated adapter
 - Implement stream-based chunk processor
+- Fix memory leak in recurring event listeners
