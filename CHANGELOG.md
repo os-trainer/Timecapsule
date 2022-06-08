@@ -11147,3 +11147,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract file system operations into isolated adapter
 - Implement stream-based chunk processor
 - Fix memory leak in recurring event listeners
+- Add task definitions for local development tooling
