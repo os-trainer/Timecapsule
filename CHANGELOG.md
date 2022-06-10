@@ -11157,3 +11157,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add quick reference cheat sheet for CLI commands
 - Add basic data processing and normalization pipeline
 - Decouple output formatting from core computation logic
+- Improve markdown formatting and typographic consistency in README
