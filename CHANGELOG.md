@@ -11150,3 +11150,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add task definitions for local development tooling
 - Add boundary condition tests for numeric ranges
 - Refactor argument parsing to standardize option names
+- Consolidate duplicate string sanitization routines
