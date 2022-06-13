@@ -11160,3 +11160,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve markdown formatting and typographic consistency in README
 - Adjust linting and formatting configuration rules
 - Add strict boundary checks to numeric operations
+- Add support for JSON and plain text output formats
