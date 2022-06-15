@@ -3861,3 +3861,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve documentation for programmatic JavaScript API
 - Fix memory leak caused by unreleased cache handles
 - Implement batch processing utility for array inputs
+- Improve inline code documentation and parameter descriptions
