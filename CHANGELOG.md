@@ -3860,3 +3860,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add elapsed execution time measurement helper
 - Improve documentation for programmatic JavaScript API
 - Fix memory leak caused by unreleased cache handles
+- Implement batch processing utility for array inputs
