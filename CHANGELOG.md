@@ -3857,3 +3857,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor caching mechanism for cleaner abstraction
 - Modernize internal loop constructs and data structures
 - Fix formatting anomaly in terminal progress display
+- Add elapsed execution time measurement helper
