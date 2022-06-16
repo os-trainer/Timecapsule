@@ -3867,3 +3867,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document template options for supported project layouts
 - Configure semantic versioning and release scripts
 - Implement event listener registry for status events
+- Extract file system operations into isolated adapter
