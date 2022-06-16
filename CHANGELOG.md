@@ -3865,3 +3865,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix type coercion error during numeric comparisons
 - Improve input handling and defensive type assertions
 - Document template options for supported project layouts
+- Configure semantic versioning and release scripts
