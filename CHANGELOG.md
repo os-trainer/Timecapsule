@@ -11168,3 +11168,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement dry-run execution preview mode
 - Handle timeout gracefully during external operations
 - Extract common constants into centralized configuration
+- Document test execution commands and coverage reports
