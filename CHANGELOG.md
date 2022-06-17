@@ -11169,3 +11169,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle timeout gracefully during external operations
 - Extract common constants into centralized configuration
 - Document test execution commands and coverage reports
+- Ensure consistent parameter ordering in helper signatures
