@@ -11175,3 +11175,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test invalid input handling and expected exceptions
 - Add acknowledgments and open-source project credits
 - Verify proper error types are thrown on invalid arguments
+- Fix incorrect boolean flag evaluation
