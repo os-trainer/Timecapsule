@@ -11173,3 +11173,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up project structure and remove redundant exports
 - Implement configuration merging priority logic
 - Test invalid input handling and expected exceptions
+- Add acknowledgments and open-source project credits
