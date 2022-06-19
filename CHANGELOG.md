@@ -3870,3 +3870,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract file system operations into isolated adapter
 - Add test cases for boolean flag normalization
 - Handle null and undefined options defensively
+- Document configuration options and default parameters
