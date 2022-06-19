@@ -3869,3 +3869,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement event listener registry for status events
 - Extract file system operations into isolated adapter
 - Add test cases for boolean flag normalization
+- Handle null and undefined options defensively
