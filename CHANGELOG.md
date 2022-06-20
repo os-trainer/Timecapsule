@@ -3876,3 +3876,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add table of contents to main project documentation
 - Handle partial input objects during configuration merge
 - Add comments explaining subtle edge cases in date math
+- Decompose monolithic workflow function into focused steps
