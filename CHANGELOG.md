@@ -11176,3 +11176,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add acknowledgments and open-source project credits
 - Verify proper error types are thrown on invalid arguments
 - Fix incorrect boolean flag evaluation
+- Add FAQ section covering common configuration questions
