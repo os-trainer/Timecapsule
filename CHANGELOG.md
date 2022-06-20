@@ -3874,3 +3874,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor configuration fallback resolution
 - Correct timestamp calculation for timezone offsets
 - Add table of contents to main project documentation
+- Handle partial input objects during configuration merge
