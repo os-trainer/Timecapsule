@@ -3873,3 +3873,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document configuration options and default parameters
 - Refactor configuration fallback resolution
 - Correct timestamp calculation for timezone offsets
+- Add table of contents to main project documentation
