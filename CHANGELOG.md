@@ -11178,3 +11178,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect boolean flag evaluation
 - Add FAQ section covering common configuration questions
 - Refactor utility functions into dedicated modules
+- Add system status inspection helper
