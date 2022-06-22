@@ -11180,3 +11180,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor utility functions into dedicated modules
 - Add system status inspection helper
 - Clarify installation instructions and system prerequisites
+- Handle empty input collections without throwing exceptions
