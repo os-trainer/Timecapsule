@@ -3878,3 +3878,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add comments explaining subtle edge cases in date math
 - Decompose monolithic workflow function into focused steps
 - Verify graceful handling of malformed input data
+- Fix memory leak in recurring event listeners
