@@ -11192,3 +11192,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement customizable output formatting options
 - Reduce duplicated logic across helper utilities
 - Handle missing configuration gracefully with defaults
+- Implement command line flag alias mapping
