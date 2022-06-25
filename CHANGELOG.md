@@ -11190,3 +11190,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unexpected empty input parsing in command line options
 - Add integration test verifying end-to-end workflow execution
 - Implement customizable output formatting options
+- Reduce duplicated logic across helper utilities
