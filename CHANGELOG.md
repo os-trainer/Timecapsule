@@ -11196,3 +11196,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add table of contents to main project documentation
 - Handle partial input objects during configuration merge
 - Improve documentation for custom output templates
+- Refactor promise handling to use modern async/await patterns
