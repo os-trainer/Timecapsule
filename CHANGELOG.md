@@ -11193,3 +11193,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reduce duplicated logic across helper utilities
 - Handle missing configuration gracefully with defaults
 - Implement command line flag alias mapping
+- Add table of contents to main project documentation
