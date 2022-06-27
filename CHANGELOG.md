@@ -3885,3 +3885,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up stray debug statements and console output
 - Correct error handling when input file is absent
 - Test invalid input handling and expected exceptions
+- Refactor utility functions into dedicated modules
