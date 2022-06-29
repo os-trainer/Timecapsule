@@ -11202,3 +11202,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add assertions for default configuration fallbacks
 - Fix unhandled promise rejection in async error handler
 - Add URL query string builder and parser
+- Verify idempotency of cleanup routines in test suite
