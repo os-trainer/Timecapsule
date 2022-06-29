@@ -11200,3 +11200,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test custom date formatting tokens and output strings
 - Configure automated pre-commit code verification
 - Add assertions for default configuration fallbacks
+- Fix unhandled promise rejection in async error handler
