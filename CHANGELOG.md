@@ -11207,3 +11207,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document error handling strategies and exit codes
 - Add comments explaining subtle edge cases in date math
 - Implement template interpolation utility
+- Fix validation logic for boundary date ranges
