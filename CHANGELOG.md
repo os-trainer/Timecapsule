@@ -3897,3 +3897,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement customizable output formatting options
 - Add unit tests for collection filter predicates
 - Consolidate string manipulation utilities
+- Correct boundary check in range validation utility
