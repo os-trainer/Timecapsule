@@ -3895,3 +3895,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix intermittent failure in date boundary comparison
 - Clean up temporary files and ensure deterministic cleanup
 - Implement customizable output formatting options
+- Add unit tests for collection filter predicates
