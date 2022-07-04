@@ -11209,3 +11209,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement template interpolation utility
 - Fix validation logic for boundary date ranges
 - Cover complex configuration inheritance in tests
+- Correct boundary check in range validation utility
