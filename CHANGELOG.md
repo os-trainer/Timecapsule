@@ -11210,3 +11210,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix validation logic for boundary date ranges
 - Cover complex configuration inheritance in tests
 - Correct boundary check in range validation utility
+- Add test suite for distribution weight calculations
