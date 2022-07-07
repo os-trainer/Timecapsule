@@ -3906,3 +3906,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add parameter type checks to public library methods
 - Add support for custom output destination paths
 - Add instructions for running tests and linter locally
+- Resolve incorrect return value for edge-case queries
