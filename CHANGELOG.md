@@ -3907,3 +3907,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for custom output destination paths
 - Add instructions for running tests and linter locally
 - Resolve incorrect return value for edge-case queries
+- Cover edge cases in date range calculation logic
