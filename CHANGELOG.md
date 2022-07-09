@@ -11216,3 +11216,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify collection mapping and transformation pipelines
 - Fix edge case in input handling for empty strings
 - Modernize internal loop constructs and data structures
+- Cover deep object merge edge cases in unit tests
