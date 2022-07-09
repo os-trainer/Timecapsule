@@ -11219,3 +11219,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover deep object merge edge cases in unit tests
 - Update project dependencies to latest secure versions
 - Fix string encoding issue when processing special characters
+- Cover edge cases in date range calculation logic
