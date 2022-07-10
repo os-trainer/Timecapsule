@@ -11222,3 +11222,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover edge cases in date range calculation logic
 - Add validation rules for date range boundaries
 - Handle empty environment variables without error
+- Add unit tests for collection filter predicates
