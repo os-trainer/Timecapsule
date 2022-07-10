@@ -11221,3 +11221,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix string encoding issue when processing special characters
 - Cover edge cases in date range calculation logic
 - Add validation rules for date range boundaries
+- Handle empty environment variables without error
