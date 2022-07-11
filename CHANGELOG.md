@@ -3912,3 +3912,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix edge case in input handling for empty strings
 - Add environment variable override support
 - Fix formatting anomaly in terminal progress display
+- Consolidate error definitions and status messages
