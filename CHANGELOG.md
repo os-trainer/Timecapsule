@@ -3910,3 +3910,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover edge cases in date range calculation logic
 - Initialize workspace configuration files
 - Fix edge case in input handling for empty strings
+- Add environment variable override support
