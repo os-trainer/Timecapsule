@@ -11229,3 +11229,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add array sorting and filtering helper functions
 - Handle unexpected zero-length arrays in reducer logic
 - Extract terminal output logic into presentation layer
+- Add input validation for user-supplied options
