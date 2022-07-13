@@ -3917,3 +3917,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement safe JSON parsing with fallback values
 - Refactor promise handling to use modern async/await patterns
 - Add performance recommendations for large-scale runs
+- Fix incorrect status code returned on input error
