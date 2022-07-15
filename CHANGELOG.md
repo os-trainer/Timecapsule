@@ -11233,3 +11233,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add performance assertions for large collection processing
 - Add examples comparing standard and conventional commits
 - Clean up dead code and obsolete helper methods
+- Add unit tests for progress reporter events
