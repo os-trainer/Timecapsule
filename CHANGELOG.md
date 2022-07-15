@@ -3921,3 +3921,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage for error recovery branches
 - Fix incorrect boolean flag evaluation
 - Add npm script for running unit test suite
+- Cover malformed command line options in test suite
