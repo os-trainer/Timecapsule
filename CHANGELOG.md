@@ -3922,3 +3922,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect boolean flag evaluation
 - Add npm script for running unit test suite
 - Cover malformed command line options in test suite
+- Improve markdown formatting and typographic consistency in README
