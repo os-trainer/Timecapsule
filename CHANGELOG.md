@@ -11236,3 +11236,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for progress reporter events
 - Fix incorrect default parameter assignment
 - Add multi-step workflow runner utility
+- Implement retry mechanism for transient operations
