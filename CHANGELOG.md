@@ -3925,3 +3925,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve markdown formatting and typographic consistency in README
 - Rename internal variables and parameters for clarity
 - Remove dead code branches and redundant checks
+- Modularize command-line argument processing logic
