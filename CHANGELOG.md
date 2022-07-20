@@ -3927,3 +3927,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Remove dead code branches and redundant checks
 - Modularize command-line argument processing logic
 - Implement defensive parameter sanitization
+- Fix infinite loop risk in collection traversal logic
