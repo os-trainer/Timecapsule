@@ -3928,3 +3928,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modularize command-line argument processing logic
 - Implement defensive parameter sanitization
 - Fix infinite loop risk in collection traversal logic
+- Add regression test for boundary date calculations
