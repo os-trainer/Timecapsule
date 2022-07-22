@@ -3934,3 +3934,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover dry-run execution mode with assertion checks
 - Extract file system operations into isolated adapter
 - Improve consistency of option validation error messages
+- Handle unexpected zero-length arrays in reducer logic
