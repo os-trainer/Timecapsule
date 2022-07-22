@@ -3932,3 +3932,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add FAQ section covering common configuration questions
 - Add input sanitization for file paths
 - Cover dry-run execution mode with assertion checks
+- Extract file system operations into isolated adapter
