@@ -3935,3 +3935,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract file system operations into isolated adapter
 - Improve consistency of option validation error messages
 - Handle unexpected zero-length arrays in reducer logic
+
+## [4.8.0]
+### Changed
+- Verify retry logic behavior under simulated failures
