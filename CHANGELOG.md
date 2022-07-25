@@ -11244,3 +11244,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix infinite loop risk in collection traversal logic
 - Add regression test for boundary date calculations
 - Update README with example workflow scenarios
+- Add structured logging helper with log levels
