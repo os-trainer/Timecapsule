@@ -11242,3 +11242,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modularize schema definitions and validation rules
 - Verify retry logic behavior under simulated failures
 - Fix infinite loop risk in collection traversal logic
+- Add regression test for boundary date calculations
