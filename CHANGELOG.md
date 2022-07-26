@@ -3953,3 +3953,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add boundary condition tests for numeric ranges
 - Add command-line argument parser for configuration flags
 - Cover deep object merge edge cases in unit tests
+- Refactor argument parsing to standardize option names
