@@ -3955,3 +3955,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover deep object merge edge cases in unit tests
 - Refactor argument parsing to standardize option names
 - Add code comments explaining complex date mathematics
+- Clean up project structure and remove redundant exports
