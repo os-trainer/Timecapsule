@@ -3957,3 +3957,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add code comments explaining complex date mathematics
 - Clean up project structure and remove redundant exports
 - Fix string encoding issue when processing special characters
+- Add unit tests for input validation helper functions
