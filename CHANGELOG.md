@@ -11252,3 +11252,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Tune compiler and transpiler configuration options
 - Fix incorrect status code returned on input error
 - Extract progress tracking into dedicated emitter
+- Add custom formatting options for summary tables
