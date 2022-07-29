@@ -11253,3 +11253,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect status code returned on input error
 - Extract progress tracking into dedicated emitter
 - Add custom formatting options for summary tables
+- Fix inaccurate execution duration calculation
