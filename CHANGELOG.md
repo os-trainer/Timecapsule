@@ -3969,3 +3969,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement template interpolation utility
 - Configure engine version compatibility constraints
 - Add badges for license, build status, and version
+- Fix potential race condition during file initialization
