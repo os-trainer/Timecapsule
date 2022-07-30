@@ -3966,3 +3966,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression tests for previous edge-case bugs
 - Add integration test verifying end-to-end workflow execution
 - Document logging levels and diagnostic flags
+- Implement template interpolation utility
