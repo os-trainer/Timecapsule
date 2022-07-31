@@ -11254,3 +11254,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract progress tracking into dedicated emitter
 - Add custom formatting options for summary tables
 - Fix inaccurate execution duration calculation
+- Handle missing configuration gracefully with defaults
