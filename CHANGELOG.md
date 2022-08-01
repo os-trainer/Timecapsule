@@ -3973,3 +3973,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement dry-run execution preview mode
 - Ensure consistent error status codes across exit paths
 - Refactor state management into centralized store
+- Add support for verbose diagnostic output
