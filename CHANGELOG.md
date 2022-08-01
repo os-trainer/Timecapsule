@@ -11258,3 +11258,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for input validation helper functions
 - Ensure consistent error status codes across exit paths
 - Extract reusable helper functions from main workflow
+- Configure distribution bundle output settings
