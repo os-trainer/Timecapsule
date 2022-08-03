@@ -11259,3 +11259,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure consistent error status codes across exit paths
 - Extract reusable helper functions from main workflow
 - Configure distribution bundle output settings
+- Test timezone offset handling with varying dates
