@@ -3976,3 +3976,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for verbose diagnostic output
 - Test invalid input handling and expected exceptions
 - Refactor array processing routines to use functional methods
+- Implement query filter helpers for collection items
