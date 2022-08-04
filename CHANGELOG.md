@@ -3979,3 +3979,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement query filter helpers for collection items
 - Clarify difference between distribution algorithms
 - Fix inconsistent return type on validation failure
+- Fix unhandled promise rejection in async error handler
