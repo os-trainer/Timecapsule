@@ -3981,3 +3981,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inconsistent return type on validation failure
 - Fix unhandled promise rejection in async error handler
 - Modernize internal loop constructs and data structures
+- Add snapshot tests for terminal output formatters
