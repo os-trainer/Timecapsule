@@ -11270,3 +11270,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve function organization and module cohesion
 - Handle process interruption cleanly during generation
 - Implement date formatting and parsing helpers
+- Fix duplicate item registration in event subscriber list
