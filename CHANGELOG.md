@@ -3985,3 +3985,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor utility functions into dedicated modules
 - Add schema validation for configuration objects
 - Initialize core module interfaces
+- Add input validation for user-supplied options
