@@ -3983,3 +3983,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modernize internal loop constructs and data structures
 - Add snapshot tests for terminal output formatters
 - Refactor utility functions into dedicated modules
+- Add schema validation for configuration objects
