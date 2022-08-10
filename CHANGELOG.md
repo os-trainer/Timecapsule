@@ -11275,3 +11275,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add schema validation for configuration objects
 - Implement file reading helper with encoding support
 - Reorganize internal test helpers and fixtures
+- Fix incorrect boolean flag evaluation
