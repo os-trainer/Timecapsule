@@ -11278,3 +11278,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect boolean flag evaluation
 - Establish initial source exports and entry point
 - Implement helper utilities for parameter parsing
+- Implement progress reporter for long-running workflows
