@@ -3988,3 +3988,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input validation for user-supplied options
 - Document error handling strategies and exit codes
 - Introduce mock harness for file system operations
+- Fix validation logic for boundary date ranges
