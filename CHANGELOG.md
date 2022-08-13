@@ -3993,3 +3993,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test empty collection handling across utility functions
 - Add structured logging helper with log levels
 - Update API reference documentation for core exports
+- Implement numeric range clamping helper
