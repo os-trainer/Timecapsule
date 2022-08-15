@@ -3995,3 +3995,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update API reference documentation for core exports
 - Implement numeric range clamping helper
 - Streamline parameter passing across internal layers
+- Correct output formatting when statistics are zero
