@@ -11296,3 +11296,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover malformed command line options in test suite
 - Rename internal variables and parameters for clarity
 - Implement query filter helpers for collection items
+- Correct error handling when input file is absent
