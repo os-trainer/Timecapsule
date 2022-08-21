@@ -4002,3 +4002,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data caching layer with key invalidation
 - Add tests for custom output destination formatting
 - Add detailed architecture overview and component diagram
+- Clarify frequency parameter behavior and percentage rules
