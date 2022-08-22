@@ -11300,3 +11300,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for string formatting and truncation helpers
 - Simplify conditional branching in distribution calculator
 - Initialize standard project layout and files
+- Add input validation for user-supplied options
