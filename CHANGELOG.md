@@ -4008,3 +4008,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover deep object merge edge cases in unit tests
 - Implement helper utilities for parameter parsing
 - Add examples comparing standard and conventional commits
+- Test command line help output and option documentation
