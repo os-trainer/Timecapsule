@@ -11298,3 +11298,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement query filter helpers for collection items
 - Correct error handling when input file is absent
 - Add unit tests for string formatting and truncation helpers
+- Simplify conditional branching in distribution calculator
