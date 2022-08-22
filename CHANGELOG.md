@@ -4005,3 +4005,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify frequency parameter behavior and percentage rules
 - Implement deep object merging utility
 - Correctly escape special characters in terminal output
+- Cover deep object merge edge cases in unit tests
