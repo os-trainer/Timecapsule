@@ -11303,3 +11303,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input validation for user-supplied options
 - Add badges for license, build status, and version
 - Add comprehensive tests for configuration loader
+- Restructure project exports to avoid circular dependencies
