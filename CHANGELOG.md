@@ -11305,3 +11305,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add comprehensive tests for configuration loader
 - Restructure project exports to avoid circular dependencies
 - Implement rate limiting throttle for helper actions
+- Decouple output formatting from core computation logic
