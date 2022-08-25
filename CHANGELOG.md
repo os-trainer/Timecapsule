@@ -4012,3 +4012,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for JSON and plain text output formats
 - Simplify control flow and reduce nested conditionals
 - Improve code maintainability index across core files
+- Fix intermittent failure in date boundary comparison
