@@ -4011,3 +4011,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test command line help output and option documentation
 - Add support for JSON and plain text output formats
 - Simplify control flow and reduce nested conditionals
+- Improve code maintainability index across core files
