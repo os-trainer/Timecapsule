@@ -11311,3 +11311,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add safe deep clone utility function
 - Add snapshot tests for terminal output formatters
 - Fix unexpected empty input parsing in command line options
+- Improve consistency of return structures across helpers
