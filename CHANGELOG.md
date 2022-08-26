@@ -11314,3 +11314,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve consistency of return structures across helpers
 - Verify error messages for missing required options
 - Correct negative duration calculations across days
+- Implement safe JSON parsing with fallback values
