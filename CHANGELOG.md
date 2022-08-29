@@ -11317,3 +11317,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement safe JSON parsing with fallback values
 - Fix inconsistent return type on validation failure
 - Test invalid input handling and expected exceptions
+- Implement numeric range clamping helper
