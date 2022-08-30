@@ -4013,3 +4013,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify control flow and reduce nested conditionals
 - Improve code maintainability index across core files
 - Fix intermittent failure in date boundary comparison
+- Add unit tests for string formatting and truncation helpers
