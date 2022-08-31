@@ -11320,3 +11320,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement numeric range clamping helper
 - Simplify complex arithmetic expressions in date logic
 - Document test execution commands and coverage reports
+- Fix memory leak in recurring event listeners
