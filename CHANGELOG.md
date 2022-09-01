@@ -4023,3 +4023,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage across utility modules
 - Replace magic numbers with named configuration constants
 - Handle process interruption cleanly during generation
+- Test timezone offset handling with varying dates
