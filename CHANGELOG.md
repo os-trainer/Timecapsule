@@ -11328,3 +11328,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add base configuration loader template
 - Fix incorrect default parameter assignment
 - Implement dry-run execution preview mode
+- Ensure all async rejections provide meaningful Error instances
