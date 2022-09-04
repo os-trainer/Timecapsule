@@ -11332,3 +11332,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add tests for custom output destination formatting
 - Clarify difference between distribution algorithms
 - Add support for JSON and plain text output formats
+- Add instructions for running tests and linter locally
