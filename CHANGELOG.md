@@ -11331,3 +11331,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure all async rejections provide meaningful Error instances
 - Add tests for custom output destination formatting
 - Clarify difference between distribution algorithms
+- Add support for JSON and plain text output formats
