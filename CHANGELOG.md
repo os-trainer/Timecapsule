@@ -4027,3 +4027,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add validation rules for date range boundaries
 - Simplify collection mapping and transformation pipelines
 - Add descriptive error context when file reading fails
+- Add unit tests for progress reporter events
