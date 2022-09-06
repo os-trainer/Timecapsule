@@ -4029,3 +4029,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add descriptive error context when file reading fails
 - Add unit tests for progress reporter events
 - Handle file permission errors with actionable messages
+- Add assertions for default configuration fallbacks
