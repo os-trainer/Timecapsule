@@ -4030,3 +4030,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for progress reporter events
 - Handle file permission errors with actionable messages
 - Add assertions for default configuration fallbacks
+- Add troubleshooting notes for frequent setup issues
