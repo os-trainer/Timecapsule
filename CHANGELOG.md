@@ -11339,3 +11339,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor date calculation routines for better readability
 - Handle partial input objects during configuration merge
 - Add key-value store wrapper for memory cache
+- Ensure consistent parameter ordering in helper signatures
