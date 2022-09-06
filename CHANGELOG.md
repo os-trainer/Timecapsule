@@ -4028,3 +4028,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify collection mapping and transformation pipelines
 - Add descriptive error context when file reading fails
 - Add unit tests for progress reporter events
+- Handle file permission errors with actionable messages
