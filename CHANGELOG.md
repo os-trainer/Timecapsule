@@ -11337,3 +11337,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak caused by unreleased cache handles
 - Implement template interpolation utility
 - Refactor date calculation routines for better readability
+- Handle partial input objects during configuration merge
