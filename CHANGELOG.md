@@ -4034,3 +4034,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve consistency of option validation error messages
 - Test invalid input handling and expected exceptions
 - Correct path delimiter handling across operating systems
+- Add contribution guidelines and development workflow steps
