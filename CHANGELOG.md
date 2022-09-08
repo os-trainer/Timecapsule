@@ -4035,3 +4035,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test invalid input handling and expected exceptions
 - Correct path delimiter handling across operating systems
 - Add contribution guidelines and development workflow steps
+- Verify proper error types are thrown on invalid arguments
