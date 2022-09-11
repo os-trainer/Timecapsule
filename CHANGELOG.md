@@ -11345,3 +11345,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify control flow and reduce nested conditionals
 - Add parameterized tests for date parsing variations
 - Add URL query string builder and parser
+- Correct path delimiter handling across operating systems
