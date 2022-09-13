@@ -11348,3 +11348,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct path delimiter handling across operating systems
 - Cover malformed command line options in test suite
 - Handle timeout gracefully during external operations
+- Update changelog with recent feature additions and fixes
