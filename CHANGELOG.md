@@ -11351,3 +11351,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update changelog with recent feature additions and fixes
 - Cover dry-run execution mode with assertion checks
 - Clarify installation instructions and system prerequisites
+- Add test harness for simulated time progression
