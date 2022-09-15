@@ -11356,3 +11356,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add multi-step workflow runner utility
 - Replace magic numbers with named configuration constants
 - Document environment variable configuration overrides
+- Configure automated dependency review settings
