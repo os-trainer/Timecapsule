@@ -11362,3 +11362,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure engine version compatibility constraints
 - Add usage notes for multi-year historical generation
 - Add schema validation for configuration objects
+- Correct regex pattern matching for date validation
