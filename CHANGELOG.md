@@ -4057,3 +4057,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression tests for previous edge-case bugs
 - Adjust linting and formatting configuration rules
 - Improve error messages with actionable resolution hints
+- Simplify conditional branching in distribution calculator
