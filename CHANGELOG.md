@@ -11361,3 +11361,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify complex function implementations for maintainability
 - Configure engine version compatibility constraints
 - Add usage notes for multi-year historical generation
+- Add schema validation for configuration objects
