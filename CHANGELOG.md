@@ -4061,3 +4061,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add structured logging helper with log levels
 - Fix memory leak caused by unreleased cache handles
 - Configure automated pre-commit code verification
+- Add custom error classes for domain-specific failures
