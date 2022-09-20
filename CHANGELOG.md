@@ -11371,3 +11371,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update package version in manifest file
 - Decompose monolithic workflow function into focused steps
 - Implement customizable output formatting options
+- Test invalid input handling and expected exceptions
