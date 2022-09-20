@@ -11372,3 +11372,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decompose monolithic workflow function into focused steps
 - Implement customizable output formatting options
 - Test invalid input handling and expected exceptions
+- Add FAQ section covering common configuration questions
