@@ -4070,3 +4070,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test custom date formatting tokens and output strings
 - Resolve incorrect return value for edge-case queries
 - Implement file reading helper with encoding support
+- Update development dependencies for test framework
