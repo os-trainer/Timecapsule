@@ -11383,3 +11383,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure strict immutability of configuration defaults
 - Handle null and undefined options defensively
 - Add custom formatting options for summary tables
+- Add parameter type checks to public library methods
