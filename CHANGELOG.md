@@ -4075,3 +4075,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify frequency parameter behavior and percentage rules
 - Tune lint-staged configuration for staged files
 - Update license field and attribution in package manifest
+- Add verification tests for safe JSON parsing utilities
