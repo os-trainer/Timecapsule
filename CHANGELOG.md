@@ -11390,3 +11390,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for verbose diagnostic output
 - Correct error handling when input file is absent
 - Verify proper error types are thrown on invalid arguments
+- Implement summary statistics calculation helper
