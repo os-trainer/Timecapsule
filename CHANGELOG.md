@@ -11392,3 +11392,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify proper error types are thrown on invalid arguments
 - Implement summary statistics calculation helper
 - Fix string encoding issue when processing special characters
+- Test custom date formatting tokens and output strings
