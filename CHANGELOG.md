@@ -11397,3 +11397,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document logging levels and diagnostic flags
 - Add configuration file for static code analysis
 - Standardize exception messages across validation logic
+- Fix incorrect default parameter assignment
