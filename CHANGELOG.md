@@ -11399,3 +11399,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize exception messages across validation logic
 - Fix incorrect default parameter assignment
 - Improve function organization and module cohesion
+- Add input validation for user-supplied options
