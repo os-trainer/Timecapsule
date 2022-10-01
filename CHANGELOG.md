@@ -11401,3 +11401,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve function organization and module cohesion
 - Add input validation for user-supplied options
 - Add usage examples for common command-line options
+- Test command line help output and option documentation
