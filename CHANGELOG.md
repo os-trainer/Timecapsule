@@ -11406,3 +11406,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add performance recommendations for large-scale runs
 - Handle empty input collections without throwing exceptions
 - Update development dependencies for test framework
+- Streamline option parsing and default resolution
