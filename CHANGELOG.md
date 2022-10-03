@@ -11411,3 +11411,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add colorized terminal output formatter
 - Consolidate string manipulation utilities
 - Document supported platforms and shell environments
+- Fix argument parsing when flag value contains spaces
