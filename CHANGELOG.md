@@ -11407,3 +11407,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty input collections without throwing exceptions
 - Update development dependencies for test framework
 - Streamline option parsing and default resolution
+- Correct string trimming logic for multi-line inputs
