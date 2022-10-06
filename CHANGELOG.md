@@ -11417,3 +11417,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data caching layer with key invalidation
 - Fix incorrect status code returned on input error
 - Add troubleshooting notes for frequent setup issues
+- Implement file reading helper with encoding support
