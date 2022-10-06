@@ -11415,3 +11415,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for terminal colorization toggles
 - Update npm packaging whitelist in files array
 - Add basic data caching layer with key invalidation
+- Fix incorrect status code returned on input error
