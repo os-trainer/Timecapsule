@@ -11419,3 +11419,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add troubleshooting notes for frequent setup issues
 - Implement file reading helper with encoding support
 - Handle malformed JSON configuration without crashing
+- Add instructions for running tests and linter locally
