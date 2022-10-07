@@ -4085,3 +4085,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add validation rules for date range boundaries
 - Improve documentation for programmatic JavaScript API
 - Improve code formatting and consistent whitespace
+- Implement dry-run execution preview mode
