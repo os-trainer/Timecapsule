@@ -4087,3 +4087,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve code formatting and consistent whitespace
 - Implement dry-run execution preview mode
 - Handle unexpected zero-length arrays in reducer logic
+- Fix incorrect status code returned on input error
