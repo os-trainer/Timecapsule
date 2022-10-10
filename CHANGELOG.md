@@ -11424,3 +11424,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement helper utilities for parameter parsing
 - Add regression test for boundary date calculations
 - Improve README with comprehensive getting-started guide
+- Verify cache invalidation logic under test conditions
