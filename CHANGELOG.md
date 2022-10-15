@@ -11437,3 +11437,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update project metadata and repository description
 - Implement flexible filter predicate builder
 - Fix improper resource cleanup on exit
+- Add validation rules for date range boundaries
