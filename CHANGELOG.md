@@ -11438,3 +11438,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement flexible filter predicate builder
 - Fix improper resource cleanup on exit
 - Add validation rules for date range boundaries
+- Refactor configuration fallback resolution
