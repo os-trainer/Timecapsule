@@ -4104,3 +4104,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle malformed JSON configuration without crashing
 - Add lightweight event emitter implementation
 - Add assertions for default configuration fallbacks
+- Add assertions to catch illegal state during execution
