@@ -11441,3 +11441,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor configuration fallback resolution
 - Add badges for license, build status, and version
 - Fix edge case in input handling for empty strings
+- Add parameterized tests for date parsing variations
