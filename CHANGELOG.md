@@ -11449,3 +11449,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add examples of integrating tool into automated scripts
 - Improve clarity of variable scopes and closures
 - Implement safe JSON parsing with fallback values
+- Document configuration options and default parameters
