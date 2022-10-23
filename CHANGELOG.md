@@ -4106,3 +4106,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add assertions for default configuration fallbacks
 - Add assertions to catch illegal state during execution
 - Add input validation for user-supplied options
+- Cover malformed command line options in test suite
