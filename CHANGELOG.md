@@ -11456,3 +11456,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve input handling and defensive type assertions
 - Test command line help output and option documentation
 - Clean up dead code and obsolete helper methods
+- Improve package scripts for building and testing
