@@ -4107,3 +4107,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add assertions to catch illegal state during execution
 - Add input validation for user-supplied options
 - Cover malformed command line options in test suite
+- Refactor array processing routines to use functional methods
