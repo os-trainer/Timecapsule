@@ -11458,3 +11458,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up dead code and obsolete helper methods
 - Improve package scripts for building and testing
 - Verify graceful handling of malformed input data
+- Fix off-by-one error in collection index calculations
