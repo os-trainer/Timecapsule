@@ -4111,3 +4111,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect default parameter assignment
 - Verify graceful handling of malformed input data
 - Document custom commit message filtering and options
+- Ensure consistent parameter ordering in helper signatures
