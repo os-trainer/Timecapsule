@@ -4118,3 +4118,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for collection filter predicates
 - Fix memory leak in recurring event listeners
 - Add usage examples for common command-line options
+- Correct regex pattern matching for date validation
