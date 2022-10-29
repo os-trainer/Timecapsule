@@ -4121,3 +4121,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct regex pattern matching for date validation
 - Normalize naming of options and arguments across modules
 - Improve documentation for custom output templates
+- Configure environment file loading conventions
