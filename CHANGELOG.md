@@ -4123,3 +4123,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve documentation for custom output templates
 - Configure environment file loading conventions
 - Add usage notes for multi-year historical generation
+- Extract terminal output logic into presentation layer
