@@ -11463,3 +11463,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve consistency of return structures across helpers
 - Improve separation of concerns between CLI and core engine
 - Add structured logging helper with log levels
+- Streamline event dispatching mechanism
