@@ -11465,3 +11465,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add structured logging helper with log levels
 - Streamline event dispatching mechanism
 - Improve consistency of option validation error messages
+- Correct boundary check in range validation utility
