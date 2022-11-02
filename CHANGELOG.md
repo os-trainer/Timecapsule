@@ -11466,3 +11466,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline event dispatching mechanism
 - Improve consistency of option validation error messages
 - Correct boundary check in range validation utility
+- Fix inconsistent return type on validation failure
