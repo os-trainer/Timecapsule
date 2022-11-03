@@ -4124,3 +4124,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure environment file loading conventions
 - Add usage notes for multi-year historical generation
 - Extract terminal output logic into presentation layer
+- Add elapsed execution time measurement helper
