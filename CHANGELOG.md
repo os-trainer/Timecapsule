@@ -11471,3 +11471,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document test execution commands and coverage reports
 - Replace magic numbers with named configuration constants
 - Cover malformed command line options in test suite
+- Add tests for custom output destination formatting
