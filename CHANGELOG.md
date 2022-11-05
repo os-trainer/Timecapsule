@@ -4126,3 +4126,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract terminal output logic into presentation layer
 - Add elapsed execution time measurement helper
 - Add regression test for boundary date calculations
+- Streamline option parsing and default resolution
