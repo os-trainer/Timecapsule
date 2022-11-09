@@ -11478,3 +11478,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Remove dead code branches and redundant checks
 - Improve test coverage for error recovery branches
 - Implement object transformation and mapping utilities
+- Fix infinite loop risk in collection traversal logic
