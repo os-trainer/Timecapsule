@@ -4135,3 +4135,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reorganize internal test helpers and fixtures
 - Implement batch processing utility for array inputs
 - Add input sanitization for file paths
+- Add security considerations and safe execution notes
