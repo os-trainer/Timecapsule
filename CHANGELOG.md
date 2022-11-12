@@ -11487,3 +11487,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify error messages for missing required options
 - Add array sorting and filtering helper functions
 - Add strict boundary checks to numeric operations
+- Add test suite for distribution weight calculations
