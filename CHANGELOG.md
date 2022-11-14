@@ -4137,3 +4137,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input sanitization for file paths
 - Add security considerations and safe execution notes
 - Simplify error throwing and propagation mechanisms
+- Fix edge case in input handling for empty strings
