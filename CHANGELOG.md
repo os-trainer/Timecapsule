@@ -11491,3 +11491,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement retry mechanism for transient operations
 - Correct fallback order for configuration properties
 - Fix validation logic for boundary date ranges
+- Add safe string truncation helper
