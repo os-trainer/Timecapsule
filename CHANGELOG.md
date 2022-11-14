@@ -11494,3 +11494,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add safe string truncation helper
 - Correct string trimming logic for multi-line inputs
 - Add instructions for running tests and linter locally
+- Consolidate duplicate string sanitization routines
