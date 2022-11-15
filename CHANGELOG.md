@@ -4139,3 +4139,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify error throwing and propagation mechanisms
 - Fix edge case in input handling for empty strings
 - Implement query filter helpers for collection items
+- Add configuration file for continuous integration
