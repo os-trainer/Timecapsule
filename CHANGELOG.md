@@ -11496,3 +11496,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions for running tests and linter locally
 - Consolidate duplicate string sanitization routines
 - Add verification tests for safe JSON parsing utilities
+- Correct path delimiter handling across operating systems
