@@ -11500,3 +11500,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize terminology across comments and log output
 - Cover complex configuration inheritance in tests
 - Implement pagination helper for collection data
+- Correct timestamp calculation for timezone offsets
