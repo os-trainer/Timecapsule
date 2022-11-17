@@ -11502,3 +11502,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement pagination helper for collection data
 - Correct timestamp calculation for timezone offsets
 - Improve test coverage across utility modules
+- Add contribution guidelines and development workflow steps
