@@ -4146,3 +4146,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Document supported platforms and shell environments
 - Verify retry logic behavior under simulated failures
+- Fix incorrect status code returned on input error
