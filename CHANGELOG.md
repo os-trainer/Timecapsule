@@ -4157,3 +4157,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle null and undefined options defensively
 - Ensure all async rejections provide meaningful Error instances
 - Add command-line argument parser for configuration flags
+- Correct error handling when input file is absent
