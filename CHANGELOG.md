@@ -11513,3 +11513,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix improper resource cleanup on exit
 - Add custom error classes for domain-specific failures
 - Extract file system operations into isolated adapter
+- Implement progress reporter for long-running workflows
