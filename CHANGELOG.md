@@ -11510,3 +11510,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle file permission errors with actionable messages
 - Add colorized terminal output formatter
 - Extract reusable helper functions from main workflow
+- Fix improper resource cleanup on exit
