@@ -11512,3 +11512,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract reusable helper functions from main workflow
 - Fix improper resource cleanup on exit
 - Add custom error classes for domain-specific failures
+- Extract file system operations into isolated adapter
