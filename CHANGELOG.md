@@ -11511,3 +11511,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add colorized terminal output formatter
 - Extract reusable helper functions from main workflow
 - Fix improper resource cleanup on exit
+- Add custom error classes for domain-specific failures
