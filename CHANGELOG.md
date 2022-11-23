@@ -4161,3 +4161,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty environment variables without error
 - Add npm script for running linter in check-only mode
 - Implement defensive parameter sanitization
+- Correct fallback order for configuration properties
