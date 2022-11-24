@@ -4163,3 +4163,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement defensive parameter sanitization
 - Correct fallback order for configuration properties
 - Add task definitions for local development tooling
+- Document distribution patterns and statistical behavior
