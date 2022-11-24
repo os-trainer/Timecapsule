@@ -4165,3 +4165,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add task definitions for local development tooling
 - Document distribution patterns and statistical behavior
 - Restructure project exports to avoid circular dependencies
+- Fix unexpected empty input parsing in command line options
