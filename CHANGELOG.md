@@ -4164,3 +4164,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct fallback order for configuration properties
 - Add task definitions for local development tooling
 - Document distribution patterns and statistical behavior
+- Restructure project exports to avoid circular dependencies
