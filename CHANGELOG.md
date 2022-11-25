@@ -11517,3 +11517,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add detailed architecture overview and component diagram
 - Add basic data processing and normalization pipeline
 - Improve code maintainability index across core files
+- Add step-by-step tutorial for sample project generation
