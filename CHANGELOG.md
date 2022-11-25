@@ -11518,3 +11518,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data processing and normalization pipeline
 - Improve code maintainability index across core files
 - Add step-by-step tutorial for sample project generation
+- Add support for custom output destination paths
