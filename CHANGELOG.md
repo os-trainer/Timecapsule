@@ -11524,3 +11524,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for collection filter predicates
 - Cover deep object merge edge cases in unit tests
 - Improve function organization and module cohesion
+- Correct boundary check in range validation utility
