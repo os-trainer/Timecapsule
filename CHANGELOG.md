@@ -11520,3 +11520,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add step-by-step tutorial for sample project generation
 - Add support for custom output destination paths
 - Cover dry-run execution mode with assertion checks
+- Implement configuration merging priority logic
