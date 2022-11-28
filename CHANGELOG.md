@@ -11526,3 +11526,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve function organization and module cohesion
 - Correct boundary check in range validation utility
 - Add environment variable override support
+- Add snapshot tests for terminal output formatters
