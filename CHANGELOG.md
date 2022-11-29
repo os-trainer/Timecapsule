@@ -4175,3 +4175,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement rate limiting throttle for helper actions
 - Add support for custom output destination paths
 - Standardize terminology across comments and log output
+- Extract common constants into centralized configuration
