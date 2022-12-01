@@ -11533,3 +11533,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for rate limiting and throttling helpers
 - Add configuration for source map generation
 - Handle undefined configuration sections safely
+- Implement deep object merging utility
