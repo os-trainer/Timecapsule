@@ -4178,3 +4178,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract common constants into centralized configuration
 - Add boundary condition tests for numeric ranges
 - Verify proper error types are thrown on invalid arguments
+- Fix argument parsing when flag value contains spaces
