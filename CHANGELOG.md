@@ -4177,3 +4177,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize terminology across comments and log output
 - Extract common constants into centralized configuration
 - Add boundary condition tests for numeric ranges
+- Verify proper error types are thrown on invalid arguments
