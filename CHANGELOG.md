@@ -4182,3 +4182,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update package repository URLs and issue tracker links
 - Add assertions for default configuration fallbacks
 - Improve readability of complex conditional evaluations
+- Clean up dead code and obsolete helper methods
