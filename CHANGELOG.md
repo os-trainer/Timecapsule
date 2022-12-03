@@ -4180,3 +4180,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify proper error types are thrown on invalid arguments
 - Fix argument parsing when flag value contains spaces
 - Update package repository URLs and issue tracker links
+- Add assertions for default configuration fallbacks
