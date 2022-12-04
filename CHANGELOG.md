@@ -4185,3 +4185,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up dead code and obsolete helper methods
 - Refactor configuration fallback resolution
 - Implement customizable output formatting options
+- Add acknowledgments and open-source project credits
