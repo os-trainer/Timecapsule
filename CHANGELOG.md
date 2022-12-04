@@ -4187,3 +4187,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement customizable output formatting options
 - Add acknowledgments and open-source project credits
 - Fix off-by-one error in collection index calculations
+- Extract date formatting templates into reusable helpers
