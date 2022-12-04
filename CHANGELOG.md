@@ -4186,3 +4186,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor configuration fallback resolution
 - Implement customizable output formatting options
 - Add acknowledgments and open-source project credits
+- Fix off-by-one error in collection index calculations
