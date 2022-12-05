@@ -4191,3 +4191,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add colorized terminal output formatter
 - Fix type coercion error during numeric comparisons
 - Add test cases for boolean flag normalization
+- Fix duplicate item registration in event subscriber list
