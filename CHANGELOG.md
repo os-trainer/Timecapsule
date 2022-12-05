@@ -4192,3 +4192,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix type coercion error during numeric comparisons
 - Add test cases for boolean flag normalization
 - Fix duplicate item registration in event subscriber list
+- Improve package scripts for building and testing
