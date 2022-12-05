@@ -4190,3 +4190,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract date formatting templates into reusable helpers
 - Add colorized terminal output formatter
 - Fix type coercion error during numeric comparisons
+- Add test cases for boolean flag normalization
