@@ -11546,3 +11546,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document custom commit message filtering and options
 - Fix missing return statement in error branch
 - Configure output directory paths for build pipeline
+- Simplify control flow and reduce nested conditionals
