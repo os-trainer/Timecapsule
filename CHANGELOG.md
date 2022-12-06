@@ -4193,3 +4193,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test cases for boolean flag normalization
 - Fix duplicate item registration in event subscriber list
 - Improve package scripts for building and testing
+- Extract file system operations into isolated adapter
