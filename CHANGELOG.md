@@ -4194,3 +4194,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix duplicate item registration in event subscriber list
 - Improve package scripts for building and testing
 - Extract file system operations into isolated adapter
+- Handle partial input objects during configuration merge
