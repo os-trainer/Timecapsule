@@ -11554,3 +11554,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add key-value store wrapper for memory cache
 - Improve consistency of option validation error messages
 - Add test cases for boolean flag normalization
+- Normalize naming of options and arguments across modules
