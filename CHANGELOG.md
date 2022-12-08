@@ -11556,3 +11556,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test cases for boolean flag normalization
 - Normalize naming of options and arguments across modules
 - Implement safe JSON parsing with fallback values
+- Extract terminal output logic into presentation layer
