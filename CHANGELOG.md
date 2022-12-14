@@ -11568,3 +11568,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify proper error types are thrown on invalid arguments
 - Add parameterized tests for date parsing variations
 - Add clean script to purge build artifacts and temp files
+- Fix potential race condition during file initialization
