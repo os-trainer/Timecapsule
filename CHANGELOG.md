@@ -4202,3 +4202,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix improper resource cleanup on exit
 - Improve clarity of variable scopes and closures
 - Adjust test runner timeout and concurrency settings
+- Handle empty input collections without throwing exceptions
