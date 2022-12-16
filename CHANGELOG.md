@@ -11573,3 +11573,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor promise handling to use modern async/await patterns
 - Cover edge cases in date range calculation logic
 - Extract progress tracking into dedicated emitter
+- Add URL query string builder and parser
