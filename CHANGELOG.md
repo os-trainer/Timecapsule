@@ -11571,3 +11571,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix potential race condition during file initialization
 - Add lightweight event emitter implementation
 - Refactor promise handling to use modern async/await patterns
+- Cover edge cases in date range calculation logic
