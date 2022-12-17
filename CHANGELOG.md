@@ -11578,3 +11578,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix argument parsing when flag value contains spaces
 - Test invalid input handling and expected exceptions
 - Test timezone offset handling with varying dates
+- Simplify complex arithmetic expressions in date logic
