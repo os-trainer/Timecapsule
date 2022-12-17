@@ -4207,3 +4207,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add project documentation template and license
 - Add clear synthetic demonstration disclaimer in documentation
 - Add development environment setup guidelines
+- Implement flexible filter predicate builder
