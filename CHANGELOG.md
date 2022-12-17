@@ -11580,3 +11580,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test timezone offset handling with varying dates
 - Simplify complex arithmetic expressions in date logic
 - Update author and contributor information in package descriptor
+- Test empty collection handling across utility functions
