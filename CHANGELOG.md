@@ -4205,3 +4205,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty input collections without throwing exceptions
 - Reorganize internal test helpers and fixtures
 - Add project documentation template and license
+- Add clear synthetic demonstration disclaimer in documentation
