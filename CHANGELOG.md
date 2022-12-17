@@ -4206,3 +4206,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reorganize internal test helpers and fixtures
 - Add project documentation template and license
 - Add clear synthetic demonstration disclaimer in documentation
+- Add development environment setup guidelines
