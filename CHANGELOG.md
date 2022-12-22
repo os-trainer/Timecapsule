@@ -11598,3 +11598,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize terminology across comments and log output
 - Fix infinite loop risk in collection traversal logic
 - Adjust test runner timeout and concurrency settings
+- Document template options for supported project layouts
