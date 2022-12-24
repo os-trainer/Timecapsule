@@ -11602,3 +11602,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add custom error classes for domain-specific failures
 - Add validation rules for date range boundaries
 - Verify cache invalidation logic under test conditions
+- Refactor argument parsing to standardize option names
