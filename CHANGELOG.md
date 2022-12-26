@@ -11610,3 +11610,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add safe string truncation helper
 - Implement file reading helper with encoding support
 - Add boundary condition tests for numeric ranges
+- Implement numeric range clamping helper
