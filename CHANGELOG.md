@@ -11615,3 +11615,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct negative duration calculations across days
 - Reduce duplicated logic across helper utilities
 - Fix string encoding issue when processing special characters
+- Remove obsolete polyfills and legacy compatibility shims
