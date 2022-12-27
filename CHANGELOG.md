@@ -4216,3 +4216,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover deep object merge edge cases in unit tests
 - Consolidate duplicate string sanitization routines
 - Adjust prettier configuration for consistent indentation
+- Add environment variable override support
