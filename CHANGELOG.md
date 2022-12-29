@@ -11619,3 +11619,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement object transformation and mapping utilities
 - Add JSDoc type annotations for internal functions
 - Verify proper error types are thrown on invalid arguments
+- Resolve incorrect return value for edge-case queries
