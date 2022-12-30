@@ -11621,3 +11621,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify proper error types are thrown on invalid arguments
 - Resolve incorrect return value for edge-case queries
 - Add acknowledgments and open-source project credits
+- Add test cases for boolean flag normalization
