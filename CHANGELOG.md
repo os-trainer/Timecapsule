@@ -11625,3 +11625,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement command dispatcher with routing logic
 - Modernize internal loop constructs and data structures
 - Implement stream-based chunk processor
+- Add support for custom output destination paths
