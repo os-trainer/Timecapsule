@@ -4227,3 +4227,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect status code returned on input error
 - Ensure all async rejections provide meaningful Error instances
 - Fix incorrect default parameter assignment
+- Add support for verbose diagnostic output
