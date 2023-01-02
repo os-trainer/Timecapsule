@@ -4231,3 +4231,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test command line help output and option documentation
 - Handle empty environment variables without error
 - Add basic data caching layer with key invalidation
+- Add troubleshooting notes for frequent setup issues
