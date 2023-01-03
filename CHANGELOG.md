@@ -11628,3 +11628,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for custom output destination paths
 - Configure code formatting rules and baseline
 - Update test runner configuration for isolated execution
+- Clean up project structure and remove redundant exports
