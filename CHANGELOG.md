@@ -11630,3 +11630,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update test runner configuration for isolated execution
 - Clean up project structure and remove redundant exports
 - Clarify frequency parameter behavior and percentage rules
+- Correct path delimiter handling across operating systems
