@@ -11632,3 +11632,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify frequency parameter behavior and percentage rules
 - Correct path delimiter handling across operating systems
 - Update package repository URLs and issue tracker links
+- Add regression tests for previous edge-case bugs
