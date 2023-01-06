@@ -11634,3 +11634,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update package repository URLs and issue tracker links
 - Add regression tests for previous edge-case bugs
 - Fix edge case in input handling for empty strings
+- Add input validation for user-supplied options
