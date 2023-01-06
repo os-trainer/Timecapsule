@@ -11640,3 +11640,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement deep object merging utility
 - Implement summary statistics calculation helper
 - Clarify difference between distribution algorithms
+- Correct error handling when input file is absent
