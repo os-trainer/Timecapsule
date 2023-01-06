@@ -11637,3 +11637,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input validation for user-supplied options
 - Correct timestamp calculation for timezone offsets
 - Add performance assertions for large collection processing
+- Implement deep object merging utility
