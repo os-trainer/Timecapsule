@@ -11648,3 +11648,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modularize command-line argument processing logic
 - Add unit tests for collection filter predicates
 - Add elapsed execution time measurement helper
+- Fix duplicate item registration in event subscriber list
