@@ -11650,3 +11650,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add elapsed execution time measurement helper
 - Fix duplicate item registration in event subscriber list
 - Decompose monolithic workflow function into focused steps
+- Improve code formatting and consistent whitespace
