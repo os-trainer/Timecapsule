@@ -11647,3 +11647,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve inline code documentation and parameter descriptions
 - Modularize command-line argument processing logic
 - Add unit tests for collection filter predicates
+- Add elapsed execution time measurement helper
