@@ -11654,3 +11654,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle timeout gracefully during external operations
 - Implement retry mechanism for transient operations
 - Rename internal variables and parameters for clarity
+- Correct boundary check in range validation utility
