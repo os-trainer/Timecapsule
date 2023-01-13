@@ -4244,3 +4244,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor validation pipelines to support chaining
 - Add unit tests for progress reporter events
 - Fix validation logic for boundary date ranges
+
+## [5.1.0]
+### Changed
+- Add URL query string builder and parser
