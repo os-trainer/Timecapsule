@@ -4248,3 +4248,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [5.1.0]
 ### Changed
 - Add URL query string builder and parser
+- Standardize terminology across comments and log output
