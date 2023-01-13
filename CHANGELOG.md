@@ -4249,3 +4249,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Add URL query string builder and parser
 - Standardize terminology across comments and log output
+- Consolidate error definitions and status messages
