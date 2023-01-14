@@ -4251,3 +4251,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize terminology across comments and log output
 - Consolidate error definitions and status messages
 - Add safe string truncation helper
+- Correct string trimming logic for multi-line inputs
