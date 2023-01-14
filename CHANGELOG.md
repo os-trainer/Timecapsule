@@ -4253,3 +4253,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add safe string truncation helper
 - Correct string trimming logic for multi-line inputs
 - Fix argument parsing when flag value contains spaces
+- Add test suite for distribution weight calculations
