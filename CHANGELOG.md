@@ -4257,3 +4257,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add table of contents to main project documentation
 - Fix missing return statement in error branch
 - Improve test coverage for error recovery branches
+- Correct negative duration calculations across days
