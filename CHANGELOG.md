@@ -11665,3 +11665,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve documentation for programmatic JavaScript API
 - Add test harness for simulated time progression
 - Clean up stray debug statements and console output
+- Update API reference documentation for core exports
