@@ -11673,3 +11673,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add code comments explaining complex date mathematics
 - Streamline event dispatching mechanism
 - Correct output formatting when statistics are zero
+- Fix improper resource cleanup on exit
