@@ -11672,3 +11672,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle null and undefined options defensively
 - Add code comments explaining complex date mathematics
 - Streamline event dispatching mechanism
+- Correct output formatting when statistics are zero
