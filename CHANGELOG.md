@@ -11669,3 +11669,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add structured logging helper with log levels
 - Document template options for supported project layouts
 - Add safe deep clone utility function
+- Handle null and undefined options defensively
