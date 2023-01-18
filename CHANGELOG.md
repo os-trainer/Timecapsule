@@ -4264,3 +4264,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update development configuration and editor settings
 - Implement pagination helper for collection data
 - Extract terminal output logic into presentation layer
+- Handle partial input objects during configuration merge
