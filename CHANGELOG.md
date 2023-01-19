@@ -11674,3 +11674,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline event dispatching mechanism
 - Correct output formatting when statistics are zero
 - Fix improper resource cleanup on exit
+- Improve separation of concerns between CLI and core engine
