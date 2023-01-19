@@ -11676,3 +11676,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix improper resource cleanup on exit
 - Improve separation of concerns between CLI and core engine
 - Test custom date formatting tokens and output strings
+- Implement event listener registry for status events
