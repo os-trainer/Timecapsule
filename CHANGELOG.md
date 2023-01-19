@@ -11679,3 +11679,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement event listener registry for status events
 - Simplify conditional branching in distribution calculator
 - Implement command dispatcher with routing logic
+- Standardize exception messages across validation logic
