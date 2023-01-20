@@ -11683,3 +11683,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decouple output formatting from core computation logic
 - Add colorized terminal output formatter
 - Fix incorrect status code returned on input error
+- Implement rate limiting throttle for helper actions
