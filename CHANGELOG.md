@@ -4267,3 +4267,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle partial input objects during configuration merge
 - Verify platform-specific path handling in test suite
 - Fix circular reference error in object serialization
+- Add multi-step workflow runner utility
