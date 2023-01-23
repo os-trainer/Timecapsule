@@ -4269,3 +4269,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix circular reference error in object serialization
 - Add multi-step workflow runner utility
 - Fix type coercion error during numeric comparisons
+- Streamline parameter passing across internal layers
