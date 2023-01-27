@@ -11696,3 +11696,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement deep object merging utility
 - Simplify control flow and reduce nested conditionals
 - Add assertions for default configuration fallbacks
+- Add system status inspection helper
