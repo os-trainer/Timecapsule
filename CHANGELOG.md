@@ -11704,3 +11704,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test cases for boolean flag normalization
 - Document supported platforms and shell environments
 - Implement safe JSON parsing with fallback values
+- Correctly escape special characters in terminal output
