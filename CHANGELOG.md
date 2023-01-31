@@ -11705,3 +11705,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document supported platforms and shell environments
 - Implement safe JSON parsing with fallback values
 - Correctly escape special characters in terminal output
+- Correct negative duration calculations across days
