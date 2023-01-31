@@ -11702,3 +11702,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add badges for license, build status, and version
 - Replace magic numbers with named configuration constants
 - Add test cases for boolean flag normalization
+- Document supported platforms and shell environments
