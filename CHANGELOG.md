@@ -4282,3 +4282,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover dry-run execution mode with assertion checks
 - Implement safe JSON parsing with fallback values
 - Refactor date calculation routines for better readability
+- Improve markdown formatting and typographic consistency in README
