@@ -11707,3 +11707,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correctly escape special characters in terminal output
 - Correct negative duration calculations across days
 - Document custom commit message filtering and options
+- Add environment variable override support
