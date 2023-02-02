@@ -11709,3 +11709,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document custom commit message filtering and options
 - Add environment variable override support
 - Add integration test verifying end-to-end workflow execution
+- Handle malformed JSON configuration without crashing
