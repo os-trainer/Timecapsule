@@ -11713,3 +11713,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement query filter helpers for collection items
 - Add assertions to catch illegal state during execution
 - Implement configuration merging priority logic
+- Cover dry-run execution mode with assertion checks
