@@ -11712,3 +11712,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle malformed JSON configuration without crashing
 - Implement query filter helpers for collection items
 - Add assertions to catch illegal state during execution
+- Implement configuration merging priority logic
