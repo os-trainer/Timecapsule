@@ -4288,3 +4288,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify complex function implementations for maintainability
 - Improve documentation for programmatic JavaScript API
 - Improve readability of complex conditional evaluations
+- Correct fallback order for configuration properties
