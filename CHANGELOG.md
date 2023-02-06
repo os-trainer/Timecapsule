@@ -11717,3 +11717,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document logging levels and diagnostic flags
 - Fix memory leak in recurring event listeners
 - Streamline parameter passing across internal layers
+- Add unit tests for progress reporter events
