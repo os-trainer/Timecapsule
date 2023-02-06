@@ -11716,3 +11716,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover dry-run execution mode with assertion checks
 - Document logging levels and diagnostic flags
 - Fix memory leak in recurring event listeners
+- Streamline parameter passing across internal layers
