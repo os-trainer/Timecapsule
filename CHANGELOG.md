@@ -4291,3 +4291,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct fallback order for configuration properties
 - Add unit tests for terminal colorization toggles
 - Remove obsolete polyfills and legacy compatibility shims
+- Handle empty input collections without throwing exceptions
