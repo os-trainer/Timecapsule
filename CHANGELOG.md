@@ -11719,3 +11719,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline parameter passing across internal layers
 - Add unit tests for progress reporter events
 - Add test suite for distribution weight calculations
+- Add support for custom output destination paths
