@@ -11721,3 +11721,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test suite for distribution weight calculations
 - Add support for custom output destination paths
 - Add usage examples for common command-line options
+- Improve test coverage across utility modules
