@@ -4296,3 +4296,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve README with comprehensive getting-started guide
 - Add base configuration loader template
 - Fix string encoding issue when processing special characters
+- Add tests for custom output destination formatting
