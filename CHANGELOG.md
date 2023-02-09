@@ -11720,3 +11720,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for progress reporter events
 - Add test suite for distribution weight calculations
 - Add support for custom output destination paths
+- Add usage examples for common command-line options
