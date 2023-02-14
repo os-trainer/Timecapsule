@@ -4306,3 +4306,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve naming consistency across internal interfaces
 - Simplify conditional branching in distribution calculator
 - Document preview mode and dry-run visualization
+- Cover edge cases in date range calculation logic
