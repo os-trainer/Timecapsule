@@ -11729,3 +11729,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add elapsed execution time measurement helper
 - Simplify complex arithmetic expressions in date logic
 - Add custom formatting options for summary tables
+- Add instructions for running tests and linter locally
