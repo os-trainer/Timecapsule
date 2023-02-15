@@ -11731,3 +11731,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add custom formatting options for summary tables
 - Add instructions for running tests and linter locally
 - Add reusable string formatting utility functions
+- Verify graceful handling of malformed input data
