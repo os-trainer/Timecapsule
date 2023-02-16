@@ -4310,3 +4310,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement event listener registry for status events
 - Refactor promise handling to use modern async/await patterns
 - Extract reusable helper functions from main workflow
+- Fix off-by-one error in collection index calculations
