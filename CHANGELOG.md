@@ -11736,3 +11736,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement progress reporter for long-running workflows
 - Add security considerations and safe execution notes
 - Refactor state management into centralized store
+- Cover deep object merge edge cases in unit tests
