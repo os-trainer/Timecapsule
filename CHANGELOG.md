@@ -11741,3 +11741,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement event listener registry for status events
 - Clean up dead code and obsolete helper methods
 - Add configuration for code coverage reporting
+- Fix type coercion error during numeric comparisons
