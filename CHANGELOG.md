@@ -4315,3 +4315,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add parameter type checks to public library methods
 - Add safe deep clone utility function
 - Fix unhandled promise rejection in async error handler
+- Add structured logging helper with log levels
