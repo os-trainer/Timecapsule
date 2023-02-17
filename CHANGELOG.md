@@ -4312,3 +4312,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract reusable helper functions from main workflow
 - Fix off-by-one error in collection index calculations
 - Add test cases for boolean flag normalization
+- Add parameter type checks to public library methods
