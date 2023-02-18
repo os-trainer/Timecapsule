@@ -11743,3 +11743,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration for code coverage reporting
 - Fix type coercion error during numeric comparisons
 - Create initial source directory and placeholder modules
+- Modernize internal loop constructs and data structures
