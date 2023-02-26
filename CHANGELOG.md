@@ -4330,3 +4330,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add custom error classes for domain-specific failures
 - Add badges for license, build status, and version
 - Test custom date formatting tokens and output strings
+- Refactor argument parsing to standardize option names
