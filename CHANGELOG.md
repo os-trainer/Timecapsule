@@ -4328,3 +4328,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document configuration options and default parameters
 - Fix potential race condition during file initialization
 - Add custom error classes for domain-specific failures
+- Add badges for license, build status, and version
