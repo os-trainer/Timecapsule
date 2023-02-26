@@ -11752,3 +11752,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update repository keywords and discovery tags
 - Handle undefined configuration sections safely
 - Add regression test for boundary date calculations
+- Decouple output formatting from core computation logic
