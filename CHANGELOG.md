@@ -11761,3 +11761,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Bootstrap core library skeleton
 - Fix potential race condition during file initialization
 - Add snapshot tests for terminal output formatters
+- Add schema validation for configuration objects
