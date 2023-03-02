@@ -11760,3 +11760,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor date calculation routines for better readability
 - Bootstrap core library skeleton
 - Fix potential race condition during file initialization
+- Add snapshot tests for terminal output formatters
