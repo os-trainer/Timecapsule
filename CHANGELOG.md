@@ -4341,3 +4341,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Resolve incorrect return value for edge-case queries
 - Introduce mock harness for file system operations
 - Simplify control flow and reduce nested conditionals
+- Add defensive fallbacks for unexpected null values
