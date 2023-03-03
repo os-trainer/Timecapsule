@@ -4336,3 +4336,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure output directory paths for build pipeline
 - Clean up temporary files and ensure deterministic cleanup
 - Extract date formatting templates into reusable helpers
+- Add step-by-step tutorial for sample project generation
