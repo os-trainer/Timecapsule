@@ -11770,3 +11770,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve input handling and defensive type assertions
 - Configure version control ignore rules
 - Fix unhandled promise rejection in async error handler
+- Fix argument parsing when flag value contains spaces
