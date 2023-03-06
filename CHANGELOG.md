@@ -11777,3 +11777,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Introduce mock harness for file system operations
 - Ensure consistent parameter ordering in helper signatures
 - Add environment variable override support
+- Fix inaccurate execution duration calculation
