@@ -11778,3 +11778,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure consistent parameter ordering in helper signatures
 - Add environment variable override support
 - Fix inaccurate execution duration calculation
+- Add regression tests for previous edge-case bugs
