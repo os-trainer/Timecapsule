@@ -11780,3 +11780,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inaccurate execution duration calculation
 - Add regression tests for previous edge-case bugs
 - Implement configuration file loader with fallback defaults
+- Improve documentation for programmatic JavaScript API
