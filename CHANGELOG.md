@@ -4357,3 +4357,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for progress reporter events
 - Add troubleshooting notes for frequent setup issues
 - Handle unexpected zero-length arrays in reducer logic
+- Streamline option parsing and default resolution
