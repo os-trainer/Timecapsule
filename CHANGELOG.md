@@ -11793,3 +11793,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement deep object merging utility
 - Clean up temporary files and ensure deterministic cleanup
 - Reduce duplicated logic across helper utilities
+- Handle process interruption cleanly during generation
