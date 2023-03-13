@@ -4360,3 +4360,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline option parsing and default resolution
 - Remove dead code branches and redundant checks
 - Update project metadata and repository description
+- Add unit tests for terminal colorization toggles
