@@ -11795,3 +11795,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reduce duplicated logic across helper utilities
 - Handle process interruption cleanly during generation
 - Implement dry-run execution preview mode
+- Test command line help output and option documentation
