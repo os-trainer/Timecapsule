@@ -4362,3 +4362,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update project metadata and repository description
 - Add unit tests for terminal colorization toggles
 - Handle timeout gracefully during external operations
+- Add custom formatting options for summary tables
