@@ -4364,3 +4364,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle timeout gracefully during external operations
 - Add custom formatting options for summary tables
 - Improve input handling and defensive type assertions
+- Add snapshot tests for terminal output formatters
