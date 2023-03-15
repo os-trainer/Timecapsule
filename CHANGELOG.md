@@ -4369,3 +4369,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Rename internal variables and parameters for clarity
 - Fix duplicate item registration in event subscriber list
 - Document logging levels and diagnostic flags
+- Configure distribution bundle output settings
