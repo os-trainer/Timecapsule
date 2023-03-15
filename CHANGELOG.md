@@ -11799,3 +11799,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data caching layer with key invalidation
 - Streamline option parsing and default resolution
 - Fix off-by-one error in collection index calculations
+- Consolidate error definitions and status messages
