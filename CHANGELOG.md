@@ -11803,3 +11803,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add npm script for running unit test suite
 - Improve inline code documentation and parameter descriptions
 - Fix memory leak caused by unreleased cache handles
+- Add tests for custom output destination formatting
