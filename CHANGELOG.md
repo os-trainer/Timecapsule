@@ -11809,3 +11809,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect boolean flag evaluation
 - Fix duplicate item registration in event subscriber list
 - Add custom error classes for domain-specific failures
+- Add npm script for running linter in check-only mode
