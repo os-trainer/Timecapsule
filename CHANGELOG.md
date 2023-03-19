@@ -4375,3 +4375,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak caused by unreleased cache handles
 - Add assertions for default configuration fallbacks
 - Standardize terminology across comments and log output
+- Simplify collection mapping and transformation pipelines
