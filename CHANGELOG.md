@@ -4376,3 +4376,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add assertions for default configuration fallbacks
 - Standardize terminology across comments and log output
 - Simplify collection mapping and transformation pipelines
+- Handle file permission errors with actionable messages
