@@ -4382,3 +4382,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test timezone offset handling with varying dates
 - Tune compiler and transpiler configuration options
 - Correct boundary check in range validation utility
+- Restructure project exports to avoid circular dependencies
