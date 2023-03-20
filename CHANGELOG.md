@@ -4379,3 +4379,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle file permission errors with actionable messages
 - Implement command line flag alias mapping
 - Clean up dead code and obsolete helper methods
+- Test timezone offset handling with varying dates
