@@ -4381,3 +4381,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up dead code and obsolete helper methods
 - Test timezone offset handling with varying dates
 - Tune compiler and transpiler configuration options
+- Correct boundary check in range validation utility
