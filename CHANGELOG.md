@@ -4383,3 +4383,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Tune compiler and transpiler configuration options
 - Correct boundary check in range validation utility
 - Restructure project exports to avoid circular dependencies
+- Add parameterized tests for date parsing variations
