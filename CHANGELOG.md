@@ -4386,3 +4386,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add parameterized tests for date parsing variations
 - Correctly escape special characters in terminal output
 - Add basic data processing and normalization pipeline
+- Add support for JSON and plain text output formats
