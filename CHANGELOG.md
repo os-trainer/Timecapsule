@@ -11814,3 +11814,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test invalid input handling and expected exceptions
 - Add input validation for user-supplied options
 - Verify platform-specific path handling in test suite
+- Refactor utility functions into dedicated modules
