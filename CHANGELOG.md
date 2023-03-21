@@ -4387,3 +4387,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correctly escape special characters in terminal output
 - Add basic data processing and normalization pipeline
 - Add support for JSON and plain text output formats
+- Verify proper error types are thrown on invalid arguments
