@@ -4389,3 +4389,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for JSON and plain text output formats
 - Verify proper error types are thrown on invalid arguments
 - Fix improper resource cleanup on exit
+- Streamline parameter passing across internal layers
