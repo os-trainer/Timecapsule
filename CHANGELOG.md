@@ -11811,3 +11811,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add custom error classes for domain-specific failures
 - Add npm script for running linter in check-only mode
 - Restructure project exports to avoid circular dependencies
+- Test invalid input handling and expected exceptions
