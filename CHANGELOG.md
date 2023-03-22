@@ -4390,3 +4390,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify proper error types are thrown on invalid arguments
 - Fix improper resource cleanup on exit
 - Streamline parameter passing across internal layers
+- Test invalid input handling and expected exceptions
