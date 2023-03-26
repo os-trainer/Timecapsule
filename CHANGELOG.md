@@ -4395,3 +4395,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify error throwing and propagation mechanisms
 - Document date format requirements and accepted tokens
 - Fix intermittent failure in date boundary comparison
+- Add test harness for simulated time progression
