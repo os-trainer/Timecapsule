@@ -4397,3 +4397,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix intermittent failure in date boundary comparison
 - Add test harness for simulated time progression
 - Implement summary statistics calculation helper
+- Correct string trimming logic for multi-line inputs
