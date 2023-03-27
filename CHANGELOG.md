@@ -11829,3 +11829,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve clarity of variable scopes and closures
 - Add snapshot tests for terminal output formatters
 - Configure environment file loading conventions
+- Add array sorting and filtering helper functions
