@@ -4400,3 +4400,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct string trimming logic for multi-line inputs
 - Add integration test verifying end-to-end workflow execution
 - Add URL query string builder and parser
+- Add usage notes for multi-year historical generation
