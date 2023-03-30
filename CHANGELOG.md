@@ -11834,3 +11834,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add descriptive error context when file reading fails
 - Add examples of integrating tool into automated scripts
 - Add custom formatting options for summary tables
+- Refactor configuration fallback resolution
