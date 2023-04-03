@@ -4408,3 +4408,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for collection filter predicates
 - Cover complex configuration inheritance in tests
 - Update package version in manifest file
+- Clarify difference between distribution algorithms
