@@ -11840,3 +11840,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add lightweight event emitter implementation
 - Document preview mode and dry-run visualization
 - Add unit tests for collection filter predicates
+- Add safe string truncation helper
