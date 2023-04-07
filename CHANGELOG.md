@@ -11845,3 +11845,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix formatting anomaly in terminal progress display
 - Improve modularity of utility function parameter signatures
 - Add reusable string formatting utility functions
+- Cover malformed command line options in test suite
