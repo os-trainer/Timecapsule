@@ -11848,3 +11848,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover malformed command line options in test suite
 - Improve error messages with actionable resolution hints
 - Extract progress tracking into dedicated emitter
+- Implement numeric range clamping helper
