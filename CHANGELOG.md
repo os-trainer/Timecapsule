@@ -4418,3 +4418,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input validation for user-supplied options
 - Add snapshot tests for terminal output formatters
 - Fix inaccurate execution duration calculation
+- Fix string encoding issue when processing special characters
