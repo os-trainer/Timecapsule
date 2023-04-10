@@ -4420,3 +4420,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inaccurate execution duration calculation
 - Fix string encoding issue when processing special characters
 - Cover dry-run execution mode with assertion checks
+- Implement dry-run execution preview mode
