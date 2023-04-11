@@ -4422,3 +4422,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover dry-run execution mode with assertion checks
 - Implement dry-run execution preview mode
 - Add unit tests for rate limiting and throttling helpers
+- Add support for custom output destination paths
