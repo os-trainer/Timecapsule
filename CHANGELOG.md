@@ -11857,3 +11857,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix string encoding issue when processing special characters
 - Improve README with comprehensive getting-started guide
 - Test command line help output and option documentation
+- Document template options for supported project layouts
