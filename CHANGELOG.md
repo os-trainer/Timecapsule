@@ -11855,3 +11855,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty environment variables without error
 - Refactor array processing routines to use functional methods
 - Fix string encoding issue when processing special characters
+- Improve README with comprehensive getting-started guide
