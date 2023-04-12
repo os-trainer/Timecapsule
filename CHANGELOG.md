@@ -11858,3 +11858,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve README with comprehensive getting-started guide
 - Test command line help output and option documentation
 - Document template options for supported project layouts
+- Refactor caching mechanism for cleaner abstraction
