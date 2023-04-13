@@ -11861,3 +11861,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor caching mechanism for cleaner abstraction
 - Add test harness for simulated time progression
 - Fix off-by-one error in collection index calculations
+- Clean up temporary files and ensure deterministic cleanup
