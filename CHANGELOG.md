@@ -4425,3 +4425,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for custom output destination paths
 - Fix incorrect boolean flag evaluation
 - Verify idempotency of cleanup routines in test suite
+- Add code comments explaining complex date mathematics
