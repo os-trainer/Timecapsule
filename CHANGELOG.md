@@ -4428,3 +4428,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add code comments explaining complex date mathematics
 - Implement date formatting and parsing helpers
 - Reduce duplicated logic across helper utilities
+- Update author and contributor information in package descriptor
