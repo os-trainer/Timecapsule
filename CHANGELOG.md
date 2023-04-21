@@ -4439,3 +4439,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract common constants into centralized configuration
 - Implement query filter helpers for collection items
 - Update README with example workflow scenarios
+- Fix unexpected empty input parsing in command line options
