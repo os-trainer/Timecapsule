@@ -4441,3 +4441,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update README with example workflow scenarios
 - Fix unexpected empty input parsing in command line options
 - Fix memory leak in recurring event listeners
+- Restructure project exports to avoid circular dependencies
