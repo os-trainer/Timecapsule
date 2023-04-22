@@ -11879,3 +11879,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract reusable helper functions from main workflow
 - Add tests for custom output destination formatting
 - Implement progress reporter for long-running workflows
+- Add unit tests for progress reporter events
