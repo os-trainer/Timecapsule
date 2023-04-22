@@ -11876,3 +11876,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement helper utilities for parameter parsing
 - Verify cache invalidation logic under test conditions
 - Eliminate code duplication in internal helper branches
+- Extract reusable helper functions from main workflow
