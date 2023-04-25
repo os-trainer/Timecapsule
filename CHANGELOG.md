@@ -4445,3 +4445,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration for source map generation
 - Add descriptive error context when file reading fails
 - Add lightweight event emitter implementation
+- Improve documentation for custom output templates
