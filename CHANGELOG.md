@@ -11881,3 +11881,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement progress reporter for long-running workflows
 - Add unit tests for progress reporter events
 - Configure code style rules and ignore patterns
+- Fix inaccurate execution duration calculation
