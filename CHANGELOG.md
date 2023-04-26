@@ -4448,3 +4448,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve documentation for custom output templates
 - Implement pagination helper for collection data
 - Fix formatting anomaly in terminal progress display
+- Add basic data caching layer with key invalidation
