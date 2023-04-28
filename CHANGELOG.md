@@ -11888,3 +11888,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline option parsing and default resolution
 - Add performance assertions for large collection processing
 - Add support for verbose diagnostic output
+- Fix memory leak in recurring event listeners
