@@ -11891,3 +11891,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak in recurring event listeners
 - Add command-line argument parser for configuration flags
 - Clarify difference between distribution algorithms
+- Fix potential race condition during file initialization
