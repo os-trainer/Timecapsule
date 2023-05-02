@@ -11893,3 +11893,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify difference between distribution algorithms
 - Fix potential race condition during file initialization
 - Refactor validation pipelines to support chaining
+- Add system status inspection helper
