@@ -4457,3 +4457,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add schema validation for configuration objects
 - Adjust timeout thresholds for integration test suite
 - Refactor configuration fallback resolution
+- Add input sanitization for file paths
