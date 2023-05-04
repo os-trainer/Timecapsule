@@ -4463,3 +4463,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression test for boundary date calculations
 - Add performance recommendations for large-scale runs
 - Document template options for supported project layouts
+- Decouple output formatting from core computation logic
