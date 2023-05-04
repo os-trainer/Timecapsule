@@ -11900,3 +11900,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add elapsed execution time measurement helper
 - Adjust linting and formatting configuration rules
 - Verify graceful handling of malformed input data
+- Normalize naming of options and arguments across modules
