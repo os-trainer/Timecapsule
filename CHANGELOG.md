@@ -11902,3 +11902,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify graceful handling of malformed input data
 - Normalize naming of options and arguments across modules
 - Fix inconsistent return type on validation failure
+- Adjust prettier configuration for consistent indentation
