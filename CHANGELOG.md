@@ -11905,3 +11905,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adjust prettier configuration for consistent indentation
 - Cover malformed command line options in test suite
 - Correct fallback order for configuration properties
+- Modularize schema definitions and validation rules
