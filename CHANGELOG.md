@@ -4465,3 +4465,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document template options for supported project layouts
 - Decouple output formatting from core computation logic
 - Fix potential race condition during file initialization
+- Add clean script to purge build artifacts and temp files
