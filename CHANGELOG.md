@@ -11910,3 +11910,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement command line flag alias mapping
 - Set up default project structure and entry points
 - Rename internal variables and parameters for clarity
+- Update development dependencies for test framework
