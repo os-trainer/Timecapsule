@@ -11916,3 +11916,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add FAQ section covering common configuration questions
 - Update test runner configuration for isolated execution
 - Handle partial input objects during configuration merge
+- Fix circular reference error in object serialization
