@@ -11920,3 +11920,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify platform-specific path handling in test suite
 - Add clear synthetic demonstration disclaimer in documentation
 - Clean up project structure and remove redundant exports
+- Improve markdown formatting and typographic consistency in README
