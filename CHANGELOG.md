@@ -11923,3 +11923,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve markdown formatting and typographic consistency in README
 - Implement defensive parameter sanitization
 - Add troubleshooting notes for frequent setup issues
+- Handle null and undefined options defensively
