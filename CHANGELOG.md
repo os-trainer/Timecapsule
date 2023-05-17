@@ -11924,3 +11924,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement defensive parameter sanitization
 - Add troubleshooting notes for frequent setup issues
 - Handle null and undefined options defensively
+- Document distribution patterns and statistical behavior
