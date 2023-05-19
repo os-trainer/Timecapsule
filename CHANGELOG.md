@@ -11926,3 +11926,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle null and undefined options defensively
 - Document distribution patterns and statistical behavior
 - Document date format requirements and accepted tokens
+- Clarify installation instructions and system prerequisites
