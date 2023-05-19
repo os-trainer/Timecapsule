@@ -11929,3 +11929,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify installation instructions and system prerequisites
 - Adjust test runner timeout and concurrency settings
 - Implement safe JSON parsing with fallback values
+- Verify proper error types are thrown on invalid arguments
