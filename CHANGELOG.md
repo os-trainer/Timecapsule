@@ -4484,3 +4484,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add colorized terminal output formatter
 - Test custom date formatting tokens and output strings
 - Update repository keywords and discovery tags
+- Add custom error classes for domain-specific failures
