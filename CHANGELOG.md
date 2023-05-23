@@ -11935,3 +11935,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify error messages for missing required options
 - Standardize date string formatting across all output
 - Handle process interruption cleanly during generation
+- Test custom date formatting tokens and output strings
