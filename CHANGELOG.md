@@ -11945,3 +11945,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add descriptive error context when file reading fails
 - Add input sanitization for file paths
 - Fix intermittent failure in date boundary comparison
+- Refactor promise handling to use modern async/await patterns
