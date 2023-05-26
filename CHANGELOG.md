@@ -11942,3 +11942,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect boolean flag evaluation
 - Simplify collection mapping and transformation pipelines
 - Improve test coverage for error recovery branches
+- Add descriptive error context when file reading fails
