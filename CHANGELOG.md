@@ -4495,3 +4495,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify idempotency of cleanup routines in test suite
 - Refactor array processing routines to use functional methods
 - Implement summary statistics calculation helper
+- Fix unhandled promise rejection in async error handler
