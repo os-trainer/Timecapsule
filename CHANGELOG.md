@@ -11947,3 +11947,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix intermittent failure in date boundary comparison
 - Refactor promise handling to use modern async/await patterns
 - Add acknowledgments and open-source project credits
+- Handle missing configuration gracefully with defaults
