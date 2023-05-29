@@ -11951,3 +11951,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover dry-run execution mode with assertion checks
 - Extract terminal output logic into presentation layer
 - Add test cases for boolean flag normalization
+- Implement summary statistics calculation helper
