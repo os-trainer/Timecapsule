@@ -4499,3 +4499,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update changelog with recent feature additions and fixes
 - Add elapsed execution time measurement helper
 - Ensure strict immutability of configuration defaults
+- Handle empty input collections without throwing exceptions
