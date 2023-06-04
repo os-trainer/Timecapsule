@@ -11955,3 +11955,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add usage notes for multi-year historical generation
 - Add verification tests for safe JSON parsing utilities
 - Consolidate string manipulation utilities
+- Add support for JSON and plain text output formats
