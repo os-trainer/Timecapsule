@@ -4503,3 +4503,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve separation of concerns between CLI and core engine
 - Update API reference documentation for core exports
 - Correctly escape special characters in terminal output
+- Add structured logging helper with log levels
