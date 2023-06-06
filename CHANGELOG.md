@@ -11962,3 +11962,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve input handling and defensive type assertions
 - Document error handling strategies and exit codes
 - Fix missing return statement in error branch
+- Add npm script for running linter in check-only mode
