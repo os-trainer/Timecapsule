@@ -4510,3 +4510,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle undefined configuration sections safely
 - Replace magic numbers with named configuration constants
 - Add assertions for default configuration fallbacks
+- Correct string trimming logic for multi-line inputs
