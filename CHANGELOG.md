@@ -11965,3 +11965,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add npm script for running linter in check-only mode
 - Implement deep object merging utility
 - Add unit tests for terminal colorization toggles
+- Implement numeric range clamping helper
