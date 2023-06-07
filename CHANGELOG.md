@@ -11966,3 +11966,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement deep object merging utility
 - Add unit tests for terminal colorization toggles
 - Implement numeric range clamping helper
+- Add command-line argument parser for configuration flags
