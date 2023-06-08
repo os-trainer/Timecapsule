@@ -4513,3 +4513,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct string trimming logic for multi-line inputs
 - Cover dry-run execution mode with assertion checks
 - Add comments explaining subtle edge cases in date math
+- Fix argument parsing when flag value contains spaces
