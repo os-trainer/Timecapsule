@@ -4515,3 +4515,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add comments explaining subtle edge cases in date math
 - Fix argument parsing when flag value contains spaces
 - Add support for JSON and plain text output formats
+- Extract configuration validation into standalone validator
