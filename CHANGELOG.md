@@ -11971,3 +11971,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract date formatting templates into reusable helpers
 - Configure automated dependency review settings
 - Cover edge cases in date range calculation logic
+- Handle unexpected zero-length arrays in reducer logic
