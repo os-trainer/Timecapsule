@@ -4517,3 +4517,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for JSON and plain text output formats
 - Extract configuration validation into standalone validator
 - Fix incorrect boolean flag evaluation
+- Update test runner configuration for isolated execution
