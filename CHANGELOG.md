@@ -4518,3 +4518,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract configuration validation into standalone validator
 - Fix incorrect boolean flag evaluation
 - Update test runner configuration for isolated execution
+- Improve consistency of option validation error messages
