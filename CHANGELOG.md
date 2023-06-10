@@ -4521,3 +4521,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve consistency of option validation error messages
 - Implement defensive parameter sanitization
 - Add performance assertions for large collection processing
+- Fix unexpected empty input parsing in command line options
