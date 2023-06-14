@@ -4528,3 +4528,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify control flow and reduce nested conditionals
 - Consolidate error definitions and status messages
 - Document test execution commands and coverage reports
+- Fix incorrect default parameter assignment
