@@ -4531,3 +4531,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect default parameter assignment
 - Verify platform-specific path handling in test suite
 - Add key-value store wrapper for memory cache
+- Add examples of integrating tool into automated scripts
