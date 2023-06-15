@@ -4534,3 +4534,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add examples of integrating tool into automated scripts
 - Verify error messages for missing required options
 - Implement command line flag alias mapping
+- Simplify collection mapping and transformation pipelines
