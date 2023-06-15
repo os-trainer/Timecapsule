@@ -11982,3 +11982,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve documentation for custom output templates
 - Add system status inspection helper
 - Add regression tests for previous edge-case bugs
+- Correct fallback order for configuration properties
