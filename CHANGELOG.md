@@ -4538,3 +4538,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve package scripts for building and testing
 - Implement progress reporter for long-running workflows
 - Add contribution guidelines and development workflow steps
+- Add custom formatting options for summary tables
