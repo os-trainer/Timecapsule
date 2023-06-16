@@ -4536,3 +4536,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement command line flag alias mapping
 - Simplify collection mapping and transformation pipelines
 - Improve package scripts for building and testing
+- Implement progress reporter for long-running workflows
