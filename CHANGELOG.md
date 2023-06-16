@@ -11984,3 +11984,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression tests for previous edge-case bugs
 - Correct fallback order for configuration properties
 - Rename internal variables and parameters for clarity
+- Verify proper error types are thrown on invalid arguments
