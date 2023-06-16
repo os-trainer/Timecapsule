@@ -4541,3 +4541,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add custom formatting options for summary tables
 - Add test harness for simulated time progression
 - Correct regex pattern matching for date validation
+- Add defensive fallbacks for unexpected null values
