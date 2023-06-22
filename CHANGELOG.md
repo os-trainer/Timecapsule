@@ -11992,3 +11992,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update changelog with recent feature additions and fixes
 - Implement dry-run execution preview mode
 - Add unit tests for string formatting and truncation helpers
+- Add table of contents to main project documentation
