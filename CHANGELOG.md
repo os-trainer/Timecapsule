@@ -4547,3 +4547,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement dry-run execution preview mode
 - Adjust linting and formatting configuration rules
 - Standardize indentation and line wrapping across files
+- Fix inconsistent return type on validation failure
