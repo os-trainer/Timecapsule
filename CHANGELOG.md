@@ -4549,3 +4549,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize indentation and line wrapping across files
 - Fix inconsistent return type on validation failure
 - Restructure project exports to avoid circular dependencies
+- Implement flexible filter predicate builder
