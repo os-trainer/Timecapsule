@@ -4551,3 +4551,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Restructure project exports to avoid circular dependencies
 - Implement flexible filter predicate builder
 - Improve clarity of variable scopes and closures
+- Fix validation logic for boundary date ranges
