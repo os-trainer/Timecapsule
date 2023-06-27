@@ -12004,3 +12004,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add structured logging helper with log levels
 - Add assertions to catch illegal state during execution
 - Add multi-step workflow runner utility
+- Add key-value store wrapper for memory cache
