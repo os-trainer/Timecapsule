@@ -4553,3 +4553,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve clarity of variable scopes and closures
 - Fix validation logic for boundary date ranges
 - Update repository keywords and discovery tags
+
+## [5.4.0]
+### Changed
+- Clarify frequency parameter behavior and percentage rules
