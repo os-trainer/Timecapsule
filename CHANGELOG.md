@@ -4557,3 +4557,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [5.4.0]
 ### Changed
 - Clarify frequency parameter behavior and percentage rules
+- Update development dependencies for test framework
