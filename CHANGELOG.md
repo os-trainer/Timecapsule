@@ -4567,3 +4567,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify graceful handling of malformed input data
 - Modularize command-line argument processing logic
 - Add instructions for running tests and linter locally
+- Add regression test for boundary date calculations
