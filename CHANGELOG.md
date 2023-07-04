@@ -12014,3 +12014,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix validation logic for boundary date ranges
 - Correctly escape special characters in terminal output
 - Add clear synthetic demonstration disclaimer in documentation
+- Add custom formatting options for summary tables
