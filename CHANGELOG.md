@@ -12018,3 +12018,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add assertions for default configuration fallbacks
 - Update author and contributor information in package descriptor
 - Clarify frequency parameter behavior and percentage rules
+- Add test suite for distribution weight calculations
