@@ -4578,3 +4578,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify conditional branching in distribution calculator
 - Fix incorrect boolean flag evaluation
 - Extract file system operations into isolated adapter
+- Add usage examples for common command-line options
