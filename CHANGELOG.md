@@ -12023,3 +12023,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement date formatting and parsing helpers
 - Streamline event dispatching mechanism
 - Correct boundary check in range validation utility
+- Fix infinite loop risk in collection traversal logic
