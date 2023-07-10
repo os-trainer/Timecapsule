@@ -4581,3 +4581,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add usage examples for common command-line options
 - Correct boundary check in range validation utility
 - Add verification tests for safe JSON parsing utilities
+- Fix duplicate item registration in event subscriber list
