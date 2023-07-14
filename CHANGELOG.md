@@ -12029,3 +12029,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test empty collection handling across utility functions
 - Add reusable string formatting utility functions
 - Add instructions for running tests and linter locally
+- Fix circular reference error in object serialization
