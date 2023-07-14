@@ -12030,3 +12030,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add reusable string formatting utility functions
 - Add instructions for running tests and linter locally
 - Fix circular reference error in object serialization
+- Restructure project exports to avoid circular dependencies
