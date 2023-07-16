@@ -12035,3 +12035,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add integration test verifying end-to-end workflow execution
 - Document preview mode and dry-run visualization
 - Handle partial input objects during configuration merge
+- Implement event listener registry for status events
