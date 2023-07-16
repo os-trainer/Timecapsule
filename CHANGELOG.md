@@ -12038,3 +12038,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement event listener registry for status events
 - Modularize command-line argument processing logic
 - Extract date formatting templates into reusable helpers
+- Fix missing return statement in error branch
