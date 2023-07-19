@@ -4604,3 +4604,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve consistency of return structures across helpers
 - Document supported platforms and shell environments
 - Fix memory leak in recurring event listeners
+- Add elapsed execution time measurement helper
