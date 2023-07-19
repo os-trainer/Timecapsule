@@ -12048,3 +12048,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve code maintainability index across core files
 - Add environment variable override support
 - Add lightweight event emitter implementation
+- Refactor utility functions into dedicated modules
