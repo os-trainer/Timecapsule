@@ -12046,3 +12046,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement customizable output formatting options
 - Refactor promise handling to use modern async/await patterns
 - Improve code maintainability index across core files
+- Add environment variable override support
