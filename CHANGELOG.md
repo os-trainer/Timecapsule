@@ -12049,3 +12049,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add environment variable override support
 - Add lightweight event emitter implementation
 - Refactor utility functions into dedicated modules
+- Handle empty input collections without throwing exceptions
