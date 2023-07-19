@@ -4603,3 +4603,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify error messages for missing required options
 - Improve consistency of return structures across helpers
 - Document supported platforms and shell environments
+- Fix memory leak in recurring event listeners
