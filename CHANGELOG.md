@@ -12062,3 +12062,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for rate limiting and throttling helpers
 - Add elapsed execution time measurement helper
 - Add performance recommendations for large-scale runs
+- Fix unexpected empty input parsing in command line options
