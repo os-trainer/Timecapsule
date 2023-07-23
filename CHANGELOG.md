@@ -12063,3 +12063,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add elapsed execution time measurement helper
 - Add performance recommendations for large-scale runs
 - Fix unexpected empty input parsing in command line options
+- Add support for JSON and plain text output formats
