@@ -12067,3 +12067,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix edge case in input handling for empty strings
 - Improve consistency of option validation error messages
 - Add colorized terminal output formatter
+- Test timezone offset handling with varying dates
