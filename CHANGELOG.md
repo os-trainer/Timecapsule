@@ -4612,3 +4612,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover complex configuration inheritance in tests
 - Fix formatting anomaly in terminal progress display
 - Add structured logging helper with log levels
+- Improve documentation for custom output templates
