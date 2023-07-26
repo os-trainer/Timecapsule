@@ -12072,3 +12072,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add parameterized tests for date parsing variations
 - Fix incorrect default parameter assignment
 - Configure distribution bundle output settings
+- Add input validation for user-supplied options
