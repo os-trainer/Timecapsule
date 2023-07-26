@@ -4610,3 +4610,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update license field and attribution in package manifest
 - Simplify error throwing and propagation mechanisms
 - Cover complex configuration inheritance in tests
+- Fix formatting anomaly in terminal progress display
