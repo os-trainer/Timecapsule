@@ -12077,3 +12077,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add parameter type checks to public library methods
 - Consolidate error definitions and status messages
 - Implement date formatting and parsing helpers
+- Test custom date formatting tokens and output strings
