@@ -4618,3 +4618,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify idempotency of cleanup routines in test suite
 - Refactor promise handling to use modern async/await patterns
 - Add URL query string builder and parser
+- Add badges for license, build status, and version
