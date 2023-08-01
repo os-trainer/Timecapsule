@@ -12086,3 +12086,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle unexpected zero-length arrays in reducer logic
 - Document template options for supported project layouts
 - Improve package scripts for building and testing
+- Add custom error classes for domain-specific failures
