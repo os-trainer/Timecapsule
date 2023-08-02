@@ -4619,3 +4619,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor promise handling to use modern async/await patterns
 - Add URL query string builder and parser
 - Add badges for license, build status, and version
+- Improve modularity of utility function parameter signatures
