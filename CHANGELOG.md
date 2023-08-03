@@ -4624,3 +4624,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions for running tests and linter locally
 - Add basic data caching layer with key invalidation
 - Verify proper error types are thrown on invalid arguments
+- Implement event listener registry for status events
