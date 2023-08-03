@@ -12091,3 +12091,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve clarity of variable scopes and closures
 - Add basic data caching layer with key invalidation
 - Refactor caching mechanism for cleaner abstraction
+- Fix memory leak caused by unreleased cache handles
