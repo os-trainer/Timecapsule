@@ -4628,3 +4628,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement helper utilities for parameter parsing
 - Refactor date calculation routines for better readability
 - Correct path delimiter handling across operating systems
+- Streamline option parsing and default resolution
