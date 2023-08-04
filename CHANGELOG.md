@@ -4627,3 +4627,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement event listener registry for status events
 - Implement helper utilities for parameter parsing
 - Refactor date calculation routines for better readability
+- Correct path delimiter handling across operating systems
