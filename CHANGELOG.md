@@ -12095,3 +12095,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test suite for distribution weight calculations
 - Implement defensive parameter sanitization
 - Correct error handling when input file is absent
+- Add tests for custom output destination formatting
