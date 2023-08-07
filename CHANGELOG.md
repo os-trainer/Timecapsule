@@ -12100,3 +12100,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document environment variable configuration overrides
 - Add JSDoc type annotations for internal functions
 - Add validation rules for date range boundaries
+- Add troubleshooting notes for frequent setup issues
