@@ -4635,3 +4635,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add comprehensive tests for configuration loader
 - Improve input handling and defensive type assertions
 - Add support for verbose diagnostic output
+- Cover malformed command line options in test suite
