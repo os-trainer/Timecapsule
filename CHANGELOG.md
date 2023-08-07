@@ -4634,3 +4634,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle partial input objects during configuration merge
 - Add comprehensive tests for configuration loader
 - Improve input handling and defensive type assertions
+- Add support for verbose diagnostic output
