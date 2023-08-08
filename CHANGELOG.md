@@ -12102,3 +12102,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add validation rules for date range boundaries
 - Add troubleshooting notes for frequent setup issues
 - Implement rate limiting throttle for helper actions
+- Add comments explaining subtle edge cases in date math
