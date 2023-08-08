@@ -4638,3 +4638,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover malformed command line options in test suite
 - Correct negative duration calculations across days
 - Add examples comparing standard and conventional commits
+- Handle missing configuration gracefully with defaults
