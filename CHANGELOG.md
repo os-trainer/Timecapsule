@@ -4642,3 +4642,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add snapshot tests for terminal output formatters
 - Implement configuration merging priority logic
 - Add unit tests for terminal colorization toggles
+- Add environment variable override support
