@@ -12109,3 +12109,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix intermittent failure in date boundary comparison
 - Add comprehensive tests for configuration loader
 - Add detailed architecture overview and component diagram
+- Improve README with comprehensive getting-started guide
