@@ -12112,3 +12112,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve README with comprehensive getting-started guide
 - Verify platform-specific path handling in test suite
 - Implement progress reporter for long-running workflows
+- Decouple output formatting from core computation logic
