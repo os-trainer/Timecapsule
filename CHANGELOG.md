@@ -12116,3 +12116,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add performance assertions for large collection processing
 - Add key-value store wrapper for memory cache
 - Add boundary condition tests for numeric ranges
+- Extract progress tracking into dedicated emitter
