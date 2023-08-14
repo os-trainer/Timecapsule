@@ -4644,3 +4644,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for terminal colorization toggles
 - Add environment variable override support
 - Cover deep object merge edge cases in unit tests
+- Resolve incorrect return value for edge-case queries
