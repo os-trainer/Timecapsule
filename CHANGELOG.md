@@ -4649,3 +4649,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update changelog with recent feature additions and fixes
 - Add unit tests for string formatting and truncation helpers
 - Improve code maintainability index across core files
+- Update package repository URLs and issue tracker links
