@@ -4651,3 +4651,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve code maintainability index across core files
 - Update package repository URLs and issue tracker links
 - Refactor caching mechanism for cleaner abstraction
+- Correct string trimming logic for multi-line inputs
