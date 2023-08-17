@@ -4656,3 +4656,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for input validation helper functions
 - Consolidate string manipulation utilities
 - Clarify frequency parameter behavior and percentage rules
+
+## [5.5.0]
+### Changed
+- Refactor array processing routines to use functional methods
