@@ -12124,3 +12124,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input sanitization for file paths
 - Document preview mode and dry-run visualization
 - Improve naming consistency across internal interfaces
+- Add unit tests for terminal colorization toggles
