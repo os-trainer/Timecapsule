@@ -12121,3 +12121,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix formatting anomaly in terminal progress display
 - Improve documentation for custom output templates
 - Consolidate string manipulation utilities
+- Add input sanitization for file paths
