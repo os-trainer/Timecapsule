@@ -12127,3 +12127,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for terminal colorization toggles
 - Extract date formatting templates into reusable helpers
 - Clean up temporary files and ensure deterministic cleanup
+- Configure semantic versioning and release scripts
