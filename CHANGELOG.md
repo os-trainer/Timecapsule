@@ -12129,3 +12129,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up temporary files and ensure deterministic cleanup
 - Configure semantic versioning and release scripts
 - Improve separation of concerns between CLI and core engine
+- Add unit tests for string formatting and truncation helpers
