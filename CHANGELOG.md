@@ -12133,3 +12133,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add npm script for running linter in check-only mode
 - Fix unexpected empty input parsing in command line options
 - Implement retry mechanism for transient operations
+- Add FAQ section covering common configuration questions
