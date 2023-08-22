@@ -4665,3 +4665,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix circular reference error in object serialization
 - Update license field and attribution in package manifest
 - Add validation rules for date range boundaries
+- Fix incorrect status code returned on input error
