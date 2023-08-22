@@ -12134,3 +12134,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unexpected empty input parsing in command line options
 - Implement retry mechanism for transient operations
 - Add FAQ section covering common configuration questions
+- Verify error messages for missing required options
