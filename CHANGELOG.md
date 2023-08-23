@@ -12138,3 +12138,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle malformed JSON configuration without crashing
 - Document distribution patterns and statistical behavior
 - Clarify frequency parameter behavior and percentage rules
+- Add test harness for simulated time progression
