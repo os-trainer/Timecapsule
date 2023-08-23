@@ -12137,3 +12137,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify error messages for missing required options
 - Handle malformed JSON configuration without crashing
 - Document distribution patterns and statistical behavior
+- Clarify frequency parameter behavior and percentage rules
