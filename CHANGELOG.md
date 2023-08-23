@@ -12136,3 +12136,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add FAQ section covering common configuration questions
 - Verify error messages for missing required options
 - Handle malformed JSON configuration without crashing
+- Document distribution patterns and statistical behavior
