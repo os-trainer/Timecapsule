@@ -4673,3 +4673,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update API reference documentation for core exports
 - Implement file reading helper with encoding support
 - Correct fallback order for configuration properties
+- Fix unexpected empty input parsing in command line options
