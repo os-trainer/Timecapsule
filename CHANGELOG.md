@@ -12140,3 +12140,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify frequency parameter behavior and percentage rules
 - Add test harness for simulated time progression
 - Add basic data processing and normalization pipeline
+- Standardize date string formatting across all output
