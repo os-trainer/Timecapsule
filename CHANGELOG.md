@@ -4676,3 +4676,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unexpected empty input parsing in command line options
 - Improve separation of concerns between CLI and core engine
 - Correct boundary check in range validation utility
+- Add unit tests for rate limiting and throttling helpers
