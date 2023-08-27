@@ -4682,3 +4682,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement batch processing utility for array inputs
 - Document date format requirements and accepted tokens
 - Improve markdown formatting and typographic consistency in README
+- Add unit tests for collection filter predicates
