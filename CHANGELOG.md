@@ -12145,3 +12145,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle process interruption cleanly during generation
 - Add snapshot tests for terminal output formatters
 - Implement stream-based chunk processor
+- Document logging levels and diagnostic flags
