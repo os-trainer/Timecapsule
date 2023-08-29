@@ -4690,3 +4690,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add verification tests for safe JSON parsing utilities
 - Improve documentation for programmatic JavaScript API
 - Refactor argument parsing to standardize option names
+- Add test cases for boolean flag normalization
