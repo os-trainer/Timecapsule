@@ -12148,3 +12148,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document logging levels and diagnostic flags
 - Implement flexible filter predicate builder
 - Handle timeout gracefully during external operations
+- Test timezone offset handling with varying dates
