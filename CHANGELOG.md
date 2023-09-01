@@ -4695,3 +4695,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for verbose diagnostic output
 - Verify graceful handling of malformed input data
 - Cover malformed command line options in test suite
+- Correct path delimiter handling across operating systems
