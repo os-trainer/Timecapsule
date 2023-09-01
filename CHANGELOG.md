@@ -4694,3 +4694,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement stream-based chunk processor
 - Add support for verbose diagnostic output
 - Verify graceful handling of malformed input data
+- Cover malformed command line options in test suite
