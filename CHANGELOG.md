@@ -12155,3 +12155,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty environment variables without error
 - Adjust timeout thresholds for integration test suite
 - Add verification tests for safe JSON parsing utilities
+- Add URL query string builder and parser
