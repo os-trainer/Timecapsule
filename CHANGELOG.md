@@ -4704,3 +4704,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline parameter passing across internal layers
 - Implement retry mechanism for transient operations
 - Reduce duplicated logic across helper utilities
+- Add tests for custom output destination formatting
