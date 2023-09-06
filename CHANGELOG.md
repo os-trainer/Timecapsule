@@ -4706,3 +4706,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reduce duplicated logic across helper utilities
 - Add tests for custom output destination formatting
 - Add regression tests for previous edge-case bugs
+- Add configuration for code coverage reporting
