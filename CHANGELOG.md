@@ -12168,3 +12168,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement template interpolation utility
 - Update README with example workflow scenarios
 - Add unit tests for collection filter predicates
+- Decouple output formatting from core computation logic
