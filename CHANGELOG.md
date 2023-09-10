@@ -12166,3 +12166,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Set up standard project conventions and layout
 - Correct timestamp calculation for timezone offsets
 - Implement template interpolation utility
+- Update README with example workflow scenarios
