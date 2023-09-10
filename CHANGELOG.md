@@ -12167,3 +12167,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct timestamp calculation for timezone offsets
 - Implement template interpolation utility
 - Update README with example workflow scenarios
+- Add unit tests for collection filter predicates
