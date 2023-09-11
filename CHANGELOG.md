@@ -4719,3 +4719,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update project metadata and repository description
 - Extract terminal output logic into presentation layer
 - Add quick reference cheat sheet for CLI commands
+- Extract common constants into centralized configuration
