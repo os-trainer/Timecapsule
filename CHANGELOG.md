@@ -12169,3 +12169,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update README with example workflow scenarios
 - Add unit tests for collection filter predicates
 - Decouple output formatting from core computation logic
+- Fix validation logic for boundary date ranges
