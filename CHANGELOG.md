@@ -4721,3 +4721,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add quick reference cheat sheet for CLI commands
 - Extract common constants into centralized configuration
 - Fix inaccurate execution duration calculation
+- Add performance recommendations for large-scale runs
