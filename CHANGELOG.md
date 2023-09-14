@@ -12171,3 +12171,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decouple output formatting from core computation logic
 - Fix validation logic for boundary date ranges
 - Add support for verbose diagnostic output
+- Remove obsolete polyfills and legacy compatibility shims
