@@ -4731,3 +4731,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct output formatting when statistics are zero
 - Add unit tests for input validation helper functions
 - Add boilerplate code for primary module
+- Modularize schema definitions and validation rules
