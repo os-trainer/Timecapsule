@@ -12185,3 +12185,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix duplicate item registration in event subscriber list
 - Cover complex configuration inheritance in tests
 - Add step-by-step tutorial for sample project generation
+- Simplify collection mapping and transformation pipelines
