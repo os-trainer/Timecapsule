@@ -12183,3 +12183,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up dead code and obsolete helper methods
 - Add contribution guidelines and development workflow steps
 - Fix duplicate item registration in event subscriber list
+- Cover complex configuration inheritance in tests
