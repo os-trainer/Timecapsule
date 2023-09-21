@@ -4735,3 +4735,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle process interruption cleanly during generation
 - Extract reusable helper functions from main workflow
 - Implement query filter helpers for collection items
+- Improve readability of complex conditional evaluations
