@@ -4734,3 +4734,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modularize schema definitions and validation rules
 - Handle process interruption cleanly during generation
 - Extract reusable helper functions from main workflow
+- Implement query filter helpers for collection items
