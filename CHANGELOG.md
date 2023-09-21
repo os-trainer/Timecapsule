@@ -4733,3 +4733,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add boilerplate code for primary module
 - Modularize schema definitions and validation rules
 - Handle process interruption cleanly during generation
+- Extract reusable helper functions from main workflow
