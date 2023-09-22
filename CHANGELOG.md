@@ -12187,3 +12187,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add step-by-step tutorial for sample project generation
 - Simplify collection mapping and transformation pipelines
 - Add unit tests for progress reporter events
+- Standardize indentation and line wrapping across files
