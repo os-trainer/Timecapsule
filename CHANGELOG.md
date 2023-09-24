@@ -4739,3 +4739,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add initial project scaffolding and configuration
 - Reorganize internal test helpers and fixtures
 - Add input sanitization for file paths
+- Document test execution commands and coverage reports
