@@ -12190,3 +12190,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize indentation and line wrapping across files
 - Add safe deep clone utility function
 - Test command line help output and option documentation
+- Fix off-by-one error in collection index calculations
