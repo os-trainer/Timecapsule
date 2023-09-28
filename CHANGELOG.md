@@ -4746,3 +4746,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update development configuration and editor settings
 - Add test harness for simulated time progression
 - Fix potential race condition during file initialization
+- Add examples of integrating tool into automated scripts
