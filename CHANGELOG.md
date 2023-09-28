@@ -4751,3 +4751,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correctly escape special characters in terminal output
 - Verify platform-specific path handling in test suite
 - Add usage notes for multi-year historical generation
+- Ensure strict immutability of configuration defaults
