@@ -12191,3 +12191,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add safe deep clone utility function
 - Test command line help output and option documentation
 - Fix off-by-one error in collection index calculations
+- Document error handling strategies and exit codes
