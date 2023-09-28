@@ -4749,3 +4749,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add examples of integrating tool into automated scripts
 - Test timezone offset handling with varying dates
 - Correctly escape special characters in terminal output
+- Verify platform-specific path handling in test suite
