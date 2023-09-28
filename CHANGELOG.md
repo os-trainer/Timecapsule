@@ -12194,3 +12194,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document error handling strategies and exit codes
 - Implement configuration file loader with fallback defaults
 - Improve function organization and module cohesion
+- Handle file permission errors with actionable messages
