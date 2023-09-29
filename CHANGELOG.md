@@ -4753,3 +4753,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add usage notes for multi-year historical generation
 - Ensure strict immutability of configuration defaults
 - Implement configuration merging priority logic
+- Improve inline code documentation and parameter descriptions
