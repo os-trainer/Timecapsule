@@ -4756,3 +4756,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve inline code documentation and parameter descriptions
 - Correct timestamp calculation for timezone offsets
 - Add custom error classes for domain-specific failures
+- Add tests for custom output destination formatting
