@@ -12198,3 +12198,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement query filter helpers for collection items
 - Fix memory leak in recurring event listeners
 - Eliminate code duplication in internal helper branches
+- Extract progress tracking into dedicated emitter
