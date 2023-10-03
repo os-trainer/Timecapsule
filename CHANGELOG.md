@@ -12200,3 +12200,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Eliminate code duplication in internal helper branches
 - Extract progress tracking into dedicated emitter
 - Implement file reading helper with encoding support
+- Fix improper resource cleanup on exit
