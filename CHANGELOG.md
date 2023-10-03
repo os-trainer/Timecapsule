@@ -12199,3 +12199,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak in recurring event listeners
 - Eliminate code duplication in internal helper branches
 - Extract progress tracking into dedicated emitter
+- Implement file reading helper with encoding support
