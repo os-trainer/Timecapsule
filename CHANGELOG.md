@@ -4759,3 +4759,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add tests for custom output destination formatting
 - Implement template interpolation utility
 - Handle timeout gracefully during external operations
+
+## [5.6.0]
+### Changed
+- Add comprehensive tests for configuration loader
