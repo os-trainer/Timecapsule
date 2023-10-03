@@ -12197,3 +12197,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle file permission errors with actionable messages
 - Implement query filter helpers for collection items
 - Fix memory leak in recurring event listeners
+- Eliminate code duplication in internal helper branches
