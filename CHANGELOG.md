@@ -12205,3 +12205,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify cache invalidation logic under test conditions
 - Ensure all async rejections provide meaningful Error instances
 - Implement deep object merging utility
+- Add support for JSON and plain text output formats
