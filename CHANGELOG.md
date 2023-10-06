@@ -12207,3 +12207,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement deep object merging utility
 - Add support for JSON and plain text output formats
 - Add assertions for default configuration fallbacks
+- Add security considerations and safe execution notes
