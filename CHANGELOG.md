@@ -12211,3 +12211,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct path delimiter handling across operating systems
 - Introduce mock harness for file system operations
 - Add schema validation for configuration objects
+- Add key-value store wrapper for memory cache
