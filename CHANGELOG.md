@@ -12214,3 +12214,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add key-value store wrapper for memory cache
 - Simplify error throwing and propagation mechanisms
 - Add regression test for boundary date calculations
+- Fix incorrect status code returned on input error
