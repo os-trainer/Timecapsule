@@ -12215,3 +12215,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify error throwing and propagation mechanisms
 - Add regression test for boundary date calculations
 - Fix incorrect status code returned on input error
+- Update npm packaging whitelist in files array
