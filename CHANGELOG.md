@@ -12218,3 +12218,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update npm packaging whitelist in files array
 - Implement retry mechanism for transient operations
 - Add test cases for boolean flag normalization
+- Add defensive fallbacks for unexpected null values
