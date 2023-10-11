@@ -12224,3 +12224,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix edge case in input handling for empty strings
 - Refactor date calculation routines for better readability
 - Cover edge cases in date range calculation logic
+- Handle partial input objects during configuration merge
