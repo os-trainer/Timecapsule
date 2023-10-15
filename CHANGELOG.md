@@ -12230,3 +12230,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add validation rules for date range boundaries
 - Handle null and undefined options defensively
 - Extract terminal output logic into presentation layer
+- Add command-line argument parser for configuration flags
