@@ -12234,3 +12234,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage for error recovery branches
 - Add array sorting and filtering helper functions
 - Add clear synthetic demonstration disclaimer in documentation
+- Fix circular reference error in object serialization
