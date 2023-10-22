@@ -4792,3 +4792,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle undefined configuration sections safely
 - Simplify complex function implementations for maintainability
 - Update test runner configuration for isolated execution
+- Verify proper error types are thrown on invalid arguments
