@@ -12248,3 +12248,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add custom formatting options for summary tables
 - Clarify installation instructions and system prerequisites
 - Refactor promise handling to use modern async/await patterns
+- Implement date formatting and parsing helpers
