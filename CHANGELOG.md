@@ -4797,3 +4797,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle unexpected zero-length arrays in reducer logic
 - Consolidate duplicate string sanitization routines
 - Cover complex configuration inheritance in tests
+- Fix infinite loop risk in collection traversal logic
