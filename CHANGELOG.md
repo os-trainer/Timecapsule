@@ -12251,3 +12251,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement date formatting and parsing helpers
 - Consolidate string manipulation utilities
 - Implement object transformation and mapping utilities
+- Cover malformed command line options in test suite
