@@ -12252,3 +12252,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate string manipulation utilities
 - Implement object transformation and mapping utilities
 - Cover malformed command line options in test suite
+- Improve separation of concerns between CLI and core engine
