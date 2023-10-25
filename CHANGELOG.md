@@ -12256,3 +12256,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document configuration options and default parameters
 - Correctly escape special characters in terminal output
 - Reduce duplicated logic across helper utilities
+- Add usage examples for common command-line options
