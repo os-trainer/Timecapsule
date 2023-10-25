@@ -12258,3 +12258,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reduce duplicated logic across helper utilities
 - Add usage examples for common command-line options
 - Resolve incorrect return value for edge-case queries
+- Implement file reading helper with encoding support
