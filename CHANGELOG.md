@@ -12254,3 +12254,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover malformed command line options in test suite
 - Improve separation of concerns between CLI and core engine
 - Document configuration options and default parameters
+- Correctly escape special characters in terminal output
