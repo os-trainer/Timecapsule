@@ -12253,3 +12253,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement object transformation and mapping utilities
 - Cover malformed command line options in test suite
 - Improve separation of concerns between CLI and core engine
+- Document configuration options and default parameters
