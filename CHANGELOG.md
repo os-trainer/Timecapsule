@@ -12261,3 +12261,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement file reading helper with encoding support
 - Refactor configuration fallback resolution
 - Add examples comparing standard and conventional commits
+- Test invalid input handling and expected exceptions
