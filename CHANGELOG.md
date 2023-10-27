@@ -12263,3 +12263,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add examples comparing standard and conventional commits
 - Test invalid input handling and expected exceptions
 - Tune lint-staged configuration for staged files
+- Correct output formatting when statistics are zero
