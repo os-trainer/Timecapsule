@@ -12262,3 +12262,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor configuration fallback resolution
 - Add examples comparing standard and conventional commits
 - Test invalid input handling and expected exceptions
+- Tune lint-staged configuration for staged files
