@@ -4802,3 +4802,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test suite for distribution weight calculations
 - Refactor date calculation routines for better readability
 - Normalize naming of options and arguments across modules
+- Test timezone offset handling with varying dates
