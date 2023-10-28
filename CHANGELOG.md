@@ -4803,3 +4803,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor date calculation routines for better readability
 - Normalize naming of options and arguments across modules
 - Test timezone offset handling with varying dates
+- Clean up project structure and remove redundant exports
