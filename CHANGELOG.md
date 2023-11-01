@@ -4808,3 +4808,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor promise handling to use modern async/await patterns
 - Improve consistency of return structures across helpers
 - Correct output formatting when statistics are zero
+- Implement customizable output formatting options
