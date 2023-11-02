@@ -4813,3 +4813,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document configuration options and default parameters
 - Verify cache invalidation logic under test conditions
 - Implement numeric range clamping helper
+- Fix incorrect status code returned on input error
