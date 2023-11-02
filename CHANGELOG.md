@@ -4815,3 +4815,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement numeric range clamping helper
 - Fix incorrect status code returned on input error
 - Add performance assertions for large collection processing
+- Correct fallback order for configuration properties
