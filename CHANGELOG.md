@@ -12273,3 +12273,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement command line flag alias mapping
 - Fix infinite loop risk in collection traversal logic
 - Add input validation for user-supplied options
+- Restructure project exports to avoid circular dependencies
