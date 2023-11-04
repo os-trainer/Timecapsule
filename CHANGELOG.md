@@ -12275,3 +12275,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input validation for user-supplied options
 - Restructure project exports to avoid circular dependencies
 - Correct negative duration calculations across days
+- Test timezone offset handling with varying dates
