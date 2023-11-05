@@ -12278,3 +12278,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test timezone offset handling with varying dates
 - Clarify difference between distribution algorithms
 - Clean up project structure and remove redundant exports
+- Set up clean project entry and public API interface
