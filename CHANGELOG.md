@@ -12281,3 +12281,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Set up clean project entry and public API interface
 - Update API reference documentation for core exports
 - Fix argument parsing when flag value contains spaces
+- Add input sanitization for file paths
