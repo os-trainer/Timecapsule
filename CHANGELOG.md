@@ -4818,3 +4818,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct fallback order for configuration properties
 - Add safe deep clone utility function
 - Tune lint-staged configuration for staged files
+- Fix memory leak caused by unreleased cache handles
