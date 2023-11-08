@@ -12286,3 +12286,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data caching layer with key invalidation
 - Fix incorrect default parameter assignment
 - Test custom date formatting tokens and output strings
+- Fix string encoding issue when processing special characters
