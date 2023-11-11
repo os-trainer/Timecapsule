@@ -4825,3 +4825,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure consistent parameter ordering in helper signatures
 - Add configuration file for static code analysis
 - Correct negative duration calculations across days
+- Add URL query string builder and parser
