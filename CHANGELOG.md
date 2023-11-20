@@ -12307,3 +12307,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify error throwing and propagation mechanisms
 - Add safe deep clone utility function
 - Add lightweight event emitter implementation
+- Improve consistency of return structures across helpers
