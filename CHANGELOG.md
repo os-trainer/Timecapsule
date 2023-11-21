@@ -12315,3 +12315,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add environment variable override support
 - Add usage notes for multi-year historical generation
 - Add system status inspection helper
+- Document custom commit message filtering and options
