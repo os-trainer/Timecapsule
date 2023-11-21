@@ -12312,3 +12312,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify frequency parameter behavior and percentage rules
 - Implement configuration merging priority logic
 - Add tests for custom output destination formatting
+- Add environment variable override support
