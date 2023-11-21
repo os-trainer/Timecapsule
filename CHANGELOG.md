@@ -4844,3 +4844,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unhandled promise rejection in async error handler
 - Add unit tests for progress reporter events
 - Fix potential race condition during file initialization
+- Extract configuration validation into standalone validator
