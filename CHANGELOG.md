@@ -12310,3 +12310,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve consistency of return structures across helpers
 - Handle unexpected zero-length arrays in reducer logic
 - Clarify frequency parameter behavior and percentage rules
+- Implement configuration merging priority logic
