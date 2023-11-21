@@ -12313,3 +12313,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement configuration merging priority logic
 - Add tests for custom output destination formatting
 - Add environment variable override support
+- Add usage notes for multi-year historical generation
