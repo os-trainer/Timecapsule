@@ -12317,3 +12317,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add system status inspection helper
 - Document custom commit message filtering and options
 - Correct output formatting when statistics are zero
+- Add URL query string builder and parser
