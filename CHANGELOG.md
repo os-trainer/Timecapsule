@@ -12321,3 +12321,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for custom output destination paths
 - Add comprehensive tests for configuration loader
 - Add parameter type checks to public library methods
+- Extract date formatting templates into reusable helpers
