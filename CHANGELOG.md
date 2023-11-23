@@ -4850,3 +4850,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement object transformation and mapping utilities
 - Add unit tests for rate limiting and throttling helpers
 - Enhance descriptive quality of debug logging statements
+- Document environment variable configuration overrides
