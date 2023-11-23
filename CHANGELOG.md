@@ -4848,3 +4848,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add examples comparing standard and conventional commits
 - Add configuration file for continuous integration
 - Implement object transformation and mapping utilities
+- Add unit tests for rate limiting and throttling helpers
