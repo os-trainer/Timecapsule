@@ -12318,3 +12318,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document custom commit message filtering and options
 - Correct output formatting when statistics are zero
 - Add URL query string builder and parser
+- Add support for custom output destination paths
