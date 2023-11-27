@@ -4853,3 +4853,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document environment variable configuration overrides
 - Verify error messages for missing required options
 - Configure code style rules and ignore patterns
+- Add JSDoc type annotations for internal functions
