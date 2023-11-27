@@ -12324,3 +12324,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract date formatting templates into reusable helpers
 - Simplify control flow and reduce nested conditionals
 - Implement helper utilities for parameter parsing
+- Add npm script for running unit test suite
