@@ -12329,3 +12329,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement numeric range clamping helper
 - Handle file permission errors with actionable messages
 - Resolve incorrect return value for edge-case queries
+- Cover malformed command line options in test suite
