@@ -12327,3 +12327,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add npm script for running unit test suite
 - Fix inconsistent return type on validation failure
 - Implement numeric range clamping helper
+- Handle file permission errors with actionable messages
