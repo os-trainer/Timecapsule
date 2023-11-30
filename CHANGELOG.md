@@ -4856,3 +4856,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add JSDoc type annotations for internal functions
 - Consolidate string manipulation utilities
 - Extract file system operations into isolated adapter
+- Add system status inspection helper
