@@ -12331,3 +12331,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Resolve incorrect return value for edge-case queries
 - Cover malformed command line options in test suite
 - Document supported platforms and shell environments
+- Implement rate limiting throttle for helper actions
