@@ -12332,3 +12332,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover malformed command line options in test suite
 - Document supported platforms and shell environments
 - Implement rate limiting throttle for helper actions
+- Fix missing return statement in error branch
