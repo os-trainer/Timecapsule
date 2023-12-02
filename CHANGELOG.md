@@ -12337,3 +12337,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decompose monolithic workflow function into focused steps
 - Update package repository URLs and issue tracker links
 - Implement summary statistics calculation helper
+- Correct timestamp calculation for timezone offsets
