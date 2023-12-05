@@ -12339,3 +12339,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement summary statistics calculation helper
 - Correct timestamp calculation for timezone offsets
 - Modernize internal loop constructs and data structures
+- Fix circular reference error in object serialization
