@@ -12341,3 +12341,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modernize internal loop constructs and data structures
 - Fix circular reference error in object serialization
 - Update license field and attribution in package manifest
+- Refactor validation pipelines to support chaining
