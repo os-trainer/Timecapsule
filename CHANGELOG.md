@@ -4868,3 +4868,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add verification tests for safe JSON parsing utilities
 - Fix improper resource cleanup on exit
 - Add unit tests for string formatting and truncation helpers
+- Ensure consistent error status codes across exit paths
