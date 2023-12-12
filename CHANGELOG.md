@@ -12352,3 +12352,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for collection filter predicates
 - Handle malformed JSON configuration without crashing
 - Add reusable string formatting utility functions
+- Add safe string truncation helper
