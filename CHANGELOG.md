@@ -12353,3 +12353,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle malformed JSON configuration without crashing
 - Add reusable string formatting utility functions
 - Add safe string truncation helper
+- Refactor argument parsing to standardize option names
