@@ -4881,3 +4881,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update development configuration and editor settings
 - Verify graceful handling of malformed input data
 - Add unit tests for input validation helper functions
+- Clarify difference between distribution algorithms
