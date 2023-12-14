@@ -12355,3 +12355,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add safe string truncation helper
 - Refactor argument parsing to standardize option names
 - Improve error messages with actionable resolution hints
+- Ensure consistent parameter ordering in helper signatures
