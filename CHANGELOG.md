@@ -12358,3 +12358,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure consistent parameter ordering in helper signatures
 - Correct fallback order for configuration properties
 - Adjust test runner timeout and concurrency settings
+- Correct string trimming logic for multi-line inputs
