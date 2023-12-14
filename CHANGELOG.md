@@ -12357,3 +12357,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve error messages with actionable resolution hints
 - Ensure consistent parameter ordering in helper signatures
 - Correct fallback order for configuration properties
+- Adjust test runner timeout and concurrency settings
