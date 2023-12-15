@@ -12361,3 +12361,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct string trimming logic for multi-line inputs
 - Verify graceful handling of malformed input data
 - Add command-line argument parser for configuration flags
+- Add acknowledgments and open-source project credits
