@@ -4886,3 +4886,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle partial input objects during configuration merge
 - Document distribution patterns and statistical behavior
 - Fix incorrect default parameter assignment
+- Fix missing return statement in error branch
