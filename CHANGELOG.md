@@ -12362,3 +12362,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify graceful handling of malformed input data
 - Add command-line argument parser for configuration flags
 - Add acknowledgments and open-source project credits
+- Add custom formatting options for summary tables
