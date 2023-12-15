@@ -4883,3 +4883,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for input validation helper functions
 - Clarify difference between distribution algorithms
 - Handle empty environment variables without error
+- Handle partial input objects during configuration merge
