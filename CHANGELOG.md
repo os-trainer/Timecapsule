@@ -4894,3 +4894,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add colorized terminal output formatter
 - Cover deep object merge edge cases in unit tests
 - Fix off-by-one error in collection index calculations
+- Add support for custom output destination paths
