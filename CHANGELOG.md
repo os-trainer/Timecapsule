@@ -12367,3 +12367,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle missing configuration gracefully with defaults
 - Refactor array processing routines to use functional methods
 - Add snapshot tests for terminal output formatters
+- Fix incorrect default parameter assignment
