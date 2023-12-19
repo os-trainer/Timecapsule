@@ -12368,3 +12368,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor array processing routines to use functional methods
 - Add snapshot tests for terminal output formatters
 - Fix incorrect default parameter assignment
+- Add configuration file for continuous integration
