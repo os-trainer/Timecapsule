@@ -12372,3 +12372,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify retry logic behavior under simulated failures
 - Handle null and undefined options defensively
 - Improve documentation for programmatic JavaScript API
+- Add input sanitization for file paths
