@@ -12373,3 +12373,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle null and undefined options defensively
 - Improve documentation for programmatic JavaScript API
 - Add input sanitization for file paths
+- Create directory structure for utility modules
