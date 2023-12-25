@@ -4903,3 +4903,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Restructure project exports to avoid circular dependencies
 - Fix edge case in input handling for empty strings
 - Add regression test for boundary date calculations
+- Fix type coercion error during numeric comparisons
