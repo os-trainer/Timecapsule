@@ -4912,3 +4912,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for collection filter predicates
 - Improve consistency of option validation error messages
 - Correct timestamp calculation for timezone offsets
+- Add FAQ section covering common configuration questions
