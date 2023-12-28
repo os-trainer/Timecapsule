@@ -4910,3 +4910,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add custom error classes for domain-specific failures
 - Update package version in manifest file
 - Add unit tests for collection filter predicates
+- Improve consistency of option validation error messages
