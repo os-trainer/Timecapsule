@@ -12379,3 +12379,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix edge case in input handling for empty strings
 - Implement customizable output formatting options
 - Simplify complex arithmetic expressions in date logic
+- Fix off-by-one error in collection index calculations
