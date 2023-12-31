@@ -4916,3 +4916,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression tests for previous edge-case bugs
 - Implement helper utilities for parameter parsing
 - Clarify installation instructions and system prerequisites
+- Add task definitions for local development tooling
