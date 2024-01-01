@@ -4919,3 +4919,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add task definitions for local development tooling
 - Add safe string truncation helper
 - Add configuration for code coverage reporting
+- Modularize schema definitions and validation rules
