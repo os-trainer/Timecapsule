@@ -4921,3 +4921,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration for code coverage reporting
 - Modularize schema definitions and validation rules
 - Add array sorting and filtering helper functions
+- Standardize exception messages across validation logic
