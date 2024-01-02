@@ -12389,3 +12389,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty input collections without throwing exceptions
 - Add examples of integrating tool into automated scripts
 - Add support for verbose diagnostic output
+- Adjust timeout thresholds for integration test suite
