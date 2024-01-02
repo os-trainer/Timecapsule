@@ -12390,3 +12390,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add examples of integrating tool into automated scripts
 - Add support for verbose diagnostic output
 - Adjust timeout thresholds for integration test suite
+- Correct error handling when input file is absent
