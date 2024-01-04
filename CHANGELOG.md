@@ -12392,3 +12392,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adjust timeout thresholds for integration test suite
 - Correct error handling when input file is absent
 - Update changelog with recent feature additions and fixes
+- Add system status inspection helper
