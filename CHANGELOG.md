@@ -4937,3 +4937,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add usage examples for common command-line options
 - Consolidate duplicate string sanitization routines
 - Add custom formatting options for summary tables
+- Add unit tests for input validation helper functions
