@@ -4935,3 +4935,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle malformed JSON configuration without crashing
 - Correct regex pattern matching for date validation
 - Add usage examples for common command-line options
+- Consolidate duplicate string sanitization routines
