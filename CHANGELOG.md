@@ -4942,3 +4942,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle file permission errors with actionable messages
 - Fix formatting anomaly in terminal progress display
 - Add elapsed execution time measurement helper
+- Add npm script for running unit test suite
