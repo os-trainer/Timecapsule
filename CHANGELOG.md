@@ -12409,3 +12409,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct boundary check in range validation utility
 - Configure distribution bundle output settings
 - Add security considerations and safe execution notes
+- Simplify conditional branching in distribution calculator
