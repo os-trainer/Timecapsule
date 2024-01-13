@@ -12413,3 +12413,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update API reference documentation for core exports
 - Add multi-step workflow runner utility
 - Add unit tests for progress reporter events
+- Improve consistency of return structures across helpers
