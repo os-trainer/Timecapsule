@@ -4956,3 +4956,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure semantic versioning and release scripts
 - Add verification tests for safe JSON parsing utilities
 - Update API reference documentation for core exports
+- Fix validation logic for boundary date ranges
