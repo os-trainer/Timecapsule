@@ -12419,3 +12419,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement object transformation and mapping utilities
 - Standardize exception messages across validation logic
 - Handle undefined configuration sections safely
+- Add troubleshooting notes for frequent setup issues
