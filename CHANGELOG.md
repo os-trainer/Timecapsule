@@ -12420,3 +12420,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize exception messages across validation logic
 - Handle undefined configuration sections safely
 - Add troubleshooting notes for frequent setup issues
+- Add regression tests for previous edge-case bugs
