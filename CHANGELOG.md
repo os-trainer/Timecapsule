@@ -12423,3 +12423,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression tests for previous edge-case bugs
 - Document distribution patterns and statistical behavior
 - Normalize naming of options and arguments across modules
+- Fix infinite loop risk in collection traversal logic
