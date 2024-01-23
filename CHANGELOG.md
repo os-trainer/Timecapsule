@@ -4961,3 +4961,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix type coercion error during numeric comparisons
 - Simplify control flow and reduce nested conditionals
 - Implement date formatting and parsing helpers
+- Fix inconsistent return type on validation failure
