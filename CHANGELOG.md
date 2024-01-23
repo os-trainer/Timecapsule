@@ -12429,3 +12429,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add assertions for default configuration fallbacks
 - Modernize internal loop constructs and data structures
 - Add contribution guidelines and development workflow steps
+- Fix duplicate item registration in event subscriber list
