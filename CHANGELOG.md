@@ -12432,3 +12432,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix duplicate item registration in event subscriber list
 - Verify error messages for missing required options
 - Extract file system operations into isolated adapter
+- Add configuration file for continuous integration
