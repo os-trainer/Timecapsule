@@ -4963,3 +4963,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement date formatting and parsing helpers
 - Fix inconsistent return type on validation failure
 - Cover edge cases in date range calculation logic
+- Fix incorrect status code returned on input error
