@@ -4965,3 +4965,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover edge cases in date range calculation logic
 - Fix incorrect status code returned on input error
 - Implement template interpolation utility
+
+## [5.8.0]
+### Changed
+- Add comprehensive tests for configuration loader
