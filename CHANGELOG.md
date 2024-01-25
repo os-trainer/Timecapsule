@@ -4969,3 +4969,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [5.8.0]
 ### Changed
 - Add comprehensive tests for configuration loader
+- Add acknowledgments and open-source project credits
