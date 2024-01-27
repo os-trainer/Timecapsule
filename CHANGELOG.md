@@ -12437,3 +12437,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate duplicate string sanitization routines
 - Fix memory leak in recurring event listeners
 - Modularize schema definitions and validation rules
+- Fix intermittent failure in date boundary comparison
