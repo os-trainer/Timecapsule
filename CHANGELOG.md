@@ -12440,3 +12440,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix intermittent failure in date boundary comparison
 - Introduce mock harness for file system operations
 - Fix validation logic for boundary date ranges
+- Add npm script for running linter in check-only mode
