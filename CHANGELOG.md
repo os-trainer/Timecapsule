@@ -4972,3 +4972,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add acknowledgments and open-source project credits
 - Add boundary condition tests for numeric ranges
 - Add FAQ section covering common configuration questions
+- Add support for custom output destination paths
