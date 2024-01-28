@@ -4974,3 +4974,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add FAQ section covering common configuration questions
 - Add support for custom output destination paths
 - Update README with example workflow scenarios
+- Verify cache invalidation logic under test conditions
