@@ -12445,3 +12445,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add table of contents to main project documentation
 - Handle process interruption cleanly during generation
 - Implement summary statistics calculation helper
+- Clean up project structure and remove redundant exports
