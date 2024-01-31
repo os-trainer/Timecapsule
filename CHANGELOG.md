@@ -12455,3 +12455,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Set up clean project entry and public API interface
 - Configure environment file loading conventions
 - Improve test coverage for error recovery branches
+- Document template options for supported project layouts
