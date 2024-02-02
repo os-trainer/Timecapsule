@@ -12461,3 +12461,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty environment variables without error
 - Add task definitions for local development tooling
 - Document configuration options and default parameters
+- Fix incorrect boolean flag evaluation
