@@ -12458,3 +12458,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document template options for supported project layouts
 - Configure local development workflow scripts
 - Add schema validation for configuration objects
+- Handle empty environment variables without error
