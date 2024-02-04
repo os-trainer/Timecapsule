@@ -12462,3 +12462,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add task definitions for local development tooling
 - Document configuration options and default parameters
 - Fix incorrect boolean flag evaluation
+- Test empty collection handling across utility functions
