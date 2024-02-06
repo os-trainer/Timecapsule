@@ -12473,3 +12473,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add detailed architecture overview and component diagram
 - Add environment variable override support
 - Cover edge cases in date range calculation logic
+- Fix memory leak caused by unreleased cache handles
