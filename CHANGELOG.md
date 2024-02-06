@@ -12472,3 +12472,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unexpected empty input parsing in command line options
 - Add detailed architecture overview and component diagram
 - Add environment variable override support
+- Cover edge cases in date range calculation logic
