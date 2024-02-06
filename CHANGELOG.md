@@ -12469,3 +12469,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement command line flag alias mapping
 - Implement customizable output formatting options
 - Standardize indentation and line wrapping across files
+- Fix unexpected empty input parsing in command line options
