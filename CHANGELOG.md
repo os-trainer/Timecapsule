@@ -12481,3 +12481,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure automated pre-commit code verification
 - Streamline parameter passing across internal layers
 - Document logging levels and diagnostic flags
+- Fix inconsistent return type on validation failure
