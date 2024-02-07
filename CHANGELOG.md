@@ -12480,3 +12480,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify retry logic behavior under simulated failures
 - Configure automated pre-commit code verification
 - Streamline parameter passing across internal layers
+- Document logging levels and diagnostic flags
