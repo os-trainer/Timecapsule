@@ -12484,3 +12484,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inconsistent return type on validation failure
 - Add usage examples for common command-line options
 - Add verification tests for safe JSON parsing utilities
+- Fix unhandled promise rejection in async error handler
