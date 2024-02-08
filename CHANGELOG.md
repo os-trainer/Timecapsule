@@ -4992,3 +4992,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement defensive parameter sanitization
 - Extract date formatting templates into reusable helpers
 - Add input validation for user-supplied options
+- Add support for JSON and plain text output formats
