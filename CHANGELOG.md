@@ -12483,3 +12483,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document logging levels and diagnostic flags
 - Fix inconsistent return type on validation failure
 - Add usage examples for common command-line options
+- Add verification tests for safe JSON parsing utilities
