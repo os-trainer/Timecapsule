@@ -12486,3 +12486,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add verification tests for safe JSON parsing utilities
 - Fix unhandled promise rejection in async error handler
 - Cover dry-run execution mode with assertion checks
+- Improve separation of concerns between CLI and core engine
