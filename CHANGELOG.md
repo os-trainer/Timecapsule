@@ -4996,3 +4996,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document preview mode and dry-run visualization
 - Handle malformed JSON configuration without crashing
 - Implement stream-based chunk processor
+- Add clear synthetic demonstration disclaimer in documentation
