@@ -12494,3 +12494,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add array sorting and filtering helper functions
 - Extract configuration validation into standalone validator
 - Implement defensive parameter sanitization
+- Simplify error throwing and propagation mechanisms
