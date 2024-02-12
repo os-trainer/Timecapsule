@@ -4998,3 +4998,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement stream-based chunk processor
 - Add clear synthetic demonstration disclaimer in documentation
 - Fix intermittent failure in date boundary comparison
+- Add validation rules for date range boundaries
