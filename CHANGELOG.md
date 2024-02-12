@@ -12495,3 +12495,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract configuration validation into standalone validator
 - Implement defensive parameter sanitization
 - Simplify error throwing and propagation mechanisms
+- Add test suite for distribution weight calculations
