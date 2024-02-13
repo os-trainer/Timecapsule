@@ -5002,3 +5002,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update author and contributor information in package descriptor
 - Handle timeout gracefully during external operations
 - Decompose monolithic workflow function into focused steps
+- Add unit tests for progress reporter events
