@@ -5004,3 +5004,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decompose monolithic workflow function into focused steps
 - Add unit tests for progress reporter events
 - Add quick reference cheat sheet for CLI commands
+- Ensure consistent error status codes across exit paths
