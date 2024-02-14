@@ -5006,3 +5006,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add quick reference cheat sheet for CLI commands
 - Ensure consistent error status codes across exit paths
 - Document environment variable configuration overrides
+- Tune compiler and transpiler configuration options
