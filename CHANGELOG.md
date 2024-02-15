@@ -5007,3 +5007,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure consistent error status codes across exit paths
 - Document environment variable configuration overrides
 - Tune compiler and transpiler configuration options
+- Cover complex configuration inheritance in tests
