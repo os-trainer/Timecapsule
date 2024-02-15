@@ -12500,3 +12500,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Restructure project exports to avoid circular dependencies
 - Add test cases for boolean flag normalization
 - Improve consistency of option validation error messages
+- Add structured logging helper with log levels
