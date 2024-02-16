@@ -5012,3 +5012,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract progress tracking into dedicated emitter
 - Implement file reading helper with encoding support
 - Add code comments explaining complex date mathematics
+- Modularize command-line argument processing logic
