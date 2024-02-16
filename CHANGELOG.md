@@ -12502,3 +12502,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve consistency of option validation error messages
 - Add structured logging helper with log levels
 - Test invalid input handling and expected exceptions
+- Rename internal variables and parameters for clarity
