@@ -12505,3 +12505,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Rename internal variables and parameters for clarity
 - Introduce mock harness for file system operations
 - Modularize command-line argument processing logic
+- Add custom error classes for domain-specific failures
