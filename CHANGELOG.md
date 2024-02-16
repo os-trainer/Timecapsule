@@ -12504,3 +12504,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test invalid input handling and expected exceptions
 - Rename internal variables and parameters for clarity
 - Introduce mock harness for file system operations
+- Modularize command-line argument processing logic
