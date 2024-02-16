@@ -5010,3 +5010,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover complex configuration inheritance in tests
 - Improve inline code documentation and parameter descriptions
 - Extract progress tracking into dedicated emitter
+- Implement file reading helper with encoding support
