@@ -5014,3 +5014,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add code comments explaining complex date mathematics
 - Modularize command-line argument processing logic
 - Document date format requirements and accepted tokens
+- Fix memory leak in recurring event listeners
