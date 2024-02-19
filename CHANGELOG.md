@@ -12508,3 +12508,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add custom error classes for domain-specific failures
 - Handle malformed JSON configuration without crashing
 - Implement deep object merging utility
+- Update development dependencies for test framework
