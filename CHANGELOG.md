@@ -5017,3 +5017,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak in recurring event listeners
 - Add unit tests for collection filter predicates
 - Update changelog with recent feature additions and fixes
+- Implement date formatting and parsing helpers
