@@ -5018,3 +5018,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for collection filter predicates
 - Update changelog with recent feature additions and fixes
 - Implement date formatting and parsing helpers
+- Add basic data caching layer with key invalidation
