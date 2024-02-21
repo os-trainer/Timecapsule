@@ -12513,3 +12513,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression test for boundary date calculations
 - Add reusable string formatting utility functions
 - Verify platform-specific path handling in test suite
+- Refactor argument parsing to standardize option names
