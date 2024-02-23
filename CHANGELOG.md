@@ -12519,3 +12519,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor validation pipelines to support chaining
 - Improve code formatting and consistent whitespace
 - Correct boundary check in range validation utility
+- Extract progress tracking into dedicated emitter
