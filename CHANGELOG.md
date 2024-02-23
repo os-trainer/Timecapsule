@@ -5024,3 +5024,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add structured logging helper with log levels
 - Ensure all async rejections provide meaningful Error instances
 - Handle empty input collections without throwing exceptions
+- Add step-by-step tutorial for sample project generation
