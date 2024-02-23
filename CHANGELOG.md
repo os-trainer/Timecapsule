@@ -5022,3 +5022,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor validation pipelines to support chaining
 - Correct timestamp calculation for timezone offsets
 - Add structured logging helper with log levels
+- Ensure all async rejections provide meaningful Error instances
