@@ -12521,3 +12521,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct boundary check in range validation utility
 - Extract progress tracking into dedicated emitter
 - Improve test coverage across utility modules
+- Correct fallback order for configuration properties
