@@ -5021,3 +5021,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data caching layer with key invalidation
 - Refactor validation pipelines to support chaining
 - Correct timestamp calculation for timezone offsets
+- Add structured logging helper with log levels
