@@ -12518,3 +12518,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct path delimiter handling across operating systems
 - Refactor validation pipelines to support chaining
 - Improve code formatting and consistent whitespace
+- Correct boundary check in range validation utility
