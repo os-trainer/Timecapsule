@@ -5027,3 +5027,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add step-by-step tutorial for sample project generation
 - Handle null and undefined options defensively
 - Add contribution guidelines and development workflow steps
+- Correct output formatting when statistics are zero
