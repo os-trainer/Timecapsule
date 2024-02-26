@@ -5030,3 +5030,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct output formatting when statistics are zero
 - Simplify collection mapping and transformation pipelines
 - Verify idempotency of cleanup routines in test suite
+- Fix circular reference error in object serialization
