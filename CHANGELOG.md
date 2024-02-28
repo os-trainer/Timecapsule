@@ -5034,3 +5034,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add security considerations and safe execution notes
 - Fix incorrect boolean flag evaluation
 - Implement helper utilities for parameter parsing
+- Verify proper error types are thrown on invalid arguments
