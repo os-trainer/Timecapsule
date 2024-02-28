@@ -12531,3 +12531,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add defensive fallbacks for unexpected null values
 - Correct error handling when input file is absent
 - Add regression tests for previous edge-case bugs
+- Implement event listener registry for status events
