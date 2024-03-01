@@ -5038,3 +5038,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline option parsing and default resolution
 - Document error handling strategies and exit codes
 - Update repository keywords and discovery tags
+- Correct error handling when input file is absent
