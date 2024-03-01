@@ -12536,3 +12536,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify error messages for missing required options
 - Implement progress reporter for long-running workflows
 - Add test harness for simulated time progression
+- Ensure consistent error status codes across exit paths
