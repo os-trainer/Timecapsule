@@ -12538,3 +12538,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test harness for simulated time progression
 - Ensure consistent error status codes across exit paths
 - Add verification tests for safe JSON parsing utilities
+- Correct string trimming logic for multi-line inputs
