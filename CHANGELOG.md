@@ -5040,3 +5040,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update repository keywords and discovery tags
 - Correct error handling when input file is absent
 - Simplify complex arithmetic expressions in date logic
+- Add unit tests for rate limiting and throttling helpers
