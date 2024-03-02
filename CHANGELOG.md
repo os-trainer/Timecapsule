@@ -12540,3 +12540,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add verification tests for safe JSON parsing utilities
 - Correct string trimming logic for multi-line inputs
 - Add lightweight event emitter implementation
+- Extract date formatting templates into reusable helpers
