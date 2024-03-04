@@ -5047,3 +5047,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify error throwing and propagation mechanisms
 - Clean up dead code and obsolete helper methods
 - Fix memory leak caused by unreleased cache handles
+- Add lightweight event emitter implementation
