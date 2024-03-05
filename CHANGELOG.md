@@ -12547,3 +12547,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add snapshot tests for terminal output formatters
 - Improve documentation for custom output templates
 - Refactor promise handling to use modern async/await patterns
+- Add colorized terminal output formatter
