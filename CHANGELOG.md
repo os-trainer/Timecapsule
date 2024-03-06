@@ -12551,3 +12551,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document environment variable configuration overrides
 - Simplify control flow and reduce nested conditionals
 - Implement stream-based chunk processor
+- Document configuration options and default parameters
