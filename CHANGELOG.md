@@ -12553,3 +12553,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement stream-based chunk processor
 - Document configuration options and default parameters
 - Fix memory leak caused by unreleased cache handles
+- Add safe deep clone utility function
