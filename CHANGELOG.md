@@ -12554,3 +12554,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document configuration options and default parameters
 - Fix memory leak caused by unreleased cache handles
 - Add safe deep clone utility function
+- Fix infinite loop risk in collection traversal logic
