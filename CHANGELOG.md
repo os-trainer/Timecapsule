@@ -5055,3 +5055,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement flexible filter predicate builder
 - Fix type coercion error during numeric comparisons
 - Add troubleshooting notes for frequent setup issues
+- Streamline event dispatching mechanism
