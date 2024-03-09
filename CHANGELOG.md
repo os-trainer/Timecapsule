@@ -5056,3 +5056,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix type coercion error during numeric comparisons
 - Add troubleshooting notes for frequent setup issues
 - Streamline event dispatching mechanism
+- Normalize naming of options and arguments across modules
