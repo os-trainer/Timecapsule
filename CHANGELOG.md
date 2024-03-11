@@ -5060,3 +5060,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression tests for previous edge-case bugs
 - Correct path delimiter handling across operating systems
 - Improve separation of concerns between CLI and core engine
+- Test invalid input handling and expected exceptions
