@@ -5059,3 +5059,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Normalize naming of options and arguments across modules
 - Add regression tests for previous edge-case bugs
 - Correct path delimiter handling across operating systems
+- Improve separation of concerns between CLI and core engine
