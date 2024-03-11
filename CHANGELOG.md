@@ -5057,3 +5057,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add troubleshooting notes for frequent setup issues
 - Streamline event dispatching mechanism
 - Normalize naming of options and arguments across modules
+- Add regression tests for previous edge-case bugs
