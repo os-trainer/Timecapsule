@@ -12567,3 +12567,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement defensive parameter sanitization
 - Refactor argument parsing to standardize option names
 - Document supported platforms and shell environments
+- Fix formatting anomaly in terminal progress display
