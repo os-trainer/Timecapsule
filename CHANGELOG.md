@@ -12565,3 +12565,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate duplicate string sanitization routines
 - Fix string encoding issue when processing special characters
 - Implement defensive parameter sanitization
+- Refactor argument parsing to standardize option names
