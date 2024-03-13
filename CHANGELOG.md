@@ -12572,3 +12572,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add strict boundary checks to numeric operations
 - Add custom error classes for domain-specific failures
 - Normalize naming of options and arguments across modules
+- Add unit tests for collection filter predicates
