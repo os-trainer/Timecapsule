@@ -12571,3 +12571,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify complex arithmetic expressions in date logic
 - Add strict boundary checks to numeric operations
 - Add custom error classes for domain-specific failures
+- Normalize naming of options and arguments across modules
