@@ -5066,3 +5066,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix string encoding issue when processing special characters
 - Implement dry-run execution preview mode
 - Fix duplicate item registration in event subscriber list
+- Add badges for license, build status, and version
