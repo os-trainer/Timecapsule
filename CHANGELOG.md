@@ -5067,3 +5067,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement dry-run execution preview mode
 - Fix duplicate item registration in event subscriber list
 - Add badges for license, build status, and version
+- Cover malformed command line options in test suite
