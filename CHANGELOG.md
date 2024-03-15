@@ -12575,3 +12575,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for collection filter predicates
 - Document preview mode and dry-run visualization
 - Add validation rules for date range boundaries
+- Handle missing configuration gracefully with defaults
