@@ -12574,3 +12574,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Normalize naming of options and arguments across modules
 - Add unit tests for collection filter predicates
 - Document preview mode and dry-run visualization
+- Add validation rules for date range boundaries
