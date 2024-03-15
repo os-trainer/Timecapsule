@@ -5068,3 +5068,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix duplicate item registration in event subscriber list
 - Add badges for license, build status, and version
 - Cover malformed command line options in test suite
+
+## [5.9.0]
+### Changed
+- Implement command line flag alias mapping
