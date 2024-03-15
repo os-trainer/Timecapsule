@@ -12573,3 +12573,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add custom error classes for domain-specific failures
 - Normalize naming of options and arguments across modules
 - Add unit tests for collection filter predicates
+- Document preview mode and dry-run visualization
