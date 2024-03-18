@@ -12583,3 +12583,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test suite for distribution weight calculations
 - Add acknowledgments and open-source project credits
 - Implement safe JSON parsing with fallback values
+- Cover malformed command line options in test suite
