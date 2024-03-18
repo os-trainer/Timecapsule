@@ -12584,3 +12584,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add acknowledgments and open-source project credits
 - Implement safe JSON parsing with fallback values
 - Cover malformed command line options in test suite
+- Correct boundary check in range validation utility
