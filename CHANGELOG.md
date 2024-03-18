@@ -5072,3 +5072,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [5.9.0]
 ### Changed
 - Implement command line flag alias mapping
+- Verify error messages for missing required options
