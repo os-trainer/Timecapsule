@@ -5074,3 +5074,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement command line flag alias mapping
 - Verify error messages for missing required options
 - Correct negative duration calculations across days
+- Decouple output formatting from core computation logic
