@@ -5077,3 +5077,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decouple output formatting from core computation logic
 - Improve test coverage for error recovery branches
 - Extract file system operations into isolated adapter
+- Add multi-step workflow runner utility
