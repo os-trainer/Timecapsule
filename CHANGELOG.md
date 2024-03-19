@@ -12588,3 +12588,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add performance assertions for large collection processing
 - Add support for JSON and plain text output formats
 - Implement pagination helper for collection data
+- Handle timeout gracefully during external operations
