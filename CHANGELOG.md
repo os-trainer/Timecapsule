@@ -5078,3 +5078,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage for error recovery branches
 - Extract file system operations into isolated adapter
 - Add multi-step workflow runner utility
+- Clarify frequency parameter behavior and percentage rules
