@@ -5080,3 +5080,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add multi-step workflow runner utility
 - Clarify frequency parameter behavior and percentage rules
 - Add test harness for simulated time progression
+- Extract terminal output logic into presentation layer
