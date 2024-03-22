@@ -5094,3 +5094,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify installation instructions and system prerequisites
 - Add environment variable override support
 - Handle missing configuration gracefully with defaults
+- Add table of contents to main project documentation
