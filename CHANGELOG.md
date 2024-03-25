@@ -12597,3 +12597,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify installation instructions and system prerequisites
 - Extract file system operations into isolated adapter
 - Add elapsed execution time measurement helper
+- Handle null and undefined options defensively
