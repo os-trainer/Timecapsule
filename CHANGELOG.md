@@ -12594,3 +12594,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct timestamp calculation for timezone offsets
 - Correct regex pattern matching for date validation
 - Test empty collection handling across utility functions
+- Clarify installation instructions and system prerequisites
