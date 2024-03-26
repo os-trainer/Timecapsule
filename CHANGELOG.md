@@ -5101,3 +5101,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions for running tests and linter locally
 - Correct fallback order for configuration properties
 - Implement summary statistics calculation helper
+- Modularize schema definitions and validation rules
