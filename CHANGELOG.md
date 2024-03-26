@@ -12600,3 +12600,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle null and undefined options defensively
 - Implement configuration merging priority logic
 - Consolidate string manipulation utilities
+- Fix inconsistent return type on validation failure
