@@ -5098,3 +5098,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement file reading helper with encoding support
 - Correct error handling when input file is absent
 - Verify cache invalidation logic under test conditions
+- Add instructions for running tests and linter locally
