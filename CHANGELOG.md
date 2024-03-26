@@ -12602,3 +12602,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate string manipulation utilities
 - Fix inconsistent return type on validation failure
 - Remove obsolete polyfills and legacy compatibility shims
+- Implement dry-run execution preview mode
