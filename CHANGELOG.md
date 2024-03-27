@@ -12606,3 +12606,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration file for static code analysis
 - Cover complex configuration inheritance in tests
 - Improve naming consistency across internal interfaces
+- Extract terminal output logic into presentation layer
