@@ -12607,3 +12607,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover complex configuration inheritance in tests
 - Improve naming consistency across internal interfaces
 - Extract terminal output logic into presentation layer
+- Fix validation logic for boundary date ranges
