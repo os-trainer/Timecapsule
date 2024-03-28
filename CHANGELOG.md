@@ -5102,3 +5102,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct fallback order for configuration properties
 - Implement summary statistics calculation helper
 - Modularize schema definitions and validation rules
+- Add test suite for distribution weight calculations
