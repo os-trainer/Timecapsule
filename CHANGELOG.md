@@ -5107,3 +5107,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve README with comprehensive getting-started guide
 - Add assertions for default configuration fallbacks
 - Implement stream-based chunk processor
+- Document logging levels and diagnostic flags
