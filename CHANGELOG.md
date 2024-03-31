@@ -12615,3 +12615,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline option parsing and default resolution
 - Handle empty environment variables without error
 - Cover edge cases in date range calculation logic
+- Clarify difference between distribution algorithms
