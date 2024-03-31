@@ -12614,3 +12614,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure output directory paths for build pipeline
 - Streamline option parsing and default resolution
 - Handle empty environment variables without error
+- Cover edge cases in date range calculation logic
