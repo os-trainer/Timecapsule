@@ -12617,3 +12617,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover edge cases in date range calculation logic
 - Clarify difference between distribution algorithms
 - Enhance descriptive quality of debug logging statements
+- Fix incorrect status code returned on input error
