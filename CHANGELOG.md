@@ -12619,3 +12619,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Enhance descriptive quality of debug logging statements
 - Fix incorrect status code returned on input error
 - Add support for verbose diagnostic output
+- Improve test coverage across utility modules
