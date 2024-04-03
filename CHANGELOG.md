@@ -12623,3 +12623,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add base configuration loader template
 - Fix incorrect boolean flag evaluation
 - Handle file permission errors with actionable messages
+- Simplify conditional branching in distribution calculator
