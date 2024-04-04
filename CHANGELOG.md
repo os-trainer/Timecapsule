@@ -12626,3 +12626,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify conditional branching in distribution calculator
 - Implement flexible filter predicate builder
 - Implement query filter helpers for collection items
+- Improve modularity of utility function parameter signatures
