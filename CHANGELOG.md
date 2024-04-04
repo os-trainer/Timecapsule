@@ -5108,3 +5108,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add assertions for default configuration fallbacks
 - Implement stream-based chunk processor
 - Document logging levels and diagnostic flags
+- Fix incorrect status code returned on input error
