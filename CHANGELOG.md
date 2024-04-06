@@ -12628,3 +12628,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement query filter helpers for collection items
 - Improve modularity of utility function parameter signatures
 - Refactor configuration fallback resolution
+- Tune compiler and transpiler configuration options
