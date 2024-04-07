@@ -12634,3 +12634,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update test runner configuration for isolated execution
 - Fix duplicate item registration in event subscriber list
 - Reduce duplicated logic across helper utilities
+- Add integration test verifying end-to-end workflow execution
