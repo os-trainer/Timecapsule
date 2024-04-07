@@ -12632,3 +12632,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Replace magic numbers with named configuration constants
 - Update lockfile with verified dependency tree
 - Update test runner configuration for isolated execution
+- Fix duplicate item registration in event subscriber list
