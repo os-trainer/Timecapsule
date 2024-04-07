@@ -12630,3 +12630,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor configuration fallback resolution
 - Tune compiler and transpiler configuration options
 - Replace magic numbers with named configuration constants
+- Update lockfile with verified dependency tree
