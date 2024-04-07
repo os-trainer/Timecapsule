@@ -12633,3 +12633,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update lockfile with verified dependency tree
 - Update test runner configuration for isolated execution
 - Fix duplicate item registration in event subscriber list
+- Reduce duplicated logic across helper utilities
