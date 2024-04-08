@@ -5111,3 +5111,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect status code returned on input error
 - Add schema validation for configuration objects
 - Handle file permission errors with actionable messages
+- Add input sanitization for file paths
