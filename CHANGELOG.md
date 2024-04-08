@@ -12640,3 +12640,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test command line help output and option documentation
 - Improve markdown formatting and typographic consistency in README
 - Fix potential race condition during file initialization
+- Add safe string truncation helper
