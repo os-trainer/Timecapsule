@@ -12647,3 +12647,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle undefined configuration sections safely
 - Add array sorting and filtering helper functions
 - Improve code maintainability index across core files
+- Fix unhandled promise rejection in async error handler
