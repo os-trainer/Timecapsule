@@ -12649,3 +12649,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve code maintainability index across core files
 - Fix unhandled promise rejection in async error handler
 - Add key-value store wrapper for memory cache
+- Fix memory leak in recurring event listeners
