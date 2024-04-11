@@ -12654,3 +12654,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Tune lint-staged configuration for staged files
 - Document date format requirements and accepted tokens
 - Correct string trimming logic for multi-line inputs
+- Add snapshot tests for terminal output formatters
