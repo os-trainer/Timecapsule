@@ -5125,3 +5125,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor configuration fallback resolution
 - Standardize date string formatting across all output
 - Fix incorrect boolean flag evaluation
+- Add boundary condition tests for numeric ranges
