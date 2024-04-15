@@ -12660,3 +12660,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement deep object merging utility
 - Reorganize internal test helpers and fixtures
 - Add test cases for boolean flag normalization
+- Fix inaccurate execution duration calculation
