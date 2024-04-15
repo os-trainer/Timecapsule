@@ -5123,3 +5123,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement defensive parameter sanitization
 - Document date format requirements and accepted tokens
 - Refactor configuration fallback resolution
+- Standardize date string formatting across all output
