@@ -12662,3 +12662,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test cases for boolean flag normalization
 - Fix inaccurate execution duration calculation
 - Improve inline code documentation and parameter descriptions
+- Add assertions for default configuration fallbacks
