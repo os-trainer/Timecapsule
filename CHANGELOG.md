@@ -12665,3 +12665,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add assertions for default configuration fallbacks
 - Add task definitions for local development tooling
 - Implement date formatting and parsing helpers
+- Clean up dead code and obsolete helper methods
