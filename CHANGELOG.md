@@ -12663,3 +12663,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inaccurate execution duration calculation
 - Improve inline code documentation and parameter descriptions
 - Add assertions for default configuration fallbacks
+- Add task definitions for local development tooling
