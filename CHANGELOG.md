@@ -12667,3 +12667,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement date formatting and parsing helpers
 - Clean up dead code and obsolete helper methods
 - Update API reference documentation for core exports
+- Correct fallback order for configuration properties
