@@ -5133,3 +5133,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve markdown formatting and typographic consistency in README
 - Update changelog with recent feature additions and fixes
 - Fix improper resource cleanup on exit
+- Add test cases for boolean flag normalization
