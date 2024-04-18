@@ -5134,3 +5134,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update changelog with recent feature additions and fixes
 - Fix improper resource cleanup on exit
 - Add test cases for boolean flag normalization
+- Improve naming consistency across internal interfaces
