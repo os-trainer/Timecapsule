@@ -5135,3 +5135,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix improper resource cleanup on exit
 - Add test cases for boolean flag normalization
 - Improve naming consistency across internal interfaces
+- Fix memory leak caused by unreleased cache handles
