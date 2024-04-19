@@ -5137,3 +5137,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve naming consistency across internal interfaces
 - Fix memory leak caused by unreleased cache handles
 - Improve separation of concerns between CLI and core engine
+- Update lockfile with verified dependency tree
