@@ -12670,3 +12670,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct fallback order for configuration properties
 - Implement stream-based chunk processor
 - Test invalid input handling and expected exceptions
+- Handle process interruption cleanly during generation
