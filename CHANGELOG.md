@@ -12669,3 +12669,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update API reference documentation for core exports
 - Correct fallback order for configuration properties
 - Implement stream-based chunk processor
+- Test invalid input handling and expected exceptions
