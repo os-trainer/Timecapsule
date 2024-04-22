@@ -12673,3 +12673,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle process interruption cleanly during generation
 - Create directory structure for utility modules
 - Add basic data caching layer with key invalidation
+- Fix incorrect status code returned on input error
