@@ -12676,3 +12676,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect status code returned on input error
 - Improve README with comprehensive getting-started guide
 - Add schema validation for configuration objects
+- Extract file system operations into isolated adapter
