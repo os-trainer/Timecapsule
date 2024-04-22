@@ -12674,3 +12674,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create directory structure for utility modules
 - Add basic data caching layer with key invalidation
 - Fix incorrect status code returned on input error
+- Improve README with comprehensive getting-started guide
