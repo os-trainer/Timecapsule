@@ -12675,3 +12675,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data caching layer with key invalidation
 - Fix incorrect status code returned on input error
 - Improve README with comprehensive getting-started guide
+- Add schema validation for configuration objects
