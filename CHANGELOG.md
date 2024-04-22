@@ -5140,3 +5140,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update lockfile with verified dependency tree
 - Test command line help output and option documentation
 - Fix missing return statement in error branch
+- Implement date formatting and parsing helpers
