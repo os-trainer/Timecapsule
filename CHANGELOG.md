@@ -5139,3 +5139,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve separation of concerns between CLI and core engine
 - Update lockfile with verified dependency tree
 - Test command line help output and option documentation
+- Fix missing return statement in error branch
