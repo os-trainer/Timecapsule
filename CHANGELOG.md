@@ -5143,3 +5143,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement date formatting and parsing helpers
 - Document preview mode and dry-run visualization
 - Simplify error throwing and propagation mechanisms
+- Improve test coverage across utility modules
