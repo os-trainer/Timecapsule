@@ -5147,3 +5147,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document template options for supported project layouts
 - Modernize internal loop constructs and data structures
 - Add tests for custom output destination formatting
+- Modularize command-line argument processing logic
