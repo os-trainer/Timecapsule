@@ -5154,3 +5154,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix string encoding issue when processing special characters
 - Add snapshot tests for terminal output formatters
 - Add task definitions for local development tooling
+- Add troubleshooting notes for frequent setup issues
