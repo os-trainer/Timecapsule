@@ -5162,3 +5162,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate error definitions and status messages
 - Introduce mock harness for file system operations
 - Add defensive fallbacks for unexpected null values
+- Add support for JSON and plain text output formats
