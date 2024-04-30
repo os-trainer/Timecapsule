@@ -5165,3 +5165,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for JSON and plain text output formats
 - Add custom formatting options for summary tables
 - Correct negative duration calculations across days
+- Test empty collection handling across utility functions
