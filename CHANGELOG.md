@@ -12691,3 +12691,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify collection mapping and transformation pipelines
 - Add default logging and diagnostic placeholders
 - Add tests for custom output destination formatting
+- Fix incorrect default parameter assignment
