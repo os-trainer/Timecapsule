@@ -5167,3 +5167,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct negative duration calculations across days
 - Test empty collection handling across utility functions
 - Add colorized terminal output formatter
+- Reorganize internal test helpers and fixtures
