@@ -12692,3 +12692,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add default logging and diagnostic placeholders
 - Add tests for custom output destination formatting
 - Fix incorrect default parameter assignment
+- Correct negative duration calculations across days
