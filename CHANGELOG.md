@@ -12695,3 +12695,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct negative duration calculations across days
 - Add initial sample configuration file
 - Update project metadata and repository description
+- Add URL query string builder and parser
