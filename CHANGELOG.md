@@ -12694,3 +12694,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect default parameter assignment
 - Correct negative duration calculations across days
 - Add initial sample configuration file
+- Update project metadata and repository description
