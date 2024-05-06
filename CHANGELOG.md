@@ -5171,3 +5171,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify frequency parameter behavior and percentage rules
 - Update package version in manifest file
 - Handle missing configuration gracefully with defaults
+
+## [6.0.0]
+### Changed
+- Update package repository URLs and issue tracker links
