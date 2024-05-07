@@ -5177,3 +5177,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update package repository URLs and issue tracker links
 - Test custom date formatting tokens and output strings
 - Update development dependencies for test framework
+- Resolve incorrect return value for edge-case queries
