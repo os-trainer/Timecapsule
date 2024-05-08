@@ -12712,3 +12712,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update license field and attribution in package manifest
 - Fix argument parsing when flag value contains spaces
 - Refactor array processing routines to use functional methods
+- Handle empty input collections without throwing exceptions
