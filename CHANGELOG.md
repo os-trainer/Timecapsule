@@ -5180,3 +5180,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Resolve incorrect return value for edge-case queries
 - Handle empty environment variables without error
 - Refactor date calculation routines for better readability
+- Improve clarity of variable scopes and closures
