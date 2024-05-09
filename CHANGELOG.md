@@ -5181,3 +5181,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty environment variables without error
 - Refactor date calculation routines for better readability
 - Improve clarity of variable scopes and closures
+- Correct output formatting when statistics are zero
