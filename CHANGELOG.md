@@ -5188,3 +5188,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline option parsing and default resolution
 - Implement template interpolation utility
 - Handle partial input objects during configuration merge
+- Verify proper error types are thrown on invalid arguments
