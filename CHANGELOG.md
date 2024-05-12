@@ -12716,3 +12716,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unhandled promise rejection in async error handler
 - Rename internal variables and parameters for clarity
 - Establish initial source exports and entry point
+- Extract reusable helper functions from main workflow
