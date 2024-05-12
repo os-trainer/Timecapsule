@@ -12722,3 +12722,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update project dependencies to latest secure versions
 - Improve consistency of option validation error messages
 - Update README with example workflow scenarios
+- Improve documentation for programmatic JavaScript API
