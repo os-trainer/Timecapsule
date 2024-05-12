@@ -12721,3 +12721,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add verification tests for safe JSON parsing utilities
 - Update project dependencies to latest secure versions
 - Improve consistency of option validation error messages
+- Update README with example workflow scenarios
