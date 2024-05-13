@@ -12726,3 +12726,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reorganize internal test helpers and fixtures
 - Implement configuration file loader with fallback defaults
 - Introduce mock harness for file system operations
+- Decouple output formatting from core computation logic
