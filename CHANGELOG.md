@@ -5192,3 +5192,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add elapsed execution time measurement helper
 - Fix duplicate item registration in event subscriber list
 - Refactor argument parsing to standardize option names
+- Improve documentation for programmatic JavaScript API
