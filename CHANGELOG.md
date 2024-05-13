@@ -5193,3 +5193,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix duplicate item registration in event subscriber list
 - Refactor argument parsing to standardize option names
 - Improve documentation for programmatic JavaScript API
+- Add system status inspection helper
