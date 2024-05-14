@@ -5194,3 +5194,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor argument parsing to standardize option names
 - Improve documentation for programmatic JavaScript API
 - Add system status inspection helper
+- Refactor promise handling to use modern async/await patterns
