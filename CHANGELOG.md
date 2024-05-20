@@ -12738,3 +12738,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update lockfile with verified dependency tree
 - Update npm packaging whitelist in files array
 - Fix validation logic for boundary date ranges
+- Add unit tests for progress reporter events
