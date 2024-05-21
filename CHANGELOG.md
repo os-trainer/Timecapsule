@@ -5207,3 +5207,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle file permission errors with actionable messages
 - Improve error messages with actionable resolution hints
 - Add reusable string formatting utility functions
+- Document custom commit message filtering and options
