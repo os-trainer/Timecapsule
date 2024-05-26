@@ -5214,3 +5214,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document supported platforms and shell environments
 - Extract configuration validation into standalone validator
 - Fix off-by-one error in collection index calculations
+- Configure semantic versioning and release scripts
