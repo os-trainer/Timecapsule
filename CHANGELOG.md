@@ -12747,3 +12747,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix potential race condition during file initialization
 - Implement customizable output formatting options
 - Fix incorrect default parameter assignment
+- Fix improper resource cleanup on exit
