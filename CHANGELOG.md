@@ -12758,3 +12758,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct negative duration calculations across days
 - Add instructions for running tests and linter locally
 - Refactor date calculation routines for better readability
+- Fix inaccurate execution duration calculation
