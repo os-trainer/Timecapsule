@@ -12755,3 +12755,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover deep object merge edge cases in unit tests
 - Cover complex configuration inheritance in tests
 - Add custom formatting options for summary tables
+- Correct negative duration calculations across days
