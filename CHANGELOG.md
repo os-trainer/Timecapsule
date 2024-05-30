@@ -12759,3 +12759,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions for running tests and linter locally
 - Refactor date calculation routines for better readability
 - Fix inaccurate execution duration calculation
+- Cover edge cases in date range calculation logic
