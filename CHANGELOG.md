@@ -5222,3 +5222,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adjust test runner timeout and concurrency settings
 - Consolidate string manipulation utilities
 - Fix unexpected empty input parsing in command line options
+- Document test execution commands and coverage reports
