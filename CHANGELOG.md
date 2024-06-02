@@ -5224,3 +5224,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unexpected empty input parsing in command line options
 - Document test execution commands and coverage reports
 - Clean up dead code and obsolete helper methods
+- Simplify conditional branching in distribution calculator
