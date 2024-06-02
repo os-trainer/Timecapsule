@@ -12770,3 +12770,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add tests for custom output destination formatting
 - Fix memory leak caused by unreleased cache handles
 - Add command-line argument parser for configuration flags
+- Configure automated dependency review settings
