@@ -12767,3 +12767,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add structured logging helper with log levels
 - Update package version in manifest file
 - Verify platform-specific path handling in test suite
+- Add tests for custom output destination formatting
