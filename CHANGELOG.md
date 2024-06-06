@@ -12773,3 +12773,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure automated dependency review settings
 - Handle unexpected zero-length arrays in reducer logic
 - Add quick reference cheat sheet for CLI commands
+- Fix incorrect boolean flag evaluation
