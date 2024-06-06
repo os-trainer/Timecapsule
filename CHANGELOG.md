@@ -5233,3 +5233,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure output directory paths for build pipeline
 - Resolve incorrect return value for edge-case queries
 - Refactor caching mechanism for cleaner abstraction
+- Standardize exception messages across validation logic
