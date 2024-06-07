@@ -12779,3 +12779,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize exception messages across validation logic
 - Verify proper error types are thrown on invalid arguments
 - Consolidate duplicate string sanitization routines
+- Fix edge case in input handling for empty strings
