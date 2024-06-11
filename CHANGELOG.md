@@ -12785,3 +12785,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover malformed command line options in test suite
 - Fix string encoding issue when processing special characters
 - Modularize schema definitions and validation rules
+- Add FAQ section covering common configuration questions
