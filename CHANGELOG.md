@@ -5243,3 +5243,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure environment file loading conventions
 - Fix missing return statement in error branch
 - Cover edge cases in date range calculation logic
+- Handle unexpected zero-length arrays in reducer logic
