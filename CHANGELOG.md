@@ -12787,3 +12787,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modularize schema definitions and validation rules
 - Add FAQ section covering common configuration questions
 - Fix incorrect status code returned on input error
+- Handle file permission errors with actionable messages
