@@ -12789,3 +12789,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect status code returned on input error
 - Handle file permission errors with actionable messages
 - Refactor state management into centralized store
+- Adjust prettier configuration for consistent indentation
