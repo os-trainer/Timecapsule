@@ -12790,3 +12790,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle file permission errors with actionable messages
 - Refactor state management into centralized store
 - Adjust prettier configuration for consistent indentation
+- Implement query filter helpers for collection items
