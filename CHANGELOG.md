@@ -12792,3 +12792,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adjust prettier configuration for consistent indentation
 - Implement query filter helpers for collection items
 - Add test harness for simulated time progression
+- Fix type coercion error during numeric comparisons
