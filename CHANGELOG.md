@@ -5248,3 +5248,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize indentation and line wrapping across files
 - Add safe string truncation helper
 - Handle malformed JSON configuration without crashing
+- Reduce duplicated logic across helper utilities
