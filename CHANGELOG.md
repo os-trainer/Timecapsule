@@ -5249,3 +5249,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add safe string truncation helper
 - Handle malformed JSON configuration without crashing
 - Reduce duplicated logic across helper utilities
+- Improve package scripts for building and testing
