@@ -12797,3 +12797,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract common constants into centralized configuration
 - Add step-by-step tutorial for sample project generation
 - Improve consistency of return structures across helpers
+- Add test suite for distribution weight calculations
