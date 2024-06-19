@@ -5256,3 +5256,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty input collections without throwing exceptions
 - Decompose monolithic workflow function into focused steps
 - Restructure project exports to avoid circular dependencies
+- Test timezone offset handling with varying dates
