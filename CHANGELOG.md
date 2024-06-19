@@ -5258,3 +5258,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Restructure project exports to avoid circular dependencies
 - Test timezone offset handling with varying dates
 - Remove unused code and obsolete internal variables
+- Correct boundary check in range validation utility
