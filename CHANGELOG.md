@@ -5261,3 +5261,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct boundary check in range validation utility
 - Configure engine version compatibility constraints
 - Add structured logging helper with log levels
+- Fix memory leak in recurring event listeners
