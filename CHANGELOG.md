@@ -5260,3 +5260,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Remove unused code and obsolete internal variables
 - Correct boundary check in range validation utility
 - Configure engine version compatibility constraints
+- Add structured logging helper with log levels
