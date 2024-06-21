@@ -12803,3 +12803,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decompose monolithic workflow function into focused steps
 - Add unit tests for input validation helper functions
 - Add validation rules for date range boundaries
+- Fix duplicate item registration in event subscriber list
