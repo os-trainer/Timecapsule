@@ -12806,3 +12806,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix duplicate item registration in event subscriber list
 - Extract terminal output logic into presentation layer
 - Implement pagination helper for collection data
+- Correct error handling when input file is absent
