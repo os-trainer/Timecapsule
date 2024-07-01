@@ -5270,3 +5270,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract reusable helper functions from main workflow
 - Extract date formatting templates into reusable helpers
 - Handle empty environment variables without error
+- Fix edge case in input handling for empty strings
