@@ -5278,3 +5278,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [6.1.0]
 ### Changed
 - Improve consistency of option validation error messages
+- Initialize project repository structure
