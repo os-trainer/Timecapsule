@@ -5274,3 +5274,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve inline code documentation and parameter descriptions
 - Verify retry logic behavior under simulated failures
 - Fix intermittent failure in date boundary comparison
+
+## [6.1.0]
+### Changed
+- Improve consistency of option validation error messages
