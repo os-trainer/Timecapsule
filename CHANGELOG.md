@@ -5281,3 +5281,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Initialize project repository structure
 - Fix unhandled promise rejection in async error handler
 - Simplify control flow and reduce nested conditionals
+- Add unit tests for input validation helper functions
