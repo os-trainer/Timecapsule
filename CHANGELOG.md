@@ -5284,3 +5284,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for input validation helper functions
 - Refactor validation pipelines to support chaining
 - Correct error handling when input file is absent
+- Add unit tests for progress reporter events
