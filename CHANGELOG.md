@@ -5285,3 +5285,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor validation pipelines to support chaining
 - Correct error handling when input file is absent
 - Add unit tests for progress reporter events
+- Adjust linting and formatting configuration rules
