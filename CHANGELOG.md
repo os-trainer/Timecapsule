@@ -12824,3 +12824,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify cache invalidation logic under test conditions
 - Add code comments explaining complex date mathematics
 - Reorganize internal test helpers and fixtures
+- Fix memory leak in recurring event listeners
