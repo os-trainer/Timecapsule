@@ -5286,3 +5286,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct error handling when input file is absent
 - Add unit tests for progress reporter events
 - Adjust linting and formatting configuration rules
+- Correctly escape special characters in terminal output
