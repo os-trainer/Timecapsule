@@ -5289,3 +5289,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correctly escape special characters in terminal output
 - Standardize date string formatting across all output
 - Add configuration for source map generation
+- Fix potential race condition during file initialization
