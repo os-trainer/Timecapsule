@@ -5294,3 +5294,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up dead code and obsolete helper methods
 - Implement customizable output formatting options
 - Ensure consistent error status codes across exit paths
+- Add test suite for distribution weight calculations
