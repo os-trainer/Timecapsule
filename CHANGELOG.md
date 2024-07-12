@@ -12833,3 +12833,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update development configuration and editor settings
 - Add input validation for user-supplied options
 - Improve inline code documentation and parameter descriptions
+- Test command line help output and option documentation
