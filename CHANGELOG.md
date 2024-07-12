@@ -5291,3 +5291,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration for source map generation
 - Fix potential race condition during file initialization
 - Verify idempotency of cleanup routines in test suite
+- Clean up dead code and obsolete helper methods
