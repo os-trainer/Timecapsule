@@ -5297,3 +5297,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test suite for distribution weight calculations
 - Add input validation for user-supplied options
 - Fix infinite loop risk in collection traversal logic
+- Replace magic numbers with named configuration constants
