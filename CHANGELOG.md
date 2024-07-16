@@ -12838,3 +12838,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add parameterized tests for date parsing variations
 - Add boundary condition tests for numeric ranges
 - Document preview mode and dry-run visualization
+- Add custom error classes for domain-specific failures
