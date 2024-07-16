@@ -12840,3 +12840,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document preview mode and dry-run visualization
 - Add custom error classes for domain-specific failures
 - Refactor date calculation routines for better readability
+- Fix infinite loop risk in collection traversal logic
