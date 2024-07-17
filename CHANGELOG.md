@@ -12842,3 +12842,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor date calculation routines for better readability
 - Fix infinite loop risk in collection traversal logic
 - Correct path delimiter handling across operating systems
+- Correct negative duration calculations across days
