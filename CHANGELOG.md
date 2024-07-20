@@ -12848,3 +12848,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement configuration merging priority logic
 - Refactor state management into centralized store
 - Add badges for license, build status, and version
+- Document date format requirements and accepted tokens
