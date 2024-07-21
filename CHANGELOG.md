@@ -12850,3 +12850,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add badges for license, build status, and version
 - Document date format requirements and accepted tokens
 - Verify idempotency of cleanup routines in test suite
+- Extract date formatting templates into reusable helpers
