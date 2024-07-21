@@ -12853,3 +12853,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract date formatting templates into reusable helpers
 - Fix off-by-one error in collection index calculations
 - Add verification tests for safe JSON parsing utilities
+- Add support for custom output destination paths
