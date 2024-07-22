@@ -12856,3 +12856,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for custom output destination paths
 - Decompose monolithic workflow function into focused steps
 - Add troubleshooting notes for frequent setup issues
+- Streamline parameter passing across internal layers
