@@ -12861,3 +12861,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Resolve incorrect return value for edge-case queries
 - Refactor validation pipelines to support chaining
 - Consolidate duplicate string sanitization routines
+- Correct boundary check in range validation utility
