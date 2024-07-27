@@ -12866,3 +12866,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test custom date formatting tokens and output strings
 - Add performance recommendations for large-scale runs
 - Implement object transformation and mapping utilities
+- Fix inconsistent return type on validation failure
