@@ -5311,3 +5311,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle undefined configuration sections safely
 - Improve documentation for programmatic JavaScript API
 - Decouple output formatting from core computation logic
+- Improve test coverage for error recovery branches
