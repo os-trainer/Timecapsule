@@ -5313,3 +5313,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decouple output formatting from core computation logic
 - Improve test coverage for error recovery branches
 - Improve modularity of utility function parameter signatures
+- Add performance recommendations for large-scale runs
