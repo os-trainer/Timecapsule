@@ -12868,3 +12868,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement object transformation and mapping utilities
 - Fix inconsistent return type on validation failure
 - Introduce mock harness for file system operations
+- Add safe string truncation helper
