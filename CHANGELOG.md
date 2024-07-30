@@ -5317,3 +5317,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inaccurate execution duration calculation
 - Fix validation logic for boundary date ranges
 - Fix improper resource cleanup on exit
+- Add examples comparing standard and conventional commits
