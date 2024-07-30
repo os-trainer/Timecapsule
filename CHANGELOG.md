@@ -12874,3 +12874,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update license field and attribution in package manifest
 - Ensure strict immutability of configuration defaults
 - Cover edge cases in date range calculation logic
+- Add configuration for source map generation
