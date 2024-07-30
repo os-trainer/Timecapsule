@@ -5319,3 +5319,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix improper resource cleanup on exit
 - Add examples comparing standard and conventional commits
 - Add regression tests for previous edge-case bugs
+- Simplify conditional branching in distribution calculator
