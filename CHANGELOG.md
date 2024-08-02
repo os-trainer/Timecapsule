@@ -5320,3 +5320,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add examples comparing standard and conventional commits
 - Add regression tests for previous edge-case bugs
 - Simplify conditional branching in distribution calculator
+- Remove obsolete polyfills and legacy compatibility shims
