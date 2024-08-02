@@ -12882,3 +12882,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract progress tracking into dedicated emitter
 - Add elapsed execution time measurement helper
 - Standardize indentation and line wrapping across files
+- Add regression test for boundary date calculations
