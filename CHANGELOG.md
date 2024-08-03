@@ -5322,3 +5322,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify conditional branching in distribution calculator
 - Remove obsolete polyfills and legacy compatibility shims
 - Add URL query string builder and parser
+- Test empty collection handling across utility functions
