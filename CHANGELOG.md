@@ -12886,3 +12886,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unexpected empty input parsing in command line options
 - Extract common constants into centralized configuration
 - Add comments explaining subtle edge cases in date math
+- Handle empty input collections without throwing exceptions
