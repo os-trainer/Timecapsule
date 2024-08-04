@@ -12889,3 +12889,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty input collections without throwing exceptions
 - Add test suite for distribution weight calculations
 - Add performance assertions for large collection processing
+- Add clean script to purge build artifacts and temp files
