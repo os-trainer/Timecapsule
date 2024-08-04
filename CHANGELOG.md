@@ -12887,3 +12887,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract common constants into centralized configuration
 - Add comments explaining subtle edge cases in date math
 - Handle empty input collections without throwing exceptions
+- Add test suite for distribution weight calculations
