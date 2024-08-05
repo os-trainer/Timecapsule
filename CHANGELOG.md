@@ -12894,3 +12894,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure engine version compatibility constraints
 - Fix missing return statement in error branch
 - Simplify error throwing and propagation mechanisms
+- Implement flexible filter predicate builder
