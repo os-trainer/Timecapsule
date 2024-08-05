@@ -12892,3 +12892,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add clean script to purge build artifacts and temp files
 - Fix intermittent failure in date boundary comparison
 - Configure engine version compatibility constraints
+- Fix missing return statement in error branch
