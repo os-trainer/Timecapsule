@@ -5328,3 +5328,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adjust prettier configuration for consistent indentation
 - Add clear synthetic demonstration disclaimer in documentation
 - Rename internal variables and parameters for clarity
+- Adjust test runner timeout and concurrency settings
