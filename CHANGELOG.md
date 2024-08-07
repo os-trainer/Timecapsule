@@ -12898,3 +12898,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update package repository URLs and issue tracker links
 - Add basic data caching layer with key invalidation
 - Handle partial input objects during configuration merge
+- Refactor argument parsing to standardize option names
