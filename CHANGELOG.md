@@ -12900,3 +12900,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle partial input objects during configuration merge
 - Refactor argument parsing to standardize option names
 - Add array sorting and filtering helper functions
+- Correctly escape special characters in terminal output
