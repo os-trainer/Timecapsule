@@ -5332,3 +5332,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect default parameter assignment
 - Add unit tests for string formatting and truncation helpers
 - Add support for custom output destination paths
+- Add acknowledgments and open-source project credits
