@@ -5335,3 +5335,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add acknowledgments and open-source project credits
 - Simplify control flow and reduce nested conditionals
 - Correct string trimming logic for multi-line inputs
+- Cover dry-run execution mode with assertion checks
