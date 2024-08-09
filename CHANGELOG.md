@@ -5334,3 +5334,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for custom output destination paths
 - Add acknowledgments and open-source project credits
 - Simplify control flow and reduce nested conditionals
+- Correct string trimming logic for multi-line inputs
