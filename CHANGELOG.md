@@ -5336,3 +5336,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify control flow and reduce nested conditionals
 - Correct string trimming logic for multi-line inputs
 - Cover dry-run execution mode with assertion checks
+- Handle null and undefined options defensively
