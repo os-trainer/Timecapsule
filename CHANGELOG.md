@@ -12903,3 +12903,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correctly escape special characters in terminal output
 - Add instructions for running tests and linter locally
 - Fix argument parsing when flag value contains spaces
+- Fix duplicate item registration in event subscriber list
