@@ -12905,3 +12905,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix argument parsing when flag value contains spaces
 - Fix duplicate item registration in event subscriber list
 - Extract file system operations into isolated adapter
+- Update project metadata and repository description
