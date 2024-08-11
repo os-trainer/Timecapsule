@@ -12906,3 +12906,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix duplicate item registration in event subscriber list
 - Extract file system operations into isolated adapter
 - Update project metadata and repository description
+- Handle unexpected zero-length arrays in reducer logic
