@@ -5340,3 +5340,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add parameterized tests for date parsing variations
 - Fix unhandled promise rejection in async error handler
 - Add key-value store wrapper for memory cache
+- Fix potential race condition during file initialization
