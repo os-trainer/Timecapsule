@@ -5343,3 +5343,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix potential race condition during file initialization
 - Add detailed architecture overview and component diagram
 - Consolidate error definitions and status messages
+- Add clean script to purge build artifacts and temp files
