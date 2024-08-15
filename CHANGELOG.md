@@ -12912,3 +12912,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add usage notes for multi-year historical generation
 - Implement stream-based chunk processor
 - Add descriptive error context when file reading fails
+- Fix incorrect default parameter assignment
