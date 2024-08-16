@@ -12914,3 +12914,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add descriptive error context when file reading fails
 - Fix incorrect default parameter assignment
 - Add comprehensive tests for configuration loader
+- Handle null and undefined options defensively
