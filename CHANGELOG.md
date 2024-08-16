@@ -5346,3 +5346,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add clean script to purge build artifacts and temp files
 - Extract file system operations into isolated adapter
 - Add JSDoc type annotations for internal functions
+- Fix string encoding issue when processing special characters
