@@ -5357,3 +5357,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure consistent parameter ordering in helper signatures
 - Standardize indentation and line wrapping across files
 - Add integration test verifying end-to-end workflow execution
+- Fix argument parsing when flag value contains spaces
