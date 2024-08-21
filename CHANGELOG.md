@@ -12922,3 +12922,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add defensive fallbacks for unexpected null values
 - Correct output formatting when statistics are zero
 - Add system status inspection helper
+- Extract configuration validation into standalone validator
