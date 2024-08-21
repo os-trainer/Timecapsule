@@ -12924,3 +12924,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add system status inspection helper
 - Extract configuration validation into standalone validator
 - Correct error handling when input file is absent
+- Implement date formatting and parsing helpers
