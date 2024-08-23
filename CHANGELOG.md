@@ -12929,3 +12929,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement summary statistics calculation helper
 - Improve input handling and defensive type assertions
 - Add parameterized tests for date parsing variations
+- Correct timestamp calculation for timezone offsets
