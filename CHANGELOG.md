@@ -12934,3 +12934,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration for code coverage reporting
 - Add parameter type checks to public library methods
 - Add safe string truncation helper
+- Improve test coverage for error recovery branches
