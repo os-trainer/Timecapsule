@@ -5372,3 +5372,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract configuration validation into standalone validator
 - Fix edge case in input handling for empty strings
 - Implement batch processing utility for array inputs
+- Handle process interruption cleanly during generation
