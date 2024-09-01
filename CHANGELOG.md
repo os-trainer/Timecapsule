@@ -12942,3 +12942,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add lightweight event emitter implementation
 - Cover deep object merge edge cases in unit tests
 - Consolidate error definitions and status messages
+- Clean up temporary files and ensure deterministic cleanup
