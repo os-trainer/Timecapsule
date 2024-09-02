@@ -5381,3 +5381,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [6.2.0]
 ### Changed
 - Implement command dispatcher with routing logic
+- Clean up project structure and remove redundant exports
