@@ -5377,3 +5377,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Remove unused code and obsolete internal variables
 - Fix formatting anomaly in terminal progress display
 - Adjust timeout thresholds for integration test suite
+
+## [6.2.0]
+### Changed
+- Implement command dispatcher with routing logic
