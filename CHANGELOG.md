@@ -5383,3 +5383,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement command dispatcher with routing logic
 - Clean up project structure and remove redundant exports
 - Add schema validation for configuration objects
+- Fix memory leak in recurring event listeners
