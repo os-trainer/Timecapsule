@@ -12955,3 +12955,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify complex arithmetic expressions in date logic
 - Verify cache invalidation logic under test conditions
 - Remove unused code and obsolete internal variables
+- Add custom error classes for domain-specific failures
