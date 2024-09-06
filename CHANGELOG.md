@@ -12951,3 +12951,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add multi-step workflow runner utility
 - Streamline option parsing and default resolution
 - Add test cases for boolean flag normalization
+- Implement dry-run execution preview mode
