@@ -5386,3 +5386,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak in recurring event listeners
 - Implement query filter helpers for collection items
 - Document configuration options and default parameters
+- Improve README with comprehensive getting-started guide
