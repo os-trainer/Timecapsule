@@ -5388,3 +5388,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document configuration options and default parameters
 - Improve README with comprehensive getting-started guide
 - Add custom formatting options for summary tables
+- Add comments explaining subtle edge cases in date math
