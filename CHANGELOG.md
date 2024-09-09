@@ -12959,3 +12959,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct fallback order for configuration properties
 - Implement rate limiting throttle for helper actions
 - Improve function organization and module cohesion
+- Fix memory leak in recurring event listeners
