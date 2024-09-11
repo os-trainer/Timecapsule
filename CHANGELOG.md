@@ -5394,3 +5394,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update author and contributor information in package descriptor
 - Fix incorrect status code returned on input error
 - Cover complex configuration inheritance in tests
+- Configure code style rules and ignore patterns
