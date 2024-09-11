@@ -5397,3 +5397,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure code style rules and ignore patterns
 - Fix inaccurate execution duration calculation
 - Clarify difference between distribution algorithms
+- Add unit tests for string formatting and truncation helpers
