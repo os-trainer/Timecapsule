@@ -5396,3 +5396,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover complex configuration inheritance in tests
 - Configure code style rules and ignore patterns
 - Fix inaccurate execution duration calculation
+- Clarify difference between distribution algorithms
