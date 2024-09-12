@@ -12962,3 +12962,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak in recurring event listeners
 - Refactor promise handling to use modern async/await patterns
 - Implement file reading helper with encoding support
+- Correct path delimiter handling across operating systems
