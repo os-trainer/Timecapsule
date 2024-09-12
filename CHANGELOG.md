@@ -12964,3 +12964,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement file reading helper with encoding support
 - Correct path delimiter handling across operating systems
 - Tune compiler and transpiler configuration options
+- Refactor utility functions into dedicated modules
