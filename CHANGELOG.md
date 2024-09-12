@@ -12965,3 +12965,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct path delimiter handling across operating systems
 - Tune compiler and transpiler configuration options
 - Refactor utility functions into dedicated modules
+- Add support for custom output destination paths
