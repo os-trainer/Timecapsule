@@ -12968,3 +12968,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for custom output destination paths
 - Document test execution commands and coverage reports
 - Add colorized terminal output formatter
+- Test timezone offset handling with varying dates
