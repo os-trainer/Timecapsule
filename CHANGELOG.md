@@ -12971,3 +12971,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test timezone offset handling with varying dates
 - Add clean script to purge build artifacts and temp files
 - Add strict boundary checks to numeric operations
+- Add environment variable override support
