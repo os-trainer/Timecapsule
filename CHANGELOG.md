@@ -5399,3 +5399,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify difference between distribution algorithms
 - Add unit tests for string formatting and truncation helpers
 - Refactor caching mechanism for cleaner abstraction
+- Correct timestamp calculation for timezone offsets
