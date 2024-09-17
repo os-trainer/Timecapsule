@@ -5406,3 +5406,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration file for continuous integration
 - Reorganize internal test helpers and fixtures
 - Add snapshot tests for terminal output formatters
+- Consolidate string manipulation utilities
