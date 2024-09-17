@@ -5405,3 +5405,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement numeric range clamping helper
 - Add configuration file for continuous integration
 - Reorganize internal test helpers and fixtures
+- Add snapshot tests for terminal output formatters
