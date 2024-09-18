@@ -12981,3 +12981,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify conditional branching in distribution calculator
 - Fix unhandled promise rejection in async error handler
 - Add quick reference cheat sheet for CLI commands
+- Fix incorrect default parameter assignment
