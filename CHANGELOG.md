@@ -5409,3 +5409,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate string manipulation utilities
 - Correct string trimming logic for multi-line inputs
 - Standardize date string formatting across all output
+- Fix inconsistent return type on validation failure
