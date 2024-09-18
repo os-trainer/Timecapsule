@@ -12985,3 +12985,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle null and undefined options defensively
 - Decouple output formatting from core computation logic
 - Implement numeric range clamping helper
+- Document supported platforms and shell environments
