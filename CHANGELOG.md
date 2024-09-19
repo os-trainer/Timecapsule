@@ -5411,3 +5411,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize date string formatting across all output
 - Fix inconsistent return type on validation failure
 - Add input validation for user-supplied options
+- Add badges for license, build status, and version
