@@ -12996,3 +12996,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modularize schema definitions and validation rules
 - Clean up project structure and remove redundant exports
 - Fix type coercion error during numeric comparisons
+- Test custom date formatting tokens and output strings
