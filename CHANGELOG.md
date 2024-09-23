@@ -5413,3 +5413,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input validation for user-supplied options
 - Add badges for license, build status, and version
 - Refactor utility functions into dedicated modules
+- Add support for custom output destination paths
