@@ -12993,3 +12993,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve readability of complex conditional evaluations
 - Resolve incorrect return value for edge-case queries
 - Add safe string truncation helper
+- Modularize schema definitions and validation rules
