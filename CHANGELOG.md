@@ -13000,3 +13000,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix infinite loop risk in collection traversal logic
 - Handle undefined configuration sections safely
 - Refactor argument parsing to standardize option names
+- Fix circular reference error in object serialization
