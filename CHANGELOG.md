@@ -5416,3 +5416,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for custom output destination paths
 - Fix missing return statement in error branch
 - Simplify control flow and reduce nested conditionals
+- Handle partial input objects during configuration merge
