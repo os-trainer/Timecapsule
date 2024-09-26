@@ -5422,3 +5422,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement configuration file loader with fallback defaults
 - Fix memory leak caused by unreleased cache handles
 - Clean up stray debug statements and console output
+- Fix validation logic for boundary date ranges
