@@ -5420,3 +5420,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test cases for boolean flag normalization
 - Implement pagination helper for collection data
 - Implement configuration file loader with fallback defaults
+- Fix memory leak caused by unreleased cache handles
