@@ -13003,3 +13003,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix circular reference error in object serialization
 - Correctly escape special characters in terminal output
 - Improve documentation for programmatic JavaScript API
+- Streamline parameter passing across internal layers
