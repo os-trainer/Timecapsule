@@ -13006,3 +13006,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline parameter passing across internal layers
 - Add validation rules for date range boundaries
 - Implement event listener registry for status events
+- Clarify installation instructions and system prerequisites
