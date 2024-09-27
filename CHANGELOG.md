@@ -13011,3 +13011,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract terminal output logic into presentation layer
 - Fix edge case in input handling for empty strings
 - Fix intermittent failure in date boundary comparison
+- Add unit tests for terminal colorization toggles
