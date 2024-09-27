@@ -13008,3 +13008,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement event listener registry for status events
 - Clarify installation instructions and system prerequisites
 - Fix potential race condition during file initialization
+- Extract terminal output logic into presentation layer
