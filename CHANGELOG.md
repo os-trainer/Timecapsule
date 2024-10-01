@@ -5426,3 +5426,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement event listener registry for status events
 - Fix string encoding issue when processing special characters
 - Add npm script for running linter in check-only mode
+- Add parameter type checks to public library methods
