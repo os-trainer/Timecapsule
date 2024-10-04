@@ -5430,3 +5430,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix duplicate item registration in event subscriber list
 - Add custom error classes for domain-specific failures
 - Handle null and undefined options defensively
+- Streamline event dispatching mechanism
