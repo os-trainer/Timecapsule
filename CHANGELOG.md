@@ -13036,3 +13036,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract file system operations into isolated adapter
 - Add structured logging helper with log levels
 - Fix string encoding issue when processing special characters
+- Extract date formatting templates into reusable helpers
