@@ -5431,3 +5431,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add custom error classes for domain-specific failures
 - Handle null and undefined options defensively
 - Streamline event dispatching mechanism
+- Add environment variable override support
