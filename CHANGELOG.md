@@ -13041,3 +13041,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle process interruption cleanly during generation
 - Normalize naming of options and arguments across modules
 - Add comprehensive tests for configuration loader
+- Fix inconsistent return type on validation failure
