@@ -5435,3 +5435,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression tests for previous edge-case bugs
 - Fix circular reference error in object serialization
 - Fix type coercion error during numeric comparisons
+- Reduce duplicated logic across helper utilities
