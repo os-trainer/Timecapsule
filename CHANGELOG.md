@@ -5436,3 +5436,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix circular reference error in object serialization
 - Fix type coercion error during numeric comparisons
 - Reduce duplicated logic across helper utilities
+- Handle empty environment variables without error
