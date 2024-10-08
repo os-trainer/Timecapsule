@@ -13039,3 +13039,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract date formatting templates into reusable helpers
 - Configure output directory paths for build pipeline
 - Handle process interruption cleanly during generation
+- Normalize naming of options and arguments across modules
