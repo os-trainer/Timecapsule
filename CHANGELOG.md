@@ -5440,3 +5440,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add usage notes for multi-year historical generation
 - Consolidate duplicate string sanitization routines
 - Modularize schema definitions and validation rules
+- Document logging levels and diagnostic flags
