@@ -13045,3 +13045,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct string trimming logic for multi-line inputs
 - Verify error messages for missing required options
 - Decouple output formatting from core computation logic
+- Ensure consistent parameter ordering in helper signatures
