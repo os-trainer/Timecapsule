@@ -5446,3 +5446,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure local development workflow scripts
 - Test command line help output and option documentation
 - Configure automated dependency review settings
+- Clean up dead code and obsolete helper methods
