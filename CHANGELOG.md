@@ -5447,3 +5447,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test command line help output and option documentation
 - Configure automated dependency review settings
 - Clean up dead code and obsolete helper methods
+- Document error handling strategies and exit codes
