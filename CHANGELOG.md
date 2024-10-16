@@ -13051,3 +13051,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update test runner configuration for isolated execution
 - Improve code formatting and consistent whitespace
 - Correct boundary check in range validation utility
+- Adjust timeout thresholds for integration test suite
