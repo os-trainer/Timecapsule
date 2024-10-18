@@ -5453,3 +5453,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add tests for custom output destination formatting
 - Ensure consistent parameter ordering in helper signatures
 - Configure semantic versioning and release scripts
+- Cover malformed command line options in test suite
