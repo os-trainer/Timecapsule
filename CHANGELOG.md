@@ -5456,3 +5456,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover malformed command line options in test suite
 - Implement safe JSON parsing with fallback values
 - Implement helper utilities for parameter parsing
+- Correct negative duration calculations across days
