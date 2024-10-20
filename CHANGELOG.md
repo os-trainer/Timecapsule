@@ -5458,3 +5458,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement helper utilities for parameter parsing
 - Correct negative duration calculations across days
 - Update package repository URLs and issue tracker links
+- Update README with example workflow scenarios
