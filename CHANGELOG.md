@@ -13061,3 +13061,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline option parsing and default resolution
 - Add command-line argument parser for configuration flags
 - Document configuration options and default parameters
+- Improve separation of concerns between CLI and core engine
