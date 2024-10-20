@@ -13064,3 +13064,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve separation of concerns between CLI and core engine
 - Improve package scripts for building and testing
 - Implement template interpolation utility
+- Handle malformed JSON configuration without crashing
