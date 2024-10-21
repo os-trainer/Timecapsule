@@ -5460,3 +5460,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update package repository URLs and issue tracker links
 - Update README with example workflow scenarios
 - Add test suite for distribution weight calculations
+- Clarify installation instructions and system prerequisites
