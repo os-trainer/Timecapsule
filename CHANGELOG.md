@@ -5464,3 +5464,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unexpected empty input parsing in command line options
 - Add multi-step workflow runner utility
 - Add clear synthetic demonstration disclaimer in documentation
+- Fix intermittent failure in date boundary comparison
