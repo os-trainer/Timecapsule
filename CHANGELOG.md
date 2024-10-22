@@ -13065,3 +13065,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve package scripts for building and testing
 - Implement template interpolation utility
 - Handle malformed JSON configuration without crashing
+- Add snapshot tests for terminal output formatters
