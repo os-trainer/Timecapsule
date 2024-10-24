@@ -13069,3 +13069,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify collection mapping and transformation pipelines
 - Add support for JSON and plain text output formats
 - Improve clarity of variable scopes and closures
+- Resolve incorrect return value for edge-case queries
