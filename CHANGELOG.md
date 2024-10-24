@@ -13067,3 +13067,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle malformed JSON configuration without crashing
 - Add snapshot tests for terminal output formatters
 - Simplify collection mapping and transformation pipelines
+- Add support for JSON and plain text output formats
