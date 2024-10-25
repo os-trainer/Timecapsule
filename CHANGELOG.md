@@ -5472,3 +5472,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline option parsing and default resolution
 - Test custom date formatting tokens and output strings
 - Fix incorrect default parameter assignment
+- Initialize modular directory structure
