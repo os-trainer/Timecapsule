@@ -13071,3 +13071,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve clarity of variable scopes and closures
 - Resolve incorrect return value for edge-case queries
 - Refactor array processing routines to use functional methods
+- Add URL query string builder and parser
