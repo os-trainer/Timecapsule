@@ -5474,3 +5474,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect default parameter assignment
 - Initialize modular directory structure
 - Update API reference documentation for core exports
+- Add colorized terminal output formatter
