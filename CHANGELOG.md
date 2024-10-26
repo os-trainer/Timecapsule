@@ -5475,3 +5475,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Initialize modular directory structure
 - Update API reference documentation for core exports
 - Add colorized terminal output formatter
+- Add unit tests for rate limiting and throttling helpers
