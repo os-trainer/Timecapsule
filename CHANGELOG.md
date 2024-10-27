@@ -13076,3 +13076,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document distribution patterns and statistical behavior
 - Add key-value store wrapper for memory cache
 - Add assertions to catch illegal state during execution
+- Add unit tests for progress reporter events
