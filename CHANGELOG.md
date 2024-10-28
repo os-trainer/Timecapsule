@@ -5479,3 +5479,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty input collections without throwing exceptions
 - Adjust test runner timeout and concurrency settings
 - Refactor utility functions into dedicated modules
+- Add usage examples for common command-line options
