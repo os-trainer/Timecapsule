@@ -5478,3 +5478,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for rate limiting and throttling helpers
 - Handle empty input collections without throwing exceptions
 - Adjust test runner timeout and concurrency settings
+- Refactor utility functions into dedicated modules
