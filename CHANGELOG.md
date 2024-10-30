@@ -13087,3 +13087,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify cache invalidation logic under test conditions
 - Handle empty input collections without throwing exceptions
 - Add basic data processing and normalization pipeline
+- Ensure consistent error status codes across exit paths
