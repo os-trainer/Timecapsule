@@ -5480,3 +5480,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adjust test runner timeout and concurrency settings
 - Refactor utility functions into dedicated modules
 - Add usage examples for common command-line options
+
+## [6.3.0]
+### Changed
+- Fix incorrect boolean flag evaluation
