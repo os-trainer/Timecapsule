@@ -5484,3 +5484,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [6.3.0]
 ### Changed
 - Fix incorrect boolean flag evaluation
+- Add reusable string formatting utility functions
