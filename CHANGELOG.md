@@ -13096,3 +13096,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic application bootstrap logic
 - Add parameterized tests for date parsing variations
 - Implement command line flag alias mapping
+- Add unit tests for rate limiting and throttling helpers
