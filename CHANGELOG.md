@@ -13100,3 +13100,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak caused by unreleased cache handles
 - Restructure project exports to avoid circular dependencies
 - Handle undefined configuration sections safely
+- Simplify complex arithmetic expressions in date logic
