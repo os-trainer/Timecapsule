@@ -13104,3 +13104,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add clear synthetic demonstration disclaimer in documentation
 - Fix incorrect boolean flag evaluation
 - Add test harness for simulated time progression
+- Add FAQ section covering common configuration questions
