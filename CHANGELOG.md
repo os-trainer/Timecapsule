@@ -13105,3 +13105,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect boolean flag evaluation
 - Add test harness for simulated time progression
 - Add FAQ section covering common configuration questions
+- Correct string trimming logic for multi-line inputs
