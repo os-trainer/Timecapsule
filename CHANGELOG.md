@@ -5501,3 +5501,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add structured logging helper with log levels
 - Correct error handling when input file is absent
 - Add elapsed execution time measurement helper
+- Refactor caching mechanism for cleaner abstraction
