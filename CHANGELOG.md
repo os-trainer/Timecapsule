@@ -5506,3 +5506,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add integration test verifying end-to-end workflow execution
 - Refactor date calculation routines for better readability
 - Add instructions for running tests and linter locally
+- Implement query filter helpers for collection items
