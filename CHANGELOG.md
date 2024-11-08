@@ -5511,3 +5511,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Introduce mock harness for file system operations
 - Implement configuration merging priority logic
 - Handle file permission errors with actionable messages
+- Add contribution guidelines and development workflow steps
