@@ -13110,3 +13110,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify graceful handling of malformed input data
 - Improve modularity of utility function parameter signatures
 - Add input validation for user-supplied options
+- Fix incorrect status code returned on input error
