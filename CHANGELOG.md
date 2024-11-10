@@ -13114,3 +13114,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix string encoding issue when processing special characters
 - Verify proper error types are thrown on invalid arguments
 - Correct boundary check in range validation utility
+- Remove obsolete polyfills and legacy compatibility shims
