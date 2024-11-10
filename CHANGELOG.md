@@ -13112,3 +13112,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input validation for user-supplied options
 - Fix incorrect status code returned on input error
 - Fix string encoding issue when processing special characters
+- Verify proper error types are thrown on invalid arguments
