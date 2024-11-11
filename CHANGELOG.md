@@ -5522,3 +5522,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract common constants into centralized configuration
 - Replace magic numbers with named configuration constants
 - Handle missing configuration gracefully with defaults
+- Add performance assertions for large collection processing
