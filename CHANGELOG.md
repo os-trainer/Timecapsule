@@ -5527,3 +5527,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Rename internal variables and parameters for clarity
 - Fix potential race condition during file initialization
 - Verify error messages for missing required options
+- Add URL query string builder and parser
