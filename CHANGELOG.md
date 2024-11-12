@@ -13120,3 +13120,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document logging levels and diagnostic flags
 - Verify idempotency of cleanup routines in test suite
 - Refactor date calculation routines for better readability
+- Add code comments explaining complex date mathematics
