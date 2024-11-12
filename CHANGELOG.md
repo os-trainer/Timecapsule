@@ -5526,3 +5526,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Initialize project repository structure
 - Rename internal variables and parameters for clarity
 - Fix potential race condition during file initialization
+- Verify error messages for missing required options
