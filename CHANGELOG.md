@@ -13122,3 +13122,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor date calculation routines for better readability
 - Add code comments explaining complex date mathematics
 - Correct negative duration calculations across days
+- Improve input handling and defensive type assertions
