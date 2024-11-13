@@ -5529,3 +5529,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify error messages for missing required options
 - Add URL query string builder and parser
 - Improve README with comprehensive getting-started guide
+- Correct path delimiter handling across operating systems
