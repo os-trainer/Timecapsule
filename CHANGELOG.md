@@ -5531,3 +5531,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve README with comprehensive getting-started guide
 - Correct path delimiter handling across operating systems
 - Add unit tests for string formatting and truncation helpers
+- Streamline option parsing and default resolution
