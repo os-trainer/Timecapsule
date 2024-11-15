@@ -5534,3 +5534,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline option parsing and default resolution
 - Document custom commit message filtering and options
 - Update repository keywords and discovery tags
+- Test custom date formatting tokens and output strings
