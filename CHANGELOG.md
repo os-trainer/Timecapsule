@@ -13127,3 +13127,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle null and undefined options defensively
 - Streamline parameter passing across internal layers
 - Cover malformed command line options in test suite
+- Correct timestamp calculation for timezone offsets
