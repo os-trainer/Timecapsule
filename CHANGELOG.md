@@ -13138,3 +13138,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify error throwing and propagation mechanisms
 - Fix formatting anomaly in terminal progress display
 - Add regression tests for previous edge-case bugs
+- Update API reference documentation for core exports
