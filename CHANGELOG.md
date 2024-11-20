@@ -13142,3 +13142,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix type coercion error during numeric comparisons
 - Initialize repository readme and overview notes
 - Improve function organization and module cohesion
+- Ensure consistent parameter ordering in helper signatures
