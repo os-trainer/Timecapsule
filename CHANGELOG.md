@@ -5543,3 +5543,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add safe deep clone utility function
 - Refactor array processing routines to use functional methods
 - Add quick reference cheat sheet for CLI commands
+- Fix argument parsing when flag value contains spaces
