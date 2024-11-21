@@ -5546,3 +5546,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix argument parsing when flag value contains spaces
 - Correct fallback order for configuration properties
 - Decouple output formatting from core computation logic
+- Handle undefined configuration sections safely
