@@ -13145,3 +13145,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure consistent parameter ordering in helper signatures
 - Fix infinite loop risk in collection traversal logic
 - Add unit tests for collection filter predicates
+- Fix intermittent failure in date boundary comparison
