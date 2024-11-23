@@ -13150,3 +13150,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update author and contributor information in package descriptor
 - Standardize indentation and line wrapping across files
 - Fix memory leak caused by unreleased cache handles
+- Extract configuration validation into standalone validator
