@@ -13153,3 +13153,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract configuration validation into standalone validator
 - Create initial source directory and placeholder modules
 - Implement configuration merging priority logic
+- Improve separation of concerns between CLI and core engine
