@@ -5548,3 +5548,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decouple output formatting from core computation logic
 - Handle undefined configuration sections safely
 - Test command line help output and option documentation
+- Document test execution commands and coverage reports
