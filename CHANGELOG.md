@@ -13160,3 +13160,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test suite for distribution weight calculations
 - Modularize schema definitions and validation rules
 - Update repository keywords and discovery tags
+- Fix incorrect default parameter assignment
