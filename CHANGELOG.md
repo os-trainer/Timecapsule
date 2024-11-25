@@ -13158,3 +13158,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect boolean flag evaluation
 - Update development configuration and editor settings
 - Add test suite for distribution weight calculations
+- Modularize schema definitions and validation rules
