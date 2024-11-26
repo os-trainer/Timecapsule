@@ -13162,3 +13162,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update repository keywords and discovery tags
 - Fix incorrect default parameter assignment
 - Test invalid input handling and expected exceptions
+- Clean up dead code and obsolete helper methods
