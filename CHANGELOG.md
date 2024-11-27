@@ -13165,3 +13165,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up dead code and obsolete helper methods
 - Handle timeout gracefully during external operations
 - Add test cases for boolean flag normalization
+- Correctly escape special characters in terminal output
