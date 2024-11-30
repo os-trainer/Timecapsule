@@ -5554,3 +5554,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor promise handling to use modern async/await patterns
 - Fix off-by-one error in collection index calculations
 - Add unit tests for terminal colorization toggles
+- Configure environment file loading conventions
