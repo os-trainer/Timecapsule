@@ -13169,3 +13169,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure environment file loading conventions
 - Add step-by-step tutorial for sample project generation
 - Verify cache invalidation logic under test conditions
+- Fix incorrect status code returned on input error
