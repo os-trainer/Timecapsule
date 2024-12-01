@@ -5556,3 +5556,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for terminal colorization toggles
 - Configure environment file loading conventions
 - Implement file reading helper with encoding support
+- Simplify error throwing and propagation mechanisms
