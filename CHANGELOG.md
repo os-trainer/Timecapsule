@@ -5557,3 +5557,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure environment file loading conventions
 - Implement file reading helper with encoding support
 - Simplify error throwing and propagation mechanisms
+- Cover complex configuration inheritance in tests
