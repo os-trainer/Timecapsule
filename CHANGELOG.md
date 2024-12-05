@@ -13176,3 +13176,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct error handling when input file is absent
 - Implement defensive parameter sanitization
 - Streamline event dispatching mechanism
+- Clean up temporary files and ensure deterministic cleanup
