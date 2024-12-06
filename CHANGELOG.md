@@ -5562,3 +5562,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Introduce mock harness for file system operations
 - Implement summary statistics calculation helper
 - Configure distribution bundle output settings
+- Handle process interruption cleanly during generation
