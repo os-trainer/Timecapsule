@@ -5564,3 +5564,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure distribution bundle output settings
 - Handle process interruption cleanly during generation
 - Consolidate duplicate string sanitization routines
+- Fix duplicate item registration in event subscriber list
