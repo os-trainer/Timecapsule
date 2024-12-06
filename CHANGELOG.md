@@ -13178,3 +13178,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline event dispatching mechanism
 - Clean up temporary files and ensure deterministic cleanup
 - Add elapsed execution time measurement helper
+- Document error handling strategies and exit codes
