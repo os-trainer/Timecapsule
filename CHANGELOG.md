@@ -13186,3 +13186,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize exception messages across validation logic
 - Fix validation logic for boundary date ranges
 - Improve README with comprehensive getting-started guide
+- Add input sanitization for file paths
