@@ -13188,3 +13188,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve README with comprehensive getting-started guide
 - Add input sanitization for file paths
 - Consolidate string manipulation utilities
+- Cover edge cases in date range calculation logic
