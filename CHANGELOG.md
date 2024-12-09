@@ -13185,3 +13185,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix missing return statement in error branch
 - Standardize exception messages across validation logic
 - Fix validation logic for boundary date ranges
+- Improve README with comprehensive getting-started guide
