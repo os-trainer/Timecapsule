@@ -13192,3 +13192,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for verbose diagnostic output
 - Update changelog with recent feature additions and fixes
 - Fix improper resource cleanup on exit
+- Handle unexpected zero-length arrays in reducer logic
