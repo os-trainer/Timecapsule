@@ -5569,3 +5569,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Remove unused code and obsolete internal variables
 - Update npm packaging whitelist in files array
 - Add examples comparing standard and conventional commits
+- Add support for JSON and plain text output formats
