@@ -5575,3 +5575,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up temporary files and ensure deterministic cleanup
 - Cover edge cases in date range calculation logic
 - Add configuration file for static code analysis
+- Add snapshot tests for terminal output formatters
