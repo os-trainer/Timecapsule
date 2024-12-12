@@ -5576,3 +5576,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover edge cases in date range calculation logic
 - Add configuration file for static code analysis
 - Add snapshot tests for terminal output formatters
+- Add detailed architecture overview and component diagram
