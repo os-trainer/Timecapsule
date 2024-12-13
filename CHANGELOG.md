@@ -5577,3 +5577,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration file for static code analysis
 - Add snapshot tests for terminal output formatters
 - Add detailed architecture overview and component diagram
+- Extract reusable helper functions from main workflow
