@@ -13197,3 +13197,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document environment variable configuration overrides
 - Update project dependencies to latest secure versions
 - Fix memory leak in recurring event listeners
+- Extract reusable helper functions from main workflow
