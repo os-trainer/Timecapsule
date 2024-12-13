@@ -13195,3 +13195,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle unexpected zero-length arrays in reducer logic
 - Implement query filter helpers for collection items
 - Document environment variable configuration overrides
+- Update project dependencies to latest secure versions
