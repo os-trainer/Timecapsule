@@ -13201,3 +13201,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement helper utilities for parameter parsing
 - Correct negative duration calculations across days
 - Refactor promise handling to use modern async/await patterns
+- Configure distribution bundle output settings
