@@ -13203,3 +13203,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor promise handling to use modern async/await patterns
 - Configure distribution bundle output settings
 - Correct regex pattern matching for date validation
+- Add system status inspection helper
