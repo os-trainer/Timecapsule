@@ -5583,3 +5583,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor date calculation routines for better readability
 - Resolve incorrect return value for edge-case queries
 - Implement flexible filter predicate builder
+
+## [6.4.0]
+### Changed
+- Add test cases for boolean flag normalization
