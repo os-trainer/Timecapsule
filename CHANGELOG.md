@@ -13209,3 +13209,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data processing and normalization pipeline
 - Handle file permission errors with actionable messages
 - Add reusable string formatting utility functions
+- Correct fallback order for configuration properties
