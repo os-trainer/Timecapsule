@@ -5587,3 +5587,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [6.4.0]
 ### Changed
 - Add test cases for boolean flag normalization
+- Add examples of integrating tool into automated scripts
