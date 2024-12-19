@@ -5593,3 +5593,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression tests for previous edge-case bugs
 - Extract configuration validation into standalone validator
 - Add validation rules for date range boundaries
+- Fix edge case in input handling for empty strings
