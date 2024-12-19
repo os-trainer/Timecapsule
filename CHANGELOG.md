@@ -5595,3 +5595,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add validation rules for date range boundaries
 - Fix edge case in input handling for empty strings
 - Add descriptive error context when file reading fails
+- Add schema validation for configuration objects
