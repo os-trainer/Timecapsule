@@ -5601,3 +5601,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add tests for custom output destination formatting
 - Configure automated dependency review settings
 - Correctly escape special characters in terminal output
+- Improve test coverage for error recovery branches
