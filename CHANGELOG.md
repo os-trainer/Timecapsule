@@ -13222,3 +13222,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decompose monolithic workflow function into focused steps
 - Clarify difference between distribution algorithms
 - Add unit tests for progress reporter events
+- Add table of contents to main project documentation
