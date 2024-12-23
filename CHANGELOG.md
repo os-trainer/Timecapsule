@@ -13223,3 +13223,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify difference between distribution algorithms
 - Add unit tests for progress reporter events
 - Add table of contents to main project documentation
+- Implement rate limiting throttle for helper actions
