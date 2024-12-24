@@ -13230,3 +13230,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add base package descriptor with metadata
 - Add parameter type checks to public library methods
 - Refactor validation pipelines to support chaining
+- Fix unhandled promise rejection in async error handler
