@@ -5604,3 +5604,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage for error recovery branches
 - Fix potential race condition during file initialization
 - Add environment variable override support
+- Update author and contributor information in package descriptor
