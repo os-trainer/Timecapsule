@@ -13233,3 +13233,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unhandled promise rejection in async error handler
 - Add npm script for running unit test suite
 - Verify graceful handling of malformed input data
+- Correct path delimiter handling across operating systems
