@@ -5610,3 +5610,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement date formatting and parsing helpers
 - Add instructions for running tests and linter locally
 - Fix validation logic for boundary date ranges
+- Add basic data processing and normalization pipeline
