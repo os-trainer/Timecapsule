@@ -5608,3 +5608,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify complex arithmetic expressions in date logic
 - Streamline event dispatching mechanism
 - Implement date formatting and parsing helpers
+- Add instructions for running tests and linter locally
