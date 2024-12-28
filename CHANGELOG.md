@@ -13236,3 +13236,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct path delimiter handling across operating systems
 - Simplify control flow and reduce nested conditionals
 - Update README with example workflow scenarios
+- Cover malformed command line options in test suite
