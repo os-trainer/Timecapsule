@@ -13238,3 +13238,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update README with example workflow scenarios
 - Cover malformed command line options in test suite
 - Clarify frequency parameter behavior and percentage rules
+- Add unit tests for input validation helper functions
