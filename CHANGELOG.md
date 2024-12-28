@@ -13240,3 +13240,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify frequency parameter behavior and percentage rules
 - Add unit tests for input validation helper functions
 - Add tests for custom output destination formatting
+- Fix potential race condition during file initialization
