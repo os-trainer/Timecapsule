@@ -5620,3 +5620,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect default parameter assignment
 - Test invalid input handling and expected exceptions
 - Add system status inspection helper
+- Reorganize internal test helpers and fixtures
