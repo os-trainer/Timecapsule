@@ -5626,3 +5626,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decouple output formatting from core computation logic
 - Add test harness for simulated time progression
 - Reduce duplicated logic across helper utilities
+- Improve naming consistency across internal interfaces
