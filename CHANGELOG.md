@@ -5627,3 +5627,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test harness for simulated time progression
 - Reduce duplicated logic across helper utilities
 - Improve naming consistency across internal interfaces
+- Add unit tests for progress reporter events
