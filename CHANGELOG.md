@@ -5632,3 +5632,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add usage examples for common command-line options
 - Add safe string truncation helper
 - Add key-value store wrapper for memory cache
+- Handle process interruption cleanly during generation
