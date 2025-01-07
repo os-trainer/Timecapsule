@@ -13257,3 +13257,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add colorized terminal output formatter
 - Handle empty environment variables without error
 - Simplify conditional branching in distribution calculator
+- Fix argument parsing when flag value contains spaces
