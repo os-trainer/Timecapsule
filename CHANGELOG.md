@@ -5634,3 +5634,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add key-value store wrapper for memory cache
 - Handle process interruption cleanly during generation
 - Verify cache invalidation logic under test conditions
+- Improve separation of concerns between CLI and core engine
