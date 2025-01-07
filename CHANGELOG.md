@@ -5636,3 +5636,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify cache invalidation logic under test conditions
 - Improve separation of concerns between CLI and core engine
 - Handle partial input objects during configuration merge
+- Fix incorrect boolean flag evaluation
