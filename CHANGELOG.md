@@ -13263,3 +13263,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct regex pattern matching for date validation
 - Add badges for license, build status, and version
 - Cover dry-run execution mode with assertion checks
+- Extract common constants into centralized configuration
