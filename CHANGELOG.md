@@ -13262,3 +13262,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression tests for previous edge-case bugs
 - Correct regex pattern matching for date validation
 - Add badges for license, build status, and version
+- Cover dry-run execution mode with assertion checks
