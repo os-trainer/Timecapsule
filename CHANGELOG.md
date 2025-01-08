@@ -13261,3 +13261,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement file reading helper with encoding support
 - Add regression tests for previous edge-case bugs
 - Correct regex pattern matching for date validation
+- Add badges for license, build status, and version
