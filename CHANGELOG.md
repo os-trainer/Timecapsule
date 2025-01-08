@@ -5637,3 +5637,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve separation of concerns between CLI and core engine
 - Handle partial input objects during configuration merge
 - Fix incorrect boolean flag evaluation
+- Verify platform-specific path handling in test suite
