@@ -13277,3 +13277,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover complex configuration inheritance in tests
 - Fix off-by-one error in collection index calculations
 - Implement configuration file loader with fallback defaults
+- Add configuration for code coverage reporting
