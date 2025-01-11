@@ -13275,3 +13275,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inaccurate execution duration calculation
 - Improve documentation for custom output templates
 - Cover complex configuration inheritance in tests
+- Fix off-by-one error in collection index calculations
