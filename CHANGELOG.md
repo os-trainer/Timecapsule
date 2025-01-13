@@ -5650,3 +5650,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test suite for distribution weight calculations
 - Implement dry-run execution preview mode
 - Improve test coverage across utility modules
+- Cover deep object merge edge cases in unit tests
