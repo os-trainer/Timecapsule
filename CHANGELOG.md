@@ -5647,3 +5647,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement command line flag alias mapping
 - Correct regex pattern matching for date validation
 - Restructure project exports to avoid circular dependencies
+- Add test suite for distribution weight calculations
