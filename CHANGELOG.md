@@ -5652,3 +5652,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage across utility modules
 - Cover deep object merge edge cases in unit tests
 - Clean up stray debug statements and console output
+- Add unit tests for rate limiting and throttling helpers
