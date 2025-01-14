@@ -5654,3 +5654,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up stray debug statements and console output
 - Add unit tests for rate limiting and throttling helpers
 - Add input sanitization for file paths
+- Resolve incorrect return value for edge-case queries
