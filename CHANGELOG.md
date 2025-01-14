@@ -13285,3 +13285,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve error messages with actionable resolution hints
 - Handle undefined configuration sections safely
 - Implement deep object merging utility
+- Streamline option parsing and default resolution
