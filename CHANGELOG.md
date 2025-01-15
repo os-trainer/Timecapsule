@@ -13289,3 +13289,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decompose monolithic workflow function into focused steps
 - Improve documentation for programmatic JavaScript API
 - Add snapshot tests for terminal output formatters
+- Fix edge case in input handling for empty strings
