@@ -13294,3 +13294,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement command dispatcher with routing logic
 - Add regression test for boundary date calculations
 - Add assertions to catch illegal state during execution
+- Extract progress tracking into dedicated emitter
