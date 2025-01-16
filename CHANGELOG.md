@@ -5658,3 +5658,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add lightweight event emitter implementation
 - Handle unexpected zero-length arrays in reducer logic
 - Adjust prettier configuration for consistent indentation
+- Document logging levels and diagnostic flags
