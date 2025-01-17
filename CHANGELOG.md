@@ -13296,3 +13296,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add assertions to catch illegal state during execution
 - Extract progress tracking into dedicated emitter
 - Implement stream-based chunk processor
+- Ensure consistent error status codes across exit paths
