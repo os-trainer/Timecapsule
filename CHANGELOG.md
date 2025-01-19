@@ -5664,3 +5664,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix intermittent failure in date boundary comparison
 - Add command-line argument parser for configuration flags
 - Update npm packaging whitelist in files array
+- Adjust timeout thresholds for integration test suite
