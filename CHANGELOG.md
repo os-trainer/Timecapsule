@@ -13300,3 +13300,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add performance recommendations for large-scale runs
 - Simplify error throwing and propagation mechanisms
 - Fix intermittent failure in date boundary comparison
+- Document template options for supported project layouts
