@@ -13302,3 +13302,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix intermittent failure in date boundary comparison
 - Document template options for supported project layouts
 - Improve naming consistency across internal interfaces
+- Extract date formatting templates into reusable helpers
