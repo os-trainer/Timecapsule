@@ -13307,3 +13307,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update package version in manifest file
 - Improve README with comprehensive getting-started guide
 - Handle file permission errors with actionable messages
+- Update package repository URLs and issue tracker links
