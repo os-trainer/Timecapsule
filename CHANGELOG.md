@@ -13313,3 +13313,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for rate limiting and throttling helpers
 - Implement query filter helpers for collection items
 - Improve test coverage for error recovery branches
+- Add JSDoc type annotations for internal functions
