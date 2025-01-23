@@ -13319,3 +13319,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update changelog with recent feature additions and fixes
 - Refactor validation pipelines to support chaining
 - Add FAQ section covering common configuration questions
+- Correct output formatting when statistics are zero
