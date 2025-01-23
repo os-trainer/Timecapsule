@@ -5670,3 +5670,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct timestamp calculation for timezone offsets
 - Test custom date formatting tokens and output strings
 - Fix string encoding issue when processing special characters
+- Correct fallback order for configuration properties
