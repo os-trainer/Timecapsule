@@ -13318,3 +13318,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Bootstrap core library skeleton
 - Update changelog with recent feature additions and fixes
 - Refactor validation pipelines to support chaining
+- Add FAQ section covering common configuration questions
