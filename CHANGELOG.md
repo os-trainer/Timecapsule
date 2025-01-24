@@ -5672,3 +5672,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix string encoding issue when processing special characters
 - Correct fallback order for configuration properties
 - Configure output directory paths for build pipeline
+- Cover dry-run execution mode with assertion checks
