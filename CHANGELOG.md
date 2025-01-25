@@ -5674,3 +5674,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure output directory paths for build pipeline
 - Cover dry-run execution mode with assertion checks
 - Streamline parameter passing across internal layers
+- Fix type coercion error during numeric comparisons
