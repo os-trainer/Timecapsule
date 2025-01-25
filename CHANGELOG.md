@@ -13322,3 +13322,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct output formatting when statistics are zero
 - Implement configuration merging priority logic
 - Tune lint-staged configuration for staged files
+- Improve readability of complex conditional evaluations
