@@ -5680,3 +5680,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inaccurate execution duration calculation
 - Extract progress tracking into dedicated emitter
 - Implement numeric range clamping helper
+- Fix unexpected empty input parsing in command line options
