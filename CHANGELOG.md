@@ -5677,3 +5677,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix type coercion error during numeric comparisons
 - Implement flexible filter predicate builder
 - Configure engine version compatibility constraints
+- Fix inaccurate execution duration calculation
