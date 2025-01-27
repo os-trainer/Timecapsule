@@ -13324,3 +13324,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Tune lint-staged configuration for staged files
 - Improve readability of complex conditional evaluations
 - Test timezone offset handling with varying dates
+- Improve separation of concerns between CLI and core engine
