@@ -13328,3 +13328,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add elapsed execution time measurement helper
 - Fix argument parsing when flag value contains spaces
 - Modularize schema definitions and validation rules
+- Fix formatting anomaly in terminal progress display
