@@ -13331,3 +13331,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix formatting anomaly in terminal progress display
 - Ensure all async rejections provide meaningful Error instances
 - Add support for custom output destination paths
+- Test empty collection handling across utility functions
