@@ -5684,3 +5684,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test timezone offset handling with varying dates
 - Add custom formatting options for summary tables
 - Refactor state management into centralized store
+- Test empty collection handling across utility functions
