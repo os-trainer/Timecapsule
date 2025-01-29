@@ -13337,3 +13337,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage across utility modules
 - Fix memory leak in recurring event listeners
 - Tune compiler and transpiler configuration options
+- Add integration test verifying end-to-end workflow execution
