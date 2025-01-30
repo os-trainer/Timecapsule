@@ -5686,3 +5686,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor state management into centralized store
 - Test empty collection handling across utility functions
 - Add reusable string formatting utility functions
+
+## [6.5.0]
+### Changed
+- Fix infinite loop risk in collection traversal logic
