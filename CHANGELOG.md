@@ -5691,3 +5691,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Fix infinite loop risk in collection traversal logic
 - Modernize internal loop constructs and data structures
+- Improve test coverage for error recovery branches
