@@ -5694,3 +5694,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage for error recovery branches
 - Simplify error throwing and propagation mechanisms
 - Initialize repository readme and overview notes
+- Fix missing return statement in error branch
