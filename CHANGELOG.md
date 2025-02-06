@@ -13344,3 +13344,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add development environment setup guidelines
 - Verify retry logic behavior under simulated failures
 - Ensure strict immutability of configuration defaults
+- Update repository keywords and discovery tags
