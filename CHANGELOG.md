@@ -13347,3 +13347,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update repository keywords and discovery tags
 - Cover deep object merge edge cases in unit tests
 - Add array sorting and filtering helper functions
+- Fix duplicate item registration in event subscriber list
