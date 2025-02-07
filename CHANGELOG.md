@@ -5698,3 +5698,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor configuration fallback resolution
 - Implement batch processing utility for array inputs
 - Implement customizable output formatting options
+- Refactor promise handling to use modern async/await patterns
