@@ -5701,3 +5701,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor promise handling to use modern async/await patterns
 - Add snapshot tests for terminal output formatters
 - Handle process interruption cleanly during generation
+- Refactor validation pipelines to support chaining
