@@ -5702,3 +5702,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add snapshot tests for terminal output formatters
 - Handle process interruption cleanly during generation
 - Refactor validation pipelines to support chaining
+- Remove dead code branches and redundant checks
