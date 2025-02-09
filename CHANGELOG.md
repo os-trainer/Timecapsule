@@ -13350,3 +13350,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix duplicate item registration in event subscriber list
 - Clean up project structure and remove redundant exports
 - Test custom date formatting tokens and output strings
+- Add environment variable override support
