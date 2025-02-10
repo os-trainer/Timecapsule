@@ -5704,3 +5704,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor validation pipelines to support chaining
 - Remove dead code branches and redundant checks
 - Fix inconsistent return type on validation failure
+- Simplify conditional branching in distribution calculator
