@@ -13353,3 +13353,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add environment variable override support
 - Fix potential race condition during file initialization
 - Add validation rules for date range boundaries
+- Consolidate duplicate string sanitization routines
