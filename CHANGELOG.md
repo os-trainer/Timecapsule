@@ -5707,3 +5707,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify conditional branching in distribution calculator
 - Standardize exception messages across validation logic
 - Verify cache invalidation logic under test conditions
+- Add contribution guidelines and development workflow steps
