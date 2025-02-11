@@ -13356,3 +13356,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate duplicate string sanitization routines
 - Verify proper error types are thrown on invalid arguments
 - Implement safe JSON parsing with fallback values
+- Document environment variable configuration overrides
