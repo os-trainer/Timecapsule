@@ -5710,3 +5710,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add contribution guidelines and development workflow steps
 - Fix incorrect status code returned on input error
 - Add assertions for default configuration fallbacks
+- Add acknowledgments and open-source project credits
