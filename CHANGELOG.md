@@ -13357,3 +13357,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify proper error types are thrown on invalid arguments
 - Implement safe JSON parsing with fallback values
 - Document environment variable configuration overrides
+- Add npm script for running linter in check-only mode
