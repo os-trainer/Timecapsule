@@ -13358,3 +13358,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement safe JSON parsing with fallback values
 - Document environment variable configuration overrides
 - Add npm script for running linter in check-only mode
+- Add regression tests for previous edge-case bugs
