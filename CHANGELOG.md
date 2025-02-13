@@ -13359,3 +13359,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document environment variable configuration overrides
 - Add npm script for running linter in check-only mode
 - Add regression tests for previous edge-case bugs
+- Improve code maintainability index across core files
