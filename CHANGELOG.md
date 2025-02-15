@@ -13362,3 +13362,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve code maintainability index across core files
 - Add support for verbose diagnostic output
 - Fix incorrect default parameter assignment
+- Handle partial input objects during configuration merge
