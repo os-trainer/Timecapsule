@@ -5722,3 +5722,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix circular reference error in object serialization
 - Improve package scripts for building and testing
 - Implement command dispatcher with routing logic
+- Restructure project exports to avoid circular dependencies
