@@ -13367,3 +13367,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct timestamp calculation for timezone offsets
 - Refactor configuration fallback resolution
 - Replace magic numbers with named configuration constants
+- Document configuration options and default parameters
