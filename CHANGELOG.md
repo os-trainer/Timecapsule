@@ -5724,3 +5724,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement command dispatcher with routing logic
 - Restructure project exports to avoid circular dependencies
 - Introduce mock harness for file system operations
+- Clarify installation instructions and system prerequisites
