@@ -13369,3 +13369,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Replace magic numbers with named configuration constants
 - Document configuration options and default parameters
 - Resolve incorrect return value for edge-case queries
+- Fix improper resource cleanup on exit
