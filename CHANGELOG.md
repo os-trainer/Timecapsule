@@ -5728,3 +5728,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor argument parsing to standardize option names
 - Correct output formatting when statistics are zero
 - Implement summary statistics calculation helper
+- Correct path delimiter handling across operating systems
