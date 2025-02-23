@@ -5733,3 +5733,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract terminal output logic into presentation layer
 - Correct regex pattern matching for date validation
 - Fix unhandled promise rejection in async error handler
+- Modularize command-line argument processing logic
