@@ -5740,3 +5740,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update project dependencies to latest secure versions
 - Test timezone offset handling with varying dates
 - Implement configuration merging priority logic
+- Clean up temporary files and ensure deterministic cleanup
