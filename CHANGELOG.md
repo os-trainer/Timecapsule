@@ -13379,3 +13379,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract configuration validation into standalone validator
 - Add configuration for source map generation
 - Add snapshot tests for terminal output formatters
+- Handle empty environment variables without error
