@@ -5750,3 +5750,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor configuration fallback resolution
 - Implement date formatting and parsing helpers
 - Handle timeout gracefully during external operations
+- Add support for custom output destination paths
