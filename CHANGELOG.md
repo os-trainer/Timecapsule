@@ -5746,3 +5746,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add clear synthetic demonstration disclaimer in documentation
 - Simplify collection mapping and transformation pipelines
 - Fix improper resource cleanup on exit
+- Verify error messages for missing required options
