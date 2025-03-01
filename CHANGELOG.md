@@ -13386,3 +13386,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor date calculation routines for better readability
 - Fix unexpected empty input parsing in command line options
 - Add parameterized tests for date parsing variations
+- Extract common constants into centralized configuration
