@@ -5759,3 +5759,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline parameter passing across internal layers
 - Correct error handling when input file is absent
 - Adjust linting and formatting configuration rules
+- Document template options for supported project layouts
