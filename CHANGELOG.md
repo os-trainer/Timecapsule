@@ -5761,3 +5761,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adjust linting and formatting configuration rules
 - Document template options for supported project layouts
 - Add array sorting and filtering helper functions
+- Remove unused code and obsolete internal variables
