@@ -5764,3 +5764,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Remove unused code and obsolete internal variables
 - Add key-value store wrapper for memory cache
 - Handle unexpected zero-length arrays in reducer logic
+- Verify retry logic behavior under simulated failures
