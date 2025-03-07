@@ -13396,3 +13396,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add performance assertions for large collection processing
 - Handle malformed JSON configuration without crashing
 - Streamline event dispatching mechanism
+- Fix incorrect status code returned on input error
