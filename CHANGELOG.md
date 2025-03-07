@@ -5767,3 +5767,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify retry logic behavior under simulated failures
 - Improve markdown formatting and typographic consistency in README
 - Fix edge case in input handling for empty strings
+- Implement dry-run execution preview mode
