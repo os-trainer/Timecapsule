@@ -5768,3 +5768,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve markdown formatting and typographic consistency in README
 - Fix edge case in input handling for empty strings
 - Implement dry-run execution preview mode
+- Add unit tests for terminal colorization toggles
