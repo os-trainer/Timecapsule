@@ -13403,3 +13403,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct fallback order for configuration properties
 - Correct boundary check in range validation utility
 - Add lightweight event emitter implementation
+- Add acknowledgments and open-source project credits
