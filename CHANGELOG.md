@@ -13401,3 +13401,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline parameter passing across internal layers
 - Add input sanitization for file paths
 - Correct fallback order for configuration properties
+- Correct boundary check in range validation utility
