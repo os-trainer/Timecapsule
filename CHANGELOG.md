@@ -13399,3 +13399,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect status code returned on input error
 - Add regression test for boundary date calculations
 - Streamline parameter passing across internal layers
+- Add input sanitization for file paths
