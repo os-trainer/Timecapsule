@@ -5771,3 +5771,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for terminal colorization toggles
 - Improve input handling and defensive type assertions
 - Fix off-by-one error in collection index calculations
+- Add boundary condition tests for numeric ranges
