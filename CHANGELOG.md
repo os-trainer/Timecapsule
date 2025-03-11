@@ -5773,3 +5773,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix off-by-one error in collection index calculations
 - Add boundary condition tests for numeric ranges
 - Simplify complex arithmetic expressions in date logic
+- Handle file permission errors with actionable messages
