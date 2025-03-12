@@ -5776,3 +5776,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle file permission errors with actionable messages
 - Document distribution patterns and statistical behavior
 - Correct string trimming logic for multi-line inputs
+- Refactor argument parsing to standardize option names
