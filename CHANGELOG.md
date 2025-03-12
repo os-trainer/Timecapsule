@@ -5777,3 +5777,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document distribution patterns and statistical behavior
 - Correct string trimming logic for multi-line inputs
 - Refactor argument parsing to standardize option names
+- Cover malformed command line options in test suite
