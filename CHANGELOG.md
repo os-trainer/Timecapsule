@@ -13415,3 +13415,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Tune lint-staged configuration for staged files
 - Rename internal variables and parameters for clarity
 - Fix infinite loop risk in collection traversal logic
+- Cover complex configuration inheritance in tests
