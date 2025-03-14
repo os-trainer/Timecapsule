@@ -13408,3 +13408,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure semantic versioning and release scripts
 - Verify retry logic behavior under simulated failures
 - Modernize internal loop constructs and data structures
+- Eliminate code duplication in internal helper branches
