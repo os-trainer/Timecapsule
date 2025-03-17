@@ -13421,3 +13421,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adjust test runner timeout and concurrency settings
 - Add regression tests for previous edge-case bugs
 - Consolidate error definitions and status messages
+- Add tests for custom output destination formatting
