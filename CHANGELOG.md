@@ -5783,3 +5783,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct negative duration calculations across days
 - Add usage examples for common command-line options
 - Extract file system operations into isolated adapter
+- Update package version in manifest file
