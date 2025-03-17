@@ -5782,3 +5782,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify platform-specific path handling in test suite
 - Correct negative duration calculations across days
 - Add usage examples for common command-line options
+- Extract file system operations into isolated adapter
