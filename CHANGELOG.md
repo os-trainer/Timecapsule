@@ -13419,3 +13419,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document date format requirements and accepted tokens
 - Add support for verbose diagnostic output
 - Adjust test runner timeout and concurrency settings
+- Add regression tests for previous edge-case bugs
