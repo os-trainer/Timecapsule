@@ -13428,3 +13428,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize terminology across comments and log output
 - Add configuration file for static code analysis
 - Add examples comparing standard and conventional commits
+- Update README with example workflow scenarios
