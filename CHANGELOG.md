@@ -5793,3 +5793,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [6.6.0]
 ### Changed
 - Decompose monolithic workflow function into focused steps
+- Add verification tests for safe JSON parsing utilities
