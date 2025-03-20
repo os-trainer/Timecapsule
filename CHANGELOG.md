@@ -5789,3 +5789,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add clean script to purge build artifacts and temp files
 - Handle missing configuration gracefully with defaults
 - Handle empty input collections without throwing exceptions
+
+## [6.6.0]
+### Changed
+- Decompose monolithic workflow function into focused steps
