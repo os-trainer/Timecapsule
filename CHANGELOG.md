@@ -13438,3 +13438,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update development dependencies for test framework
 - Handle null and undefined options defensively
 - Fix validation logic for boundary date ranges
+- Test command line help output and option documentation
