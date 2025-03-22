@@ -13433,3 +13433,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct output formatting when statistics are zero
 - Refactor array processing routines to use functional methods
 - Improve markdown formatting and typographic consistency in README
+- Fix inaccurate execution duration calculation
