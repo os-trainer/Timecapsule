@@ -13435,3 +13435,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve markdown formatting and typographic consistency in README
 - Fix inaccurate execution duration calculation
 - Reorganize internal test helpers and fixtures
+- Update development dependencies for test framework
