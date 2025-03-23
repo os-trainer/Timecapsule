@@ -5801,3 +5801,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement pagination helper for collection data
 - Refactor promise handling to use modern async/await patterns
 - Configure automated dependency review settings
+- Fix memory leak caused by unreleased cache handles
