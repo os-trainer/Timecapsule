@@ -5799,3 +5799,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle null and undefined options defensively
 - Fix argument parsing when flag value contains spaces
 - Implement pagination helper for collection data
+- Refactor promise handling to use modern async/await patterns
