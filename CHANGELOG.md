@@ -13441,3 +13441,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test command line help output and option documentation
 - Implement template interpolation utility
 - Fix incorrect boolean flag evaluation
+- Normalize naming of options and arguments across modules
