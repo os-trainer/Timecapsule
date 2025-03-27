@@ -13448,3 +13448,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Introduce mock harness for file system operations
 - Handle empty input collections without throwing exceptions
 - Implement batch processing utility for array inputs
+- Add table of contents to main project documentation
