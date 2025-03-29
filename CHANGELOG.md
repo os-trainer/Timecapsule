@@ -13452,3 +13452,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix string encoding issue when processing special characters
 - Consolidate string manipulation utilities
 - Implement date formatting and parsing helpers
+- Add usage examples for common command-line options
