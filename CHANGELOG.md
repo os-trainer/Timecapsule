@@ -5806,3 +5806,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure strict immutability of configuration defaults
 - Cover dry-run execution mode with assertion checks
 - Configure distribution bundle output settings
+- Add JSDoc type annotations for internal functions
