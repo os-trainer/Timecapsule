@@ -5809,3 +5809,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add JSDoc type annotations for internal functions
 - Add regression tests for previous edge-case bugs
 - Handle malformed JSON configuration without crashing
+- Simplify control flow and reduce nested conditionals
