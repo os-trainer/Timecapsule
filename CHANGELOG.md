@@ -13463,3 +13463,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input validation for user-supplied options
 - Handle partial input objects during configuration merge
 - Add strict boundary checks to numeric operations
+- Add safe string truncation helper
