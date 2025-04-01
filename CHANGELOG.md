@@ -13461,3 +13461,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify complex function implementations for maintainability
 - Cover edge cases in date range calculation logic
 - Add input validation for user-supplied options
+- Handle partial input objects during configuration merge
