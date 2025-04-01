@@ -13465,3 +13465,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add strict boundary checks to numeric operations
 - Add safe string truncation helper
 - Fix off-by-one error in collection index calculations
+- Configure engine version compatibility constraints
