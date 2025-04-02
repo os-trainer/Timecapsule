@@ -13469,3 +13469,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract terminal output logic into presentation layer
 - Implement helper utilities for parameter parsing
 - Fix memory leak caused by unreleased cache handles
+- Reduce duplicated logic across helper utilities
