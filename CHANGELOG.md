@@ -13470,3 +13470,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement helper utilities for parameter parsing
 - Fix memory leak caused by unreleased cache handles
 - Reduce duplicated logic across helper utilities
+- Add unit tests for collection filter predicates
