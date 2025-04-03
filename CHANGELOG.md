@@ -5812,3 +5812,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify control flow and reduce nested conditionals
 - Fix inconsistent return type on validation failure
 - Add performance assertions for large collection processing
+- Refactor validation pipelines to support chaining
