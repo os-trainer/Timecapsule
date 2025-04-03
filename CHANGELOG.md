@@ -13473,3 +13473,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for collection filter predicates
 - Add system status inspection helper
 - Modularize command-line argument processing logic
+- Handle unexpected zero-length arrays in reducer logic
