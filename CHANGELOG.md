@@ -5816,3 +5816,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update project metadata and repository description
 - Add table of contents to main project documentation
 - Cover edge cases in date range calculation logic
+- Correct boundary check in range validation utility
