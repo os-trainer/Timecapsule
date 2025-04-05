@@ -13475,3 +13475,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modularize command-line argument processing logic
 - Handle unexpected zero-length arrays in reducer logic
 - Add parameterized tests for date parsing variations
+- Fix circular reference error in object serialization
