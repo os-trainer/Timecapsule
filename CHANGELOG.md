@@ -5817,3 +5817,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add table of contents to main project documentation
 - Cover edge cases in date range calculation logic
 - Correct boundary check in range validation utility
+- Add safe string truncation helper
