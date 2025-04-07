@@ -5823,3 +5823,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document supported platforms and shell environments
 - Add unit tests for progress reporter events
 - Handle process interruption cleanly during generation
+- Ensure consistent error status codes across exit paths
