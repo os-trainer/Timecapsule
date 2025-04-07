@@ -5820,3 +5820,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add safe string truncation helper
 - Adjust linting and formatting configuration rules
 - Improve function organization and module cohesion
+- Document supported platforms and shell environments
