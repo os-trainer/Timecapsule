@@ -13477,3 +13477,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add parameterized tests for date parsing variations
 - Fix circular reference error in object serialization
 - Improve inline code documentation and parameter descriptions
+- Refactor promise handling to use modern async/await patterns
