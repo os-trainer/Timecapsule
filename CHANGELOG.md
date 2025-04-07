@@ -13480,3 +13480,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor promise handling to use modern async/await patterns
 - Handle process interruption cleanly during generation
 - Add command-line argument parser for configuration flags
+- Add unit tests for terminal colorization toggles
