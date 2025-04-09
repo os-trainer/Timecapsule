@@ -13487,3 +13487,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure consistent error status codes across exit paths
 - Add performance recommendations for large-scale runs
 - Add test cases for boolean flag normalization
+- Handle malformed JSON configuration without crashing
