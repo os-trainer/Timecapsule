@@ -13489,3 +13489,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test cases for boolean flag normalization
 - Handle malformed JSON configuration without crashing
 - Simplify complex arithmetic expressions in date logic
+- Add step-by-step tutorial for sample project generation
