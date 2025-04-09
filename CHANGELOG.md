@@ -5832,3 +5832,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct timestamp calculation for timezone offsets
 - Add tests for custom output destination formatting
 - Implement deep object merging utility
+- Test empty collection handling across utility functions
