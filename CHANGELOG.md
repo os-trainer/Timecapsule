@@ -5837,3 +5837,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct error handling when input file is absent
 - Configure output directory paths for build pipeline
 - Handle file permission errors with actionable messages
+- Fix validation logic for boundary date ranges
