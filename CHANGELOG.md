@@ -13496,3 +13496,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add defensive fallbacks for unexpected null values
 - Clean up dead code and obsolete helper methods
 - Add elapsed execution time measurement helper
+- Verify error messages for missing required options
