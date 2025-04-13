@@ -5843,3 +5843,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve documentation for programmatic JavaScript API
 - Update API reference documentation for core exports
 - Add regression test for boundary date calculations
+- Fix intermittent failure in date boundary comparison
