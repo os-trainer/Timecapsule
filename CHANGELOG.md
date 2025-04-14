@@ -13499,3 +13499,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify error messages for missing required options
 - Document test execution commands and coverage reports
 - Document custom commit message filtering and options
+- Handle empty environment variables without error
