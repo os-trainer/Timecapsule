@@ -13500,3 +13500,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document test execution commands and coverage reports
 - Document custom commit message filtering and options
 - Handle empty environment variables without error
+- Add unit tests for string formatting and truncation helpers
