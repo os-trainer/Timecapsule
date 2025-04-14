@@ -5844,3 +5844,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update API reference documentation for core exports
 - Add regression test for boundary date calculations
 - Fix intermittent failure in date boundary comparison
+- Document error handling strategies and exit codes
