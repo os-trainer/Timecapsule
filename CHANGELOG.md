@@ -5849,3 +5849,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add URL query string builder and parser
 - Add unit tests for input validation helper functions
 - Handle partial input objects during configuration merge
+- Implement file reading helper with encoding support
