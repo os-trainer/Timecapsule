@@ -5853,3 +5853,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract file system operations into isolated adapter
 - Update lockfile with verified dependency tree
 - Add badges for license, build status, and version
+- Modularize command-line argument processing logic
