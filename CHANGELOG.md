@@ -5854,3 +5854,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update lockfile with verified dependency tree
 - Add badges for license, build status, and version
 - Modularize command-line argument processing logic
+- Add test suite for distribution weight calculations
