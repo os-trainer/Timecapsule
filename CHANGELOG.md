@@ -13515,3 +13515,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle partial input objects during configuration merge
 - Decompose monolithic workflow function into focused steps
 - Fix unexpected empty input parsing in command line options
+- Test command line help output and option documentation
