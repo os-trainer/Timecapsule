@@ -13522,3 +13522,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract reusable helper functions from main workflow
 - Implement retry mechanism for transient operations
 - Add test harness for simulated time progression
+- Fix off-by-one error in collection index calculations
