@@ -13525,3 +13525,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix off-by-one error in collection index calculations
 - Extract file system operations into isolated adapter
 - Add support for custom output destination paths
+- Add configuration file for continuous integration
