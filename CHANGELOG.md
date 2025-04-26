@@ -5865,3 +5865,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update development dependencies for test framework
 - Add defensive fallbacks for unexpected null values
 - Fix infinite loop risk in collection traversal logic
+- Simplify conditional branching in distribution calculator
