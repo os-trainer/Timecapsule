@@ -5866,3 +5866,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add defensive fallbacks for unexpected null values
 - Fix infinite loop risk in collection traversal logic
 - Simplify conditional branching in distribution calculator
+- Clarify difference between distribution algorithms
