@@ -13531,3 +13531,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement numeric range clamping helper
 - Clean up project structure and remove redundant exports
 - Fix incorrect boolean flag evaluation
+- Add boundary condition tests for numeric ranges
