@@ -13527,3 +13527,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for custom output destination paths
 - Add configuration file for continuous integration
 - Document template options for supported project layouts
+- Correct fallback order for configuration properties
