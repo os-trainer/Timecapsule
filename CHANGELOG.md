@@ -13535,3 +13535,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test suite for distribution weight calculations
 - Add configuration file for static code analysis
 - Add usage notes for multi-year historical generation
+- Restructure project exports to avoid circular dependencies
