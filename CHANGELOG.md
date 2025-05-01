@@ -13538,3 +13538,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Restructure project exports to avoid circular dependencies
 - Improve consistency of return structures across helpers
 - Set up base development environment and tooling
+- Reorganize internal test helpers and fixtures
