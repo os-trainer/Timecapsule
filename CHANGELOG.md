@@ -5870,3 +5870,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add examples comparing standard and conventional commits
 - Implement defensive parameter sanitization
 - Add quick reference cheat sheet for CLI commands
+- Restructure project exports to avoid circular dependencies
