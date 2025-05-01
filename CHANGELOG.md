@@ -13540,3 +13540,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Set up base development environment and tooling
 - Reorganize internal test helpers and fixtures
 - Update README with example workflow scenarios
+- Handle file permission errors with actionable messages
