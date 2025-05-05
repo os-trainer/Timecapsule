@@ -13548,3 +13548,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate duplicate string sanitization routines
 - Correct path delimiter handling across operating systems
 - Update API reference documentation for core exports
+
+## [7.7.0]
+### Changed
+- Rename internal variables and parameters for clarity
