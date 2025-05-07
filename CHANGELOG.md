@@ -13552,3 +13552,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [7.7.0]
 ### Changed
 - Rename internal variables and parameters for clarity
+- Implement file reading helper with encoding support
