@@ -13558,3 +13558,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement stream-based chunk processor
 - Add unit tests for rate limiting and throttling helpers
 - Fix argument parsing when flag value contains spaces
+- Streamline option parsing and default resolution
