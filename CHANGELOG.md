@@ -13561,3 +13561,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline option parsing and default resolution
 - Fix type coercion error during numeric comparisons
 - Remove unused code and obsolete internal variables
+- Consolidate error definitions and status messages
