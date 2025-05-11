@@ -13565,3 +13565,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement customizable output formatting options
 - Refactor argument parsing to standardize option names
 - Improve documentation for custom output templates
+- Add structured logging helper with log levels
