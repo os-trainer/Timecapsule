@@ -13569,3 +13569,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement configuration file loader with fallback defaults
 - Extract configuration validation into standalone validator
 - Add instructions for running tests and linter locally
+- Configure output directory paths for build pipeline
