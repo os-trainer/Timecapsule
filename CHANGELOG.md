@@ -13571,3 +13571,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions for running tests and linter locally
 - Configure output directory paths for build pipeline
 - Handle unexpected zero-length arrays in reducer logic
+- Refactor utility functions into dedicated modules
