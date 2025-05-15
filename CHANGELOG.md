@@ -13574,3 +13574,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor utility functions into dedicated modules
 - Cover dry-run execution mode with assertion checks
 - Implement template interpolation utility
+- Fix unhandled promise rejection in async error handler
