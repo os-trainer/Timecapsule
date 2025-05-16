@@ -13576,3 +13576,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement template interpolation utility
 - Fix unhandled promise rejection in async error handler
 - Add usage examples for common command-line options
+- Configure engine version compatibility constraints
