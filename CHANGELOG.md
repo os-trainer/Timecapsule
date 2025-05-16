@@ -5882,3 +5882,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve input handling and defensive type assertions
 - Decouple output formatting from core computation logic
 - Implement object transformation and mapping utilities
+- Improve consistency of option validation error messages
