@@ -5887,3 +5887,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add schema validation for configuration objects
 - Fix potential race condition during file initialization
 - Tune compiler and transpiler configuration options
+- Add elapsed execution time measurement helper
