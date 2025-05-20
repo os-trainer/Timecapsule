@@ -5889,3 +5889,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Tune compiler and transpiler configuration options
 - Add elapsed execution time measurement helper
 - Fix circular reference error in object serialization
+- Add unit tests for collection filter predicates
