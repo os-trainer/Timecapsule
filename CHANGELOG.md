@@ -5890,3 +5890,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add elapsed execution time measurement helper
 - Fix circular reference error in object serialization
 - Add unit tests for collection filter predicates
+- Update package repository URLs and issue tracker links
