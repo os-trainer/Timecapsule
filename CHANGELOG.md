@@ -5892,3 +5892,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for collection filter predicates
 - Update package repository URLs and issue tracker links
 - Simplify error throwing and propagation mechanisms
+
+## [6.7.0]
+### Changed
+- Improve code formatting and consistent whitespace
