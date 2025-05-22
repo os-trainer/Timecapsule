@@ -5896,3 +5896,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [6.7.0]
 ### Changed
 - Improve code formatting and consistent whitespace
+- Add code comments explaining complex date mathematics
