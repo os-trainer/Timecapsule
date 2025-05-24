@@ -5898,3 +5898,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve code formatting and consistent whitespace
 - Add code comments explaining complex date mathematics
 - Correct path delimiter handling across operating systems
+- Refactor caching mechanism for cleaner abstraction
