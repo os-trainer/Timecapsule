@@ -5900,3 +5900,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct path delimiter handling across operating systems
 - Refactor caching mechanism for cleaner abstraction
 - Normalize naming of options and arguments across modules
+- Add unit tests for rate limiting and throttling helpers
