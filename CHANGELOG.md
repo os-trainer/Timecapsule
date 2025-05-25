@@ -5903,3 +5903,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for rate limiting and throttling helpers
 - Fix argument parsing when flag value contains spaces
 - Reduce duplicated logic across helper utilities
+- Add support for verbose diagnostic output
