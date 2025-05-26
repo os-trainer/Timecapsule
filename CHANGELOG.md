@@ -5907,3 +5907,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct negative duration calculations across days
 - Verify proper error types are thrown on invalid arguments
 - Refactor configuration fallback resolution
+- Add security considerations and safe execution notes
