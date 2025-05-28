@@ -5914,3 +5914,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update npm packaging whitelist in files array
 - Implement event listener registry for status events
 - Handle unexpected zero-length arrays in reducer logic
+- Test command line help output and option documentation
