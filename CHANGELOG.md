@@ -5912,3 +5912,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add lightweight event emitter implementation
 - Fix inaccurate execution duration calculation
 - Update npm packaging whitelist in files array
+- Implement event listener registry for status events
