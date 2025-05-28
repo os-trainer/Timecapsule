@@ -5913,3 +5913,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inaccurate execution duration calculation
 - Update npm packaging whitelist in files array
 - Implement event listener registry for status events
+- Handle unexpected zero-length arrays in reducer logic
