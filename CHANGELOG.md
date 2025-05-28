@@ -5915,3 +5915,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement event listener registry for status events
 - Handle unexpected zero-length arrays in reducer logic
 - Test command line help output and option documentation
+- Add environment sample configuration file
