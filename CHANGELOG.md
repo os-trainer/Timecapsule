@@ -13593,3 +13593,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adjust prettier configuration for consistent indentation
 - Decouple output formatting from core computation logic
 - Enhance descriptive quality of debug logging statements
+- Fix inconsistent return type on validation failure
