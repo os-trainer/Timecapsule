@@ -5918,3 +5918,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add environment sample configuration file
 - Handle undefined configuration sections safely
 - Implement customizable output formatting options
+- Add assertions to catch illegal state during execution
