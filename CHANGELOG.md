@@ -13599,3 +13599,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline parameter passing across internal layers
 - Add detailed architecture overview and component diagram
 - Add input validation for user-supplied options
+- Add test harness for simulated time progression
