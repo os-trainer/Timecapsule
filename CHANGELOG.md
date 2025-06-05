@@ -13612,3 +13612,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract reusable helper functions from main workflow
 - Add test suite for distribution weight calculations
 - Add performance assertions for large collection processing
+- Fix duplicate item registration in event subscriber list
