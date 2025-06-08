@@ -13619,3 +13619,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve separation of concerns between CLI and core engine
 - Verify platform-specific path handling in test suite
 - Remove unused code and obsolete internal variables
+- Correct error handling when input file is absent
