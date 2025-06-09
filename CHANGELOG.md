@@ -5927,3 +5927,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement command dispatcher with routing logic
 - Add usage notes for multi-year historical generation
 - Fix off-by-one error in collection index calculations
+- Extract date formatting templates into reusable helpers
