@@ -5936,3 +5936,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add safe deep clone utility function
 - Refactor validation pipelines to support chaining
 - Document environment variable configuration overrides
+- Add regression tests for previous edge-case bugs
