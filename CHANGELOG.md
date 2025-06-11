@@ -5934,3 +5934,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate string manipulation utilities
 - Handle empty environment variables without error
 - Add safe deep clone utility function
+- Refactor validation pipelines to support chaining
