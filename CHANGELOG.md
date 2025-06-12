@@ -13627,3 +13627,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Eliminate code duplication in internal helper branches
 - Clarify difference between distribution algorithms
 - Fix memory leak in recurring event listeners
+- Add key-value store wrapper for memory cache
