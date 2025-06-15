@@ -13630,3 +13630,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add key-value store wrapper for memory cache
 - Extract progress tracking into dedicated emitter
 - Restructure project exports to avoid circular dependencies
+- Handle undefined configuration sections safely
