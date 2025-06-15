@@ -13635,3 +13635,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document custom commit message filtering and options
 - Cover complex configuration inheritance in tests
 - Implement object transformation and mapping utilities
+- Handle process interruption cleanly during generation
