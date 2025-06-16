@@ -5941,3 +5941,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modernize internal loop constructs and data structures
 - Improve code maintainability index across core files
 - Add colorized terminal output formatter
+- Cover malformed command line options in test suite
