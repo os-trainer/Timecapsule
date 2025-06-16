@@ -5940,3 +5940,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unexpected empty input parsing in command line options
 - Modernize internal loop constructs and data structures
 - Improve code maintainability index across core files
+- Add colorized terminal output formatter
