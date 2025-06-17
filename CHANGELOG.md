@@ -13641,3 +13641,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document supported platforms and shell environments
 - Add unit tests for progress reporter events
 - Fix circular reference error in object serialization
+- Update test runner configuration for isolated execution
