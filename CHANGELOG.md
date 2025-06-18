@@ -13643,3 +13643,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix circular reference error in object serialization
 - Update test runner configuration for isolated execution
 - Handle missing configuration gracefully with defaults
+- Reduce duplicated logic across helper utilities
