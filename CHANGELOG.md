@@ -5952,3 +5952,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement query filter helpers for collection items
 - Verify error messages for missing required options
 - Improve separation of concerns between CLI and core engine
+- Verify cache invalidation logic under test conditions
