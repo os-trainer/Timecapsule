@@ -5949,3 +5949,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify complex arithmetic expressions in date logic
 - Configure automated dependency review settings
 - Verify idempotency of cleanup routines in test suite
+- Implement query filter helpers for collection items
