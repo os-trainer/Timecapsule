@@ -5951,3 +5951,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify idempotency of cleanup routines in test suite
 - Implement query filter helpers for collection items
 - Verify error messages for missing required options
+- Improve separation of concerns between CLI and core engine
