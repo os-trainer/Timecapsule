@@ -5947,3 +5947,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct output formatting when statistics are zero
 - Add system status inspection helper
 - Simplify complex arithmetic expressions in date logic
+- Configure automated dependency review settings
