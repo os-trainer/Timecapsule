@@ -13649,3 +13649,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize date string formatting across all output
 - Refactor utility functions into dedicated modules
 - Refactor caching mechanism for cleaner abstraction
+- Fix formatting anomaly in terminal progress display
