@@ -13651,3 +13651,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor caching mechanism for cleaner abstraction
 - Fix formatting anomaly in terminal progress display
 - Add task definitions for local development tooling
+
+## [7.8.0]
+### Changed
+- Add initial contributor guidelines template
