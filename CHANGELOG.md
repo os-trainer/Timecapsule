@@ -13655,3 +13655,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [7.8.0]
 ### Changed
 - Add initial contributor guidelines template
+- Fix infinite loop risk in collection traversal logic
