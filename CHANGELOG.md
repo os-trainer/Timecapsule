@@ -13660,3 +13660,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add schema validation for configuration objects
 - Add snapshot tests for terminal output formatters
 - Clarify frequency parameter behavior and percentage rules
+- Simplify collection mapping and transformation pipelines
