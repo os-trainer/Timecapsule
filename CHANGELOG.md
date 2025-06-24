@@ -5953,3 +5953,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify error messages for missing required options
 - Improve separation of concerns between CLI and core engine
 - Verify cache invalidation logic under test conditions
+- Add examples of integrating tool into automated scripts
