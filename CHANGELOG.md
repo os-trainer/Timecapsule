@@ -13661,3 +13661,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add snapshot tests for terminal output formatters
 - Clarify frequency parameter behavior and percentage rules
 - Simplify collection mapping and transformation pipelines
+- Add unit tests for input validation helper functions
