@@ -5954,3 +5954,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve separation of concerns between CLI and core engine
 - Verify cache invalidation logic under test conditions
 - Add examples of integrating tool into automated scripts
+- Handle empty input collections without throwing exceptions
