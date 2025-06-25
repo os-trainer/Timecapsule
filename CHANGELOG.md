@@ -13662,3 +13662,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify frequency parameter behavior and percentage rules
 - Simplify collection mapping and transformation pipelines
 - Add unit tests for input validation helper functions
+- Fix missing return statement in error branch
