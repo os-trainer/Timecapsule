@@ -5959,3 +5959,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix improper resource cleanup on exit
 - Verify platform-specific path handling in test suite
 - Add structured logging helper with log levels
+- Refactor argument parsing to standardize option names
