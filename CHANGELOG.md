@@ -13665,3 +13665,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix missing return statement in error branch
 - Improve code formatting and consistent whitespace
 - Update changelog with recent feature additions and fixes
+- Add unit tests for terminal colorization toggles
