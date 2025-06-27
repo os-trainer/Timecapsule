@@ -5961,3 +5961,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add structured logging helper with log levels
 - Refactor argument parsing to standardize option names
 - Add parameter type checks to public library methods
+- Extract common constants into centralized configuration
