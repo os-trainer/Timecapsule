@@ -13666,3 +13666,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve code formatting and consistent whitespace
 - Update changelog with recent feature additions and fixes
 - Add unit tests for terminal colorization toggles
+- Implement event listener registry for status events
