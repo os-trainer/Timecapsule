@@ -13668,3 +13668,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for terminal colorization toggles
 - Implement event listener registry for status events
 - Add configuration for code coverage reporting
+- Fix off-by-one error in collection index calculations
