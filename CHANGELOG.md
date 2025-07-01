@@ -13673,3 +13673,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement batch processing utility for array inputs
 - Consolidate duplicate string sanitization routines
 - Add parameterized tests for date parsing variations
+- Fix incorrect status code returned on input error
