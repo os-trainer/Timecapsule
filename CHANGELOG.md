@@ -13674,3 +13674,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate duplicate string sanitization routines
 - Add parameterized tests for date parsing variations
 - Fix incorrect status code returned on input error
+- Decouple output formatting from core computation logic
