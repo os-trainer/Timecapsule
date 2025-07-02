@@ -13677,3 +13677,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decouple output formatting from core computation logic
 - Update API reference documentation for core exports
 - Fix improper resource cleanup on exit
+- Clean up project structure and remove redundant exports
