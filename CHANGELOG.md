@@ -13680,3 +13680,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up project structure and remove redundant exports
 - Update author and contributor information in package descriptor
 - Implement safe JSON parsing with fallback values
+- Document distribution patterns and statistical behavior
