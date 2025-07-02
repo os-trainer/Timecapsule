@@ -13678,3 +13678,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update API reference documentation for core exports
 - Fix improper resource cleanup on exit
 - Clean up project structure and remove redundant exports
+- Update author and contributor information in package descriptor
