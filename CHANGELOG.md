@@ -5965,3 +5965,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inaccurate execution duration calculation
 - Implement configuration file loader with fallback defaults
 - Add configuration for source map generation
+- Fix inconsistent return type on validation failure
