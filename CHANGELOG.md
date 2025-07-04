@@ -5967,3 +5967,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration for source map generation
 - Fix inconsistent return type on validation failure
 - Implement summary statistics calculation helper
+- Refactor date calculation routines for better readability
