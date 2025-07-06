@@ -5973,3 +5973,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify installation instructions and system prerequisites
 - Tune lint-staged configuration for staged files
 - Fix potential race condition during file initialization
+- Fix incorrect boolean flag evaluation
