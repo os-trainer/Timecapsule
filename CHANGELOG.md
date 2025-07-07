@@ -13687,3 +13687,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inconsistent return type on validation failure
 - Extract terminal output logic into presentation layer
 - Update license field and attribution in package manifest
+- Fix unhandled promise rejection in async error handler
