@@ -5974,3 +5974,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Tune lint-staged configuration for staged files
 - Fix potential race condition during file initialization
 - Fix incorrect boolean flag evaluation
+- Consolidate duplicate string sanitization routines
