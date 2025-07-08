@@ -5976,3 +5976,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect boolean flag evaluation
 - Consolidate duplicate string sanitization routines
 - Configure engine version compatibility constraints
+- Extract reusable helper functions from main workflow
