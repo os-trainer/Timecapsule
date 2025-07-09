@@ -13693,3 +13693,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify error throwing and propagation mechanisms
 - Correct error handling when input file is absent
 - Add array sorting and filtering helper functions
+- Document error handling strategies and exit codes
