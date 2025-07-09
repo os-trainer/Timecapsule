@@ -13691,3 +13691,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak caused by unreleased cache handles
 - Test timezone offset handling with varying dates
 - Simplify error throwing and propagation mechanisms
+- Correct error handling when input file is absent
