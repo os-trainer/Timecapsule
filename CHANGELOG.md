@@ -13703,3 +13703,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decompose monolithic workflow function into focused steps
 - Add unit tests for progress reporter events
 - Add parameter type checks to public library methods
+- Correct timestamp calculation for timezone offsets
