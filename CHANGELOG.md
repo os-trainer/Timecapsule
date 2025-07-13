@@ -13704,3 +13704,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for progress reporter events
 - Add parameter type checks to public library methods
 - Correct timestamp calculation for timezone offsets
+- Verify proper error types are thrown on invalid arguments
