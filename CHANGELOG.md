@@ -13705,3 +13705,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add parameter type checks to public library methods
 - Correct timestamp calculation for timezone offsets
 - Verify proper error types are thrown on invalid arguments
+- Correct string trimming logic for multi-line inputs
