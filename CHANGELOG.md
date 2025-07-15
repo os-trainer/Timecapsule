@@ -13706,3 +13706,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct timestamp calculation for timezone offsets
 - Verify proper error types are thrown on invalid arguments
 - Correct string trimming logic for multi-line inputs
+- Extract progress tracking into dedicated emitter
