@@ -5984,3 +5984,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure code style rules and ignore patterns
 - Refactor utility functions into dedicated modules
 - Add npm script for running unit test suite
+- Correctly escape special characters in terminal output
