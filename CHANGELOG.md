@@ -5986,3 +5986,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add npm script for running unit test suite
 - Correctly escape special characters in terminal output
 - Verify retry logic behavior under simulated failures
+- Normalize naming of options and arguments across modules
