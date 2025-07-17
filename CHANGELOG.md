@@ -5988,3 +5988,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify retry logic behavior under simulated failures
 - Normalize naming of options and arguments across modules
 - Document configuration options and default parameters
+- Resolve incorrect return value for edge-case queries
