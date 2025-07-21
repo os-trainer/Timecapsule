@@ -13710,3 +13710,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data caching layer with key invalidation
 - Fix string encoding issue when processing special characters
 - Document test execution commands and coverage reports
+- Normalize naming of options and arguments across modules
