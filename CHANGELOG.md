@@ -13715,3 +13715,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add integration test verifying end-to-end workflow execution
 - Consolidate string manipulation utilities
 - Fix validation logic for boundary date ranges
+- Correctly escape special characters in terminal output
