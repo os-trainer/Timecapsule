@@ -5994,3 +5994,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update author and contributor information in package descriptor
 - Test invalid input handling and expected exceptions
 - Improve clarity of variable scopes and closures
+- Fix incorrect default parameter assignment
