@@ -5995,3 +5995,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test invalid input handling and expected exceptions
 - Improve clarity of variable scopes and closures
 - Fix incorrect default parameter assignment
+
+## [6.8.0]
+### Changed
+- Verify proper error types are thrown on invalid arguments
