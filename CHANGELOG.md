@@ -5999,3 +5999,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [6.8.0]
 ### Changed
 - Verify proper error types are thrown on invalid arguments
+- Modularize command-line argument processing logic
