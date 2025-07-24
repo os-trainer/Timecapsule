@@ -6002,3 +6002,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modularize command-line argument processing logic
 - Add test suite for distribution weight calculations
 - Handle partial input objects during configuration merge
+- Add usage notes for multi-year historical generation
