@@ -6007,3 +6007,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct output formatting when statistics are zero
 - Improve modularity of utility function parameter signatures
 - Streamline option parsing and default resolution
+- Improve test coverage across utility modules
