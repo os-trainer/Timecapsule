@@ -6008,3 +6008,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve modularity of utility function parameter signatures
 - Streamline option parsing and default resolution
 - Improve test coverage across utility modules
+- Improve markdown formatting and typographic consistency in README
