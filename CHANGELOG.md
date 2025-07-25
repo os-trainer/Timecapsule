@@ -13728,3 +13728,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve inline code documentation and parameter descriptions
 - Add colorized terminal output formatter
 - Refactor argument parsing to standardize option names
+- Cover deep object merge edge cases in unit tests
