@@ -13732,3 +13732,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update package repository URLs and issue tracker links
 - Fix memory leak in recurring event listeners
 - Simplify collection mapping and transformation pipelines
+- Fix duplicate item registration in event subscriber list
