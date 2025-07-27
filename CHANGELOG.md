@@ -13734,3 +13734,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify collection mapping and transformation pipelines
 - Fix duplicate item registration in event subscriber list
 - Fix edge case in input handling for empty strings
+- Implement progress reporter for long-running workflows
