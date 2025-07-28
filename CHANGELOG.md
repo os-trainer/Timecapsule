@@ -6011,3 +6011,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve markdown formatting and typographic consistency in README
 - Fix intermittent failure in date boundary comparison
 - Handle unexpected zero-length arrays in reducer logic
+- Implement pagination helper for collection data
