@@ -6014,3 +6014,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement pagination helper for collection data
 - Document supported platforms and shell environments
 - Remove dead code branches and redundant checks
+- Add input sanitization for file paths
