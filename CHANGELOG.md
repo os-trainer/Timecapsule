@@ -6017,3 +6017,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input sanitization for file paths
 - Fix edge case in input handling for empty strings
 - Add performance recommendations for large-scale runs
+- Implement progress reporter for long-running workflows
