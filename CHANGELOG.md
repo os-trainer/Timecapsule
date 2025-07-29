@@ -6015,3 +6015,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document supported platforms and shell environments
 - Remove dead code branches and redundant checks
 - Add input sanitization for file paths
+- Fix edge case in input handling for empty strings
