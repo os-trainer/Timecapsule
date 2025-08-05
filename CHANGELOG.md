@@ -13741,3 +13741,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add troubleshooting notes for frequent setup issues
 - Update license field and attribution in package manifest
 - Add comments explaining subtle edge cases in date math
+- Add safe string truncation helper
