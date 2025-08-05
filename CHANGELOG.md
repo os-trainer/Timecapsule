@@ -13740,3 +13740,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement configuration merging priority logic
 - Add troubleshooting notes for frequent setup issues
 - Update license field and attribution in package manifest
+- Add comments explaining subtle edge cases in date math
