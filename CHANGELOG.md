@@ -6033,3 +6033,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add input validation for user-supplied options
 - Fix missing return statement in error branch
 - Streamline parameter passing across internal layers
+- Add detailed architecture overview and component diagram
