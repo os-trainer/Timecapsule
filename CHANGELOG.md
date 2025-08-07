@@ -13750,3 +13750,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve package scripts for building and testing
 - Improve test coverage across utility modules
 - Test invalid input handling and expected exceptions
+- Streamline parameter passing across internal layers
