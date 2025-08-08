@@ -13753,3 +13753,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline parameter passing across internal layers
 - Set up basic test fixtures and harness
 - Verify graceful handling of malformed input data
+
+## [7.9.0]
+### Changed
+- Document date format requirements and accepted tokens
