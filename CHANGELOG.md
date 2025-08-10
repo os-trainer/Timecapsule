@@ -6038,3 +6038,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement deep object merging utility
 - Fix infinite loop risk in collection traversal logic
 - Test custom date formatting tokens and output strings
+- Extract configuration validation into standalone validator
