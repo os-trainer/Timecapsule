@@ -13758,3 +13758,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Document date format requirements and accepted tokens
 - Add unit tests for input validation helper functions
+- Fix infinite loop risk in collection traversal logic
