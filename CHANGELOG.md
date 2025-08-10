@@ -6040,3 +6040,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test custom date formatting tokens and output strings
 - Extract configuration validation into standalone validator
 - Tune compiler and transpiler configuration options
+- Implement query filter helpers for collection items
