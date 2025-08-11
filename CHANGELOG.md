@@ -13762,3 +13762,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update repository keywords and discovery tags
 - Modernize internal loop constructs and data structures
 - Introduce mock harness for file system operations
+- Handle process interruption cleanly during generation
