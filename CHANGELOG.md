@@ -6045,3 +6045,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Remove unused code and obsolete internal variables
 - Implement date formatting and parsing helpers
 - Add boundary condition tests for numeric ranges
+- Fix incorrect boolean flag evaluation
