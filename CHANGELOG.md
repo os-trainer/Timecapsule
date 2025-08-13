@@ -13769,3 +13769,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement summary statistics calculation helper
 - Fix inaccurate execution duration calculation
 - Refactor caching mechanism for cleaner abstraction
+- Add support for JSON and plain text output formats
