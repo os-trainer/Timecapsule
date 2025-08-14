@@ -13771,3 +13771,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor caching mechanism for cleaner abstraction
 - Add support for JSON and plain text output formats
 - Add unit tests for collection filter predicates
+- Fix incorrect default parameter assignment
