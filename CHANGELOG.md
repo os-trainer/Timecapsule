@@ -6051,3 +6051,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak caused by unreleased cache handles
 - Add support for verbose diagnostic output
 - Update project metadata and repository description
+- Handle process interruption cleanly during generation
