@@ -13780,3 +13780,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty environment variables without error
 - Add regression tests for previous edge-case bugs
 - Add URL query string builder and parser
+- Fix type coercion error during numeric comparisons
