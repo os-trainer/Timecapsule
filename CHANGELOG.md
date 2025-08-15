@@ -13778,3 +13778,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle null and undefined options defensively
 - Simplify error throwing and propagation mechanisms
 - Handle empty environment variables without error
+- Add regression tests for previous edge-case bugs
