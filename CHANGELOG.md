@@ -13779,3 +13779,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify error throwing and propagation mechanisms
 - Handle empty environment variables without error
 - Add regression tests for previous edge-case bugs
+- Add URL query string builder and parser
