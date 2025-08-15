@@ -13776,3 +13776,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data processing and normalization pipeline
 - Add tests for custom output destination formatting
 - Handle null and undefined options defensively
+- Simplify error throwing and propagation mechanisms
