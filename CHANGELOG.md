@@ -13788,3 +13788,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inconsistent return type on validation failure
 - Implement deep object merging utility
 - Add assertions for default configuration fallbacks
+- Fix potential race condition during file initialization
