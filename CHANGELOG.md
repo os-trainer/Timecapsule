@@ -6055,3 +6055,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle file permission errors with actionable messages
 - Add clean script to purge build artifacts and temp files
 - Correctly escape special characters in terminal output
+- Add unit tests for rate limiting and throttling helpers
