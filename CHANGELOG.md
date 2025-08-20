@@ -13794,3 +13794,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add quick reference cheat sheet for CLI commands
 - Refactor date calculation routines for better readability
 - Cover deep object merge edge cases in unit tests
+- Improve error messages with actionable resolution hints
