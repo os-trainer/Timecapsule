@@ -6058,3 +6058,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for rate limiting and throttling helpers
 - Extract date formatting templates into reusable helpers
 - Add support for custom output destination paths
+- Test empty collection handling across utility functions
