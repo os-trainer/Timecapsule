@@ -6062,3 +6062,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct path delimiter handling across operating systems
 - Fix argument parsing when flag value contains spaces
 - Clean up project structure and remove redundant exports
+- Correct negative duration calculations across days
