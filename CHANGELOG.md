@@ -13800,3 +13800,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix off-by-one error in collection index calculations
 - Simplify complex function implementations for maintainability
 - Verify error messages for missing required options
+- Add input sanitization for file paths
