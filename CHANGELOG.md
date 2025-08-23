@@ -13796,3 +13796,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover deep object merge edge cases in unit tests
 - Improve error messages with actionable resolution hints
 - Add multi-step workflow runner utility
+- Verify proper error types are thrown on invalid arguments
