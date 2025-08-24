@@ -6067,3 +6067,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure automated pre-commit code verification
 - Rename internal variables and parameters for clarity
 - Verify idempotency of cleanup routines in test suite
+- Handle null and undefined options defensively
