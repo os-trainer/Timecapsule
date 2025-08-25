@@ -6071,3 +6071,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement file reading helper with encoding support
 - Add tests for custom output destination formatting
 - Eliminate code duplication in internal helper branches
+- Add examples of integrating tool into automated scripts
