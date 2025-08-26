@@ -6072,3 +6072,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add tests for custom output destination formatting
 - Eliminate code duplication in internal helper branches
 - Add examples of integrating tool into automated scripts
+- Add unit tests for terminal colorization toggles
