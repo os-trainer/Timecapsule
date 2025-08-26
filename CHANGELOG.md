@@ -13809,3 +13809,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure consistent parameter ordering in helper signatures
 - Implement query filter helpers for collection items
 - Consolidate error definitions and status messages
+- Ensure consistent error status codes across exit paths
