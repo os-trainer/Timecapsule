@@ -13806,3 +13806,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover malformed command line options in test suite
 - Correct string trimming logic for multi-line inputs
 - Update package version in manifest file
+- Ensure consistent parameter ordering in helper signatures
