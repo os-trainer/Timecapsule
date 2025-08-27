@@ -6079,3 +6079,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect default parameter assignment
 - Handle empty environment variables without error
 - Fix formatting anomaly in terminal progress display
+- Handle undefined configuration sections safely
