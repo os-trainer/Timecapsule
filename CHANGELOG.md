@@ -13812,3 +13812,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure consistent error status codes across exit paths
 - Implement dry-run execution preview mode
 - Streamline event dispatching mechanism
+- Add unit tests for string formatting and truncation helpers
