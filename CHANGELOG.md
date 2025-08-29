@@ -13820,3 +13820,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement stream-based chunk processor
 - Implement flexible filter predicate builder
 - Refactor configuration fallback resolution
+- Improve test coverage for error recovery branches
