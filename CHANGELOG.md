@@ -13823,3 +13823,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage for error recovery branches
 - Implement date formatting and parsing helpers
 - Update project metadata and repository description
+- Configure semantic versioning and release scripts
