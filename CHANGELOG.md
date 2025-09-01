@@ -13824,3 +13824,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement date formatting and parsing helpers
 - Update project metadata and repository description
 - Configure semantic versioning and release scripts
+- Fix unhandled promise rejection in async error handler
