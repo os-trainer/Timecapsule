@@ -6082,3 +6082,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle undefined configuration sections safely
 - Update development dependencies for test framework
 - Refactor caching mechanism for cleaner abstraction
+- Correct fallback order for configuration properties
