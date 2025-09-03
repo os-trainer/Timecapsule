@@ -6090,3 +6090,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix circular reference error in object serialization
 - Add assertions for default configuration fallbacks
 - Document logging levels and diagnostic flags
+- Extract common constants into centralized configuration
