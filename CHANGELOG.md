@@ -6093,3 +6093,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract common constants into centralized configuration
 - Add configuration for code coverage reporting
 - Improve test coverage across utility modules
+- Improve error messages with actionable resolution hints
