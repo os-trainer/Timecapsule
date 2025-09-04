@@ -13833,3 +13833,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modernize internal loop constructs and data structures
 - Document custom commit message filtering and options
 - Handle empty input collections without throwing exceptions
+- Modularize schema definitions and validation rules
