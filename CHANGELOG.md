@@ -13838,3 +13838,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize exception messages across validation logic
 - Improve separation of concerns between CLI and core engine
 - Document supported platforms and shell environments
+- Verify cache invalidation logic under test conditions
