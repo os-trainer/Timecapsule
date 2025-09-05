@@ -13835,3 +13835,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty input collections without throwing exceptions
 - Modularize schema definitions and validation rules
 - Correct error handling when input file is absent
+- Standardize exception messages across validation logic
