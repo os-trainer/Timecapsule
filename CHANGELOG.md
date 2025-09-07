@@ -13840,3 +13840,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document supported platforms and shell environments
 - Verify cache invalidation logic under test conditions
 - Correct fallback order for configuration properties
+- Simplify control flow and reduce nested conditionals
