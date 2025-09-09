@@ -13846,3 +13846,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update package repository URLs and issue tracker links
 - Clean up stray debug statements and console output
 - Test custom date formatting tokens and output strings
+- Add test suite for distribution weight calculations
