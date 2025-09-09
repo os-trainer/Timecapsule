@@ -6095,3 +6095,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage across utility modules
 - Improve error messages with actionable resolution hints
 - Fix unhandled promise rejection in async error handler
+- Improve separation of concerns between CLI and core engine
