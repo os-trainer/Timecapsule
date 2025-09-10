@@ -13849,3 +13849,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test suite for distribution weight calculations
 - Handle unexpected zero-length arrays in reducer logic
 - Adjust timeout thresholds for integration test suite
+- Add tests for custom output destination formatting
