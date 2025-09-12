@@ -6104,3 +6104,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak in recurring event listeners
 - Add unit tests for progress reporter events
 - Add support for verbose diagnostic output
+- Update changelog with recent feature additions and fixes
