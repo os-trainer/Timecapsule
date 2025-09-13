@@ -6111,3 +6111,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reduce duplicated logic across helper utilities
 - Update license field and attribution in package manifest
 - Handle empty input collections without throwing exceptions
+- Add unit tests for input validation helper functions
