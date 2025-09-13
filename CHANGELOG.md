@@ -6109,3 +6109,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover deep object merge edge cases in unit tests
 - Standardize exception messages across validation logic
 - Reduce duplicated logic across helper utilities
+- Update license field and attribution in package manifest
