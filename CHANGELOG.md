@@ -6112,3 +6112,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update license field and attribution in package manifest
 - Handle empty input collections without throwing exceptions
 - Add unit tests for input validation helper functions
+- Improve documentation for custom output templates
