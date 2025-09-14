@@ -6117,3 +6117,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Remove dead code branches and redundant checks
 - Document distribution patterns and statistical behavior
 - Refactor array processing routines to use functional methods
+- Resolve incorrect return value for edge-case queries
