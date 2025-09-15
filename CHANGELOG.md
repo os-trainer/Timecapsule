@@ -13856,3 +13856,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix missing return statement in error branch
 - Add basic data caching layer with key invalidation
 - Add acknowledgments and open-source project credits
+
+## [8.0.0]
+### Changed
+- Add boundary condition tests for numeric ranges
