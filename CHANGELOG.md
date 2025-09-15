@@ -13855,3 +13855,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add FAQ section covering common configuration questions
 - Fix missing return statement in error branch
 - Add basic data caching layer with key invalidation
+- Add acknowledgments and open-source project credits
