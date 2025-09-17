@@ -13861,3 +13861,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Add boundary condition tests for numeric ranges
 - Fix validation logic for boundary date ranges
+- Simplify complex arithmetic expressions in date logic
