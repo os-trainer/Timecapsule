@@ -13866,3 +13866,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add usage notes for multi-year historical generation
 - Extract common constants into centralized configuration
 - Correct timestamp calculation for timezone offsets
+- Add elapsed execution time measurement helper
