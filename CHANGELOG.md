@@ -13867,3 +13867,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract common constants into centralized configuration
 - Correct timestamp calculation for timezone offsets
 - Add elapsed execution time measurement helper
+- Add table of contents to main project documentation
