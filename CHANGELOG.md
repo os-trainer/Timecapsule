@@ -13871,3 +13871,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage across utility modules
 - Add initial build output ignore patterns
 - Rename internal variables and parameters for clarity
+- Update lockfile with verified dependency tree
