@@ -6123,3 +6123,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add clear synthetic demonstration disclaimer in documentation
 - Update lockfile with verified dependency tree
 - Cover dry-run execution mode with assertion checks
+- Fix string encoding issue when processing special characters
