@@ -13875,3 +13875,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle partial input objects during configuration merge
 - Improve documentation for programmatic JavaScript API
 - Simplify conditional branching in distribution calculator
+- Correct negative duration calculations across days
