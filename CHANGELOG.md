@@ -13877,3 +13877,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify conditional branching in distribution calculator
 - Correct negative duration calculations across days
 - Modularize command-line argument processing logic
+- Add clear synthetic demonstration disclaimer in documentation
