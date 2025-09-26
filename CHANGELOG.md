@@ -6132,3 +6132,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Enhance descriptive quality of debug logging statements
 - Fix improper resource cleanup on exit
 - Verify graceful handling of malformed input data
+- Decouple output formatting from core computation logic
