@@ -13878,3 +13878,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct negative duration calculations across days
 - Modularize command-line argument processing logic
 - Add clear synthetic demonstration disclaimer in documentation
+- Adjust test runner timeout and concurrency settings
