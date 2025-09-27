@@ -6133,3 +6133,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix improper resource cleanup on exit
 - Verify graceful handling of malformed input data
 - Decouple output formatting from core computation logic
+- Fix edge case in input handling for empty strings
