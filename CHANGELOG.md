@@ -13881,3 +13881,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adjust test runner timeout and concurrency settings
 - Fix string encoding issue when processing special characters
 - Extract file system operations into isolated adapter
+- Add key-value store wrapper for memory cache
