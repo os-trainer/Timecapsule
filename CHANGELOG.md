@@ -6135,3 +6135,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decouple output formatting from core computation logic
 - Fix edge case in input handling for empty strings
 - Add npm script for running linter in check-only mode
+- Correct regex pattern matching for date validation
