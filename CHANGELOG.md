@@ -13883,3 +13883,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract file system operations into isolated adapter
 - Add key-value store wrapper for memory cache
 - Update project metadata and repository description
+- Clarify installation instructions and system prerequisites
