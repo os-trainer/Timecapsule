@@ -6139,3 +6139,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test invalid input handling and expected exceptions
 - Simplify complex function implementations for maintainability
 - Add task definitions for local development tooling
+- Add acknowledgments and open-source project credits
