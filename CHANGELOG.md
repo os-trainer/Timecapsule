@@ -13891,3 +13891,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for collection filter predicates
 - Add assertions for default configuration fallbacks
 - Improve markdown formatting and typographic consistency in README
+- Implement summary statistics calculation helper
