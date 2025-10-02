@@ -13890,3 +13890,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix argument parsing when flag value contains spaces
 - Add unit tests for collection filter predicates
 - Add assertions for default configuration fallbacks
+- Improve markdown formatting and typographic consistency in README
