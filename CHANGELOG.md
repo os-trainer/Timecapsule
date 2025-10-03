@@ -13894,3 +13894,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement summary statistics calculation helper
 - Handle malformed JSON configuration without crashing
 - Introduce mock harness for file system operations
+- Restructure project exports to avoid circular dependencies
