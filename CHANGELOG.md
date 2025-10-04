@@ -6146,3 +6146,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix off-by-one error in collection index calculations
 - Add URL query string builder and parser
 - Extract date formatting templates into reusable helpers
+- Cover edge cases in date range calculation logic
