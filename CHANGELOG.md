@@ -13898,3 +13898,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix improper resource cleanup on exit
 - Add unit tests for terminal colorization toggles
 - Implement deep object merging utility
+- Add input sanitization for file paths
