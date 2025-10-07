@@ -13902,3 +13902,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reorganize internal test helpers and fixtures
 - Test invalid input handling and expected exceptions
 - Remove obsolete polyfills and legacy compatibility shims
+- Add step-by-step tutorial for sample project generation
