@@ -13905,3 +13905,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add step-by-step tutorial for sample project generation
 - Handle undefined configuration sections safely
 - Improve input handling and defensive type assertions
+- Refactor promise handling to use modern async/await patterns
