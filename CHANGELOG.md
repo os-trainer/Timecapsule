@@ -13906,3 +13906,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle undefined configuration sections safely
 - Improve input handling and defensive type assertions
 - Refactor promise handling to use modern async/await patterns
+- Add troubleshooting notes for frequent setup issues
