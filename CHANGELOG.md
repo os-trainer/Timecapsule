@@ -6156,3 +6156,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure initial build and runtime settings
 - Implement customizable output formatting options
 - Add configuration file for static code analysis
+- Cover malformed command line options in test suite
