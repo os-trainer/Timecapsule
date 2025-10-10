@@ -6162,3 +6162,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix duplicate item registration in event subscriber list
 - Simplify error throwing and propagation mechanisms
 - Add test cases for boolean flag normalization
+- Clean up stray debug statements and console output
