@@ -6164,3 +6164,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test cases for boolean flag normalization
 - Clean up stray debug statements and console output
 - Add performance assertions for large collection processing
+- Adjust prettier configuration for consistent indentation
