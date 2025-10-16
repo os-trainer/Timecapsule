@@ -6176,3 +6176,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure consistent parameter ordering in helper signatures
 - Implement rate limiting throttle for helper actions
 - Verify platform-specific path handling in test suite
+- Tune lint-staged configuration for staged files
