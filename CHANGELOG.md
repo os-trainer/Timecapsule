@@ -13918,3 +13918,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Tune compiler and transpiler configuration options
 - Correct string trimming logic for multi-line inputs
 - Cover edge cases in date range calculation logic
+- Add table of contents to main project documentation
