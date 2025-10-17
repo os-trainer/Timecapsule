@@ -13920,3 +13920,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover edge cases in date range calculation logic
 - Add table of contents to main project documentation
 - Add input validation for user-supplied options
+- Add unit tests for rate limiting and throttling helpers
