@@ -6184,3 +6184,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify conditional branching in distribution calculator
 - Add unit tests for input validation helper functions
 - Document custom commit message filtering and options
+- Fix unhandled promise rejection in async error handler
