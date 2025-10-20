@@ -13923,3 +13923,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for rate limiting and throttling helpers
 - Add npm script for running unit test suite
 - Clarify frequency parameter behavior and percentage rules
+- Add performance assertions for large collection processing
