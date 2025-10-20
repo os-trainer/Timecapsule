@@ -6187,3 +6187,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unhandled promise rejection in async error handler
 - Test command line help output and option documentation
 - Simplify collection mapping and transformation pipelines
+- Fix unexpected empty input parsing in command line options
