@@ -13924,3 +13924,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add npm script for running unit test suite
 - Clarify frequency parameter behavior and percentage rules
 - Add performance assertions for large collection processing
+- Correct boundary check in range validation utility
