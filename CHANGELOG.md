@@ -6189,3 +6189,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify collection mapping and transformation pipelines
 - Fix unexpected empty input parsing in command line options
 - Improve README with comprehensive getting-started guide
+- Ensure strict immutability of configuration defaults
