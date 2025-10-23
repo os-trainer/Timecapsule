@@ -6191,3 +6191,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve README with comprehensive getting-started guide
 - Ensure strict immutability of configuration defaults
 - Update project dependencies to latest secure versions
+- Add code comments explaining complex date mathematics
