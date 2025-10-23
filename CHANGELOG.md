@@ -6193,3 +6193,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update project dependencies to latest secure versions
 - Add code comments explaining complex date mathematics
 - Add boundary condition tests for numeric ranges
+- Handle null and undefined options defensively
