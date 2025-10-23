@@ -6194,3 +6194,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add code comments explaining complex date mathematics
 - Add boundary condition tests for numeric ranges
 - Handle null and undefined options defensively
+- Document environment variable configuration overrides
