@@ -13930,3 +13930,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover malformed command line options in test suite
 - Correct output formatting when statistics are zero
 - Add task definitions for local development tooling
+- Extract configuration validation into standalone validator
