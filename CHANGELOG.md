@@ -13935,3 +13935,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test harness for simulated time progression
 - Create directory structure for utility modules
 - Add colorized terminal output formatter
+- Correctly escape special characters in terminal output
