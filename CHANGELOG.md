@@ -13936,3 +13936,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create directory structure for utility modules
 - Add colorized terminal output formatter
 - Correctly escape special characters in terminal output
+- Adjust linting and formatting configuration rules
