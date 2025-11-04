@@ -6199,3 +6199,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix argument parsing when flag value contains spaces
 - Add test suite for distribution weight calculations
 - Correct regex pattern matching for date validation
+- Extract reusable helper functions from main workflow
