@@ -13950,3 +13950,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix edge case in input handling for empty strings
 - Add configuration file for continuous integration
 - Standardize terminology across comments and log output
+- Fix type coercion error during numeric comparisons
