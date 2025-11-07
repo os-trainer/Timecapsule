@@ -13954,3 +13954,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add npm script for running linter in check-only mode
 - Add reusable string formatting utility functions
 - Clarify installation instructions and system prerequisites
+- Fix missing return statement in error branch
