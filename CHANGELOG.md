@@ -13956,3 +13956,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify installation instructions and system prerequisites
 - Fix missing return statement in error branch
 - Verify proper error types are thrown on invalid arguments
+- Implement dry-run execution preview mode
