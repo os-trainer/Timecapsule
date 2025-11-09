@@ -6207,3 +6207,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle missing configuration gracefully with defaults
 - Improve markdown formatting and typographic consistency in README
 - Implement stream-based chunk processor
+- Correct string trimming logic for multi-line inputs
