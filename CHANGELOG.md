@@ -6211,3 +6211,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document error handling strategies and exit codes
 - Simplify control flow and reduce nested conditionals
 - Fix missing return statement in error branch
+- Add tests for custom output destination formatting
