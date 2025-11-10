@@ -6214,3 +6214,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add tests for custom output destination formatting
 - Correctly escape special characters in terminal output
 - Add basic data processing and normalization pipeline
+- Add integration test verifying end-to-end workflow execution
