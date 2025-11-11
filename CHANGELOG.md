@@ -13959,3 +13959,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement dry-run execution preview mode
 - Handle undefined configuration sections safely
 - Document error handling strategies and exit codes
+
+## [8.1.0]
+### Changed
+- Add URL query string builder and parser
