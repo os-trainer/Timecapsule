@@ -13958,3 +13958,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify proper error types are thrown on invalid arguments
 - Implement dry-run execution preview mode
 - Handle undefined configuration sections safely
+- Document error handling strategies and exit codes
