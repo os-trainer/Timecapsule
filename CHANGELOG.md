@@ -6216,3 +6216,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data processing and normalization pipeline
 - Add integration test verifying end-to-end workflow execution
 - Extract file system operations into isolated adapter
+- Clarify difference between distribution algorithms
