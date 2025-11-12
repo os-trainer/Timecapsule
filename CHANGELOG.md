@@ -6220,3 +6220,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Remove obsolete polyfills and legacy compatibility shims
 - Fix circular reference error in object serialization
 - Improve test coverage for error recovery branches
+- Handle empty environment variables without error
