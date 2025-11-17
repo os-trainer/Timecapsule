@@ -6226,3 +6226,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add badges for license, build status, and version
 - Add custom formatting options for summary tables
 - Improve error messages with actionable resolution hints
+- Improve function organization and module cohesion
