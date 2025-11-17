@@ -6228,3 +6228,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve error messages with actionable resolution hints
 - Improve function organization and module cohesion
 - Document configuration options and default parameters
+- Fix formatting anomaly in terminal progress display
