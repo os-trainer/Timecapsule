@@ -13966,3 +13966,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reorganize internal test helpers and fixtures
 - Update test runner configuration for isolated execution
 - Fix unhandled promise rejection in async error handler
+- Refactor date calculation routines for better readability
