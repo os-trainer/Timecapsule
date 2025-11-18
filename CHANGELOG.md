@@ -6229,3 +6229,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve function organization and module cohesion
 - Document configuration options and default parameters
 - Fix formatting anomaly in terminal progress display
+- Implement query filter helpers for collection items
