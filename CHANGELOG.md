@@ -6231,3 +6231,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix formatting anomaly in terminal progress display
 - Implement query filter helpers for collection items
 - Add configuration for source map generation
+- Refactor configuration fallback resolution
