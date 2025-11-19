@@ -13971,3 +13971,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add contribution guidelines and development workflow steps
 - Add boilerplate code for primary module
 - Fix incorrect default parameter assignment
+- Cover dry-run execution mode with assertion checks
