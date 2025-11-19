@@ -6233,3 +6233,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration for source map generation
 - Refactor configuration fallback resolution
 - Fix duplicate item registration in event subscriber list
+- Add unit tests for collection filter predicates
