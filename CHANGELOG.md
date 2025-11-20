@@ -6234,3 +6234,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor configuration fallback resolution
 - Fix duplicate item registration in event subscriber list
 - Add unit tests for collection filter predicates
+- Consolidate error definitions and status messages
