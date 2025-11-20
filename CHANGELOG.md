@@ -13974,3 +13974,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover dry-run execution mode with assertion checks
 - Add configuration for source map generation
 - Handle null and undefined options defensively
+- Add support for verbose diagnostic output
