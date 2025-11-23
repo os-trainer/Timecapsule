@@ -6238,3 +6238,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update development configuration and editor settings
 - Fix string encoding issue when processing special characters
 - Set up clean project entry and public API interface
+- Clarify frequency parameter behavior and percentage rules
