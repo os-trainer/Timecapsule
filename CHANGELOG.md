@@ -6240,3 +6240,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Set up clean project entry and public API interface
 - Clarify frequency parameter behavior and percentage rules
 - Clean up project structure and remove redundant exports
+- Test invalid input handling and expected exceptions
