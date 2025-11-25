@@ -6243,3 +6243,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test invalid input handling and expected exceptions
 - Add command-line argument parser for configuration flags
 - Add regression tests for previous edge-case bugs
+- Restructure project exports to avoid circular dependencies
