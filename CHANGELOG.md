@@ -6241,3 +6241,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify frequency parameter behavior and percentage rules
 - Clean up project structure and remove redundant exports
 - Test invalid input handling and expected exceptions
+- Add command-line argument parser for configuration flags
