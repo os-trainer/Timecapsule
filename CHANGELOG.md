@@ -13981,3 +13981,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct error handling when input file is absent
 - Implement customizable output formatting options
 - Configure output directory paths for build pipeline
+- Extract progress tracking into dedicated emitter
