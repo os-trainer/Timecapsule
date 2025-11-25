@@ -13985,3 +13985,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement numeric range clamping helper
 - Verify platform-specific path handling in test suite
 - Handle empty environment variables without error
+- Tune lint-staged configuration for staged files
