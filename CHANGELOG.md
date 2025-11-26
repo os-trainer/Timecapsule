@@ -6245,3 +6245,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression tests for previous edge-case bugs
 - Restructure project exports to avoid circular dependencies
 - Replace magic numbers with named configuration constants
+- Add troubleshooting notes for frequent setup issues
