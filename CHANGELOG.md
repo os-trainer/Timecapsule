@@ -6244,3 +6244,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add command-line argument parser for configuration flags
 - Add regression tests for previous edge-case bugs
 - Restructure project exports to avoid circular dependencies
+- Replace magic numbers with named configuration constants
