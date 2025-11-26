@@ -6247,3 +6247,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Replace magic numbers with named configuration constants
 - Add troubleshooting notes for frequent setup issues
 - Add custom error classes for domain-specific failures
+- Improve consistency of return structures across helpers
