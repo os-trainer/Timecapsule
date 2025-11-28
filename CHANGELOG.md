@@ -13990,3 +13990,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add verification tests for safe JSON parsing utilities
 - Simplify error throwing and propagation mechanisms
 - Handle timeout gracefully during external operations
+- Fix incorrect boolean flag evaluation
