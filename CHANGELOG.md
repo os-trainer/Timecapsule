@@ -13993,3 +13993,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect boolean flag evaluation
 - Verify graceful handling of malformed input data
 - Add lightweight event emitter implementation
+- Fix off-by-one error in collection index calculations
