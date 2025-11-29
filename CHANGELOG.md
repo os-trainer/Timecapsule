@@ -6252,3 +6252,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement configuration merging priority logic
 - Cover dry-run execution mode with assertion checks
 - Extract terminal output logic into presentation layer
+- Implement command line flag alias mapping
