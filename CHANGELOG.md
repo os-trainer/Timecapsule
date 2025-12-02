@@ -13998,3 +13998,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update project metadata and repository description
 - Fix formatting anomaly in terminal progress display
 - Decompose monolithic workflow function into focused steps
+- Implement progress reporter for long-running workflows
