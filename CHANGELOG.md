@@ -6254,3 +6254,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract terminal output logic into presentation layer
 - Implement command line flag alias mapping
 - Extract progress tracking into dedicated emitter
+- Correct negative duration calculations across days
