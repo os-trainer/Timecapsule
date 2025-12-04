@@ -6259,3 +6259,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect default parameter assignment
 - Add npm script for running unit test suite
 - Add unit tests for progress reporter events
+- Fix edge case in input handling for empty strings
