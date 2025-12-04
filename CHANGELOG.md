@@ -6256,3 +6256,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract progress tracking into dedicated emitter
 - Correct negative duration calculations across days
 - Add input sanitization for file paths
+- Fix incorrect default parameter assignment
