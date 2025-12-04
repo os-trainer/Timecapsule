@@ -14005,3 +14005,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix potential race condition during file initialization
 - Add clear synthetic demonstration disclaimer in documentation
 - Fix memory leak caused by unreleased cache handles
+- Refactor array processing routines to use functional methods
