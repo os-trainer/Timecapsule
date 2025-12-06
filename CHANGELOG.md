@@ -6262,3 +6262,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix edge case in input handling for empty strings
 - Improve modularity of utility function parameter signatures
 - Add snapshot tests for terminal output formatters
+- Fix incorrect status code returned on input error
