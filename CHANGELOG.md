@@ -6265,3 +6265,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect status code returned on input error
 - Streamline parameter passing across internal layers
 - Improve code formatting and consistent whitespace
+- Document preview mode and dry-run visualization
