@@ -6269,3 +6269,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modernize internal loop constructs and data structures
 - Ensure all async rejections provide meaningful Error instances
 - Update repository keywords and discovery tags
+- Refactor utility functions into dedicated modules
