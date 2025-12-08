@@ -6272,3 +6272,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor utility functions into dedicated modules
 - Implement numeric range clamping helper
 - Update project dependencies to latest secure versions
+- Add test cases for boolean flag normalization
