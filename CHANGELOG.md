@@ -6271,3 +6271,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update repository keywords and discovery tags
 - Refactor utility functions into dedicated modules
 - Implement numeric range clamping helper
+- Update project dependencies to latest secure versions
