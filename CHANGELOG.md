@@ -6273,3 +6273,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement numeric range clamping helper
 - Update project dependencies to latest secure versions
 - Add test cases for boolean flag normalization
+- Modularize command-line argument processing logic
