@@ -14012,3 +14012,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract terminal output logic into presentation layer
 - Update package repository URLs and issue tracker links
 - Handle empty input collections without throwing exceptions
+- Implement summary statistics calculation helper
