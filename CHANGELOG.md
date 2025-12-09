@@ -14019,3 +14019,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix validation logic for boundary date ranges
 - Clean up project structure and remove redundant exports
 - Handle malformed JSON configuration without crashing
+- Fix memory leak in recurring event listeners
