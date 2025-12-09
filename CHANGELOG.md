@@ -14021,3 +14021,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle malformed JSON configuration without crashing
 - Fix memory leak in recurring event listeners
 - Add contribution guidelines and development workflow steps
+- Add snapshot tests for terminal output formatters
