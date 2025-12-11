@@ -6276,3 +6276,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modularize command-line argument processing logic
 - Implement rate limiting throttle for helper actions
 - Configure basic script commands in manifest
+- Add defensive fallbacks for unexpected null values
