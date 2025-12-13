@@ -6280,3 +6280,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reorganize internal test helpers and fixtures
 - Add safe deep clone utility function
 - Handle empty input collections without throwing exceptions
+- Ensure consistent error status codes across exit paths
