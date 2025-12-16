@@ -6282,3 +6282,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty input collections without throwing exceptions
 - Ensure consistent error status codes across exit paths
 - Update author and contributor information in package descriptor
+- Handle partial input objects during configuration merge
