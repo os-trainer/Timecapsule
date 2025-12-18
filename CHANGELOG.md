@@ -14030,3 +14030,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correctly escape special characters in terminal output
 - Implement configuration file loader with fallback defaults
 - Clean up temporary files and ensure deterministic cleanup
+- Improve test coverage for error recovery branches
