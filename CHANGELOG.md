@@ -14032,3 +14032,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up temporary files and ensure deterministic cleanup
 - Improve test coverage for error recovery branches
 - Configure engine version compatibility constraints
+- Ensure consistent error status codes across exit paths
