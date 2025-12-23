@@ -14041,3 +14041,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement event listener registry for status events
 - Document configuration options and default parameters
 - Update test runner configuration for isolated execution
+- Handle file permission errors with actionable messages
