@@ -6293,3 +6293,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix memory leak caused by unreleased cache handles
 - Refactor promise handling to use modern async/await patterns
 - Fix off-by-one error in collection index calculations
+- Add verification tests for safe JSON parsing utilities
