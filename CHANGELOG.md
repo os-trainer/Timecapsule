@@ -14044,3 +14044,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle file permission errors with actionable messages
 - Improve error messages with actionable resolution hints
 - Tune compiler and transpiler configuration options
+- Handle process interruption cleanly during generation
