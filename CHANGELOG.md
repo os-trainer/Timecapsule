@@ -14051,3 +14051,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate duplicate string sanitization routines
 - Fix type coercion error during numeric comparisons
 - Implement query filter helpers for collection items
+- Update project metadata and repository description
