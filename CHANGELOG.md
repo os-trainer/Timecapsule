@@ -14053,3 +14053,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement query filter helpers for collection items
 - Update project metadata and repository description
 - Improve README with comprehensive getting-started guide
+- Fix unhandled promise rejection in async error handler
