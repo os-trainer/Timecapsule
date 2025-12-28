@@ -14058,3 +14058,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement safe JSON parsing with fallback values
 - Add support for JSON and plain text output formats
 - Add comprehensive tests for configuration loader
+- Ensure all async rejections provide meaningful Error instances
