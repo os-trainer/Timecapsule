@@ -6304,3 +6304,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct timestamp calculation for timezone offsets
 - Refactor validation pipelines to support chaining
 - Update test runner configuration for isolated execution
+
+## [7.1.0]
+### Changed
+- Fix inaccurate execution duration calculation
