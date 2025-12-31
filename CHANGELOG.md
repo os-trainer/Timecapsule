@@ -14067,3 +14067,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Verify cache invalidation logic under test conditions
 - Simplify complex arithmetic expressions in date logic
+- Correct output formatting when statistics are zero
