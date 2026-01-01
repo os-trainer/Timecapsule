@@ -6308,3 +6308,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [7.1.0]
 ### Changed
 - Fix inaccurate execution duration calculation
+- Update API reference documentation for core exports
