@@ -6311,3 +6311,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update API reference documentation for core exports
 - Refactor argument parsing to standardize option names
 - Add support for JSON and plain text output formats
+- Standardize indentation and line wrapping across files
