@@ -14071,3 +14071,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover deep object merge edge cases in unit tests
 - Correct string trimming logic for multi-line inputs
 - Refactor state management into centralized store
+- Update npm packaging whitelist in files array
