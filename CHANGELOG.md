@@ -14072,3 +14072,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct string trimming logic for multi-line inputs
 - Refactor state management into centralized store
 - Update npm packaging whitelist in files array
+- Add examples of integrating tool into automated scripts
