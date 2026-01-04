@@ -6317,3 +6317,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update package repository URLs and issue tracker links
 - Handle process interruption cleanly during generation
 - Implement object transformation and mapping utilities
+- Standardize terminology across comments and log output
