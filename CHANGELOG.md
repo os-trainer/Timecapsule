@@ -14083,3 +14083,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add structured logging helper with log levels
 - Handle null and undefined options defensively
 - Add quick reference cheat sheet for CLI commands
+- Correct fallback order for configuration properties
