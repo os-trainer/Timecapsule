@@ -6323,3 +6323,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline event dispatching mechanism
 - Correct error handling when input file is absent
 - Verify retry logic behavior under simulated failures
+- Update development dependencies for test framework
