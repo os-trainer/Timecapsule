@@ -14081,3 +14081,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add step-by-step tutorial for sample project generation
 - Improve function organization and module cohesion
 - Add structured logging helper with log levels
+- Handle null and undefined options defensively
