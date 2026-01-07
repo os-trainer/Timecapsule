@@ -6327,3 +6327,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Resolve incorrect return value for edge-case queries
 - Implement flexible filter predicate builder
 - Improve consistency of return structures across helpers
+- Add command-line argument parser for configuration flags
