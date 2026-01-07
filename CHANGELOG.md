@@ -14085,3 +14085,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add quick reference cheat sheet for CLI commands
 - Correct fallback order for configuration properties
 - Decouple output formatting from core computation logic
+- Configure environment file loading conventions
