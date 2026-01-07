@@ -14086,3 +14086,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct fallback order for configuration properties
 - Decouple output formatting from core computation logic
 - Configure environment file loading conventions
+- Improve readability of complex conditional evaluations
