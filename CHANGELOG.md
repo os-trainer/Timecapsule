@@ -14095,3 +14095,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve markdown formatting and typographic consistency in README
 - Refactor caching mechanism for cleaner abstraction
 - Enhance descriptive quality of debug logging statements
+- Fix validation logic for boundary date ranges
