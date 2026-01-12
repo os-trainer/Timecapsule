@@ -6336,3 +6336,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up project structure and remove redundant exports
 - Clean up dead code and obsolete helper methods
 - Configure automated pre-commit code verification
+- Add usage examples for common command-line options
