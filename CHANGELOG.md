@@ -6341,3 +6341,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor array processing routines to use functional methods
 - Fix memory leak in recurring event listeners
 - Cover malformed command line options in test suite
+- Update changelog with recent feature additions and fixes
