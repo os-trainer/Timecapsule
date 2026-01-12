@@ -6340,3 +6340,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add structured logging helper with log levels
 - Refactor array processing routines to use functional methods
 - Fix memory leak in recurring event listeners
+- Cover malformed command line options in test suite
