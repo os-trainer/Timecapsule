@@ -14099,3 +14099,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure automated dependency review settings
 - Add regression tests for previous edge-case bugs
 - Correct boundary check in range validation utility
+- Test empty collection handling across utility functions
