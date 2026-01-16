@@ -6347,3 +6347,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve inline code documentation and parameter descriptions
 - Fix intermittent failure in date boundary comparison
 - Implement command dispatcher with routing logic
+- Fix unhandled promise rejection in async error handler
