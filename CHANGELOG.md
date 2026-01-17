@@ -14108,3 +14108,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure semantic versioning and release scripts
 - Implement date formatting and parsing helpers
 - Add contribution guidelines and development workflow steps
+- Fix argument parsing when flag value contains spaces
