@@ -6351,3 +6351,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify conditional branching in distribution calculator
 - Implement date formatting and parsing helpers
 - Fix type coercion error during numeric comparisons
+- Extract file system operations into isolated adapter
