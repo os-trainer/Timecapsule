@@ -14113,3 +14113,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add table of contents to main project documentation
 - Implement query filter helpers for collection items
 - Add clean script to purge build artifacts and temp files
+- Add unit tests for rate limiting and throttling helpers
