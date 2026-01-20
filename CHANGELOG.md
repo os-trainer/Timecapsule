@@ -6355,3 +6355,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement retry mechanism for transient operations
 - Add quick reference cheat sheet for CLI commands
 - Add assertions for default configuration fallbacks
+- Simplify error throwing and propagation mechanisms
