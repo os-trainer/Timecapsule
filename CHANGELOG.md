@@ -14110,3 +14110,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add contribution guidelines and development workflow steps
 - Fix argument parsing when flag value contains spaces
 - Add regression test for boundary date calculations
+- Add table of contents to main project documentation
