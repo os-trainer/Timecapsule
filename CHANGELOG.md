@@ -14119,3 +14119,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for JSON and plain text output formats
 - Cover malformed command line options in test suite
 - Extract file system operations into isolated adapter
+- Add acknowledgments and open-source project credits
