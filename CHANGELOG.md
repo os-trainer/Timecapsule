@@ -14117,3 +14117,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor array processing routines to use functional methods
 - Update development dependencies for test framework
 - Add support for JSON and plain text output formats
+- Cover malformed command line options in test suite
