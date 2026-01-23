@@ -14122,3 +14122,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add acknowledgments and open-source project credits
 - Refactor argument parsing to standardize option names
 - Fix memory leak in recurring event listeners
+- Extract common constants into centralized configuration
