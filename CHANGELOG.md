@@ -14120,3 +14120,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover malformed command line options in test suite
 - Extract file system operations into isolated adapter
 - Add acknowledgments and open-source project credits
+- Refactor argument parsing to standardize option names
