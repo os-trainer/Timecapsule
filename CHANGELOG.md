@@ -6360,3 +6360,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve documentation for programmatic JavaScript API
 - Fix infinite loop risk in collection traversal logic
 - Improve consistency of option validation error messages
+- Restructure project exports to avoid circular dependencies
