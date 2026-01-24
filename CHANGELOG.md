@@ -6358,3 +6358,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify error throwing and propagation mechanisms
 - Handle null and undefined options defensively
 - Improve documentation for programmatic JavaScript API
+- Fix infinite loop risk in collection traversal logic
