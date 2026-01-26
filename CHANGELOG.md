@@ -6362,3 +6362,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve consistency of option validation error messages
 - Restructure project exports to avoid circular dependencies
 - Fix incorrect boolean flag evaluation
+- Eliminate code duplication in internal helper branches
