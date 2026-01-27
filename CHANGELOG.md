@@ -6367,3 +6367,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data processing and normalization pipeline
 - Fix duplicate item registration in event subscriber list
 - Add test harness for simulated time progression
+- Improve error messages with actionable resolution hints
