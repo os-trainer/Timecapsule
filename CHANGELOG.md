@@ -6371,3 +6371,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve separation of concerns between CLI and core engine
 - Add test cases for boolean flag normalization
 - Fix improper resource cleanup on exit
+- Refactor utility functions into dedicated modules
