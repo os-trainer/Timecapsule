@@ -14131,3 +14131,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage for error recovery branches
 - Handle partial input objects during configuration merge
 - Simplify conditional branching in distribution calculator
+- Verify error messages for missing required options
