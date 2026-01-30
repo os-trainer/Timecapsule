@@ -14135,3 +14135,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify frequency parameter behavior and percentage rules
 - Implement command dispatcher with routing logic
 - Handle file permission errors with actionable messages
+- Add JSDoc type annotations for internal functions
