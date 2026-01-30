@@ -14132,3 +14132,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle partial input objects during configuration merge
 - Simplify conditional branching in distribution calculator
 - Verify error messages for missing required options
+- Clarify frequency parameter behavior and percentage rules
