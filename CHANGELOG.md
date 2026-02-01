@@ -14139,3 +14139,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve separation of concerns between CLI and core engine
 - Add examples comparing standard and conventional commits
 - Restructure project exports to avoid circular dependencies
+- Fix unexpected empty input parsing in command line options
