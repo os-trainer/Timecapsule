@@ -14142,3 +14142,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unexpected empty input parsing in command line options
 - Consolidate error definitions and status messages
 - Improve consistency of option validation error messages
+- Add unit tests for input validation helper functions
