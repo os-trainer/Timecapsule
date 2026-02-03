@@ -14144,3 +14144,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve consistency of option validation error messages
 - Add unit tests for input validation helper functions
 - Reduce duplicated logic across helper utilities
+- Handle process interruption cleanly during generation
