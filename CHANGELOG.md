@@ -6384,3 +6384,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for string formatting and truncation helpers
 - Simplify collection mapping and transformation pipelines
 - Add schema validation for configuration objects
+- Correct regex pattern matching for date validation
