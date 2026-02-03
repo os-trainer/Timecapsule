@@ -6381,3 +6381,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add boilerplate code for primary module
 - Add environment variable override support
 - Configure code style rules and ignore patterns
+- Add unit tests for string formatting and truncation helpers
