@@ -6389,3 +6389,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle file permission errors with actionable messages
 - Extract terminal output logic into presentation layer
 - Implement stream-based chunk processor
+- Cover edge cases in date range calculation logic
