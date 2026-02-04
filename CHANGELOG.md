@@ -6385,3 +6385,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify collection mapping and transformation pipelines
 - Add schema validation for configuration objects
 - Correct regex pattern matching for date validation
+- Improve documentation for custom output templates
