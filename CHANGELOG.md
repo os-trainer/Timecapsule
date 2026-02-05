@@ -14150,3 +14150,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic data processing and normalization pipeline
 - Update API reference documentation for core exports
 - Fix duplicate item registration in event subscriber list
+- Fix improper resource cleanup on exit
