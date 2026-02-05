@@ -14151,3 +14151,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update API reference documentation for core exports
 - Fix duplicate item registration in event subscriber list
 - Fix improper resource cleanup on exit
+- Document error handling strategies and exit codes
