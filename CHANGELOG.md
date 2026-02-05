@@ -14152,3 +14152,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix duplicate item registration in event subscriber list
 - Fix improper resource cleanup on exit
 - Document error handling strategies and exit codes
+- Add unit tests for string formatting and truncation helpers
