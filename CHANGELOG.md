@@ -14156,3 +14156,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct boundary check in range validation utility
 - Improve modularity of utility function parameter signatures
 - Fix intermittent failure in date boundary comparison
+- Add URL query string builder and parser
