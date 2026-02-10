@@ -6400,3 +6400,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize date string formatting across all output
 - Verify error messages for missing required options
 - Configure semantic versioning and release scripts
+- Add instructions for running tests and linter locally
