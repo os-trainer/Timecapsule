@@ -6402,3 +6402,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure semantic versioning and release scripts
 - Add instructions for running tests and linter locally
 - Test custom date formatting tokens and output strings
+- Document template options for supported project layouts
