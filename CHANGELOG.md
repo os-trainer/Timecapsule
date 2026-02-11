@@ -14158,3 +14158,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix intermittent failure in date boundary comparison
 - Add URL query string builder and parser
 - Improve documentation for programmatic JavaScript API
+- Fix memory leak caused by unreleased cache handles
