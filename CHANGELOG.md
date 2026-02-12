@@ -6405,3 +6405,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document template options for supported project layouts
 - Document date format requirements and accepted tokens
 - Verify idempotency of cleanup routines in test suite
+- Correct path delimiter handling across operating systems
