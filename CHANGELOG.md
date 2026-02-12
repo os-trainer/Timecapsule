@@ -6407,3 +6407,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify idempotency of cleanup routines in test suite
 - Correct path delimiter handling across operating systems
 - Cover complex configuration inheritance in tests
+
+## [7.2.0]
+### Changed
+- Handle undefined configuration sections safely
