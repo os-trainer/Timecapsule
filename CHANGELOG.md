@@ -14164,3 +14164,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty environment variables without error
 - Implement helper utilities for parameter parsing
 - Standardize terminology across comments and log output
+
+## [8.3.0]
+### Changed
+- Add test suite for distribution weight calculations
