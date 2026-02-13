@@ -6412,3 +6412,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Handle undefined configuration sections safely
 - Document distribution patterns and statistical behavior
+- Set up command-line entry point script
