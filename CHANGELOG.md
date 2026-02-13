@@ -14168,3 +14168,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [8.3.0]
 ### Changed
 - Add test suite for distribution weight calculations
+- Adjust linting and formatting configuration rules
