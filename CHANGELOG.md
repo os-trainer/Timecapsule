@@ -14172,3 +14172,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add safe deep clone utility function
 - Fix inaccurate execution duration calculation
 - Implement rate limiting throttle for helper actions
+- Document configuration options and default parameters
