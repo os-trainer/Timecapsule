@@ -6416,3 +6416,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for rate limiting and throttling helpers
 - Handle missing configuration gracefully with defaults
 - Simplify complex arithmetic expressions in date logic
+- Fix validation logic for boundary date ranges
