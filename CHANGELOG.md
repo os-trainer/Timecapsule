@@ -14179,3 +14179,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct error handling when input file is absent
 - Modernize internal loop constructs and data structures
 - Correct timestamp calculation for timezone offsets
+- Add performance assertions for large collection processing
