@@ -6418,3 +6418,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify complex arithmetic expressions in date logic
 - Fix validation logic for boundary date ranges
 - Update project dependencies to latest secure versions
+- Remove obsolete polyfills and legacy compatibility shims
