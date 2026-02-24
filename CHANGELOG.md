@@ -6421,3 +6421,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Remove obsolete polyfills and legacy compatibility shims
 - Fix circular reference error in object serialization
 - Test timezone offset handling with varying dates
+- Streamline option parsing and default resolution
