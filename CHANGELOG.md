@@ -6419,3 +6419,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix validation logic for boundary date ranges
 - Update project dependencies to latest secure versions
 - Remove obsolete polyfills and legacy compatibility shims
+- Fix circular reference error in object serialization
