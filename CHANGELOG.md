@@ -14190,3 +14190,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Rename internal variables and parameters for clarity
 - Improve readability of complex conditional evaluations
 - Add environment variable override support
+- Correctly escape special characters in terminal output
