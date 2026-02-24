@@ -14193,3 +14193,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correctly escape special characters in terminal output
 - Modularize schema definitions and validation rules
 - Update project dependencies to latest secure versions
+- Verify idempotency of cleanup routines in test suite
