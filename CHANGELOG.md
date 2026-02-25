@@ -6423,3 +6423,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test timezone offset handling with varying dates
 - Streamline option parsing and default resolution
 - Handle null and undefined options defensively
+- Improve package scripts for building and testing
