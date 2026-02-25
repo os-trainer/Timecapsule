@@ -6422,3 +6422,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix circular reference error in object serialization
 - Test timezone offset handling with varying dates
 - Streamline option parsing and default resolution
+- Handle null and undefined options defensively
