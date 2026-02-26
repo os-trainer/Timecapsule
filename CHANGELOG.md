@@ -14199,3 +14199,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract date formatting templates into reusable helpers
 - Add strict boundary checks to numeric operations
 - Add usage notes for multi-year historical generation
+- Simplify control flow and reduce nested conditionals
