@@ -6428,3 +6428,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement pagination helper for collection data
 - Fix formatting anomaly in terminal progress display
 - Add input validation for user-supplied options
+- Add test suite for distribution weight calculations
