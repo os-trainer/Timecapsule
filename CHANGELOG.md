@@ -14200,3 +14200,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add strict boundary checks to numeric operations
 - Add usage notes for multi-year historical generation
 - Simplify control flow and reduce nested conditionals
+- Improve clarity of variable scopes and closures
