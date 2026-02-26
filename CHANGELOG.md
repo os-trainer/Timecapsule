@@ -14198,3 +14198,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle missing configuration gracefully with defaults
 - Extract date formatting templates into reusable helpers
 - Add strict boundary checks to numeric operations
+- Add usage notes for multi-year historical generation
