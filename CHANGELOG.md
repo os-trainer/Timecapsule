@@ -14202,3 +14202,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify control flow and reduce nested conditionals
 - Improve clarity of variable scopes and closures
 - Fix missing return statement in error branch
+- Add unit tests for terminal colorization toggles
