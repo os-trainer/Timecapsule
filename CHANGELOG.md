@@ -6432,3 +6432,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modularize schema definitions and validation rules
 - Implement dry-run execution preview mode
 - Reorganize internal test helpers and fixtures
+- Add examples of integrating tool into automated scripts
