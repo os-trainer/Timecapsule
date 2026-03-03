@@ -14204,3 +14204,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix missing return statement in error branch
 - Add unit tests for terminal colorization toggles
 - Fix duplicate item registration in event subscriber list
+- Add test cases for boolean flag normalization
