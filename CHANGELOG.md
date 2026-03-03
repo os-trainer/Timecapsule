@@ -6434,3 +6434,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reorganize internal test helpers and fixtures
 - Add examples of integrating tool into automated scripts
 - Fix improper resource cleanup on exit
+- Implement numeric range clamping helper
