@@ -14203,3 +14203,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve clarity of variable scopes and closures
 - Fix missing return statement in error branch
 - Add unit tests for terminal colorization toggles
+- Fix duplicate item registration in event subscriber list
