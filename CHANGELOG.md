@@ -6435,3 +6435,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add examples of integrating tool into automated scripts
 - Fix improper resource cleanup on exit
 - Implement numeric range clamping helper
+- Fix potential race condition during file initialization
