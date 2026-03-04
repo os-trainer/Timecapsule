@@ -14206,3 +14206,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix duplicate item registration in event subscriber list
 - Add test cases for boolean flag normalization
 - Add JSDoc type annotations for internal functions
+- Simplify collection mapping and transformation pipelines
