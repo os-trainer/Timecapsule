@@ -14208,3 +14208,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add JSDoc type annotations for internal functions
 - Simplify collection mapping and transformation pipelines
 - Add safe string truncation helper
+- Correct regex pattern matching for date validation
