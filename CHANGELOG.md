@@ -14211,3 +14211,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct regex pattern matching for date validation
 - Add test harness for simulated time progression
 - Update npm packaging whitelist in files array
+- Refactor state management into centralized store
