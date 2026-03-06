@@ -14216,3 +14216,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add schema validation for configuration objects
 - Configure code style rules and ignore patterns
 - Refactor configuration fallback resolution
+- Correct negative duration calculations across days
