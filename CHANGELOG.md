@@ -14217,3 +14217,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure code style rules and ignore patterns
 - Refactor configuration fallback resolution
 - Correct negative duration calculations across days
+- Refactor promise handling to use modern async/await patterns
