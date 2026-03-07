@@ -6442,3 +6442,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement safe JSON parsing with fallback values
 - Correct output formatting when statistics are zero
 - Rename internal variables and parameters for clarity
+- Add FAQ section covering common configuration questions
