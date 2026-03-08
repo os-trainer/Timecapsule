@@ -6444,3 +6444,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Rename internal variables and parameters for clarity
 - Add FAQ section covering common configuration questions
 - Normalize naming of options and arguments across modules
+- Decompose monolithic workflow function into focused steps
