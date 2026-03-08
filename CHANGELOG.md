@@ -6443,3 +6443,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct output formatting when statistics are zero
 - Rename internal variables and parameters for clarity
 - Add FAQ section covering common configuration questions
+- Normalize naming of options and arguments across modules
