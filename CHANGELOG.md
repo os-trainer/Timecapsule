@@ -6446,3 +6446,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Normalize naming of options and arguments across modules
 - Decompose monolithic workflow function into focused steps
 - Add support for custom output destination paths
+- Improve consistency of option validation error messages
