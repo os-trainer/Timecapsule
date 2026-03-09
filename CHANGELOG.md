@@ -14219,3 +14219,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct negative duration calculations across days
 - Refactor promise handling to use modern async/await patterns
 - Add regression tests for previous edge-case bugs
+- Add usage examples for common command-line options
