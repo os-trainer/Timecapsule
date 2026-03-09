@@ -6447,3 +6447,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decompose monolithic workflow function into focused steps
 - Add support for custom output destination paths
 - Improve consistency of option validation error messages
+- Decouple output formatting from core computation logic
