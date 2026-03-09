@@ -14218,3 +14218,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor configuration fallback resolution
 - Correct negative duration calculations across days
 - Refactor promise handling to use modern async/await patterns
+- Add regression tests for previous edge-case bugs
