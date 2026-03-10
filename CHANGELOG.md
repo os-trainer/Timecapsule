@@ -6451,3 +6451,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure environment file loading conventions
 - Add usage examples for common command-line options
 - Fix incorrect status code returned on input error
+- Add parameterized tests for date parsing variations
