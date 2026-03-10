@@ -6449,3 +6449,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve consistency of option validation error messages
 - Decouple output formatting from core computation logic
 - Configure environment file loading conventions
+- Add usage examples for common command-line options
