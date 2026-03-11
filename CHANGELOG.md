@@ -6453,3 +6453,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect status code returned on input error
 - Add parameterized tests for date parsing variations
 - Extract configuration validation into standalone validator
+- Document error handling strategies and exit codes
