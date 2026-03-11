@@ -14222,3 +14222,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add usage examples for common command-line options
 - Verify cache invalidation logic under test conditions
 - Remove obsolete polyfills and legacy compatibility shims
+- Handle empty input collections without throwing exceptions
