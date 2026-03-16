@@ -14232,3 +14232,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle undefined configuration sections safely
 - Test command line help output and option documentation
 - Implement dry-run execution preview mode
+- Correct output formatting when statistics are zero
