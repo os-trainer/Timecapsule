@@ -6458,3 +6458,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add colorized terminal output formatter
 - Fix intermittent failure in date boundary comparison
 - Adjust prettier configuration for consistent indentation
+- Refactor argument parsing to standardize option names
