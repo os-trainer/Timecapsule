@@ -6457,3 +6457,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up project structure and remove redundant exports
 - Add colorized terminal output formatter
 - Fix intermittent failure in date boundary comparison
+- Adjust prettier configuration for consistent indentation
