@@ -6463,3 +6463,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adjust test runner timeout and concurrency settings
 - Add input sanitization for file paths
 - Add lightweight event emitter implementation
+- Replace magic numbers with named configuration constants
