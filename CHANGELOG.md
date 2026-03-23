@@ -14244,3 +14244,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize indentation and line wrapping across files
 - Adjust timeout thresholds for integration test suite
 - Correct path delimiter handling across operating systems
+- Document custom commit message filtering and options
