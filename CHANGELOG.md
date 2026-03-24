@@ -6467,3 +6467,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add task definitions for local development tooling
 - Fix edge case in input handling for empty strings
 - Implement command line flag alias mapping
+- Ensure all async rejections provide meaningful Error instances
