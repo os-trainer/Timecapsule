@@ -6465,3 +6465,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add lightweight event emitter implementation
 - Replace magic numbers with named configuration constants
 - Add task definitions for local development tooling
+- Fix edge case in input handling for empty strings
