@@ -6470,3 +6470,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure all async rejections provide meaningful Error instances
 - Modularize command-line argument processing logic
 - Correct string trimming logic for multi-line inputs
+- Implement file reading helper with encoding support
