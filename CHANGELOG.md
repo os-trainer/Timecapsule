@@ -14256,3 +14256,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve consistency of return structures across helpers
 - Verify proper error types are thrown on invalid arguments
 - Extract reusable helper functions from main workflow
+- Streamline parameter passing across internal layers
