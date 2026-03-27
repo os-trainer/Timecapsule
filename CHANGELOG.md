@@ -14253,3 +14253,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct fallback order for configuration properties
 - Test empty collection handling across utility functions
 - Update lockfile with verified dependency tree
+- Improve consistency of return structures across helpers
