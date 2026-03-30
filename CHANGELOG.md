@@ -6478,3 +6478,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure automated dependency review settings
 - Add security considerations and safe execution notes
 - Add safe deep clone utility function
+- Test empty collection handling across utility functions
