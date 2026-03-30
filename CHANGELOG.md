@@ -14262,3 +14262,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decouple output formatting from core computation logic
 - Add input validation for user-supplied options
 - Clean up dead code and obsolete helper methods
+- Add configuration file for continuous integration
