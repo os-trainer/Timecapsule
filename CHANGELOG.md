@@ -14265,3 +14265,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration file for continuous integration
 - Improve naming consistency across internal interfaces
 - Fix off-by-one error in collection index calculations
+- Add unit tests for progress reporter events
