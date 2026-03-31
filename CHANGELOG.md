@@ -14267,3 +14267,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix off-by-one error in collection index calculations
 - Add unit tests for progress reporter events
 - Refactor state management into centralized store
+
+## [8.4.0]
+### Changed
+- Add URL query string builder and parser
