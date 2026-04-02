@@ -14276,3 +14276,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct regex pattern matching for date validation
 - Add safe string truncation helper
 - Add test cases for boolean flag normalization
+- Fix inaccurate execution duration calculation
