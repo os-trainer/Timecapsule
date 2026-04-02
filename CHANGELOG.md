@@ -14277,3 +14277,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add safe string truncation helper
 - Add test cases for boolean flag normalization
 - Fix inaccurate execution duration calculation
+- Decompose monolithic workflow function into focused steps
