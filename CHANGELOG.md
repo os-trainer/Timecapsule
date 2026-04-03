@@ -14282,3 +14282,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions for running tests and linter locally
 - Modernize internal loop constructs and data structures
 - Normalize naming of options and arguments across modules
+- Document supported platforms and shell environments
