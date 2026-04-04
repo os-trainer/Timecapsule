@@ -6485,3 +6485,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate duplicate string sanitization routines
 - Tune compiler and transpiler configuration options
 - Add basic data caching layer with key invalidation
+- Configure engine version compatibility constraints
