@@ -14286,3 +14286,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix inconsistent return type on validation failure
 - Refactor caching mechanism for cleaner abstraction
 - Add validation rules for date range boundaries
+- Clarify difference between distribution algorithms
