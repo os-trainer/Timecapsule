@@ -14292,3 +14292,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modularize command-line argument processing logic
 - Fix string encoding issue when processing special characters
 - Configure engine version compatibility constraints
+- Add custom error classes for domain-specific failures
