@@ -14291,3 +14291,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test suite for distribution weight calculations
 - Modularize command-line argument processing logic
 - Fix string encoding issue when processing special characters
+- Configure engine version compatibility constraints
