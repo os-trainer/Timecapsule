@@ -14302,3 +14302,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Set up command-line entry point script
 - Correct negative duration calculations across days
 - Improve function organization and module cohesion
+- Add parameter type checks to public library methods
