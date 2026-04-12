@@ -14307,3 +14307,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add unit tests for terminal colorization toggles
 - Refactor utility functions into dedicated modules
 - Handle unexpected zero-length arrays in reducer logic
+- Add defensive fallbacks for unexpected null values
