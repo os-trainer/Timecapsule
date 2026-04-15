@@ -14314,3 +14314,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Restructure project exports to avoid circular dependencies
 - Add integration test verifying end-to-end workflow execution
 - Consolidate error definitions and status messages
+- Update README with example workflow scenarios
