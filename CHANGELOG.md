@@ -14318,3 +14318,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add regression tests for previous edge-case bugs
 - Fix circular reference error in object serialization
 - Adjust test runner timeout and concurrency settings
+- Add custom formatting options for summary tables
