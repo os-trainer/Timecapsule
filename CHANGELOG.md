@@ -6499,3 +6499,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty environment variables without error
 - Refactor validation pipelines to support chaining
 - Update project metadata and repository description
+- Fix incorrect boolean flag evaluation
