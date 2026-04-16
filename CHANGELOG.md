@@ -6501,3 +6501,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update project metadata and repository description
 - Fix incorrect boolean flag evaluation
 - Implement query filter helpers for collection items
+- Handle unexpected zero-length arrays in reducer logic
