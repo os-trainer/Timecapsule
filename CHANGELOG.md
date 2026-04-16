@@ -14315,3 +14315,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add integration test verifying end-to-end workflow execution
 - Consolidate error definitions and status messages
 - Update README with example workflow scenarios
+- Add regression tests for previous edge-case bugs
