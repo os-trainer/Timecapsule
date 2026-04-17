@@ -14322,3 +14322,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract date formatting templates into reusable helpers
 - Configure environment file loading conventions
 - Handle null and undefined options defensively
+- Cover edge cases in date range calculation logic
