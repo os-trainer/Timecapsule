@@ -14319,3 +14319,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix circular reference error in object serialization
 - Adjust test runner timeout and concurrency settings
 - Add custom formatting options for summary tables
+- Extract date formatting templates into reusable helpers
