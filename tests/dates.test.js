@@ -155,4 +155,3 @@ test("getHourForDistribution respects hour bounds", () => {
     assert.ok(hUniform >= 0 && hUniform <= 23);
   }
 });
-
