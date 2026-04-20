@@ -14333,3 +14333,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add comprehensive tests for configuration loader
 - Correct fallback order for configuration properties
 - Handle missing configuration gracefully with defaults
+- Add regression test for boundary date calculations
