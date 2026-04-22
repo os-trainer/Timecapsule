@@ -6505,3 +6505,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add detailed architecture overview and component diagram
 - Simplify collection mapping and transformation pipelines
 - Add assertions to catch illegal state during execution
+- Handle file permission errors with actionable messages
