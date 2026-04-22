@@ -14337,3 +14337,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document logging levels and diagnostic flags
 - Implement event listener registry for status events
 - Fix improper resource cleanup on exit
+- Update author and contributor information in package descriptor
