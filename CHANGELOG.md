@@ -14338,3 +14338,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement event listener registry for status events
 - Fix improper resource cleanup on exit
 - Update author and contributor information in package descriptor
+- Cover deep object merge edge cases in unit tests
