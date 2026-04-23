@@ -6508,3 +6508,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle file permission errors with actionable messages
 - Introduce mock harness for file system operations
 - Add structured logging helper with log levels
+- Fix memory leak caused by unreleased cache handles
