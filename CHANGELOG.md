@@ -6509,3 +6509,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Introduce mock harness for file system operations
 - Add structured logging helper with log levels
 - Fix memory leak caused by unreleased cache handles
+- Clean up stray debug statements and console output
