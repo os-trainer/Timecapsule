@@ -14342,3 +14342,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document preview mode and dry-run visualization
 - Correct error handling when input file is absent
 - Add snapshot tests for terminal output formatters
+- Add performance recommendations for large-scale runs
