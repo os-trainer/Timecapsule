@@ -6515,3 +6515,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Adjust timeout thresholds for integration test suite
 - Implement summary statistics calculation helper
+- Cover edge cases in date range calculation logic
