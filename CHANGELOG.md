@@ -14345,3 +14345,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add performance recommendations for large-scale runs
 - Add support for JSON and plain text output formats
 - Implement numeric range clamping helper
+- Adjust timeout thresholds for integration test suite
