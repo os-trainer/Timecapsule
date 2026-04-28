@@ -6527,3 +6527,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add instructions for running tests and linter locally
 - Handle missing configuration gracefully with defaults
 - Modularize schema definitions and validation rules
+- Add safe string truncation helper
