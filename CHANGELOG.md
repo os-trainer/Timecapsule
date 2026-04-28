@@ -6523,3 +6523,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add performance assertions for large collection processing
 - Update API reference documentation for core exports
 - Fix memory leak in recurring event listeners
+- Update development configuration and editor settings
