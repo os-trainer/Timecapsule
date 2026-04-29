@@ -14350,3 +14350,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add descriptive error context when file reading fails
 - Add verification tests for safe JSON parsing utilities
 - Handle empty input collections without throwing exceptions
+- Add acknowledgments and open-source project credits
