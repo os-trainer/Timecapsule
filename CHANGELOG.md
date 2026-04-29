@@ -6528,3 +6528,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle missing configuration gracefully with defaults
 - Modularize schema definitions and validation rules
 - Add safe string truncation helper
+- Improve README with comprehensive getting-started guide
