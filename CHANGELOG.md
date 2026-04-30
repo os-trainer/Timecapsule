@@ -6532,3 +6532,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test cases for boolean flag normalization
 - Verify proper error types are thrown on invalid arguments
 - Configure output directory paths for build pipeline
+- Refactor utility functions into dedicated modules
