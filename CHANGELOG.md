@@ -14362,3 +14362,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle unexpected zero-length arrays in reducer logic
 - Add assertions for default configuration fallbacks
 - Extract terminal output logic into presentation layer
+- Eliminate code duplication in internal helper branches
