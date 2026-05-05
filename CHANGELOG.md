@@ -14367,3 +14367,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor array processing routines to use functional methods
 - Improve test coverage across utility modules
 - Restructure project exports to avoid circular dependencies
+- Correct timestamp calculation for timezone offsets
