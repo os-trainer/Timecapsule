@@ -14368,3 +14368,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage across utility modules
 - Restructure project exports to avoid circular dependencies
 - Correct timestamp calculation for timezone offsets
+- Add detailed architecture overview and component diagram
