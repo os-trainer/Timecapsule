@@ -14366,3 +14366,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement flexible filter predicate builder
 - Refactor array processing routines to use functional methods
 - Improve test coverage across utility modules
+- Restructure project exports to avoid circular dependencies
