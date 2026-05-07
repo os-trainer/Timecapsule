@@ -6540,3 +6540,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test command line help output and option documentation
 - Update repository keywords and discovery tags
 - Refactor configuration fallback resolution
+- Add key-value store wrapper for memory cache
