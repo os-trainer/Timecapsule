@@ -14370,3 +14370,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct timestamp calculation for timezone offsets
 - Add detailed architecture overview and component diagram
 - Correct boundary check in range validation utility
+
+## [8.5.0]
+### Changed
+- Consolidate duplicate string sanitization routines
