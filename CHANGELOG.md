@@ -14376,3 +14376,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate duplicate string sanitization routines
 - Fix duplicate item registration in event subscriber list
 - Fix argument parsing when flag value contains spaces
+- Update repository keywords and discovery tags
