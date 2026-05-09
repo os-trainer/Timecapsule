@@ -6542,3 +6542,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor configuration fallback resolution
 - Add key-value store wrapper for memory cache
 - Fix incorrect default parameter assignment
+- Cover dry-run execution mode with assertion checks
