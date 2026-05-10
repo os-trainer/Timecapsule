@@ -6548,3 +6548,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test custom date formatting tokens and output strings
 - Add support for verbose diagnostic output
 - Fix inconsistent return type on validation failure
+- Streamline parameter passing across internal layers
