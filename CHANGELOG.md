@@ -6549,3 +6549,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for verbose diagnostic output
 - Fix inconsistent return type on validation failure
 - Streamline parameter passing across internal layers
+- Cover malformed command line options in test suite
