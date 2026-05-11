@@ -6552,3 +6552,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover malformed command line options in test suite
 - Configure distribution bundle output settings
 - Document preview mode and dry-run visualization
+- Decouple output formatting from core computation logic
