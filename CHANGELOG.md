@@ -14378,3 +14378,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix argument parsing when flag value contains spaces
 - Update repository keywords and discovery tags
 - Add command-line argument parser for configuration flags
+- Fix unhandled promise rejection in async error handler
