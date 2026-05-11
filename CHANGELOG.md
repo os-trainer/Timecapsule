@@ -6553,3 +6553,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure distribution bundle output settings
 - Document preview mode and dry-run visualization
 - Decouple output formatting from core computation logic
+- Tune lint-staged configuration for staged files
