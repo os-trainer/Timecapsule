@@ -6555,3 +6555,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decouple output formatting from core computation logic
 - Tune lint-staged configuration for staged files
 - Handle undefined configuration sections safely
+- Clean up dead code and obsolete helper methods
