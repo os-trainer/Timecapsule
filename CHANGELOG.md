@@ -14384,3 +14384,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify difference between distribution algorithms
 - Fix unexpected empty input parsing in command line options
 - Correct output formatting when statistics are zero
+- Add structured logging helper with log levels
