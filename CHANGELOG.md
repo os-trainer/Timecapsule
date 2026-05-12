@@ -14381,3 +14381,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unhandled promise rejection in async error handler
 - Verify cache invalidation logic under test conditions
 - Implement object transformation and mapping utilities
+- Clarify difference between distribution algorithms
