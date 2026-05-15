@@ -6560,3 +6560,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct error handling when input file is absent
 - Simplify complex arithmetic expressions in date logic
 - Update test runner configuration for isolated execution
+- Add unit tests for terminal colorization toggles
