@@ -6567,3 +6567,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct negative duration calculations across days
 - Add unit tests for progress reporter events
 - Streamline event dispatching mechanism
+- Correct boundary check in range validation utility
