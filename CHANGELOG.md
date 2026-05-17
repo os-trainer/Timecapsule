@@ -6564,3 +6564,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement template interpolation utility
 - Extract date formatting templates into reusable helpers
 - Add unit tests for string formatting and truncation helpers
+- Correct negative duration calculations across days
