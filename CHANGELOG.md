@@ -14396,3 +14396,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add usage notes for multi-year historical generation
 - Implement configuration file loader with fallback defaults
 - Clean up temporary files and ensure deterministic cleanup
+- Fix memory leak in recurring event listeners
