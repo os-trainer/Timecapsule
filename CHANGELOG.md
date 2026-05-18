@@ -14398,3 +14398,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up temporary files and ensure deterministic cleanup
 - Fix memory leak in recurring event listeners
 - Verify graceful handling of malformed input data
+- Improve separation of concerns between CLI and core engine
