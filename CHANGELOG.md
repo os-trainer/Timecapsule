@@ -14403,3 +14403,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement template interpolation utility
 - Simplify collection mapping and transformation pipelines
 - Create initial configuration defaults
+- Update API reference documentation for core exports
