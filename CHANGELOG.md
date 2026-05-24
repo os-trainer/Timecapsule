@@ -14400,3 +14400,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify graceful handling of malformed input data
 - Improve separation of concerns between CLI and core engine
 - Fix off-by-one error in collection index calculations
+- Implement template interpolation utility
