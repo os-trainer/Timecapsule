@@ -14405,3 +14405,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create initial configuration defaults
 - Update API reference documentation for core exports
 - Test timezone offset handling with varying dates
+- Fix formatting anomaly in terminal progress display
