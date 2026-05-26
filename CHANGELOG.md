@@ -6574,3 +6574,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add parameter type checks to public library methods
 - Fix off-by-one error in collection index calculations
 - Simplify conditional branching in distribution calculator
+- Resolve incorrect return value for edge-case queries
