@@ -6572,3 +6572,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate duplicate string sanitization routines
 - Correct path delimiter handling across operating systems
 - Add parameter type checks to public library methods
+- Fix off-by-one error in collection index calculations
