@@ -14411,3 +14411,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct path delimiter handling across operating systems
 - Implement query filter helpers for collection items
 - Configure output directory paths for build pipeline
+- Add input sanitization for file paths
