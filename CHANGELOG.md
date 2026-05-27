@@ -14413,3 +14413,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure output directory paths for build pipeline
 - Add input sanitization for file paths
 - Handle file permission errors with actionable messages
+- Update license field and attribution in package manifest
