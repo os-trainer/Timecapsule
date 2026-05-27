@@ -14416,3 +14416,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update license field and attribution in package manifest
 - Test invalid input handling and expected exceptions
 - Add basic data caching layer with key invalidation
+- Document template options for supported project layouts
