@@ -6580,3 +6580,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add npm script for running linter in check-only mode
 - Correct string trimming logic for multi-line inputs
 - Add custom error classes for domain-specific failures
+- Test empty collection handling across utility functions
