@@ -14423,3 +14423,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor promise handling to use modern async/await patterns
 - Add configuration for code coverage reporting
 - Add parameterized tests for date parsing variations
+- Add custom formatting options for summary tables
