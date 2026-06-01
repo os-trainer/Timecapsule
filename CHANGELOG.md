@@ -14419,3 +14419,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document template options for supported project layouts
 - Verify retry logic behavior under simulated failures
 - Improve code maintainability index across core files
+- Fix memory leak caused by unreleased cache handles
