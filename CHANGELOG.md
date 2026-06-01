@@ -6589,3 +6589,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct output formatting when statistics are zero
 - Extract common constants into centralized configuration
 - Implement safe JSON parsing with fallback values
+- Rename internal variables and parameters for clarity
