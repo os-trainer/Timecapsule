@@ -14425,3 +14425,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add parameterized tests for date parsing variations
 - Add custom formatting options for summary tables
 - Fix string encoding issue when processing special characters
+- Add lightweight event emitter implementation
