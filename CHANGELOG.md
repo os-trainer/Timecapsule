@@ -14430,3 +14430,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle undefined configuration sections safely
 - Implement safe JSON parsing with fallback values
 - Refactor date calculation routines for better readability
+- Document preview mode and dry-run visualization
