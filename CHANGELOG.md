@@ -6592,3 +6592,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Rename internal variables and parameters for clarity
 - Improve readability of complex conditional evaluations
 - Implement event listener registry for status events
+- Fix potential race condition during file initialization
