@@ -14431,3 +14431,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement safe JSON parsing with fallback values
 - Refactor date calculation routines for better readability
 - Document preview mode and dry-run visualization
+- Extract date formatting templates into reusable helpers
