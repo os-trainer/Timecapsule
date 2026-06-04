@@ -6594,3 +6594,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement event listener registry for status events
 - Fix potential race condition during file initialization
 - Simplify control flow and reduce nested conditionals
+- Improve naming consistency across internal interfaces
