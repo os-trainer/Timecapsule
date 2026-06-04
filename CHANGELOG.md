@@ -6593,3 +6593,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve readability of complex conditional evaluations
 - Implement event listener registry for status events
 - Fix potential race condition during file initialization
+- Simplify control flow and reduce nested conditionals
