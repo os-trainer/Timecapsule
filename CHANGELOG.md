@@ -6600,3 +6600,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Introduce mock harness for file system operations
 - Fix missing return statement in error branch
 - Add descriptive error context when file reading fails
+- Clarify installation instructions and system prerequisites
