@@ -6601,3 +6601,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix missing return statement in error branch
 - Add descriptive error context when file reading fails
 - Clarify installation instructions and system prerequisites
+- Fix type coercion error during numeric comparisons
