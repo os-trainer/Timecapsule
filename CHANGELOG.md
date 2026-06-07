@@ -14434,3 +14434,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract date formatting templates into reusable helpers
 - Handle unexpected zero-length arrays in reducer logic
 - Add security considerations and safe execution notes
+- Tune lint-staged configuration for staged files
