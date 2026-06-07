@@ -14433,3 +14433,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document preview mode and dry-run visualization
 - Extract date formatting templates into reusable helpers
 - Handle unexpected zero-length arrays in reducer logic
+- Add security considerations and safe execution notes
