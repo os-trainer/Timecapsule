@@ -14437,3 +14437,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Tune lint-staged configuration for staged files
 - Improve consistency of return structures across helpers
 - Refactor validation pipelines to support chaining
+- Document custom commit message filtering and options
