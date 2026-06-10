@@ -6613,3 +6613,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document custom commit message filtering and options
 - Implement batch processing utility for array inputs
 - Configure engine version compatibility constraints
+
+## [7.4.0]
+### Changed
+- Fix duplicate item registration in event subscriber list
