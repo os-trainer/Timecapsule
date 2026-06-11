@@ -14443,3 +14443,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify conditional branching in distribution calculator
 - Improve package scripts for building and testing
 - Add schema validation for configuration objects
+- Fix edge case in input handling for empty strings
