@@ -14442,3 +14442,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add multi-step workflow runner utility
 - Simplify conditional branching in distribution calculator
 - Improve package scripts for building and testing
+- Add schema validation for configuration objects
