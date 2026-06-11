@@ -14440,3 +14440,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document custom commit message filtering and options
 - Fix inaccurate execution duration calculation
 - Add multi-step workflow runner utility
+- Simplify conditional branching in distribution calculator
