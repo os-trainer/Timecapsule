@@ -6618,3 +6618,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Fix duplicate item registration in event subscriber list
 - Improve separation of concerns between CLI and core engine
+- Extract progress tracking into dedicated emitter
