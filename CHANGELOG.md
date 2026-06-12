@@ -14446,3 +14446,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix edge case in input handling for empty strings
 - Update package version in manifest file
 - Document test execution commands and coverage reports
+- Clarify installation instructions and system prerequisites
