@@ -6620,3 +6620,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve separation of concerns between CLI and core engine
 - Extract progress tracking into dedicated emitter
 - Add URL query string builder and parser
+- Cover deep object merge edge cases in unit tests
