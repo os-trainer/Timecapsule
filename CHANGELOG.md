@@ -6623,3 +6623,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover deep object merge edge cases in unit tests
 - Add configuration for code coverage reporting
 - Fix inconsistent return type on validation failure
+- Refactor state management into centralized store
