@@ -6624,3 +6624,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration for code coverage reporting
 - Fix inconsistent return type on validation failure
 - Refactor state management into centralized store
+- Add custom formatting options for summary tables
