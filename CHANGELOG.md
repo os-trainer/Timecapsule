@@ -6622,3 +6622,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add URL query string builder and parser
 - Cover deep object merge edge cases in unit tests
 - Add configuration for code coverage reporting
+- Fix inconsistent return type on validation failure
