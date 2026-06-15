@@ -6629,3 +6629,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Streamline event dispatching mechanism
 - Add validation rules for date range boundaries
 - Update project dependencies to latest secure versions
+- Improve markdown formatting and typographic consistency in README
