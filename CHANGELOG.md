@@ -6635,3 +6635,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement configuration file loader with fallback defaults
 - Handle empty input collections without throwing exceptions
 - Improve input handling and defensive type assertions
+- Refactor argument parsing to standardize option names
