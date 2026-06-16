@@ -14450,3 +14450,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration file for static code analysis
 - Implement stream-based chunk processor
 - Handle process interruption cleanly during generation
+- Configure automated dependency review settings
