@@ -14451,3 +14451,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement stream-based chunk processor
 - Handle process interruption cleanly during generation
 - Configure automated dependency review settings
+- Add performance recommendations for large-scale runs
