@@ -6638,3 +6638,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor argument parsing to standardize option names
 - Decompose monolithic workflow function into focused steps
 - Clarify frequency parameter behavior and percentage rules
+- Handle malformed JSON configuration without crashing
