@@ -6640,3 +6640,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify frequency parameter behavior and percentage rules
 - Handle malformed JSON configuration without crashing
 - Implement deep object merging utility
+- Extract configuration validation into standalone validator
