@@ -14463,3 +14463,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for custom output destination paths
 - Refactor array processing routines to use functional methods
 - Rename internal variables and parameters for clarity
+- Add colorized terminal output formatter
