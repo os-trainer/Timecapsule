@@ -6647,3 +6647,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correctly escape special characters in terminal output
 - Configure initial build and runtime settings
 - Improve test coverage across utility modules
+- Adjust timeout thresholds for integration test suite
