@@ -14465,3 +14465,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Rename internal variables and parameters for clarity
 - Add colorized terminal output formatter
 - Add unit tests for collection filter predicates
+- Fix type coercion error during numeric comparisons
