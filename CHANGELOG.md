@@ -14470,3 +14470,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document logging levels and diagnostic flags
 - Fix missing return statement in error branch
 - Implement configuration merging priority logic
+- Resolve incorrect return value for edge-case queries
