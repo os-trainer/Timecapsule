@@ -14472,3 +14472,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement configuration merging priority logic
 - Resolve incorrect return value for edge-case queries
 - Introduce mock harness for file system operations
+
+## [8.6.0]
+### Changed
+- Add boundary condition tests for numeric ranges
