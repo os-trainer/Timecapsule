@@ -6654,3 +6654,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct fallback order for configuration properties
 - Add npm script for running linter in check-only mode
 - Add verification tests for safe JSON parsing utilities
+- Update development configuration and editor settings
