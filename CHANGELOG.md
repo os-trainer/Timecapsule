@@ -6655,3 +6655,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add npm script for running linter in check-only mode
 - Add verification tests for safe JSON parsing utilities
 - Update development configuration and editor settings
+- Fix unhandled promise rejection in async error handler
