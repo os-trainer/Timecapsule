@@ -6658,3 +6658,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix unhandled promise rejection in async error handler
 - Correct regex pattern matching for date validation
 - Add snapshot tests for terminal output formatters
+- Extract file system operations into isolated adapter
