@@ -14483,3 +14483,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document error handling strategies and exit codes
 - Improve test coverage for error recovery branches
 - Update project dependencies to latest secure versions
+- Add descriptive error context when file reading fails
