@@ -6666,3 +6666,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adjust prettier configuration for consistent indentation
 - Add support for JSON and plain text output formats
 - Standardize indentation and line wrapping across files
+- Configure semantic versioning and release scripts
