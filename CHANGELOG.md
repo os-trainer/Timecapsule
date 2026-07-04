@@ -6670,3 +6670,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle partial input objects during configuration merge
 - Add unit tests for collection filter predicates
 - Fix duplicate item registration in event subscriber list
+- Adjust test runner timeout and concurrency settings
