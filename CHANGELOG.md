@@ -6668,3 +6668,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize indentation and line wrapping across files
 - Configure semantic versioning and release scripts
 - Handle partial input objects during configuration merge
+- Add unit tests for collection filter predicates
