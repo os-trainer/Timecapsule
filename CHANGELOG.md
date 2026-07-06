@@ -14491,3 +14491,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement file reading helper with encoding support
 - Add npm script for running unit test suite
 - Extract terminal output logic into presentation layer
+- Add badges for license, build status, and version
