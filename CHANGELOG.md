@@ -14492,3 +14492,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add npm script for running unit test suite
 - Extract terminal output logic into presentation layer
 - Add badges for license, build status, and version
+- Implement command line flag alias mapping
