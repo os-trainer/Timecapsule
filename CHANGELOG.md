@@ -14494,3 +14494,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add badges for license, build status, and version
 - Implement command line flag alias mapping
 - Simplify complex arithmetic expressions in date logic
+- Adjust prettier configuration for consistent indentation
