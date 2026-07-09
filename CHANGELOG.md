@@ -14498,3 +14498,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test empty collection handling across utility functions
 - Add key-value store wrapper for memory cache
 - Add tests for custom output destination formatting
+- Correct negative duration calculations across days
