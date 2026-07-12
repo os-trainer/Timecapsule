@@ -14501,3 +14501,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct negative duration calculations across days
 - Improve separation of concerns between CLI and core engine
 - Add configuration file for static code analysis
+- Correct regex pattern matching for date validation
