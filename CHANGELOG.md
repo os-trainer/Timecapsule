@@ -14508,3 +14508,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add step-by-step tutorial for sample project generation
 - Simplify control flow and reduce nested conditionals
 - Improve README with comprehensive getting-started guide
+- Add unit tests for progress reporter events
