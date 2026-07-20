@@ -14510,3 +14510,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve README with comprehensive getting-started guide
 - Add unit tests for progress reporter events
 - Implement batch processing utility for array inputs
+- Improve package scripts for building and testing
