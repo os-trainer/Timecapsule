@@ -14514,3 +14514,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure environment file loading conventions
 - Fix inconsistent return type on validation failure
 - Add assertions to catch illegal state during execution
+- Refactor utility functions into dedicated modules
