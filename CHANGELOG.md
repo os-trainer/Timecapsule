@@ -6697,3 +6697,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify graceful handling of malformed input data
 - Add badges for license, build status, and version
 - Extract common constants into centralized configuration
+- Fix incorrect default parameter assignment
