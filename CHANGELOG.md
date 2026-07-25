@@ -6702,3 +6702,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement date formatting and parsing helpers
 - Add assertions to catch illegal state during execution
 - Fix inconsistent return type on validation failure
+- Add environment variable override support
