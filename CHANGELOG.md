@@ -14524,3 +14524,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Test invalid input handling and expected exceptions
 - Handle partial input objects during configuration merge
 - Handle empty environment variables without error
+- Test custom date formatting tokens and output strings
