@@ -6706,3 +6706,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adjust linting and formatting configuration rules
 - Fix infinite loop risk in collection traversal logic
 - Add test cases for boolean flag normalization
+- Fix inaccurate execution duration calculation
