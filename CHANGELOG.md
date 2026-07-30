@@ -14528,3 +14528,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure all async rejections provide meaningful Error instances
 - Consolidate duplicate string sanitization routines
 - Fix infinite loop risk in collection traversal logic
+- Verify proper error types are thrown on invalid arguments
