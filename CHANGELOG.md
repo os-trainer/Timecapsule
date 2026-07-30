@@ -14529,3 +14529,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate duplicate string sanitization routines
 - Fix infinite loop risk in collection traversal logic
 - Verify proper error types are thrown on invalid arguments
+- Refactor validation pipelines to support chaining
