@@ -6713,3 +6713,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor caching mechanism for cleaner abstraction
 - Correctly escape special characters in terminal output
 - Document distribution patterns and statistical behavior
+- Add system status inspection helper
