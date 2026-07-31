@@ -14531,3 +14531,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Verify proper error types are thrown on invalid arguments
 - Refactor validation pipelines to support chaining
 - Fix intermittent failure in date boundary comparison
+- Implement defensive parameter sanitization
