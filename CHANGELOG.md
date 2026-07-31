@@ -6711,3 +6711,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty input collections without throwing exceptions
 - Improve readability of complex conditional evaluations
 - Refactor caching mechanism for cleaner abstraction
+- Correctly escape special characters in terminal output
