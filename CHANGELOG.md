@@ -6720,3 +6720,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [7.5.0]
 ### Changed
 - Extract date formatting templates into reusable helpers
+- Consolidate error definitions and status messages
