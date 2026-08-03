@@ -14532,3 +14532,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor validation pipelines to support chaining
 - Fix intermittent failure in date boundary comparison
 - Implement defensive parameter sanitization
+- Cover complex configuration inheritance in tests
