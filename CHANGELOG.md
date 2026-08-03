@@ -6716,3 +6716,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add system status inspection helper
 - Add configuration file for static code analysis
 - Verify idempotency of cleanup routines in test suite
+
+## [7.5.0]
+### Changed
+- Extract date formatting templates into reusable helpers
