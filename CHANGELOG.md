@@ -14537,3 +14537,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clean up project structure and remove redundant exports
 - Fix incorrect default parameter assignment
 - Clarify frequency parameter behavior and percentage rules
+- Reduce duplicated logic across helper utilities
