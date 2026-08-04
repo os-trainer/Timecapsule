@@ -14536,3 +14536,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement retry mechanism for transient operations
 - Clean up project structure and remove redundant exports
 - Fix incorrect default parameter assignment
+- Clarify frequency parameter behavior and percentage rules
