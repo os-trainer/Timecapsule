@@ -6722,3 +6722,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract date formatting templates into reusable helpers
 - Consolidate error definitions and status messages
 - Add unit tests for progress reporter events
+- Implement progress reporter for long-running workflows
