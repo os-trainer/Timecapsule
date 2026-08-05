@@ -6723,3 +6723,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Consolidate error definitions and status messages
 - Add unit tests for progress reporter events
 - Implement progress reporter for long-running workflows
+- Handle empty environment variables without error
