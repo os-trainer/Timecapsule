@@ -6728,3 +6728,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update changelog with recent feature additions and fixes
 - Extract terminal output logic into presentation layer
 - Add regression tests for previous edge-case bugs
+- Fix validation logic for boundary date ranges
