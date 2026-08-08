@@ -6731,3 +6731,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix validation logic for boundary date ranges
 - Cover complex configuration inheritance in tests
 - Clarify difference between distribution algorithms
+- Add array sorting and filtering helper functions
