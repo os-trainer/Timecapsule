@@ -6736,3 +6736,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement configuration file loader with fallback defaults
 - Test command line help output and option documentation
 - Fix formatting anomaly in terminal progress display
+- Add unit tests for string formatting and truncation helpers
