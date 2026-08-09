@@ -14542,3 +14542,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct fallback order for configuration properties
 - Fix duplicate item registration in event subscriber list
 - Improve function organization and module cohesion
+- Update development dependencies for test framework
