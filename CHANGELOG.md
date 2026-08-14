@@ -6742,3 +6742,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor argument parsing to standardize option names
 - Handle timeout gracefully during external operations
 - Test invalid input handling and expected exceptions
+- Add custom formatting options for summary tables
