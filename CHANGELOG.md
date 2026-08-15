@@ -14558,3 +14558,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve test coverage for error recovery branches
 - Clean up stray debug statements and console output
 - Add FAQ section covering common configuration questions
+- Extract reusable helper functions from main workflow
