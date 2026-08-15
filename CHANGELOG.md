@@ -14556,3 +14556,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure engine version compatibility constraints
 - Fix unexpected empty input parsing in command line options
 - Improve test coverage for error recovery branches
+- Clean up stray debug statements and console output
