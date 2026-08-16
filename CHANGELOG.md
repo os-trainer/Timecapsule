@@ -14561,3 +14561,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract reusable helper functions from main workflow
 - Cover deep object merge edge cases in unit tests
 - Streamline event dispatching mechanism
+- Correct timestamp calculation for timezone offsets
