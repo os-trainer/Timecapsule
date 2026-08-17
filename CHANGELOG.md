@@ -14566,3 +14566,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test suite for distribution weight calculations
 - Correct regex pattern matching for date validation
 - Document configuration options and default parameters
+- Simplify conditional branching in distribution calculator
