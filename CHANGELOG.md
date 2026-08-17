@@ -14567,3 +14567,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct regex pattern matching for date validation
 - Document configuration options and default parameters
 - Simplify conditional branching in distribution calculator
+- Update changelog with recent feature additions and fixes
