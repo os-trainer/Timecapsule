@@ -14568,3 +14568,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document configuration options and default parameters
 - Simplify conditional branching in distribution calculator
 - Update changelog with recent feature additions and fixes
+- Add npm script for running linter in check-only mode
