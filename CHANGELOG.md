@@ -14573,3 +14573,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle null and undefined options defensively
 - Implement customizable output formatting options
 - Add boundary condition tests for numeric ranges
+
+## [8.7.0]
+### Changed
+- Add support for verbose diagnostic output
