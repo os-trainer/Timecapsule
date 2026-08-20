@@ -6756,3 +6756,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix missing return statement in error branch
 - Add support for custom output destination paths
 - Configure code style rules and ignore patterns
+- Fix circular reference error in object serialization
