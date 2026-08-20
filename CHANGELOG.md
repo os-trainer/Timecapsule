@@ -14572,3 +14572,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test cases for boolean flag normalization
 - Handle null and undefined options defensively
 - Implement customizable output formatting options
+- Add boundary condition tests for numeric ranges
