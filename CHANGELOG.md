@@ -6762,3 +6762,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement pagination helper for collection data
 - Restructure project exports to avoid circular dependencies
 - Cover malformed command line options in test suite
+- Add FAQ section covering common configuration questions
