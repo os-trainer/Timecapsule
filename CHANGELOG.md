@@ -14581,3 +14581,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update npm packaging whitelist in files array
 - Correctly escape special characters in terminal output
 - Implement pagination helper for collection data
+- Fix inconsistent return type on validation failure
