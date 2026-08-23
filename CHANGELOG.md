@@ -14578,3 +14578,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Add support for verbose diagnostic output
 - Fix edge case in input handling for empty strings
+- Update npm packaging whitelist in files array
