@@ -6764,3 +6764,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cover malformed command line options in test suite
 - Add FAQ section covering common configuration questions
 - Refactor utility functions into dedicated modules
+- Remove unused code and obsolete internal variables
