@@ -6767,3 +6767,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Remove unused code and obsolete internal variables
 - Test custom date formatting tokens and output strings
 - Correct regex pattern matching for date validation
+- Refactor caching mechanism for cleaner abstraction
