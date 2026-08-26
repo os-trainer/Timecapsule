@@ -14588,3 +14588,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add assertions to catch illegal state during execution
 - Improve inline code documentation and parameter descriptions
 - Add clear synthetic demonstration disclaimer in documentation
+- Add environment variable override support
