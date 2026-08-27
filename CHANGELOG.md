@@ -6770,3 +6770,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor caching mechanism for cleaner abstraction
 - Add URL query string builder and parser
 - Document supported platforms and shell environments
+- Document test execution commands and coverage reports
