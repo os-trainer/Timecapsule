@@ -6775,3 +6775,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor date calculation routines for better readability
 - Fix memory leak caused by unreleased cache handles
 - Modularize command-line argument processing logic
+- Add troubleshooting notes for frequent setup issues
