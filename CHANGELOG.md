@@ -14597,3 +14597,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Decouple output formatting from core computation logic
 - Handle malformed JSON configuration without crashing
 - Improve documentation for custom output templates
+- Add reusable string formatting utility functions
