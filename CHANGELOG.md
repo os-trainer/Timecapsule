@@ -14595,3 +14595,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct string trimming logic for multi-line inputs
 - Implement rate limiting throttle for helper actions
 - Decouple output formatting from core computation logic
+- Handle malformed JSON configuration without crashing
