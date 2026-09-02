@@ -14602,3 +14602,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle timeout gracefully during external operations
 - Improve README with comprehensive getting-started guide
 - Implement event listener registry for status events
+- Extract date formatting templates into reusable helpers
