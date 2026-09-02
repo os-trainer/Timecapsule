@@ -14600,3 +14600,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add reusable string formatting utility functions
 - Add unit tests for string formatting and truncation helpers
 - Handle timeout gracefully during external operations
+- Improve README with comprehensive getting-started guide
