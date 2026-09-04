@@ -14608,3 +14608,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix incorrect default parameter assignment
 - Add JSDoc type annotations for internal functions
 - Implement date formatting and parsing helpers
+- Fix incorrect status code returned on input error
