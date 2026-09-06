@@ -14610,3 +14610,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement date formatting and parsing helpers
 - Fix incorrect status code returned on input error
 - Refactor date calculation routines for better readability
+- Implement defensive parameter sanitization
