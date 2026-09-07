@@ -14615,3 +14615,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure code style rules and ignore patterns
 - Test custom date formatting tokens and output strings
 - Add lightweight event emitter implementation
+- Refactor argument parsing to standardize option names
