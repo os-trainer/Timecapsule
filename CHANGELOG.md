@@ -14624,3 +14624,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modularize command-line argument processing logic
 - Add tests for custom output destination formatting
 - Correct error handling when input file is absent
+- Add structured logging helper with log levels
