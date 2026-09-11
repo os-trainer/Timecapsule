@@ -14627,3 +14627,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add structured logging helper with log levels
 - Verify idempotency of cleanup routines in test suite
 - Add comments explaining subtle edge cases in date math
+- Extract configuration validation into standalone validator
