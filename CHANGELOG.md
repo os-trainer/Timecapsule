@@ -14634,3 +14634,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix missing return statement in error branch
 - Modernize internal loop constructs and data structures
 - Add assertions for default configuration fallbacks
+- Simplify complex arithmetic expressions in date logic
