@@ -6784,3 +6784,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add security considerations and safe execution notes
 - Add regression tests for previous edge-case bugs
 - Extract date formatting templates into reusable helpers
+- Streamline parameter passing across internal layers
