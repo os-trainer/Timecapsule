@@ -6790,3 +6790,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle null and undefined options defensively
 - Simplify conditional branching in distribution calculator
 - Eliminate code duplication in internal helper branches
+- Correct negative duration calculations across days
