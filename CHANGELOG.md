@@ -14635,3 +14635,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Modernize internal loop constructs and data structures
 - Add assertions for default configuration fallbacks
 - Simplify complex arithmetic expressions in date logic
+- Add schema validation for configuration objects
