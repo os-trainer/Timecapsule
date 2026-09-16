@@ -6793,3 +6793,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct negative duration calculations across days
 - Improve inline code documentation and parameter descriptions
 - Improve code maintainability index across core files
+- Correct fallback order for configuration properties
