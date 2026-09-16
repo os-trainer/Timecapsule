@@ -6795,3 +6795,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve code maintainability index across core files
 - Correct fallback order for configuration properties
 - Update author and contributor information in package descriptor
+- Clarify difference between distribution algorithms
