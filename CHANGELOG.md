@@ -6796,3 +6796,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correct fallback order for configuration properties
 - Update author and contributor information in package descriptor
 - Clarify difference between distribution algorithms
+- Add assertions for default configuration fallbacks
