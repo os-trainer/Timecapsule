@@ -14643,3 +14643,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update package version in manifest file
 - Refactor configuration fallback resolution
 - Verify error messages for missing required options
+- Configure automated dependency review settings
