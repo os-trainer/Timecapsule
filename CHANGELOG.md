@@ -6805,3 +6805,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add lightweight event emitter implementation
 - Add parameterized tests for date parsing variations
 - Add basic data processing and normalization pipeline
+- Add examples comparing standard and conventional commits
