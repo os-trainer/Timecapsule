@@ -14646,3 +14646,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure automated dependency review settings
 - Update README with example workflow scenarios
 - Fix memory leak in recurring event listeners
+- Adjust test runner timeout and concurrency settings
