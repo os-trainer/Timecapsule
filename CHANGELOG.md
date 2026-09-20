@@ -6808,3 +6808,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add examples comparing standard and conventional commits
 - Add regression test for boundary date calculations
 - Ensure consistent error status codes across exit paths
+- Streamline option parsing and default resolution
