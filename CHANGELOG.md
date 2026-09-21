@@ -14649,3 +14649,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adjust test runner timeout and concurrency settings
 - Fix infinite loop risk in collection traversal logic
 - Add regression tests for previous edge-case bugs
+- Fix potential race condition during file initialization
