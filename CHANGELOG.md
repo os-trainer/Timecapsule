@@ -14653,3 +14653,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ensure consistent error status codes across exit paths
 - Fix off-by-one error in collection index calculations
 - Handle empty environment variables without error
+- Add system status inspection helper
