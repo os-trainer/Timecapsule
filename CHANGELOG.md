@@ -14655,3 +14655,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty environment variables without error
 - Add system status inspection helper
 - Introduce mock harness for file system operations
+- Document distribution patterns and statistical behavior
