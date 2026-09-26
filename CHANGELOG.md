@@ -6815,3 +6815,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Tune compiler and transpiler configuration options
 - Decompose monolithic workflow function into focused steps
 - Handle process interruption cleanly during generation
+- Document logging levels and diagnostic flags
