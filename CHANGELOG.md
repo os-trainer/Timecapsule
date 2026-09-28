@@ -14666,3 +14666,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve inline code documentation and parameter descriptions
 - Improve readability of complex conditional evaluations
 - Test empty collection handling across utility functions
+- Fix circular reference error in object serialization
