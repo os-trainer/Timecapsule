@@ -6819,3 +6819,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement defensive parameter sanitization
 - Refactor state management into centralized store
 - Implement dry-run execution preview mode
+
+## [7.6.0]
+### Changed
+- Add snapshot tests for terminal output formatters
