@@ -6828,3 +6828,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add configuration for code coverage reporting
 - Add code comments explaining complex date mathematics
 - Add input sanitization for file paths
+- Handle malformed JSON configuration without crashing
