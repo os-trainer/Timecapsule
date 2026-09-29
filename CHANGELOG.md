@@ -6826,3 +6826,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extract file system operations into isolated adapter
 - Document template options for supported project layouts
 - Add configuration for code coverage reporting
+- Add code comments explaining complex date mathematics
