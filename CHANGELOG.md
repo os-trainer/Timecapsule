@@ -6825,3 +6825,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add snapshot tests for terminal output formatters
 - Extract file system operations into isolated adapter
 - Document template options for supported project layouts
+- Add configuration for code coverage reporting
