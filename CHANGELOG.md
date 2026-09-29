@@ -6827,3 +6827,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document template options for supported project layouts
 - Add configuration for code coverage reporting
 - Add code comments explaining complex date mathematics
+- Add input sanitization for file paths
