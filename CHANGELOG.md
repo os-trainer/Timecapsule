@@ -14674,3 +14674,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle empty input collections without throwing exceptions
 - Add parameterized tests for date parsing variations
 - Streamline option parsing and default resolution
+
+## [8.8.0]
+### Changed
+- Update project metadata and repository description
