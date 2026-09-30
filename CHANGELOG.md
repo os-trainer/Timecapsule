@@ -6831,3 +6831,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Handle malformed JSON configuration without crashing
 - Add test harness for simulated time progression
 - Add test suite for distribution weight calculations
+- Fix incorrect boolean flag evaluation
