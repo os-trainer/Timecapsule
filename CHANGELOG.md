@@ -6833,3 +6833,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add test suite for distribution weight calculations
 - Fix incorrect boolean flag evaluation
 - Correctly escape special characters in terminal output
+- Add input validation for user-supplied options
