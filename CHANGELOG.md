@@ -6835,3 +6835,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Correctly escape special characters in terminal output
 - Add input validation for user-supplied options
 - Add parameter type checks to public library methods
+- Document custom commit message filtering and options
