@@ -14683,3 +14683,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improve naming consistency across internal interfaces
 - Add safe deep clone utility function
 - Add unit tests for terminal colorization toggles
+- Fix type coercion error during numeric comparisons
