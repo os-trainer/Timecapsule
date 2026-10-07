@@ -14689,3 +14689,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplify collection mapping and transformation pipelines
 - Fix formatting anomaly in terminal progress display
 - Test timezone offset handling with varying dates
+
+## [2026-10-07]
+### Changed
+- Add environment sample configuration file
