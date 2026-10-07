@@ -6846,3 +6846,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Standardize terminology across comments and log output
 - Fix edge case in input handling for empty strings
 - Fix memory leak in recurring event listeners
+- Fix improper resource cleanup on exit
