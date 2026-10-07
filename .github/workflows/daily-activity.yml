@@ -1,0 +1,35 @@
+name: Daily Activity
+
+on:
+  schedule:
+    # Runs daily at 14:00 UTC (19:30 IST)
+    - cron: '0 14 * * *'
+  workflow_dispatch: # Allows running manually anytime from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  activity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Configure Git Author
+        run: |
+          git config --global user.name "os-trainer"
+          git config --global user.email "mr.raguelsimon@gmail.com"
+
+      - name: Generate Daily Activity
+        run: node scripts/daily-commit.js
+
+      - name: Push Commits
+        run: git push origin main
