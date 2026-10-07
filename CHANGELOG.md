@@ -14693,3 +14693,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2026-10-07]
 ### Changed
 - Add environment sample configuration file
+- Document preview mode and dry-run visualization
