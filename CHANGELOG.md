@@ -14701,3 +14701,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add baseline error handling scaffolding
 - Implement template interpolation utility
 - Add code comments explaining complex date mathematics
+
+## [2026-10-08]
+### Changed
+- Establish baseline directory hierarchy and exports
