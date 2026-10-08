@@ -14706,3 +14706,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Establish baseline directory hierarchy and exports
 - Update package repository URLs and issue tracker links
+- Add safe string truncation helper
