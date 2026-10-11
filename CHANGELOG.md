@@ -14718,3 +14718,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create initial configuration defaults
 - Document template options for supported project layouts
 - Configure code formatting rules and baseline
+
+## [2026-10-11]
+### Changed
+- Bootstrap core library skeleton
