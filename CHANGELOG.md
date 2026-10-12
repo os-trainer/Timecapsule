@@ -14723,3 +14723,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Bootstrap core library skeleton
 - Add initial sample configuration file
+
+## [2026-10-12]
+### Changed
+- Configure local development workflow scripts
