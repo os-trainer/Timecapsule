@@ -14733,3 +14733,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure local development workflow scripts
 - Add URL query string builder and parser
 - Document template options for supported project layouts
+
+## [2026-10-14]
+### Changed
+- Add project documentation template and license
