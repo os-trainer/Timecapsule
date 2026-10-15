@@ -14741,3 +14741,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2026-10-15]
 ### Changed
 - Initialize workspace configuration files
+- Document distribution patterns and statistical behavior
