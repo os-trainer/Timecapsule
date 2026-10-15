@@ -14737,3 +14737,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2026-10-14]
 ### Changed
 - Add project documentation template and license
+
+## [2026-10-15]
+### Changed
+- Initialize workspace configuration files
