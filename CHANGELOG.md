@@ -14742,3 +14742,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Initialize workspace configuration files
 - Document distribution patterns and statistical behavior
+- Adjust prettier configuration for consistent indentation
