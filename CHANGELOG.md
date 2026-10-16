@@ -14747,3 +14747,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2026-10-16]
 ### Changed
 - Initialize project repository structure
+- Add usage notes for multi-year historical generation
