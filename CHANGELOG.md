@@ -14750,3 +14750,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add usage notes for multi-year historical generation
 - Implement customizable output formatting options
 - Add npm script for running unit test suite
+
+## [2026-10-17]
+### Changed
+- Configure basic script commands in manifest
