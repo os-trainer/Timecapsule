@@ -14760,3 +14760,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document date format requirements and accepted tokens
 - Add structured logging helper with log levels
 - Configure automated dependency review settings
+
+## [2026-10-19]
+### Changed
+- Establish initial source exports and entry point
