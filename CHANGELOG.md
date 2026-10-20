@@ -14769,3 +14769,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Create initial source directory and placeholder modules
 - Update development dependencies for test framework
+- Implement rate limiting throttle for helper actions
