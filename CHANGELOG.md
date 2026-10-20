@@ -14768,3 +14768,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2026-10-20]
 ### Changed
 - Create initial source directory and placeholder modules
+- Update development dependencies for test framework
