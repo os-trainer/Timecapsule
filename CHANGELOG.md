@@ -14780,3 +14780,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure version control ignore rules
 - Add custom error classes for domain-specific failures
 - Implement flexible filter predicate builder
+
+## [2026-10-23]
+### Changed
+- Add base package descriptor with metadata
