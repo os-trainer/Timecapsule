@@ -14789,3 +14789,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2026-10-24]
 ### Changed
 - Initialize standard project layout and files
+- Add safe string truncation helper
