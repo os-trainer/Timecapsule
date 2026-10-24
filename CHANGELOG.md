@@ -14785,3 +14785,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Add base package descriptor with metadata
 - Add elapsed execution time measurement helper
+
+## [2026-10-24]
+### Changed
+- Initialize standard project layout and files
