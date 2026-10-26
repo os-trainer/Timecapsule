@@ -14795,3 +14795,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Configure local development workflow scripts
 - Document test execution commands and coverage reports
+- Add array sorting and filtering helper functions
