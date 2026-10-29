@@ -14802,3 +14802,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Initialize project repository structure
 - Implement query filter helpers for collection items
+- Document logging levels and diagnostic flags
