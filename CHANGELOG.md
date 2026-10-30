@@ -14804,3 +14804,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement query filter helpers for collection items
 - Document logging levels and diagnostic flags
 - Implement summary statistics calculation helper
+
+## [2026-10-30]
+### Changed
+- Add basic application bootstrap logic
