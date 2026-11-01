@@ -14817,3 +14817,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add URL query string builder and parser
 - Set up base development environment and tooling
 - Adjust linting and formatting configuration rules
+- Add colorized terminal output formatter
