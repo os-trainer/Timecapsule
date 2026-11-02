@@ -14818,3 +14818,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Set up base development environment and tooling
 - Adjust linting and formatting configuration rules
 - Add colorized terminal output formatter
+
+## [2026-11-02]
+### Changed
+- Create directory structure for utility modules
