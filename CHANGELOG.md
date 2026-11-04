@@ -14828,3 +14828,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add default logging and diagnostic placeholders
 - Configure distribution bundle output settings
 - Implement safe JSON parsing with fallback values
+- Document test execution commands and coverage reports
