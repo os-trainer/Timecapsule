@@ -14826,3 +14826,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2026-11-04]
 ### Changed
 - Add default logging and diagnostic placeholders
+- Configure distribution bundle output settings
