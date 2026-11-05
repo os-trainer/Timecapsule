@@ -14834,3 +14834,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Configure code formatting rules and baseline
 - Add input validation for user-supplied options
+- Implement customizable output formatting options
