@@ -14829,3 +14829,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure distribution bundle output settings
 - Implement safe JSON parsing with fallback values
 - Document test execution commands and coverage reports
+
+## [2026-11-05]
+### Changed
+- Configure code formatting rules and baseline
