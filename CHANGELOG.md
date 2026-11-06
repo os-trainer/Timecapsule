@@ -14839,3 +14839,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2026-11-06]
 ### Changed
 - Configure initial build and runtime settings
+- Add detailed architecture overview and component diagram
