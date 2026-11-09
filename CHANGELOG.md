@@ -14850,3 +14850,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add basic application bootstrap logic
 - Document environment variable configuration overrides
 - Configure initial runtime environment defaults
+- Tune lint-staged configuration for staged files
