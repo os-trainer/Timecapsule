@@ -14851,3 +14851,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Document environment variable configuration overrides
 - Configure initial runtime environment defaults
 - Tune lint-staged configuration for staged files
+
+## [2026-11-10]
+### Changed
+- Create initial configuration defaults
