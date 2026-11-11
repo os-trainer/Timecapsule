@@ -14862,3 +14862,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Initialize workspace configuration files
 - Add schema validation for configuration objects
 - Update npm packaging whitelist in files array
+- Add examples of integrating tool into automated scripts
