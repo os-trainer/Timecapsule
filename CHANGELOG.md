@@ -14867,3 +14867,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Initialize repository readme and overview notes
 - Document test execution commands and coverage reports
 - Implement safe JSON parsing with fallback values
+
+## [2026-11-12]
+### Changed
+- Set up command-line entry point script
