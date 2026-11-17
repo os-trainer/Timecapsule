@@ -14883,3 +14883,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configure version control ignore rules
 - Add colorized terminal output formatter
 - Document configuration options and default parameters
+
+## [2026-11-17]
+### Changed
+- Initialize standard project layout and files
