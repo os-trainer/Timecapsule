@@ -14890,3 +14890,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Clarify installation instructions and system prerequisites
 - Implement dry-run execution preview mode
 - Create foundation modules for core processing
+- Verify proper error types are thrown on invalid arguments
