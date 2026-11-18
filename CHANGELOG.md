@@ -14896,3 +14896,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Establish initial source exports and entry point
 - Add code comments explaining complex date mathematics
+- Implement batch processing utility for array inputs
