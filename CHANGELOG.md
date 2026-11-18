@@ -14891,3 +14891,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement dry-run execution preview mode
 - Create foundation modules for core processing
 - Verify proper error types are thrown on invalid arguments
+
+## [2026-11-18]
+### Changed
+- Establish initial source exports and entry point
