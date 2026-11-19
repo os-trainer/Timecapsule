@@ -14898,3 +14898,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add code comments explaining complex date mathematics
 - Implement batch processing utility for array inputs
 - Configure local development workflow scripts
+
+## [2026-11-19]
+### Changed
+- Establish baseline directory hierarchy and exports
