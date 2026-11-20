@@ -14908,3 +14908,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2026-11-20]
 ### Changed
 - Add base package descriptor with metadata
+- Update repository keywords and discovery tags
