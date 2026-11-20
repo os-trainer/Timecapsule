@@ -14904,3 +14904,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Establish baseline directory hierarchy and exports
 - Add configuration for source map generation
 - Add validation rules for date range boundaries
+
+## [2026-11-20]
+### Changed
+- Add base package descriptor with metadata
